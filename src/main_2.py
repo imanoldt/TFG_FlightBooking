@@ -17,7 +17,7 @@ if __name__ == '__main__':
     #duration_a
     #price_a
     #url ="https://www.kayak.es/flights/"+origen+"-"+dest+"/2024-03-27?sort=bestflight_a"
-    url = "https://www.kayak.es/flights/BOG-BIO/2024-03-27?sort=bestflight_a"
+    url = "https://www.kayak.es/flights/WAW-LAX/2024-03-27?sort=bestflight_a"
     driver.get(url)
     randomTime(3,5)
 
@@ -52,8 +52,70 @@ if __name__ == '__main__':
 
     for e in elementos:
         #e.find_element(By.CSS_SELECTOR, 'div > div.nrc6-wrapper > div > div.nrc6-content-section > div.nrc6-main > div > ol > li > div > div > div.VY2U > div.vmXl.vmXl-mod-variant-large > span:nth-child(1)')
-        print(e.text)
-        print("-------------------")
+        #print(e.text)
+        print("---------EMPIEZA AQUI BUSQUEDA----------")
+
+        flight_info = e.text.split('\n')
+        if len(flight_info) == 14:
+            departure_time = flight_info[0]
+            next_day = flight_info[1]
+            stops = flight_info[-9]
+            stop_airports = flight_info[-8].split(', ')
+            duration = flight_info[-7]
+            airlines = flight_info[-6]
+            price = flight_info[-3]
+            print("---------14----------")
+            print(f"Departure Time: {departure_time} {next_day}")
+            print(f"Departure Airport: BOG")  # Origen puede ser fijo como BOG si no cambia
+            print(f"Arrival Airport: {flight_info[-10]}")
+            print(f"Stops: {stops}")
+            print(f"Stop Airports: {', '.join(stop_airports)}")
+            print(f"Duration: {duration}")
+            print(f"Airlines: {airlines}")
+            print(f"Price: {price}")
+            print("-------------------")
+        elif len(flight_info) == 13:
+            print("--------13-----------")
+            departure_time = flight_info[0]
+            departure_airport = flight_info[1]
+            stops = flight_info[-9]
+            stop_airports = flight_info[-8].split(', ')
+            duration = flight_info[-7]
+            airlines = flight_info[-6]
+            price = flight_info[-3]
+
+            print(f"Departure Time: {departure_time}")
+            print(f"Departure Airport: BOG")  # Origen puede ser fijo como BOG si no cambia
+            print(f"Arrival Airport: {flight_info[-10]}")
+            print(f"Stops: {stops}")
+            print(f"Stop Airports: {', '.join(stop_airports)}")
+            print(f"Duration: {duration}")
+            print(f"Airlines: {airlines}")
+            print(f"Price: {price}")
+            print("-------------------")
+        elif len(flight_info) == 12:
+            print("--------12-----------")
+            departure_time = flight_info[0]
+            departure_airport = flight_info[1]
+            stop_airports = flight_info[-8].split(', ')
+            duration = flight_info[-7]
+            airlines = flight_info[-6]
+            price = flight_info[-3]
+
+            print(f"Departure Time: {departure_time}")
+            print(f"Departure Airport: BOG")  # Origen puede ser fijo como BOG si no cambia
+            print(f"Arrival Airport: {flight_info[-9]}")
+            print(f"Stop Airports: {', '.join(stop_airports)}")
+            print(f"Duration: {duration}")
+            print(f"Airlines: {airlines}")
+            print(f"Price: {price}")
+            print("-------------------")
+
+
+        else:
+            print("_____________DATOS CON FALLOS______________")
+            print(e.text)
+            print("______________")
 
         # flight_info = e.text.split('\n')
         # departure_time = flight_info[0]
