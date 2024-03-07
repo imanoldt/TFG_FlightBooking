@@ -20,10 +20,8 @@ if __name__ == '__main__':
     # duration_a
     # price_a
     # url ="https://www.kayak.es/flights/"+origen+"-"+dest+"/2024-03-27?sort=bestflight_a"
-    url = "https://www.kayak.es/flights/BIO-MAD/2024-03-09?sort=bestflight_a"
+    url = "https://www.kayak.es/flights/BIO-SVQ/2024-03-20?sort=bestflight_a"
     flight_date = url.split("/")[-1].split("?")[0]  # Obtener la fecha del vuelo desde la URL
-
-    print(flight_date)
     driver.get(url)
     randomTime(3, 5)
 
@@ -71,8 +69,8 @@ if __name__ == '__main__':
                 duration = flight_info[-7]
                 airlines = flight_info[-6]
                 price = flight_info[-3]
-                info_date_save = fecha_actual.strftime("%Y-%m-%d")
-                guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save)
+                info_date_save = fecha_actual.strftime("%Y-%m-%d %H:%M:%S")
+                guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save, flight_date)
 
                 print("---------14----------")
                 print(f"Departure Time: {departure_time} {next_day}")
@@ -105,8 +103,8 @@ if __name__ == '__main__':
                 duration = flight_info[-7]
                 airlines = flight_info[-6]
                 price = flight_info[-3]
-                info_date_save = fecha_actual.strftime("%Y-%m-%d")
-                guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save)
+                info_date_save = fecha_actual.strftime("%Y-%m-%d %H:%M:%S")
+                guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save, flight_date)
 
                 print(f"Departure Time: {departure_time}")
                 print(f"Departure Airport: {departure_airport}")  # Origen puede ser fijo como BOG si no cambia
@@ -137,8 +135,8 @@ if __name__ == '__main__':
                 duration = flight_info[-7]
                 airlines = flight_info[-6]
                 price = flight_info[-3]
-                info_date_save = fecha_actual.strftime("%Y-%m-%d")
-                guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save)
+                info_date_save = fecha_actual.strftime("%Y-%m-%d %H:%M:%S")
+                guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save, flight_date)
 
                 print(f"Departure Time: {departure_time}")
                 print(f"Departure Airport: {departure_airport}")  # Origen puede ser fijo como BOG si no cambia

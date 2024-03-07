@@ -1,7 +1,7 @@
 import csv
-from datetime import datetime, timedelta
+from datetime import datetime
 
-def guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save):
+def guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save, flight_date):
     # Obtener los códigos de aeropuertos de los primeros tres caracteres de departure_airport y arrival_airport
     departure_cod = departure_airport[:3]
     arrival_cod = arrival_airport[:3]
@@ -19,21 +19,15 @@ def guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airp
     # Obtener la fecha y hora actual
     fecha_actual = datetime.now()
 
-    # Formatear la fecha y hora como "YYYY-MM-DD HH:mm:ss"
-    fecha_hora_formateada = fecha_actual.strftime("%Y-%m-%d %H:%M:%S")
-
     # Crear una lista con los datos a guardar
     data = [
         ["Departure Time", "Arrival Time", "Departure Airport", "Departure_Cod", "Arrival Airport", "Arrival_Cod",
-         "Stop Airports", "Duration", "Airlines", "Price", "Info Date Save"],
+         "Stop Airports", "Duration", "Airlines", "Price", "Info Date Save", "Flight Date"],
         [departure_time, arrival_time, departure_airport, departure_cod, arrival_airport, arrival_cod,
-         ', '.join(stop_airports), duration, airlines, price, fecha_hora_formateada]
+         ', '.join(stop_airports), duration, airlines, price, info_date_save, flight_date]
     ]
 
     # Obtener la fecha actual
-    fecha_actual = datetime.now()
-
-    # Formatear la fecha como "YYYY-MM-DD"
     fecha_formateada = fecha_actual.strftime("%Y-%m-%d")
 
     # Nombre del archivo CSV (puedes ajustar según tus necesidades)
@@ -57,6 +51,4 @@ def guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airp
             csv_writer.writerows(data)
         else:
             # Escribir una nueva fila con los datos
-            csv_writer.writerow(
-                [departure_time, arrival_time, departure_airport, departure_cod, arrival_airport, arrival_cod,
-                 ', '.join(stop_airports), duration, airlines, price, fecha_hora_formateada])
+            csv_writer.writerow(data[1])
