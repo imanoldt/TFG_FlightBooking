@@ -20,7 +20,10 @@ if __name__ == '__main__':
     # duration_a
     # price_a
     # url ="https://www.kayak.es/flights/"+origen+"-"+dest+"/2024-03-27?sort=bestflight_a"
-    url = "https://www.kayak.es/flights/BIO-LAX/2024-03-27?sort=bestflight_a"
+    url = "https://www.kayak.es/flights/BIO-MAD/2024-03-09?sort=bestflight_a"
+    flight_date = url.split("/")[-1].split("?")[0]  # Obtener la fecha del vuelo desde la URL
+
+    print(flight_date)
     driver.get(url)
     randomTime(3, 5)
 
@@ -58,71 +61,99 @@ if __name__ == '__main__':
 
         flight_info = e.text.split('\n')
         if len(flight_info) == 14:
-            departure_time = flight_info[0]
-            arrival_airport = flight_info[-10]
-            next_day = flight_info[1]
-            stops = flight_info[-9]
-            stop_airports = flight_info[-8].split(', ')
-            duration = flight_info[-7]
-            airlines = flight_info[-6]
-            price = flight_info[-3]
-            info_date_save = fecha_actual.strftime("%Y-%m-%d")
+            try:
+                departure_time = flight_info[0]
+                arrival_airport = flight_info[-10]
+                next_day = flight_info[1]
+                stops = flight_info[-9]
+                stop_airports = flight_info[-8].split(', ')
+                duration = flight_info[-7]
+                airlines = flight_info[-6]
+                price = flight_info[-3]
+                info_date_save = fecha_actual.strftime("%Y-%m-%d")
+                guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save)
 
-            print("---------14----------")
-            print(f"Departure Time: {departure_time} {next_day}")
-            print(f"Departure Airport: {flight_info[-12]}")  # Origen puede ser fijo como BOG si no cambia
-            print(f"Arrival Airport: {arrival_airport}")
-            print(f"Stops: {stops}")
-            print(f"Stop Airports: {', '.join(stop_airports)}")
-            print(f"Duration: {duration}")
-            print(f"Airlines: {airlines}")
-            print(f"Price: {price}")
-            print(f"Dia Guardado: {info_date_save}")
-            print("-------------------")
+                print("---------14----------")
+                print(f"Departure Time: {departure_time} {next_day}")
+                print(f"Departure Airport: {flight_info[-12]}")  # Origen puede ser fijo como BOG si no cambia
+                print(f"Arrival Airport: {arrival_airport}")
+                print(f"Stops: {stops}")
+                print(f"Stop Airports: {', '.join(stop_airports)}")
+                print(f"Duration: {duration}")
+                print(f"Airlines: {airlines}")
+                print(f"Price: {price}")
+                print(f"Dia Guardado: {info_date_save}")
+                print("-------------------")
+            except IndexError as i:
+                print("---------------INDEX ERROR----------")
+                print(f"Error al acceder a la lista: {i}")
+                print(e.text)
+                print("----------------------------------------------")
+
         elif len(flight_info) == 13:
-            print("--------13-----------")
-            departure_time = flight_info[0]
-            departure_airport = flight_info[1]
-            arrival_airport = flight_info[-10]
-            stops = flight_info[-9]
-            stop_airports = flight_info[-8].split(', ')
-            duration = flight_info[-7]
-            airlines = flight_info[-6]
-            price = flight_info[-3]
-            info_date_save = fecha_actual.strftime("%Y-%m-%d")
+            try:
+                print("--------13-----------")
+                #departure_time = flight_info[0]
+                departure_time = flight_info[-13]
+                #departure_airport = flight_info[1]
+                departure_airport = flight_info[-12]
+                
+                arrival_airport = flight_info[-10]
+                stops = flight_info[-9]
+                stop_airports = flight_info[-8].split(', ')
+                duration = flight_info[-7]
+                airlines = flight_info[-6]
+                price = flight_info[-3]
+                info_date_save = fecha_actual.strftime("%Y-%m-%d")
+                guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save)
 
-            print(f"Departure Time: {departure_time}")
-            print(f"Departure Airport: {departure_airport}")  # Origen puede ser fijo como BOG si no cambia
-            print(f"Arrival Airport: {arrival_airport}")
-            print(f"Stops: {stops}")
-            print(f"Stop Airports: {', '.join(stop_airports)}")
-            print(f"Duration: {duration}")
-            print(f"Airlines: {airlines}")
-            print(f"Price: {price}")
-            print(f"Dia Guardado: {info_date_save}")
-            print("-------------------")
-            guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price,
-                           info_date_save)
+                print(f"Departure Time: {departure_time}")
+                print(f"Departure Airport: {departure_airport}")  # Origen puede ser fijo como BOG si no cambia
+                print(f"Arrival Airport: {arrival_airport}")
+                print(f"Stops: {stops}")
+                print(f"Stop Airports: {', '.join(stop_airports)}")
+                print(f"Duration: {duration}")
+                print(f"Airlines: {airlines}")
+                print(f"Price: {price}")
+                print(f"Dia Guardado: {info_date_save}")
+                print("-------------------")
+                
+            except IndexError as i:
+                print("---------------INDEX ERROR----------")
+                print(f"Error al acceder a la lista: {i}")
+                print(e.text)
+                print("----------------------------------------------")
+
         elif len(flight_info) == 12:
-            print("--------12-----------")
-            departure_time = flight_info[0]
-            departure_airport = flight_info[1]
-            arrival_airport = flight_info[-9]
-            stop_airports = flight_info[-8].split(', ')
-            duration = flight_info[-7]
-            airlines = flight_info[-6]
-            price = flight_info[-3]
-            info_date_save = fecha_actual.strftime("%Y-%m-%d")
+            try:
+                print("--------12-----------")
+                #departure_time = flight_info[0]
+                departure_time = flight_info[-12]
+                #departure_airport = flight_info[1]
+                departure_airport = flight_info[-11]
+                arrival_airport = flight_info[-9]
+                stop_airports = flight_info[-8].split(', ')
+                duration = flight_info[-7]
+                airlines = flight_info[-6]
+                price = flight_info[-3]
+                info_date_save = fecha_actual.strftime("%Y-%m-%d")
+                guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save)
 
-            print(f"Departure Time: {departure_time}")
-            print(f"Departure Airport: {departure_airport}")  # Origen puede ser fijo como BOG si no cambia
-            print(f"Arrival Airport: {arrival_airport}")
-            print(f"Stop Airports: {', '.join(stop_airports)}")
-            print(f"Duration: {duration}")
-            print(f"Airlines: {airlines}")
-            print(f"Price: {price}")
-            print(f"Dia Guardado: {info_date_save}")
-            print("-------------------")
+                print(f"Departure Time: {departure_time}")
+                print(f"Departure Airport: {departure_airport}")  # Origen puede ser fijo como BOG si no cambia
+                print(f"Arrival Airport: {arrival_airport}")
+                print(f"Stop Airports: {', '.join(stop_airports)}")
+                print(f"Duration: {duration}")
+                print(f"Airlines: {airlines}")
+                print(f"Price: {price}")
+                print(f"Dia Guardado: {info_date_save}")
+                print("-------------------")
+
+            except IndexError as i:
+                print("---------------INDEX ERROR----------")
+                print(f"Error al acceder a la lista: {i}")
+                print(e.text)
+                print("----------------------------------------------")
 
         else:
             print("_____________DATOS CON FALLOS______________")
@@ -131,5 +162,5 @@ if __name__ == '__main__':
 
     print(f"He encontrado: {len(elementos)} resultados")
 
-print("TERMINADOOOOOOOOO______--------")
-input()
+print("-------TERMINADO--------")
+
