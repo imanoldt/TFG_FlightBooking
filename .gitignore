@@ -399,4 +399,5 @@ FodyWeavers.xsd
 
 
 #MAC_OS files
-.DS_Store
+*.DS_Store
+*.idea

@@ -1,0 +1,22 @@
+[
+  {
+    "departure_cod": "BIO",
+    "arrival_cod": "MAD",
+    "flight_date": "2024-03-31"
+  },
+  {
+    "departure_cod": "BIO",
+    "arrival_cod": "BCN",
+    "flight_date": "2024-03-31"
+  },
+  {
+    "departure_cod": "BIO",
+    "arrival_cod": "AMS",
+    "flight_date": "2024-03-31"
+  },
+  {
+    "departure_cod": "BIO",
+    "arrival_cod": "LAX",
+    "flight_date": "2024-04-30"
+  }
+]
