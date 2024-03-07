@@ -63,6 +63,7 @@ if __name__ == '__main__':
         if len(flight_info) == 14:
             try:
                 departure_time = flight_info[0]
+                departure_airport = flight_info[-12]
                 arrival_airport = flight_info[-10]
                 next_day = flight_info[1]
                 stops = flight_info[-9]
@@ -154,7 +155,6 @@ if __name__ == '__main__':
                 print(f"Error al acceder a la lista: {i}")
                 print(e.text)
                 print("----------------------------------------------")
-
         else:
             print("_____________DATOS CON FALLOS______________")
             print(e.text)
