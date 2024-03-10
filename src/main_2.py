@@ -189,7 +189,7 @@ with open('rutas.json', 'r') as file:
 
 # Programar la ejecución de la función para cada ruta en el JSON
 for ruta in rutas:
-    schedule.every().day.at("00:00").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['flight_date'])
+    schedule.every().day.at("01:30").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['flight_date'])
     schedule.every().day.at("09:00").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['flight_date'])
     schedule.every().day.at("23:00").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['flight_date'])
 
