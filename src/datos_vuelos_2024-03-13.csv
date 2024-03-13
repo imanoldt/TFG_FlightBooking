@@ -1,0 +1,1314 @@
+Departure Time,Arrival Time,Departure Airport,Departure_Cod,Arrival Airport,Arrival_Cod,Stop Airports,Duration,Airlines,Price,Info Date Save,Flight Date
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,104 €,2024-03-13 01:30:00,2024-03-31
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,141 €,2024-03-13 01:30:00,2024-03-31
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 01:30:00,2024-03-31
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,138 €,2024-03-13 01:30:00,2024-03-31
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,144 €,2024-03-13 01:30:00,2024-03-31
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,165 €,2024-03-13 01:30:00,2024-03-31
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,192 €,2024-03-13 01:30:00,2024-03-31
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,229 €,2024-03-13 01:30:00,2024-03-31
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,303 €,2024-03-13 01:30:00,2024-03-31
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,193 €,2024-03-13 01:30:00,2024-03-31
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",261 €,2024-03-13 01:30:00,2024-03-31
+15:15,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Vueling,299 €,2024-03-13 01:30:00,2024-03-31
+15:15,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",281 €,2024-03-13 01:30:00,2024-03-31
+10:55,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",288 €,2024-03-13 01:30:00,2024-03-31
+16:45,21:40,Bilbao,BIO,Madrid-Barajas,MAD,"PMI, VLC",4h 55m,Air Europa,418 €,2024-03-13 01:30:00,2024-03-31
+16:45,20:20,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 35m,Air Europa,522 €,2024-03-13 01:30:00,2024-03-31
+20:30,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,3h 50m,TAP AIR PORTUGAL,514 €,2024-03-13 01:30:00,2024-03-31
+16:45,20:40,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 55m,Air Europa,522 €,2024-03-13 01:30:00,2024-03-31
+20:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 50m,Iberia,594 €,2024-03-13 01:30:00,2024-03-31
+11:30,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,3h 05m,Iberia,608 €,2024-03-13 01:30:00,2024-03-31
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,550 €,2024-03-13 01:30:00,2024-03-31
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,584 €,2024-03-13 01:30:00,2024-03-31
+23:00,0:10,,+1,,-,directo,1h 10m,Vueling,90 €,2024-03-13 01:30:44,2024-03-31
+10:55,12:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,90 €,2024-03-13 01:30:44,2024-03-31
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,106 €,2024-03-13 01:30:44,2024-03-31
+19:50,21:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,116 €,2024-03-13 01:30:44,2024-03-31
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,174 €,2024-03-13 01:30:44,2024-03-31
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,213 €,2024-03-13 01:30:44,2024-03-31
+10:55,12:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,213 €,2024-03-13 01:30:44,2024-03-31
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,213 €,2024-03-13 01:30:44,2024-03-31
+19:50,21:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,240 €,2024-03-13 01:30:44,2024-03-31
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,191 €,2024-03-13 01:30:44,2024-03-31
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,248 €,2024-03-13 01:30:44,2024-03-31
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,323 €,2024-03-13 01:30:44,2024-03-31
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,332 €,2024-03-13 01:30:44,2024-03-31
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,261 €,2024-03-13 01:30:44,2024-03-31
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,346 €,2024-03-13 01:30:44,2024-03-31
+12:45,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 35m,"Air Europa, Iberia",322 €,2024-03-13 01:30:44,2024-03-31
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Vueling,332 €,2024-03-13 01:30:44,2024-03-31
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,"Iberia, Vueling",315 €,2024-03-13 01:30:44,2024-03-31
+13:40,18:55,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 15m,"Iberia, Vueling",311 €,2024-03-13 01:30:44,2024-03-31
+8:30,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 15m,"Air Europa, Iberia",325 €,2024-03-13 01:30:44,2024-03-31
+20:30,1:30,Bilbao,BIO,Barcelona-El Prat,BCN,LIS,5h 00m,TAP AIR PORTUGAL,515 €,2024-03-13 01:30:44,2024-03-31
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,492 €,2024-03-13 01:30:44,2024-03-31
+6:45,11:55,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 10m,Lufthansa,532 €,2024-03-13 01:30:44,2024-03-31
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,763 €,2024-03-13 01:30:44,2024-03-31
+6:50,9:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 10m,KLM,138 €,2024-03-13 01:31:18,2024-03-31
+12:00,14:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,159 €,2024-03-13 01:31:18,2024-03-31
+17:15,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,202 €,2024-03-13 01:31:18,2024-03-31
+7:40,9:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 15m,Iberia,209 €,2024-03-13 01:31:18,2024-03-31
+10:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 40m,Vueling,184 €,2024-03-13 01:31:18,2024-03-31
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,162 €,2024-03-13 01:31:18,2024-03-31
+9:30,15:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BRS,5h 40m,easyJet,162 €,2024-03-13 01:31:18,2024-03-31
+9:30,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BRS,8h 45m,easyJet,141 €,2024-03-13 01:31:18,2024-03-31
+12:15,18:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MXP,5h 45m,"Vueling, easyJet",170 €,2024-03-13 01:31:18,2024-03-31
+15:15,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Vueling,201 €,2024-03-13 01:31:18,2024-03-31
+15:15,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,194 €,2024-03-13 01:31:18,2024-03-31
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Iberia,261 €,2024-03-13 01:31:18,2024-03-31
+10:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 45m,Vueling,204 €,2024-03-13 01:31:18,2024-03-31
+10:55,17:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 10m,"Vueling, Transavia",194 €,2024-03-13 01:31:18,2024-03-31
+17:30,21:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAN,4h 20m,"easyJet, KLM",246 €,2024-03-13 01:31:18,2024-03-31
+7:00,13:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,6h 15m,Vueling,203 €,2024-03-13 01:31:18,2024-03-31
+7:00,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,7h 05m,"Vueling, easyJet",186 €,2024-03-13 01:31:18,2024-03-31
+7:00,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,7h 05m,"Vueling, easyJet Europe",186 €,2024-03-13 01:31:18,2024-03-31
+7:00,12:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,5h 20m,"Vueling, Transavia",231 €,2024-03-13 01:31:18,2024-03-31
+8:55,17:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 10m,"Vueling, Transavia",179 €,2024-03-13 01:31:18,2024-03-31
+12:45,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 45m,"Air Europa, Iberia Express",225 €,2024-03-13 01:31:18,2024-03-31
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,325 €,2024-03-13 01:31:18,2024-03-31
+9:45,16:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VIE,6h 30m,"Wizz Air Malta, KLM",215 €,2024-03-13 01:31:18,2024-03-31
+10:05,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 30m,easyJet,193 €,2024-03-13 01:31:18,2024-03-31
+12:45,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Air Europa,275 €,2024-03-13 01:31:18,2024-03-31
+7:00,14:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 20m,"Vueling, easyJet",203 €,2024-03-13 01:31:18,2024-03-31
+11:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,4h 50m,Lufthansa,322 €,2024-03-13 01:31:18,2024-03-31
+10:05,16:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 15m,easyJet,225 €,2024-03-13 01:31:18,2024-03-31
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,Air France,291 €,2024-03-13 01:31:18,2024-03-31
+10:05,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 30m,"easyJet, easyJet Europe",202 €,2024-03-13 01:31:18,2024-03-31
+10:05,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 30m,"easyJet Europe, easyJet",202 €,2024-03-13 01:31:18,2024-03-31
+10:05,16:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 15m,"easyJet, easyJet Europe",230 €,2024-03-13 01:31:18,2024-03-31
+10:05,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 30m,easyJet Europe,205 €,2024-03-13 01:31:18,2024-03-31
+7:00,14:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 20m,"Vueling, easyJet Europe",207 €,2024-03-13 01:31:18,2024-03-31
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,Air France,253 €,2024-03-13 01:31:18,2024-03-31
+14:05,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 25m,Lufthansa,358 €,2024-03-13 01:31:18,2024-03-31
+10:05,16:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 15m,easyJet Europe,233 €,2024-03-13 01:31:18,2024-03-31
+10:05,16:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 15m,"easyJet Europe, easyJet",233 €,2024-03-13 01:31:18,2024-03-31
+19:10,0:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,OPO,4h 55m,"Vueling, Transavia",296 €,2024-03-13 01:31:18,2024-03-31
+19:10,0:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,5h 30m,"Volotea, Transavia",274 €,2024-03-13 01:31:18,2024-03-31
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Vueling,387 €,2024-03-13 01:31:18,2024-03-31
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,Air France,328 €,2024-03-13 01:31:18,2024-03-31
+13:55,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,5h 50m,"Vueling, easyJet",295 €,2024-03-13 01:31:18,2024-03-31
+17:40,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 20m,"Iberia, KLM",360 €,2024-03-13 01:31:18,2024-03-31
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,Air France,238 €,2024-03-13 01:31:18,2024-03-31
+10:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 40m,easyJet,225 €,2024-03-13 01:31:18,2024-03-31
+9:30,16:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BRS,6h 35m,"easyJet, KLM",269 €,2024-03-13 01:31:18,2024-03-31
+8:30,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 05m,Air Europa,181 €,2024-03-13 01:31:18,2024-03-31
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Vueling,192 €,2024-03-13 01:31:18,2024-03-31
+10:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 40m,Iberia,449 €,2024-03-13 01:31:18,2024-03-31
+10:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 40m,"easyJet Europe, easyJet",233 €,2024-03-13 01:31:18,2024-03-31
+10:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 40m,"easyJet, easyJet Europe",234 €,2024-03-13 01:31:18,2024-03-31
+12:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 40m,"Vueling, KLM",341 €,2024-03-13 01:31:18,2024-03-31
+10:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 40m,easyJet Europe,237 €,2024-03-13 01:31:18,2024-03-31
+10:05,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,8h 10m,easyJet,217 €,2024-03-13 01:31:18,2024-03-31
+10:05,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,8h 10m,"easyJet, easyJet Europe",219 €,2024-03-13 01:31:18,2024-03-31
+10:05,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,8h 10m,easyJet Europe,222 €,2024-03-13 01:31:18,2024-03-31
+10:05,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,8h 10m,"easyJet Europe, easyJet",222 €,2024-03-13 01:31:18,2024-03-31
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,211 €,2024-03-13 01:31:18,2024-03-31
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,KLM,325 €,2024-03-13 01:31:18,2024-03-31
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,Air France,328 €,2024-03-13 01:31:18,2024-03-31
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,"Air Europa, KLM",348 €,2024-03-13 01:31:18,2024-03-31
+7:35,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 25m,Lufthansa,322 €,2024-03-13 01:31:18,2024-03-31
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, KLM",348 €,2024-03-13 01:31:18,2024-03-31
+9:45,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VIE,7h 05m,"Wizz Air Malta, Austrian Airlines",306 €,2024-03-13 01:31:18,2024-03-31
+15:15,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Iberia,466 €,2024-03-13 01:31:18,2024-03-31
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,KLM,371 €,2024-03-13 01:31:18,2024-03-31
+11:35,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, FRA",6h 55m,Lufthansa,374 €,2024-03-13 01:31:18,2024-03-31
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,407 €,2024-03-13 01:31:18,2024-03-31
+8:55,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BCN, PMI",8h 50m,"Vueling, easyJet",247 €,2024-03-13 01:31:18,2024-03-31
+9:45,17:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"VIE, SPU",8h 10m,Varias aerolíneas,265 €,2024-03-13 01:31:18,2024-03-31
+8:55,18:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BCN, PMI",9h 05m,Vueling,266 €,2024-03-13 01:31:18,2024-03-31
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,"Air France, KLM",470 €,2024-03-13 01:31:18,2024-03-31
+8:55,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BCN, PMI",8h 50m,Varias aerolíneas,255 €,2024-03-13 01:31:18,2024-03-31
+15:15,0:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 55m,"Vueling, Transavia",276 €,2024-03-13 01:31:18,2024-03-31
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,Air Europa,443 €,2024-03-13 01:31:18,2024-03-31
+10:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 45m,Iberia,439 €,2024-03-13 01:31:18,2024-03-31
+15:15,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,449 €,2024-03-13 01:31:18,2024-03-31
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"CDG, LYS",6h 30m,"Air France, KLM",417 €,2024-03-13 01:31:18,2024-03-31
+7:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,322 €,2024-03-13 01:31:18,2024-03-31
+8:55,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,8h 50m,"Vueling, easyJet",311 €,2024-03-13 01:31:18,2024-03-31
+14:05,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 35m,Lufthansa,414 €,2024-03-13 01:31:18,2024-03-31
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,347 €,2024-03-13 01:31:18,2024-03-31
+12:20,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,SCQ,8h 05m,Vueling,377 €,2024-03-13 01:31:18,2024-03-31
+6:45,13:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,7h 05m,Lufthansa,470 €,2024-03-13 01:31:18,2024-03-31
+8:55,18:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,9h 05m,Vueling,331 €,2024-03-13 01:31:18,2024-03-31
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,"Air France, KLM",526 €,2024-03-13 01:31:18,2024-03-31
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Iberia,397 €,2024-03-13 01:31:18,2024-03-31
+6:45,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",8h 15m,Lufthansa,447 €,2024-03-13 01:31:18,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,British Airways,445 €,2024-03-13 01:31:18,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,British Airways,445 €,2024-03-13 01:31:18,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,British Airways,445 €,2024-03-13 01:31:18,2024-03-31
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 15m,Iberia,431 €,2024-03-13 01:31:18,2024-03-31
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, VIE",8h 25m,"Brussels Airlines, Austrian Airlines",483 €,2024-03-13 01:31:18,2024-03-31
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, VIE",8h 25m,"Brussels Airlines, Austrian Airlines",487 €,2024-03-13 01:31:18,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",495 €,2024-03-13 01:31:18,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",495 €,2024-03-13 01:31:18,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",495 €,2024-03-13 01:31:18,2024-03-31
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 10m,Lufthansa,562 €,2024-03-13 01:31:18,2024-03-31
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,"Lufthansa, SWISS",572 €,2024-03-13 01:31:18,2024-03-31
+13:50,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, MUC",7h 50m,"Brussels Airlines, Lufthansa",606 €,2024-03-13 01:31:18,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",623 €,2024-03-13 01:31:18,2024-03-31
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,"Lufthansa, Austrian Airlines",624 €,2024-03-13 01:31:18,2024-03-31
+7:35,13:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,5h 50m,"Lufthansa, KLM",796 €,2024-03-13 01:31:18,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",623 €,2024-03-13 01:31:18,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",623 €,2024-03-13 01:31:18,2024-03-31
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, FRA",8h 25m,"Brussels Airlines, Lufthansa",776 €,2024-03-13 01:31:18,2024-03-31
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1120 €,2024-03-13 01:31:18,2024-03-31
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,1145 €,2024-03-13 01:31:18,2024-03-31
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,KLM,1120 €,2024-03-13 01:31:18,2024-03-31
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,KLM,1120 €,2024-03-13 01:31:18,2024-03-31
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,KLM,1120 €,2024-03-13 01:31:18,2024-03-31
+13:55,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 30m,"Vueling, easyJet",289 €,2024-03-13 01:31:18,2024-03-31
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,KLM,1120 €,2024-03-13 01:31:18,2024-03-31
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,KLM,1120 €,2024-03-13 01:31:18,2024-03-31
+16:10,23:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUB,7h 15m,"Aer Lingus, KLM",1165 €,2024-03-13 01:31:18,2024-03-31
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1120 €,2024-03-13 01:31:18,2024-03-31
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1120 €,2024-03-13 01:31:18,2024-03-31
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1531 €,2024-03-13 01:31:18,2024-03-31
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1593 €,2024-03-13 01:31:18,2024-03-31
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,"Air France, KLM",1531 €,2024-03-13 01:31:18,2024-03-31
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, FRA",8h 25m,"Brussels Airlines, Lufthansa",1427 €,2024-03-13 01:31:18,2024-03-31
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, FRA",8h 25m,"Brussels Airlines, Lufthansa",1427 €,2024-03-13 01:31:18,2024-03-31
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,"Air France, KLM",1562 €,2024-03-13 01:31:18,2024-03-31
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,"Air France, KLM",1563 €,2024-03-13 01:31:18,2024-03-31
+11:35,19:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,2 escalas,"MUC, CPH",8h 00m,1543 €,2024-03-13 01:31:18,2024-03-31
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1562 €,2024-03-13 01:31:18,2024-03-31
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1563 €,2024-03-13 01:31:18,2024-03-31
+14:05,19:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, HAM",5h 45m,"Lufthansa, KLM",2184 €,2024-03-13 01:31:18,2024-03-31
+14:05,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, CPH",6h 30m,"Lufthansa, KLM",2175 €,2024-03-13 01:31:18,2024-03-31
+13:50,20:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, PRG",6h 15m,"Brussels Airlines, KLM",2288 €,2024-03-13 01:31:18,2024-03-31
+13:50,20:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, PRG",6h 50m,"Brussels Airlines, KLM",2288 €,2024-03-13 01:31:18,2024-03-31
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,"Lufthansa, SWISS",2370 €,2024-03-13 01:31:18,2024-03-31
+6:45,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 45m,"Lufthansa, KLM",3078 €,2024-03-13 01:31:18,2024-03-31
+14:05,19:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,5h 05m,"Lufthansa, KLM",3078 €,2024-03-13 01:31:18,2024-03-31
+11:35,19:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 50m,"Lufthansa, KLM",2942 €,2024-03-13 01:31:18,2024-03-31
+7:35,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 05m,"Lufthansa, KLM",2945 €,2024-03-13 01:31:18,2024-03-31
+6:45,13:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 15m,"Lufthansa, KLM",3078 €,2024-03-13 01:31:18,2024-03-31
+14:05,20:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 25m,"Lufthansa, KLM",3078 €,2024-03-13 01:31:18,2024-03-31
+6:45,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 50m,"Lufthansa, KLM",3078 €,2024-03-13 01:31:18,2024-03-31
+7:00,14:10,Bilbao,BIO,Los Ángeles,LAX,LGW,16h 10m,"Vueling, Norse Atlantic Airways",287 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:55,Bilbao,BIO,Los Ángeles,LAX,FRA,19h 10m,"Lufthansa, Condor",560 €,2024-03-13 01:32:22,2024-04-30
+6:50,14:50,Bilbao,BIO,Los Ángeles,LAX,AMS,17h 00m,KLM,672 €,2024-03-13 01:32:22,2024-04-30
+10:30,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 35m,Air France,740 €,2024-03-13 01:32:22,2024-04-30
+10:30,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 35m,KLM,741 €,2024-03-13 01:32:22,2024-04-30
+7:10,13:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 55m,Air France,740 €,2024-03-13 01:32:22,2024-04-30
+7:10,13:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 55m,KLM,741 €,2024-03-13 01:32:22,2024-04-30
+7:00,14:35,Bilbao,BIO,Los Ángeles,LAX,LGW-LHR,16h 35m,"Vueling, Iberia",664 €,2024-03-13 01:32:22,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,Iberia,747 €,2024-03-13 01:32:22,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,"Lufthansa, Air India",779 €,2024-03-13 01:32:22,2024-04-30
+10:30,18:20,Bilbao,BIO,Los Ángeles,LAX,CDG,16h 50m,KLM,735 €,2024-03-13 01:32:22,2024-04-30
+6:50,14:50,Bilbao,BIO,Los Ángeles,LAX,AMS,17h 00m,Delta,733 €,2024-03-13 01:32:22,2024-04-30
+10:30,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 35m,Delta,821 €,2024-03-13 01:32:22,2024-04-30
+7:10,13:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 55m,Delta,821 €,2024-03-13 01:32:22,2024-04-30
+7:10,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,17h 55m,Air France,740 €,2024-03-13 01:32:22,2024-04-30
+7:10,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,17h 55m,KLM,741 €,2024-03-13 01:32:22,2024-04-30
+7:05,16:55,Bilbao,BIO,Los Ángeles,LAX,"MXP, FRA",18h 50m,Varias aerolíneas,592 €,2024-03-13 01:32:22,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,Lufthansa,842 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:28,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",22h 43m,Varias aerolíneas,590 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",21h 13m,Varias aerolíneas,621 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:45,Bilbao,BIO,Los Ángeles,LAX,"FRA, SEA",23h 00m,Varias aerolíneas,600 €,2024-03-13 01:32:22,2024-04-30
+7:10,18:20,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 10m,KLM,735 €,2024-03-13 01:32:22,2024-04-30
+10:30,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 15m,Air France,740 €,2024-03-13 01:32:22,2024-04-30
+10:30,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 15m,KLM,741 €,2024-03-13 01:32:22,2024-04-30
+7:10,14:15,Bilbao,BIO,Los Ángeles,LAX,CDG,16h 05m,"Air France, Air Tahiti Nui",773 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,Finnair,807 €,2024-03-13 01:32:22,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, DUB, ...",23h 55m,"KLM, WestJet",507 €,2024-03-13 01:32:22,2024-04-30
+6:50,17:15,Bilbao,BIO,Los Ángeles,LAX,"AMS, IAH",19h 25m,Delta,738 €,2024-03-13 01:32:22,2024-04-30
+7:10,21:45,Bilbao,BIO,Los Ángeles,LAX,"CDG, YYC",23h 35m,"Air France, WestJet",647 €,2024-03-13 01:32:22,2024-04-30
+7:10,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,17h 55m,Delta,821 €,2024-03-13 01:32:22,2024-04-30
+6:50,16:55,Bilbao,BIO,Los Ángeles,LAX,"AMS, FRA",19h 05m,"KLM, Condor",617 €,2024-03-13 01:32:22,2024-04-30
+6:50,18:02,Bilbao,BIO,Los Ángeles,LAX,"AMS, DTW",20h 12m,Delta,734 €,2024-03-13 01:32:22,2024-04-30
+12:00,20:44,Bilbao,BIO,Los Ángeles,LAX,"AMS, SEA",17h 44m,Delta,818 €,2024-03-13 01:32:22,2024-04-30
+6:50,16:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, SLC",18h 30m,Delta,818 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,Iberia,813 €,2024-03-13 01:32:22,2024-04-30
+7:40,21:45,Bilbao,BIO,Los Ángeles,LAX,"BCN, FCO, ...",23h 05m,"Vueling, WestJet",546 €,2024-03-13 01:32:22,2024-04-30
+6:50,19:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, PDX",21h 35m,Delta,734 €,2024-03-13 01:32:22,2024-04-30
+7:00,14:55,Bilbao,BIO,Los Ángeles,LAX,LGW-LHR,16h 55m,"Vueling, Iberia",712 €,2024-03-13 01:32:22,2024-04-30
+10:30,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 15m,Delta,821 €,2024-03-13 01:32:22,2024-04-30
+8:30,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 12m,"Air Europa, Iberia",799 €,2024-03-13 01:32:22,2024-04-30
+8:55,23:11,Bilbao,BIO,Los Ángeles,LAX,"BCN, SFO",23h 16m,"Vueling, Alaska Airlines",581 €,2024-03-13 01:32:22,2024-04-30
+6:50,20:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, DTW",22h 30m,Delta,734 €,2024-03-13 01:32:22,2024-04-30
+6:50,20:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, DTW",22h 30m,Delta,734 €,2024-03-13 01:32:22,2024-04-30
+7:10,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,23h 35m,Air France,740 €,2024-03-13 01:32:22,2024-04-30
+7:10,18:02,Bilbao,BIO,Los Ángeles,LAX,"CDG, DTW",19h 52m,Delta,824 €,2024-03-13 01:32:22,2024-04-30
+7:10,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,23h 35m,KLM,744 €,2024-03-13 01:32:22,2024-04-30
+8:55,21:48,Bilbao,BIO,Los Ángeles,LAX,"BCN, SFO",21h 53m,"Vueling, Alaska Airlines",625 €,2024-03-13 01:32:22,2024-04-30
+6:50,18:22,Bilbao,BIO,Los Ángeles,LAX,"AMS, SLC",20h 32m,Delta,818 €,2024-03-13 01:32:22,2024-04-30
+7:40,23:11,Bilbao,BIO,Los Ángeles,LAX,"BCN, SFO",24h 31m,"Vueling, Alaska Airlines",575 €,2024-03-13 01:32:22,2024-04-30
+12:00,23:53,Bilbao,BIO,Los Ángeles,LAX,"AMS, MSP",20h 53m,Delta,818 €,2024-03-13 01:32:22,2024-04-30
+12:00,0:34,Bilbao,BIO,Los Ángeles,LAX,"AMS, SEA",21h 34m,Delta,818 €,2024-03-13 01:32:22,2024-04-30
+10:30,22:30,Bilbao,BIO,Los Ángeles,LAX,"CDG, DTW",21h 00m,Delta,828 €,2024-03-13 01:32:22,2024-04-30
+7:40,21:48,Bilbao,BIO,Los Ángeles,LAX,"BCN, SFO",23h 08m,"Vueling, Alaska Airlines",620 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",20h 05m,Iberia,820 €,2024-03-13 01:32:22,2024-04-30
+7:05,19:05,Bilbao,BIO,Los Ángeles,LAX,"MXP, ORY-CDG",45h 00m,"Vueling, Norse Atlantic Airways",215 €,2024-03-13 01:32:22,2024-04-30
+7:10,18:20,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 10m,Air France,838 €,2024-03-13 01:32:22,2024-04-30
+7:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"LGW-LHR, YYC",23h 45m,"Vueling, WestJet",614 €,2024-03-13 01:32:22,2024-04-30
+7:00,20:15,Bilbao,BIO,Los Ángeles,LAX,LGW-LHR,22h 15m,"Vueling, Iberia",664 €,2024-03-13 01:32:22,2024-04-30
+7:10,20:20,Bilbao,BIO,Los Ángeles,LAX,"CDG, DTW",22h 10m,Delta,824 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, BOS",21h 23m,Iberia,820 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, BOS",23h 51m,Varias aerolíneas,720 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:28,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",20h 13m,"Iberia, Alaska Airlines",851 €,2024-03-13 01:32:22,2024-04-30
+8:30,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 48m,"Air Europa, Iberia",776 €,2024-03-13 01:32:22,2024-04-30
+7:05,18:05,Bilbao,BIO,Los Ángeles,LAX,"MXP, LGW-LHR",20h 00m,Varias aerolíneas,730 €,2024-03-13 01:32:22,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,"Iberia, Finnair",987 €,2024-03-13 01:32:22,2024-04-30
+8:55,20:15,Bilbao,BIO,Los Ángeles,LAX,"BCN, LGW-LHR",20h 20m,"Vueling, Iberia",747 €,2024-03-13 01:32:22,2024-04-30
+7:05,20:15,Bilbao,BIO,Los Ángeles,LAX,"MXP, LGW-LHR",22h 10m,Varias aerolíneas,726 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:48,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",21h 33m,Iberia,904 €,2024-03-13 01:32:22,2024-04-30
+7:40,20:15,Bilbao,BIO,Los Ángeles,LAX,"BCN, LGW-LHR",21h 35m,"Vueling, Iberia",741 €,2024-03-13 01:32:22,2024-04-30
+7:05,20:15,Bilbao,BIO,Los Ángeles,LAX,"MXP, LGW-LHR",22h 10m,Varias aerolíneas,730 €,2024-03-13 01:32:22,2024-04-30
+9:15,22:10,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",21h 55m,Iberia,904 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,"Iberia, Finnair",975 €,2024-03-13 01:32:22,2024-04-30
+13:20,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,17h 25m,"Vueling, Air France",882 €,2024-03-13 01:32:22,2024-04-30
+10:30,18:20,Bilbao,BIO,Los Ángeles,LAX,CDG,16h 50m,Delta,1057 €,2024-03-13 01:32:22,2024-04-30
+6:50,20:15,Bilbao,BIO,Los Ángeles,LAX,"AMS, CPH, ...",22h 25m,"KLM, Finnair",802 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, JFK",22h 50m,Varias aerolíneas,860 €,2024-03-13 01:32:22,2024-04-30
+9:15,23:11,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",22h 56m,"Iberia, Alaska Airlines",825 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:28,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",20h 13m,Varias aerolíneas,965 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",21h 13m,"Lufthansa, Condor",906 €,2024-03-13 01:32:22,2024-04-30
+7:10,16:20,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",18h 10m,Delta,1062 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:28,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",22h 43m,"Lufthansa, Condor",906 €,2024-03-13 01:32:22,2024-04-30
+7:10,18:20,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 10m,Delta,1057 €,2024-03-13 01:32:22,2024-04-30
+7:10,21:45,Bilbao,BIO,Los Ángeles,LAX,"CDG, YYC",23h 35m,WestJet,951 €,2024-03-13 01:32:22,2024-04-30
+7:10,17:29,Bilbao,BIO,Los Ángeles,LAX,"CDG, SFO",19h 19m,Delta,1064 €,2024-03-13 01:32:22,2024-04-30
+7:10,17:42,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",19h 32m,Delta,1066 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,"Finnair, American Airlines",987 €,2024-03-13 01:32:22,2024-04-30
+7:10,18:22,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",20h 12m,Delta,1062 €,2024-03-13 01:32:22,2024-04-30
+10:30,22:04,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",20h 34m,Delta,1066 €,2024-03-13 01:32:22,2024-04-30
+7:40,19:43,Bilbao,BIO,Los Ángeles,LAX,"BCN, ORD",21h 03m,Varias aerolíneas,893 €,2024-03-13 01:32:22,2024-04-30
+6:50,19:09,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",21h 19m,Delta,1056 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,"Vueling, Finnair",978 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,"Finnair, JetBlue",1071 €,2024-03-13 01:32:22,2024-04-30
+7:10,20:26,Bilbao,BIO,Los Ángeles,LAX,"CDG, SFO",22h 16m,Delta,1064 €,2024-03-13 01:32:22,2024-04-30
+9:15,23:11,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",22h 56m,Varias aerolíneas,940 €,2024-03-13 01:32:22,2024-04-30
+8:30,22:04,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",22h 34m,Delta,1072 €,2024-03-13 01:32:22,2024-04-30
+7:40,18:30,Bilbao,BIO,Los Ángeles,LAX,"BCN, DUB",19h 50m,"Vueling, Aer Lingus",987 €,2024-03-13 01:32:22,2024-04-30
+8:30,19:43,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",20h 13m,Varias aerolíneas,980 €,2024-03-13 01:32:22,2024-04-30
+7:10,16:20,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",18h 10m,KLM,1162 €,2024-03-13 01:32:22,2024-04-30
+6:50,16:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, SLC",18h 30m,KLM,1156 €,2024-03-13 01:32:22,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CPH, ...",23h 55m,"KLM, Air France",945 €,2024-03-13 01:32:22,2024-04-30
+8:30,20:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",20h 48m,Varias aerolíneas,976 €,2024-03-13 01:32:22,2024-04-30
+6:50,14:50,Bilbao,BIO,Los Ángeles,LAX,AMS,17h 00m,"Aeromexico, KLM",1207 €,2024-03-13 01:32:22,2024-04-30
+10:30,21:45,Bilbao,BIO,Los Ángeles,LAX,"CDG, YYC",20h 15m,WestJet,1133 €,2024-03-13 01:32:22,2024-04-30
+18:05,9:50,Bilbao,BIO,Los Ángeles,LAX,"LGW-LHR, MEX",24h 45m,"Vueling, Aeromexico",932 €,2024-03-13 01:32:22,2024-04-30
+7:40,22:37,Bilbao,BIO,Los Ángeles,LAX,"BCN, ORD",23h 57m,"Vueling, Finnair",942 €,2024-03-13 01:32:22,2024-04-30
+10:30,21:31,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 01m,KLM,1166 €,2024-03-13 01:32:22,2024-04-30
+10:30,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 35m,Air France,1297 €,2024-03-13 01:32:22,2024-04-30
+7:10,18:31,Bilbao,BIO,Los Ángeles,LAX,"CDG, SEA",20h 21m,KLM,1166 €,2024-03-13 01:32:22,2024-04-30
+7:10,13:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 55m,Air France,1297 €,2024-03-13 01:32:22,2024-04-30
+8:55,0:36,Bilbao,BIO,Los Ángeles,LAX,"BCN, JFK",24h 41m,"Vueling, Finnair",948 €,2024-03-13 01:32:22,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,KLM,1162 €,2024-03-13 01:32:22,2024-04-30
+6:50,19:09,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",21h 19m,KLM,1156 €,2024-03-13 01:32:22,2024-04-30
+6:50,19:09,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",21h 19m,KLM,1156 €,2024-03-13 01:32:22,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,Air France,1162 €,2024-03-13 01:32:22,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,KLM,1162 €,2024-03-13 01:32:22,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,Air France,1166 €,2024-03-13 01:32:22,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,KLM,1166 €,2024-03-13 01:32:22,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,United Airlines,1300 €,2024-03-13 01:32:22,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,"Lufthansa, United Airlines",1300 €,2024-03-13 01:32:22,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,Air France,1166 €,2024-03-13 01:32:22,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,KLM,1166 €,2024-03-13 01:32:22,2024-04-30
+6:50,19:09,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",21h 19m,Delta,1192 €,2024-03-13 01:32:22,2024-04-30
+7:10,18:22,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",20h 12m,KLM,1187 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:17,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",20h 02m,Iberia,1198 €,2024-03-13 01:32:22,2024-04-30
+6:50,19:18,Bilbao,BIO,Los Ángeles,LAX,"AMS, LAS",21h 28m,KLM,1170 €,2024-03-13 01:32:22,2024-04-30
+8:30,18:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, CDG",18h 50m,"Air Europa, Air France",1251 €,2024-03-13 01:32:22,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,Lufthansa,1319 €,2024-03-13 01:32:22,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,Austrian Airlines,1319 €,2024-03-13 01:32:22,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,Brussels Airlines,1319 €,2024-03-13 01:32:22,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,SWISS,1319 €,2024-03-13 01:32:22,2024-04-30
+6:50,20:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",22h 35m,KLM,1156 €,2024-03-13 01:32:22,2024-04-30
+6:50,20:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",22h 35m,KLM,1156 €,2024-03-13 01:32:22,2024-04-30
+6:50,20:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",22h 35m,KLM,1162 €,2024-03-13 01:32:22,2024-04-30
+6:50,16:40,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",18h 50m,"KLM, Virgin Atlantic",1264 €,2024-03-13 01:32:22,2024-04-30
+6:50,16:40,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",18h 50m,KLM,1264 €,2024-03-13 01:32:22,2024-04-30
+7:10,14:50,Bilbao,BIO,Los Ángeles,LAX,"CDG, AMS",16h 40m,KLM,1282 €,2024-03-13 01:32:22,2024-04-30
+7:10,14:50,Bilbao,BIO,Los Ángeles,LAX,"CDG, AMS",16h 40m,Air France,1283 €,2024-03-13 01:32:22,2024-04-30
+7:10,20:44,Bilbao,BIO,Los Ángeles,LAX,"CDG, SEA",22h 34m,KLM,1166 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:30,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",21h 15m,Iberia,1198 €,2024-03-13 01:32:22,2024-04-30
+6:50,16:40,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",18h 50m,"KLM, Air France",1284 €,2024-03-13 01:32:22,2024-04-30
+10:30,21:33,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 03m,Delta,1263 €,2024-03-13 01:32:22,2024-04-30
+6:45,14:55,Bilbao,BIO,Los Ángeles,LAX,"FRA, MUC",17h 10m,Lufthansa,1292 €,2024-03-13 01:32:22,2024-04-30
+7:10,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,17h 55m,Air France,1297 €,2024-03-13 01:32:22,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,"Lufthansa, Air India",1353 €,2024-03-13 01:32:22,2024-04-30
+6:50,18:38,Bilbao,BIO,Los Ángeles,LAX,"AMS, ATL",20h 48m,Delta,1253 €,2024-03-13 01:32:22,2024-04-30
+7:10,18:38,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",20h 28m,Delta,1263 €,2024-03-13 01:32:22,2024-04-30
+8:30,22:04,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",22h 34m,KLM,1197 €,2024-03-13 01:32:22,2024-04-30
+10:30,23:29,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",21h 59m,Air France,1208 €,2024-03-13 01:32:22,2024-04-30
+6:50,17:15,Bilbao,BIO,Los Ángeles,LAX,"AMS, YYC",19h 25m,KLM,1263 €,2024-03-13 01:32:22,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,Delta,1259 €,2024-03-13 01:32:22,2024-04-30
+7:10,22:26,Bilbao,BIO,Los Ángeles,LAX,"CDG, SFO",24h 16m,Air France,1168 €,2024-03-13 01:32:22,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,Delta,1263 €,2024-03-13 01:32:22,2024-04-30
+7:10,20:25,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",22h 15m,KLM,1212 €,2024-03-13 01:32:22,2024-04-30
+7:10,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",24h 31m,Air France,1166 €,2024-03-13 01:32:22,2024-04-30
+6:50,16:05,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 15m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,Delta,1263 €,2024-03-13 01:32:22,2024-04-30
+7:10,20:25,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",22h 15m,KLM,1216 €,2024-03-13 01:32:22,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+7:10,18:38,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",20h 28m,KLM,1259 €,2024-03-13 01:32:22,2024-04-30
+10:30,22:04,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",20h 34m,KLM,1259 €,2024-03-13 01:32:22,2024-04-30
+10:30,0:34,Bilbao,BIO,Los Ángeles,LAX,"CDG, SEA",23h 04m,KLM,1212 €,2024-03-13 01:32:22,2024-04-30
+6:50,18:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",20h 30m,KLM,1288 €,2024-03-13 01:32:22,2024-04-30
+6:50,18:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",20h 30m,KLM,1288 €,2024-03-13 01:32:22,2024-04-30
+11:35,21:55,Bilbao,BIO,Los Ángeles,LAX,"MUC, DEN",19h 20m,United Airlines,1288 €,2024-03-13 01:32:22,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,Lufthansa,1305 €,2024-03-13 01:32:22,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+7:10,21:31,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",23h 21m,KLM,1212 €,2024-03-13 01:32:22,2024-04-30
+11:35,22:14,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",19h 39m,United Airlines,1288 €,2024-03-13 01:32:22,2024-04-30
+11:35,22:14,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",19h 39m,Lufthansa,1288 €,2024-03-13 01:32:22,2024-04-30
+10:30,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 15m,Air France,1297 €,2024-03-13 01:32:22,2024-04-30
+7:10,21:33,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",23h 23m,KLM,1216 €,2024-03-13 01:32:22,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,"KLM, Air France",1312 €,2024-03-13 01:32:22,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,"KLM, Air France",1312 €,2024-03-13 01:32:22,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,"KLM, Air France",1312 €,2024-03-13 01:32:22,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,"KLM, Air France",1312 €,2024-03-13 01:32:22,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,"Lufthansa, United Airlines",1315 €,2024-03-13 01:32:22,2024-04-30
+11:35,22:49,Bilbao,BIO,Los Ángeles,LAX,"MUC, YVR",20h 14m,Air Canada,1284 €,2024-03-13 01:32:22,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,Lufthansa,1305 €,2024-03-13 01:32:22,2024-04-30
+8:55,21:48,Bilbao,BIO,Los Ángeles,LAX,"BCN, SFO",21h 53m,Iberia,1280 €,2024-03-13 01:32:22,2024-04-30
+11:35,21:55,Bilbao,BIO,Los Ángeles,LAX,"MUC, DEN",19h 20m,Lufthansa,1308 €,2024-03-13 01:32:22,2024-04-30
+11:35,22:49,Bilbao,BIO,Los Ángeles,LAX,"MUC, YVR",20h 14m,"Lufthansa, Air Canada",1290 €,2024-03-13 01:32:22,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,Lufthansa,1325 €,2024-03-13 01:32:22,2024-04-30
+11:35,22:14,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",19h 39m,Lufthansa,1308 €,2024-03-13 01:32:22,2024-04-30
+7:10,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",24h 31m,Air France,1208 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:32,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",19h 47m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+7:10,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",24h 31m,Air France,1212 €,2024-03-13 01:32:22,2024-04-30
+7:10,22:36,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",24h 26m,Air France,1213 €,2024-03-13 01:32:22,2024-04-30
+7:10,20:30,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",22h 20m,KLM,1259 €,2024-03-13 01:32:22,2024-04-30
+7:10,20:25,Bilbao,BIO,Los Ángeles,LAX,"CDG, LHR",22h 15m,Air France,1289 €,2024-03-13 01:32:22,2024-04-30
+7:10,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",24h 31m,Air France,1217 €,2024-03-13 01:32:22,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,Air Canada,1324 €,2024-03-13 01:32:22,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,Lufthansa,1325 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:03,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAH",20h 18m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:10,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",20h 25m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+11:35,23:58,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",21h 23m,United Airlines,1288 €,2024-03-13 01:32:22,2024-04-30
+11:35,23:58,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",21h 23m,Lufthansa,1288 €,2024-03-13 01:32:22,2024-04-30
+6:50,20:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",22h 35m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+6:50,20:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",22h 35m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,Lufthansa,1325 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,Lufthansa,1325 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, United Airlines",1325 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, United Airlines",1325 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:34,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",20h 49m,Lufthansa,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:34,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",20h 49m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:32,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",19h 47m,Lufthansa,1325 €,2024-03-13 01:32:22,2024-04-30
+7:10,21:33,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",23h 23m,KLM,1259 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:52,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",21h 07m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:52,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",21h 07m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+11:35,0:36,Bilbao,BIO,Los Ángeles,LAX,"MUC, SFO",22h 01m,Lufthansa,1288 €,2024-03-13 01:32:22,2024-04-30
+11:35,0:36,Bilbao,BIO,Los Ángeles,LAX,"MUC, SFO",22h 01m,United Airlines,1288 €,2024-03-13 01:32:22,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,Lufthansa,1358 €,2024-03-13 01:32:22,2024-04-30
+11:35,0:45,Bilbao,BIO,Los Ángeles,LAX,"MUC, IAD",22h 10m,Lufthansa,1288 €,2024-03-13 01:32:22,2024-04-30
+11:35,0:45,Bilbao,BIO,Los Ángeles,LAX,"MUC, IAD",22h 10m,United Airlines,1288 €,2024-03-13 01:32:22,2024-04-30
+7:00,17:05,Bilbao,BIO,Los Ángeles,LAX,LGW-LHR,19h 05m,"Vueling, Iberia",1230 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:03,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAH",20h 18m,Lufthansa,1325 €,2024-03-13 01:32:22,2024-04-30
+6:40,19:11,Bilbao,BIO,Los Ángeles,LAX,"FRA, YYZ",21h 31m,Air Canada,1302 €,2024-03-13 01:32:22,2024-04-30
+11:35,23:58,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",21h 23m,Lufthansa,1308 €,2024-03-13 01:32:22,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,Lufthansa,1361 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:10,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",20h 25m,Austrian Airlines,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:10,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",20h 25m,Lufthansa,1325 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:28,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",21h 43m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:29,Bilbao,BIO,Los Ángeles,LAX,"FRA, SEA",21h 44m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LGW-LHR",19h 35m,"Lufthansa, United Airlines",1347 €,2024-03-13 01:32:22,2024-04-30
+7:10,20:50,Bilbao,BIO,Los Ángeles,LAX,"CDG, LHR",22h 40m,Air France,1287 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:01,Bilbao,BIO,Los Ángeles,LAX,"FRA, YUL",23h 16m,Air Canada,1275 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:01,Bilbao,BIO,Los Ángeles,LAX,"FRA, YUL",23h 16m,Air Canada,1275 €,2024-03-13 01:32:22,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,Lufthansa,1358 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:34,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",20h 49m,"Lufthansa, Air Canada",1325 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAH",22h 02m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LGW-LHR",19h 35m,Lufthansa,1353 €,2024-03-13 01:32:22,2024-04-30
+11:35,0:36,Bilbao,BIO,Los Ángeles,LAX,"MUC, SFO",22h 01m,"Lufthansa, Air New Zealand",1308 €,2024-03-13 01:32:22,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,Lufthansa,1361 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:52,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",21h 07m,Lufthansa,1325 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:52,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",21h 07m,Lufthansa,1325 €,2024-03-13 01:32:22,2024-04-30
+11:35,0:45,Bilbao,BIO,Los Ángeles,LAX,"MUC, IAD",22h 10m,Lufthansa,1308 €,2024-03-13 01:32:22,2024-04-30
+6:50,20:50,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",23h 00m,KLM,1289 €,2024-03-13 01:32:22,2024-04-30
+6:50,20:50,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",23h 00m,KLM,1289 €,2024-03-13 01:32:22,2024-04-30
+7:10,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,23h 35m,Air France,1297 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:26,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",22h 41m,Lufthansa,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:26,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",22h 41m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:26,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",22h 41m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+12:00,20:44,Bilbao,BIO,Los Ángeles,LAX,"AMS, SEA",17h 44m,KLM,1406 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:28,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",21h 43m,Air Canada,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:28,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",21h 43m,"Lufthansa, Air Canada",1325 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:29,Bilbao,BIO,Los Ángeles,LAX,"FRA, SEA",21h 44m,Lufthansa,1325 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",22h 50m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",22h 50m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:01,Bilbao,BIO,Los Ángeles,LAX,"FRA, YUL",23h 16m,"Lufthansa, Air Canada",1297 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:01,Bilbao,BIO,Los Ángeles,LAX,"FRA, YUL",23h 16m,"Lufthansa, Air Canada",1297 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,Lufthansa,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:50,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",23h 05m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:50,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",23h 05m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:56,Bilbao,BIO,Los Ángeles,LAX,"FRA, YYZ",24h 11m,Air Canada,1281 €,2024-03-13 01:32:22,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1291 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,Lufthansa,1311 €,2024-03-13 01:32:22,2024-04-30
+21:05,11:50,Bilbao,BIO,Los Ángeles,LAX,"MAD, AMS",23h 45m,"Air Europa, KLM",1277 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:23,Bilbao,BIO,Los Ángeles,LAX,"FRA, BOS",23h 38m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",23h 50m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",23h 57m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",23h 57m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+13:40,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",18h 18m,Iberia,1421 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,Austrian Airlines,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,Air Canada,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,SWISS,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,Austrian Airlines,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",24h 02m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",24h 02m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:56,Bilbao,BIO,Los Ángeles,LAX,"FRA, YYZ",24h 11m,"Lufthansa, Air Canada",1302 €,2024-03-13 01:32:22,2024-04-30
+6:40,21:56,Bilbao,BIO,Los Ángeles,LAX,"FRA, YYZ",24h 16m,Air Canada,1302 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:55,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAH",24h 10m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:55,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAH",24h 10m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:55,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",24h 10m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:55,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",24h 10m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,22:14,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",24h 29m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+6:45,22:14,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",24h 29m,United Airlines,1305 €,2024-03-13 01:32:22,2024-04-30
+12:00,20:44,Bilbao,BIO,Los Ángeles,LAX,"AMS, SEA",17h 44m,KLM,1443 €,2024-03-13 01:32:22,2024-04-30
+6:50,17:15,Bilbao,BIO,Los Ángeles,LAX,"AMS, IAH",19h 25m,"Aeromexico, KLM",1407 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",23h 50m,Air Canada,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",23h 50m,SWISS,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",23h 50m,Lufthansa,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",23h 50m,Lufthansa,1324 €,2024-03-13 01:32:22,2024-04-30
+6:50,17:15,Bilbao,BIO,Los Ángeles,LAX,"AMS, IAH",19h 25m,KLM,1414 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 17m,Iberia,1421 €,2024-03-13 01:32:22,2024-04-30
+8:30,18:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",19h 08m,KLM,1422 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",24h 02m,Lufthansa,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",24h 02m,Air Canada,1324 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",24h 02m,Austrian Airlines,1324 €,2024-03-13 01:32:22,2024-04-30
+10:30,21:14,Bilbao,BIO,Los Ángeles,LAX,"CDG, BOS",19h 44m,KLM,1414 €,2024-03-13 01:32:22,2024-04-30
+6:50,18:02,Bilbao,BIO,Los Ángeles,LAX,"AMS, DTW",20h 12m,"Aeromexico, KLM",1403 €,2024-03-13 01:32:22,2024-04-30
+7:10,18:02,Bilbao,BIO,Los Ángeles,LAX,"CDG, DTW",19h 52m,KLM,1412 €,2024-03-13 01:32:22,2024-04-30
+6:50,18:22,Bilbao,BIO,Los Ángeles,LAX,"AMS, SLC",20h 32m,"Aeromexico, KLM",1403 €,2024-03-13 01:32:22,2024-04-30
+8:30,18:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",19h 08m,KLM,1436 €,2024-03-13 01:32:22,2024-04-30
+12:00,20:44,Bilbao,BIO,Los Ángeles,LAX,"AMS, SEA",17h 44m,"Aeromexico, KLM",1490 €,2024-03-13 01:32:22,2024-04-30
+7:10,16:20,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",18h 10m,"Air France, Aeromexico",1496 €,2024-03-13 01:32:22,2024-04-30
+6:50,16:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, SLC",18h 30m,"Aeromexico, KLM",1490 €,2024-03-13 01:32:22,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,Air France,1473 €,2024-03-13 01:32:22,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,Delta,1581 €,2024-03-13 01:32:22,2024-04-30
+8:30,18:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",19h 08m,"Air Europa, Air France",1693 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,Iberia,2188 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,Iberia,2188 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,Iberia,2188 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,Iberia,2214 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,Iberia,2214 €,2024-03-13 01:32:22,2024-04-30
+13:40,0:36,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 56m,"Iberia, Finnair",2212 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,Iberia,2214 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,Iberia,2214 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Iberia,2214 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Iberia,2214 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,Iberia,2220 €,2024-03-13 01:32:22,2024-04-30
+8:30,18:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",19h 08m,Delta,2611 €,2024-03-13 01:32:22,2024-04-30
+8:30,20:30,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",21h 00m,Delta,2611 €,2024-03-13 01:32:22,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,"Iberia, British Airways",3319 €,2024-03-13 01:32:22,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,British Airways,3319 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,British Airways,3319 €,2024-03-13 01:32:22,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,"Iberia, American Airlines",3409 €,2024-03-13 01:32:22,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,American Airlines,3409 €,2024-03-13 01:32:22,2024-04-30
+9:15,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",18h 27m,British Airways,3320 €,2024-03-13 01:32:22,2024-04-30
+9:15,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",18h 27m,Iberia,3320 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,British Airways,3320 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,Iberia,3320 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,British Airways,3320 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 17m,British Airways,3320 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",20h 05m,British Airways,3320 €,2024-03-13 01:32:22,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,Iberia,3428 €,2024-03-13 01:32:22,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,Alaska Airlines,3428 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,American Airlines,3409 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,British Airways,3346 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,British Airways,3346 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",21h 06m,British Airways,3320 €,2024-03-13 01:32:22,2024-04-30
+13:40,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",18h 18m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LGW-LHR",19h 20m,British Airways,3368 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LGW-LHR",19h 20m,Iberia,3368 €,2024-03-13 01:32:22,2024-04-30
+9:15,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",18h 27m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,"Iberia, American Airlines",3409 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+13:40,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",18h 18m,Iberia,3406 €,2024-03-13 01:32:22,2024-04-30
+13:40,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",18h 18m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 17m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",19h 07m,American Airlines,3417 €,2024-03-13 01:32:22,2024-04-30
+9:15,22:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 38m,British Airways,3320 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 35m,British Airways,3320 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 35m,British Airways,3320 €,2024-03-13 01:32:22,2024-04-30
+9:15,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",18h 27m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,Finnair,3428 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,Alaska Airlines,3428 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,British Airways,3414 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,British Airways,3414 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+13:40,0:36,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 56m,British Airways,3414 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,Iberia,3406 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+13:40,0:36,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 56m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,Iberia,3406 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:17,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",20h 02m,British Airways,3414 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:17,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",20h 02m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:23,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 08m,Iberia,3395 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",20h 05m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",21h 06m,Iberia,3395 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",20h 07m,American Airlines,3417 €,2024-03-13 01:32:22,2024-04-30
+9:15,23:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",23h 38m,British Airways,3320 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,Iberia,3395 €,2024-03-13 01:32:22,2024-04-30
+13:40,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",18h 18m,British Airways,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:47,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",20h 32m,British Airways,3414 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,Iberia,3406 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,Iberia,3406 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:47,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",20h 32m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,American Airlines,3440 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,American Airlines,3440 €,2024-03-13 01:32:22,2024-04-30
+9:15,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",18h 27m,Iberia,3433 €,2024-03-13 01:32:22,2024-04-30
+13:40,0:36,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 56m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+7:10,17:20,Bilbao,BIO,Los Ángeles,LAX,"CDG, LHR",19h 10m,Varias aerolíneas,3417 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",20h 57m,British Airways,3414 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",20h 05m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",20h 57m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:23,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 08m,British Airways,3414 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:23,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 08m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:30,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",21h 15m,British Airways,3414 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,British Airways,3414 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",21h 06m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,American Airlines,3440 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,American Airlines,3440 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,British Airways,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 17m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+13:40,23:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 17m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:30,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",21h 15m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",19h 07m,British Airways,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",19h 07m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, Austrian Airlines",3424 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, Brussels Airlines",3424 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, Brussels Airlines",3424 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, Austrian Airlines",3424 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, BOS",21h 23m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,22:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 38m,Iberia,3395 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,American Airlines,3440 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,American Airlines,3440 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",21h 33m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:54,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",21h 39m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",21h 37m,American Airlines,3417 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LGW-LHR",20h 20m,Iberia,3443 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 43m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,Iberia,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,23:11,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",22h 56m,Iberia,3395 €,2024-03-13 01:32:22,2024-04-30
+13:40,0:36,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 56m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:23,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 08m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",21h 06m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,Iberia,3432 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,Royal Air Maroc,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",22h 08m,American Airlines,3418 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",20h 05m,British Airways,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",20h 07m,Iberia,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",20h 07m,British Airways,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",21h 37m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Iberia,3432 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Iberia,3432 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Royal Air Maroc,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LGW-LHR",19h 35m,"Lufthansa, Austrian Airlines",3446 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LGW-LHR",19h 35m,"Lufthansa, Brussels Airlines",3446 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:47,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",20h 32m,British Airways,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,Iberia,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,British Airways,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,Alaska Airlines,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,Finnair,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",22h 08m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",20h 57m,Iberia,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",20h 57m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:23,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 08m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",21h 06m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:30,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",21h 15m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,British Airways,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 35m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, BOS",21h 23m,Iberia,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, BOS",21h 23m,British Airways,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",22h 37m,Royal Air Maroc,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,Iberia,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",21h 33m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",21h 33m,Iberia,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:54,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",21h 39m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",21h 37m,Iberia,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 43m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,21:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 43m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Finnair,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,British Airways,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",22h 08m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,22:37,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",22h 22m,Iberia,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,22:37,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",22h 22m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:17,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",22h 32m,British Airways,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:17,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",22h 32m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,21:48,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",24h 03m,Iberia,3402 €,2024-03-13 01:32:22,2024-04-30
+9:15,22:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 38m,British Airways,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,22:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 38m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 35m,Iberia,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 35m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 35m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",22h 37m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",22h 43m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",22h 43m,Alaska Airlines,3433 €,2024-03-13 01:32:22,2024-04-30
+9:15,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",22h 43m,Finnair,3433 €,2024-03-13 01:32:22,2024-04-30
+6:45,16:05,,-,scala,1 e,18h 20m,"Iberia, British Airways",1,3566 €,2024-03-13 01:32:22,2024-04-30
+6:45,22:10,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",24h 25m,Iberia,3402 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",22h 30m,Iberia,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",22h 30m,British Airways,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",22h 30m,Iberia,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",22h 30m,British Airways,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",22h 30m,Iberia,3459 €,2024-03-13 01:32:22,2024-04-30
+6:45,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",22h 30m,British Airways,3459 €,2024-03-13 01:32:22,2024-04-30
+8:55,22:10,,-,scalas,2 e,22h 15m,Iberia,1,3573 €,2024-03-13 01:32:22,2024-04-30
+7:40,21:48,,-,scalas,2 e,23h 08m,Iberia,1,3573 €,2024-03-13 01:32:22,2024-04-30
+8:55,23:11,,-,scalas,2 e,23h 16m,Iberia,1,3573 €,2024-03-13 01:32:22,2024-04-30
+7:40,22:10,,-,scalas,2 e,23h 30m,Iberia,1,3573 €,2024-03-13 01:32:22,2024-04-30
+7:40,23:11,,-,scalas,2 e,24h 31m,Iberia,1,3573 €,2024-03-13 01:32:22,2024-04-30
+6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",19h 30m,Varias aerolíneas,5481 €,2024-03-13 01:32:22,2024-04-30
+6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LGW-LHR",19h 30m,Varias aerolíneas,5503 €,2024-03-13 01:32:22,2024-04-30
+6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",19h 30m,"KLM, Austrian Airlines",6737 €,2024-03-13 01:32:22,2024-04-30
+6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",19h 30m,"KLM, Lufthansa",6737 €,2024-03-13 01:32:22,2024-04-30
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,117 €,2024-03-13 09:00:00,2024-03-31
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,136 €,2024-03-13 09:00:00,2024-03-31
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 09:00:00,2024-03-31
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,134 €,2024-03-13 09:00:00,2024-03-31
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,144 €,2024-03-13 09:00:00,2024-03-31
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,165 €,2024-03-13 09:00:00,2024-03-31
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,192 €,2024-03-13 09:00:00,2024-03-31
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,229 €,2024-03-13 09:00:00,2024-03-31
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,188 €,2024-03-13 09:00:00,2024-03-31
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,303 €,2024-03-13 09:00:00,2024-03-31
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",244 €,2024-03-13 09:00:00,2024-03-31
+15:15,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",282 €,2024-03-13 09:00:00,2024-03-31
+15:15,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Vueling,327 €,2024-03-13 09:00:00,2024-03-31
+10:55,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",284 €,2024-03-13 09:00:00,2024-03-31
+10:55,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Vueling,344 €,2024-03-13 09:00:00,2024-03-31
+16:45,21:40,Bilbao,BIO,Madrid-Barajas,MAD,"PMI, VLC",4h 55m,Air Europa,418 €,2024-03-13 09:00:00,2024-03-31
+16:45,20:20,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 35m,Air Europa,522 €,2024-03-13 09:00:00,2024-03-31
+20:30,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,3h 50m,TAP AIR PORTUGAL,514 €,2024-03-13 09:00:00,2024-03-31
+16:45,20:40,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 55m,Air Europa,522 €,2024-03-13 09:00:00,2024-03-31
+20:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 50m,Iberia,580 €,2024-03-13 09:00:00,2024-03-31
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,507 €,2024-03-13 09:00:00,2024-03-31
+11:30,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,3h 05m,Iberia,605 €,2024-03-13 09:00:00,2024-03-31
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,550 €,2024-03-13 09:00:00,2024-03-31
+10:55,12:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,90 €,2024-03-13 09:00:36,2024-03-31
+23:00,0:10,,+1,,-,directo,1h 10m,Vueling,90 €,2024-03-13 09:00:36,2024-03-31
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,106 €,2024-03-13 09:00:36,2024-03-31
+19:50,21:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,116 €,2024-03-13 09:00:36,2024-03-31
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,174 €,2024-03-13 09:00:36,2024-03-31
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,213 €,2024-03-13 09:00:36,2024-03-31
+10:55,12:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,213 €,2024-03-13 09:00:36,2024-03-31
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,213 €,2024-03-13 09:00:36,2024-03-31
+19:50,21:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,240 €,2024-03-13 09:00:36,2024-03-31
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,191 €,2024-03-13 09:00:36,2024-03-31
+8:30,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 15m,"Air Europa, Iberia",176 €,2024-03-13 09:00:36,2024-03-31
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,248 €,2024-03-13 09:00:36,2024-03-31
+14:30,18:15,Bilbao,BIO,Barcelona-El Prat,BCN,ALC,3h 45m,"Volotea, Vueling",218 €,2024-03-13 09:00:36,2024-03-31
+19:35,23:30,Bilbao,BIO,Barcelona-El Prat,BCN,IBZ,3h 55m,Vueling,224 €,2024-03-13 09:00:36,2024-03-31
+14:50,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,ALC,4h 25m,Vueling,223 €,2024-03-13 09:00:36,2024-03-31
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,323 €,2024-03-13 09:00:36,2024-03-31
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,332 €,2024-03-13 09:00:36,2024-03-31
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,346 €,2024-03-13 09:00:36,2024-03-31
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,261 €,2024-03-13 09:00:36,2024-03-31
+14:30,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,ALC,4h 45m,"Volotea, Vueling",223 €,2024-03-13 09:00:36,2024-03-31
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Iberia,248 €,2024-03-13 09:00:36,2024-03-31
+19:35,0:40,Bilbao,BIO,Barcelona-El Prat,BCN,IBZ,5h 05m,Vueling,221 €,2024-03-13 09:00:36,2024-03-31
+16:45,22:00,Bilbao,BIO,Barcelona-El Prat,BCN,PMI,5h 15m,"Air Europa, Vueling",223 €,2024-03-13 09:00:36,2024-03-31
+16:45,20:40,Bilbao,BIO,Barcelona-El Prat,BCN,PMI,3h 55m,"Air Europa, Vueling",412 €,2024-03-13 09:00:36,2024-03-31
+11:10,15:55,Bilbao,BIO,Barcelona-El Prat,BCN,AGP,4h 45m,Vueling,332 €,2024-03-13 09:00:36,2024-03-31
+6:45,11:30,Bilbao,BIO,Barcelona-El Prat,BCN,SVQ,4h 45m,Vueling,329 €,2024-03-13 09:00:36,2024-03-31
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,271 €,2024-03-13 09:00:36,2024-03-31
+19:10,0:40,Bilbao,BIO,Barcelona-El Prat,BCN,OPO,5h 30m,Vueling,306 €,2024-03-13 09:00:36,2024-03-31
+19:45,0:45,Bilbao,BIO,Barcelona-El Prat,BCN,AGP,5h 00m,Vueling,350 €,2024-03-13 09:00:36,2024-03-31
+19:00,23:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAH,4h 45m,Vueling,375 €,2024-03-13 09:00:36,2024-03-31
+13:40,18:55,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 15m,Iberia,399 €,2024-03-13 09:00:36,2024-03-31
+20:30,1:30,Bilbao,BIO,Barcelona-El Prat,BCN,LIS,5h 00m,TAP AIR PORTUGAL,515 €,2024-03-13 09:00:36,2024-03-31
+15:30,20:05,Bilbao,BIO,Barcelona-El Prat,BCN,SVQ,4h 35m,"Volotea, Vueling",518 €,2024-03-13 09:00:36,2024-03-31
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,457 €,2024-03-13 09:00:36,2024-03-31
+6:45,11:55,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 10m,Lufthansa,532 €,2024-03-13 09:00:36,2024-03-31
+8:55,14:05,Bilbao,BIO,Barcelona-El Prat,BCN,PMI,5h 10m,Vueling,293 €,2024-03-13 09:00:36,2024-03-31
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,763 €,2024-03-13 09:00:36,2024-03-31
+6:50,12:35,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 45m,KLM,797 €,2024-03-13 09:00:36,2024-03-31
+6:50,9:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 10m,KLM,138 €,2024-03-13 09:01:13,2024-03-31
+12:00,14:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,154 €,2024-03-13 09:01:13,2024-03-31
+7:40,9:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 15m,Iberia,209 €,2024-03-13 09:01:13,2024-03-31
+17:15,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,223 €,2024-03-13 09:01:13,2024-03-31
+10:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 40m,Vueling,184 €,2024-03-13 09:01:13,2024-03-31
+9:30,15:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BRS,5h 40m,easyJet,162 €,2024-03-13 09:01:13,2024-03-31
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,162 €,2024-03-13 09:01:13,2024-03-31
+12:15,18:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MXP,5h 45m,"Vueling, easyJet",170 €,2024-03-13 09:01:13,2024-03-31
+9:30,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BRS,8h 45m,easyJet,141 €,2024-03-13 09:01:13,2024-03-31
+15:15,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Vueling,201 €,2024-03-13 09:01:13,2024-03-31
+15:15,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,194 €,2024-03-13 09:01:13,2024-03-31
+17:30,21:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAN,4h 20m,"easyJet, KLM",230 €,2024-03-13 09:01:13,2024-03-31
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Iberia,261 €,2024-03-13 09:01:13,2024-03-31
+10:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 45m,Vueling,199 €,2024-03-13 09:01:13,2024-03-31
+7:00,12:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,5h 20m,"Vueling, Transavia",213 €,2024-03-13 09:01:13,2024-03-31
+10:55,17:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 10m,"Vueling, Transavia",194 €,2024-03-13 09:01:13,2024-03-31
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,337 €,2024-03-13 09:01:13,2024-03-31
+14:05,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 25m,Lufthansa,334 €,2024-03-13 09:01:13,2024-03-31
+12:45,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 45m,"Air Europa, Iberia",224 €,2024-03-13 09:01:13,2024-03-31
+7:00,13:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,6h 15m,Vueling,203 €,2024-03-13 09:01:13,2024-03-31
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Vueling,188 €,2024-03-13 09:01:13,2024-03-31
+12:45,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 45m,"Air Europa, Iberia Express",225 €,2024-03-13 09:01:13,2024-03-31
+9:45,16:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VIE,6h 30m,"Wizz Air Malta, KLM",213 €,2024-03-13 09:01:13,2024-03-31
+8:55,17:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 10m,"Vueling, Transavia",179 €,2024-03-13 09:01:13,2024-03-31
+11:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,4h 50m,Lufthansa,322 €,2024-03-13 09:01:13,2024-03-31
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,Air France,243 €,2024-03-13 09:01:13,2024-03-31
+10:05,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 30m,easyJet,193 €,2024-03-13 09:01:13,2024-03-31
+12:45,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Air Europa,279 €,2024-03-13 09:01:13,2024-03-31
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,Air France,293 €,2024-03-13 09:01:13,2024-03-31
+10:05,16:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 15m,easyJet,225 €,2024-03-13 09:01:13,2024-03-31
+8:30,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 05m,Air Europa,180 €,2024-03-13 09:01:13,2024-03-31
+19:10,0:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,OPO,4h 55m,"Vueling, Transavia",296 €,2024-03-13 09:01:13,2024-03-31
+10:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 40m,easyJet,232 €,2024-03-13 09:01:13,2024-03-31
+10:05,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 30m,"easyJet Europe, easyJet",203 €,2024-03-13 09:01:13,2024-03-31
+10:05,16:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 15m,"easyJet Europe, easyJet",235 €,2024-03-13 09:01:13,2024-03-31
+19:10,0:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,5h 30m,"Volotea, Transavia",274 €,2024-03-13 09:01:13,2024-03-31
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Vueling,418 €,2024-03-13 09:01:13,2024-03-31
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,Air France,334 €,2024-03-13 09:01:13,2024-03-31
+7:00,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,7h 05m,"Vueling, easyJet",219 €,2024-03-13 09:01:13,2024-03-31
+13:55,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,5h 50m,"Vueling, easyJet",282 €,2024-03-13 09:01:13,2024-03-31
+10:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 40m,Iberia,439 €,2024-03-13 09:01:13,2024-03-31
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,Air France,252 €,2024-03-13 09:01:13,2024-03-31
+7:00,14:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 20m,"Vueling, easyJet",236 €,2024-03-13 09:01:13,2024-03-31
+13:55,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 30m,"Vueling, easyJet",275 €,2024-03-13 09:01:13,2024-03-31
+13:55,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 40m,"Vueling, British Airways",271 €,2024-03-13 09:01:13,2024-03-31
+10:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 40m,"easyJet Europe, easyJet",235 €,2024-03-13 09:01:13,2024-03-31
+12:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 40m,"Vueling, KLM",341 €,2024-03-13 09:01:13,2024-03-31
+10:05,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,8h 10m,easyJet,217 €,2024-03-13 09:01:13,2024-03-31
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,211 €,2024-03-13 09:01:13,2024-03-31
+10:05,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,8h 10m,"easyJet Europe, easyJet",224 €,2024-03-13 09:01:13,2024-03-31
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,Air France,311 €,2024-03-13 09:01:13,2024-03-31
+10:05,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LCY,7h 30m,"easyJet, British Airways",245 €,2024-03-13 09:01:13,2024-03-31
+10:05,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LCY,7h 30m,"easyJet Europe, British Airways",248 €,2024-03-13 09:01:13,2024-03-31
+7:35,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 25m,Lufthansa,322 €,2024-03-13 09:01:13,2024-03-31
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,KLM,348 €,2024-03-13 09:01:13,2024-03-31
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, KLM",349 €,2024-03-13 09:01:13,2024-03-31
+15:15,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Iberia,457 €,2024-03-13 09:01:13,2024-03-31
+9:45,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VIE,7h 05m,"Wizz Air Malta, Austrian Airlines",302 €,2024-03-13 09:01:13,2024-03-31
+8:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, PMI",9h 15m,Varias aerolíneas,182 €,2024-03-13 09:01:13,2024-03-31
+13:55,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,8h 05m,"Vueling, easyJet",275 €,2024-03-13 09:01:13,2024-03-31
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,KLM,371 €,2024-03-13 09:01:13,2024-03-31
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,397 €,2024-03-13 09:01:13,2024-03-31
+11:35,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, FRA",6h 55m,Lufthansa,374 €,2024-03-13 09:01:13,2024-03-31
+13:55,22:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,8h 25m,"Vueling, easyJet",271 €,2024-03-13 09:01:13,2024-03-31
+13:55,22:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,8h 25m,"Vueling, easyJet",274 €,2024-03-13 09:01:13,2024-03-31
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,"Air Europa, KLM",392 €,2024-03-13 09:01:13,2024-03-31
+9:45,17:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"VIE, SPU",8h 10m,Varias aerolíneas,261 €,2024-03-13 09:01:13,2024-03-31
+15:15,23:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BCN, NCE",8h 40m,"Vueling, Transavia",261 €,2024-03-13 09:01:13,2024-03-31
+8:55,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BCN, LGW",8h 40m,"Vueling, easyJet",266 €,2024-03-13 09:01:13,2024-03-31
+15:15,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,439 €,2024-03-13 09:01:13,2024-03-31
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,Air Europa,443 €,2024-03-13 09:01:13,2024-03-31
+10:05,18:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,8h 35m,"easyJet, British Airways",273 €,2024-03-13 09:01:13,2024-03-31
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"CDG, LYS",6h 30m,"Air France, KLM",416 €,2024-03-13 09:01:13,2024-03-31
+7:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,322 €,2024-03-13 09:01:13,2024-03-31
+10:05,18:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,8h 35m,"easyJet Europe, British Airways",276 €,2024-03-13 09:01:13,2024-03-31
+14:05,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 35m,Lufthansa,412 €,2024-03-13 09:01:13,2024-03-31
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,347 €,2024-03-13 09:01:13,2024-03-31
+12:20,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,SCQ,8h 05m,Vueling,377 €,2024-03-13 09:01:13,2024-03-31
+6:45,13:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,7h 05m,Lufthansa,463 €,2024-03-13 09:01:13,2024-03-31
+10:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 45m,Iberia,497 €,2024-03-13 09:01:13,2024-03-31
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,SWISS,412 €,2024-03-13 09:01:13,2024-03-31
+8:55,18:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,9h 05m,Vueling,333 €,2024-03-13 09:01:13,2024-03-31
+6:45,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",8h 15m,Lufthansa,447 €,2024-03-13 09:01:13,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,British Airways,445 €,2024-03-13 09:01:13,2024-03-31
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 15m,Iberia,431 €,2024-03-13 09:01:13,2024-03-31
+11:35,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, ZRH",7h 40m,SWISS,504 €,2024-03-13 09:01:13,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,British Airways,445 €,2024-03-13 09:01:13,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,British Airways,445 €,2024-03-13 09:01:13,2024-03-31
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Iberia,455 €,2024-03-13 09:01:13,2024-03-31
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, VIE",8h 25m,"Brussels Airlines, Austrian Airlines",483 €,2024-03-13 09:01:13,2024-03-31
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, VIE",8h 25m,"Brussels Airlines, Austrian Airlines",487 €,2024-03-13 09:01:13,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",495 €,2024-03-13 09:01:13,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",495 €,2024-03-13 09:01:13,2024-03-31
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",495 €,2024-03-13 09:01:13,2024-03-31
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,526 €,2024-03-13 09:01:13,2024-03-31
+13:50,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, MUC",7h 50m,"Brussels Airlines, Lufthansa",566 €,2024-03-13 09:01:13,2024-03-31
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 10m,Lufthansa,562 €,2024-03-13 09:01:13,2024-03-31
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,"Lufthansa, SWISS",572 €,2024-03-13 09:01:13,2024-03-31
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,877 €,2024-03-13 09:01:13,2024-03-31
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,"Lufthansa, Austrian Airlines",624 €,2024-03-13 09:01:13,2024-03-31
+7:35,13:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,5h 50m,"Lufthansa, KLM",796 €,2024-03-13 09:01:13,2024-03-31
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1120 €,2024-03-13 09:01:13,2024-03-31
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,KLM,1120 €,2024-03-13 09:01:13,2024-03-31
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,KLM,1120 €,2024-03-13 09:01:13,2024-03-31
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,KLM,1120 €,2024-03-13 09:01:13,2024-03-31
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, FRA",8h 25m,"Brussels Airlines, Lufthansa",985 €,2024-03-13 09:01:13,2024-03-31
+17:40,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 20m,"Iberia, KLM",361 €,2024-03-13 09:01:13,2024-03-31
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,KLM,1120 €,2024-03-13 09:01:13,2024-03-31
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,KLM,1120 €,2024-03-13 09:01:13,2024-03-31
+16:10,23:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUB,7h 15m,"Aer Lingus, KLM",1165 €,2024-03-13 09:01:13,2024-03-31
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1120 €,2024-03-13 09:01:13,2024-03-31
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1120 €,2024-03-13 09:01:13,2024-03-31
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1560 €,2024-03-13 09:01:13,2024-03-31
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1593 €,2024-03-13 09:01:13,2024-03-31
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,"Air France, KLM",1560 €,2024-03-13 09:01:13,2024-03-31
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,"Air France, KLM",1560 €,2024-03-13 09:01:13,2024-03-31
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,"Air France, KLM",1560 €,2024-03-13 09:01:13,2024-03-31
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, FRA",8h 25m,"Brussels Airlines, Lufthansa",1427 €,2024-03-13 09:01:13,2024-03-31
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, FRA",8h 25m,"Brussels Airlines, Lufthansa",1427 €,2024-03-13 09:01:13,2024-03-31
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,"Air France, KLM",1562 €,2024-03-13 09:01:13,2024-03-31
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,"Air France, KLM",1563 €,2024-03-13 09:01:13,2024-03-31
+11:35,19:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,2 escalas,"MUC, CPH",8h 00m,1543 €,2024-03-13 09:01:13,2024-03-31
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1562 €,2024-03-13 09:01:13,2024-03-31
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1563 €,2024-03-13 09:01:13,2024-03-31
+14:05,19:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, HAM",5h 45m,"Lufthansa, KLM",2184 €,2024-03-13 09:01:13,2024-03-31
+14:05,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, CPH",6h 30m,"Lufthansa, KLM",2175 €,2024-03-13 09:01:13,2024-03-31
+13:50,20:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, PRG",6h 15m,"Brussels Airlines, KLM",2288 €,2024-03-13 09:01:13,2024-03-31
+13:50,20:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, PRG",6h 50m,"Brussels Airlines, KLM",2288 €,2024-03-13 09:01:13,2024-03-31
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,"Lufthansa, SWISS",2370 €,2024-03-13 09:01:13,2024-03-31
+14:05,19:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,5h 05m,"Lufthansa, KLM",2987 €,2024-03-13 09:01:13,2024-03-31
+11:35,19:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 50m,"Lufthansa, KLM",2857 €,2024-03-13 09:01:13,2024-03-31
+6:45,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 45m,"Lufthansa, KLM",3078 €,2024-03-13 09:01:13,2024-03-31
+7:35,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 05m,"Lufthansa, KLM",2945 €,2024-03-13 09:01:13,2024-03-31
+6:45,13:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 15m,"Lufthansa, KLM",3078 €,2024-03-13 09:01:13,2024-03-31
+14:05,20:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 25m,"Lufthansa, KLM",3078 €,2024-03-13 09:01:13,2024-03-31
+6:45,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 50m,"Lufthansa, KLM",3078 €,2024-03-13 09:01:13,2024-03-31
+6:45,16:55,Bilbao,BIO,Los Ángeles,LAX,FRA,19h 10m,"Lufthansa, Condor",560 €,2024-03-13 09:02:20,2024-04-30
+6:50,14:50,Bilbao,BIO,Los Ángeles,LAX,AMS,17h 00m,KLM,672 €,2024-03-13 09:02:20,2024-04-30
+10:30,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 35m,KLM,738 €,2024-03-13 09:02:20,2024-04-30
+10:30,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 35m,Air France,738 €,2024-03-13 09:02:20,2024-04-30
+7:10,13:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 55m,Delta,737 €,2024-03-13 09:02:20,2024-04-30
+7:10,13:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 55m,Air France,738 €,2024-03-13 09:02:20,2024-04-30
+7:10,13:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 55m,KLM,738 €,2024-03-13 09:02:20,2024-04-30
+7:00,14:35,Bilbao,BIO,Los Ángeles,LAX,LGW-LHR,16h 35m,"Vueling, Iberia",663 €,2024-03-13 09:02:20,2024-04-30
+10:30,18:20,Bilbao,BIO,Los Ángeles,LAX,CDG,16h 50m,KLM,732 €,2024-03-13 09:02:20,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,"Lufthansa, Air India",779 €,2024-03-13 09:02:20,2024-04-30
+6:50,14:50,Bilbao,BIO,Los Ángeles,LAX,AMS,17h 00m,Delta,733 €,2024-03-13 09:02:20,2024-04-30
+10:30,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 35m,Delta,821 €,2024-03-13 09:02:20,2024-04-30
+7:10,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,17h 55m,Delta,737 €,2024-03-13 09:02:20,2024-04-30
+7:10,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,17h 55m,KLM,738 €,2024-03-13 09:02:20,2024-04-30
+7:10,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,17h 55m,Air France,738 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:28,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",22h 43m,Varias aerolíneas,590 €,2024-03-13 09:02:20,2024-04-30
+7:05,16:55,Bilbao,BIO,Los Ángeles,LAX,"MXP, FRA",18h 50m,Varias aerolíneas,592 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",21h 13m,Varias aerolíneas,621 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:45,Bilbao,BIO,Los Ángeles,LAX,"FRA, SEA",23h 00m,Varias aerolíneas,600 €,2024-03-13 09:02:20,2024-04-30
+7:10,18:20,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 10m,KLM,732 €,2024-03-13 09:02:20,2024-04-30
+10:30,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 15m,Delta,737 €,2024-03-13 09:02:20,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, DUB, ...",23h 55m,"KLM, WestJet",536 €,2024-03-13 09:02:20,2024-04-30
+10:30,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 15m,Air France,738 €,2024-03-13 09:02:20,2024-04-30
+10:30,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 15m,KLM,738 €,2024-03-13 09:02:20,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,Finnair,807 €,2024-03-13 09:02:20,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,Iberia,804 €,2024-03-13 09:02:20,2024-04-30
+6:50,17:15,Bilbao,BIO,Los Ángeles,LAX,"AMS, IAH",19h 25m,Delta,738 €,2024-03-13 09:02:20,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,Lufthansa,843 €,2024-03-13 09:02:20,2024-04-30
+7:10,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,23h 35m,Air France,684 €,2024-03-13 09:02:20,2024-04-30
+6:50,18:02,Bilbao,BIO,Los Ángeles,LAX,"AMS, DTW",20h 12m,Delta,734 €,2024-03-13 09:02:20,2024-04-30
+12:00,20:44,Bilbao,BIO,Los Ángeles,LAX,"AMS, SEA",17h 44m,Delta,818 €,2024-03-13 09:02:20,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,Iberia,812 €,2024-03-13 09:02:20,2024-04-30
+6:50,16:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, SLC",18h 30m,Delta,818 €,2024-03-13 09:02:20,2024-04-30
+7:10,14:15,Bilbao,BIO,Los Ángeles,LAX,CDG,16h 05m,"Air France, Air Tahiti Nui",772 €,2024-03-13 09:02:20,2024-04-30
+6:50,19:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, PDX",21h 35m,Delta,734 €,2024-03-13 09:02:20,2024-04-30
+7:10,18:20,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 10m,Delta,819 €,2024-03-13 09:02:20,2024-04-30
+7:00,18:05,Bilbao,BIO,Los Ángeles,LAX,LGW-LHR,20h 05m,"Vueling, Iberia",663 €,2024-03-13 09:02:20,2024-04-30
+6:50,20:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, DTW",22h 30m,Delta,734 €,2024-03-13 09:02:20,2024-04-30
+6:50,20:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, DTW",22h 30m,Delta,734 €,2024-03-13 09:02:20,2024-04-30
+7:10,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,23h 35m,KLM,738 €,2024-03-13 09:02:20,2024-04-30
+7:10,18:02,Bilbao,BIO,Los Ángeles,LAX,"CDG, DTW",19h 52m,Delta,824 €,2024-03-13 09:02:20,2024-04-30
+6:50,18:22,Bilbao,BIO,Los Ángeles,LAX,"AMS, SLC",20h 32m,Delta,818 €,2024-03-13 09:02:20,2024-04-30
+7:00,17:05,Bilbao,BIO,Los Ángeles,LAX,LGW-LHR,19h 05m,"Vueling, Iberia",703 €,2024-03-13 09:02:20,2024-04-30
+12:00,23:53,Bilbao,BIO,Los Ángeles,LAX,"AMS, MSP",20h 53m,Delta,818 €,2024-03-13 09:02:20,2024-04-30
+12:00,0:34,Bilbao,BIO,Los Ángeles,LAX,"AMS, SEA",21h 34m,Delta,818 €,2024-03-13 09:02:20,2024-04-30
+10:30,22:30,Bilbao,BIO,Los Ángeles,LAX,"CDG, DTW",21h 00m,Delta,828 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",20h 05m,Iberia,820 €,2024-03-13 09:02:20,2024-04-30
+7:05,18:05,Bilbao,BIO,Los Ángeles,LAX,"MXP, LGW-LHR",20h 00m,Varias aerolíneas,685 €,2024-03-13 09:02:20,2024-04-30
+7:10,20:20,Bilbao,BIO,Los Ángeles,LAX,"CDG, DTW",22h 10m,Delta,824 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, BOS",21h 23m,Iberia,820 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, BOS",23h 51m,Varias aerolíneas,720 €,2024-03-13 09:02:20,2024-04-30
+8:55,20:15,Bilbao,BIO,Los Ángeles,LAX,"BCN, LGW-LHR",20h 20m,"Vueling, Iberia",710 €,2024-03-13 09:02:20,2024-04-30
+8:30,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 48m,"Air Europa, Iberia",775 €,2024-03-13 09:02:20,2024-04-30
+8:30,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 12m,"Air Europa, Iberia",797 €,2024-03-13 09:02:20,2024-04-30
+7:40,20:15,Bilbao,BIO,Los Ángeles,LAX,"BCN, LGW-LHR",21h 35m,"Vueling, Iberia",705 €,2024-03-13 09:02:20,2024-04-30
+7:00,14:55,Bilbao,BIO,Los Ángeles,LAX,LGW-LHR,16h 55m,"Vueling, Iberia",822 €,2024-03-13 09:02:20,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,"Iberia, Finnair",985 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:48,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",21h 33m,Iberia,904 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:28,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",20h 13m,"Iberia, Alaska Airlines",821 €,2024-03-13 09:02:20,2024-04-30
+9:15,22:10,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",21h 55m,Iberia,904 €,2024-03-13 09:02:20,2024-04-30
+10:30,18:20,Bilbao,BIO,Los Ángeles,LAX,CDG,16h 50m,Delta,1057 €,2024-03-13 09:02:20,2024-04-30
+13:20,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,17h 25m,"Vueling, Air France",882 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:28,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",20h 13m,Varias aerolíneas,963 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, JFK",22h 50m,Varias aerolíneas,860 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",21h 13m,"Lufthansa, Condor",898 €,2024-03-13 09:02:20,2024-04-30
+9:15,23:11,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",22h 56m,Varias aerolíneas,938 €,2024-03-13 09:02:20,2024-04-30
+7:10,16:20,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",18h 10m,Delta,1062 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:28,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",22h 43m,"Lufthansa, Condor",898 €,2024-03-13 09:02:20,2024-04-30
+7:40,19:43,Bilbao,BIO,Los Ángeles,LAX,"BCN, ORD",21h 03m,Varias aerolíneas,852 €,2024-03-13 09:02:20,2024-04-30
+7:10,17:29,Bilbao,BIO,Los Ángeles,LAX,"CDG, SFO",19h 19m,Delta,1064 €,2024-03-13 09:02:20,2024-04-30
+7:10,21:45,Bilbao,BIO,Los Ángeles,LAX,"CDG, YYC",23h 35m,WestJet,951 €,2024-03-13 09:02:20,2024-04-30
+7:10,17:42,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",19h 32m,Delta,1066 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,"Finnair, American Airlines",987 €,2024-03-13 09:02:20,2024-04-30
+10:30,21:33,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 03m,Delta,1066 €,2024-03-13 09:02:20,2024-04-30
+7:10,18:22,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",20h 12m,Delta,1062 €,2024-03-13 09:02:20,2024-04-30
+10:30,22:04,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",20h 34m,Delta,1066 €,2024-03-13 09:02:20,2024-04-30
+6:50,19:09,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",21h 19m,Delta,1056 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,"Finnair, JetBlue",1071 €,2024-03-13 09:02:20,2024-04-30
+7:10,20:26,Bilbao,BIO,Los Ángeles,LAX,"CDG, SFO",22h 16m,Delta,1064 €,2024-03-13 09:02:20,2024-04-30
+7:10,13:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 55m,Air France,1207 €,2024-03-13 09:02:20,2024-04-30
+8:30,19:43,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",20h 13m,Varias aerolíneas,951 €,2024-03-13 09:02:20,2024-04-30
+8:30,22:04,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",22h 34m,Delta,1072 €,2024-03-13 09:02:20,2024-04-30
+6:50,14:50,Bilbao,BIO,Los Ángeles,LAX,AMS,17h 00m,"Aeromexico, KLM",1203 €,2024-03-13 09:02:20,2024-04-30
+7:10,16:20,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",18h 10m,KLM,1162 €,2024-03-13 09:02:20,2024-04-30
+6:50,16:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, SLC",18h 30m,KLM,1156 €,2024-03-13 09:02:20,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,"Iberia, Finnair",1185 €,2024-03-13 09:02:20,2024-04-30
+10:30,21:45,Bilbao,BIO,Los Ángeles,LAX,"CDG, YYC",20h 15m,WestJet,1134 €,2024-03-13 09:02:20,2024-04-30
+7:10,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,17h 55m,Air France,1207 €,2024-03-13 09:02:20,2024-04-30
+10:30,16:05,Bilbao,BIO,Los Ángeles,LAX,CDG,14h 35m,Air France,1294 €,2024-03-13 09:02:20,2024-04-30
+10:30,21:33,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 03m,KLM,1166 €,2024-03-13 09:02:20,2024-04-30
+7:10,18:31,Bilbao,BIO,Los Ángeles,LAX,"CDG, SEA",20h 21m,KLM,1166 €,2024-03-13 09:02:20,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,KLM,1162 €,2024-03-13 09:02:20,2024-04-30
+6:50,19:09,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",21h 19m,KLM,1156 €,2024-03-13 09:02:20,2024-04-30
+6:50,19:09,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",21h 19m,KLM,1156 €,2024-03-13 09:02:20,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,Air France,1162 €,2024-03-13 09:02:20,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,United Airlines,1300 €,2024-03-13 09:02:20,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,"Lufthansa, United Airlines",1300 €,2024-03-13 09:02:20,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,Air France,1166 €,2024-03-13 09:02:20,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,KLM,1166 €,2024-03-13 09:02:20,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,Air France,1166 €,2024-03-13 09:02:20,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,KLM,1166 €,2024-03-13 09:02:20,2024-04-30
+7:10,18:22,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",20h 12m,KLM,1186 €,2024-03-13 09:02:20,2024-04-30
+6:50,19:09,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",21h 19m,Delta,1192 €,2024-03-13 09:02:20,2024-04-30
+10:30,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,20h 15m,Air France,1207 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:17,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",20h 02m,Iberia,1198 €,2024-03-13 09:02:20,2024-04-30
+6:50,19:18,Bilbao,BIO,Los Ángeles,LAX,"AMS, LAS",21h 28m,KLM,1170 €,2024-03-13 09:02:20,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,Brussels Airlines,1319 €,2024-03-13 09:02:20,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,Austrian Airlines,1319 €,2024-03-13 09:02:20,2024-04-30
+6:50,20:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",22h 35m,KLM,1156 €,2024-03-13 09:02:20,2024-04-30
+7:10,14:50,Bilbao,BIO,Los Ángeles,LAX,"CDG, AMS",16h 40m,KLM,1282 €,2024-03-13 09:02:20,2024-04-30
+6:50,20:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",22h 35m,KLM,1162 €,2024-03-13 09:02:20,2024-04-30
+7:10,14:50,Bilbao,BIO,Los Ángeles,LAX,"CDG, AMS",16h 40m,Air France,1284 €,2024-03-13 09:02:20,2024-04-30
+7:10,20:44,Bilbao,BIO,Los Ángeles,LAX,"CDG, SEA",22h 34m,KLM,1166 €,2024-03-13 09:02:20,2024-04-30
+7:10,18:38,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",20h 28m,Air France,1212 €,2024-03-13 09:02:20,2024-04-30
+10:30,0:34,Bilbao,BIO,Los Ángeles,LAX,"CDG, SEA",23h 04m,KLM,1162 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:30,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",21h 15m,Iberia,1198 €,2024-03-13 09:02:20,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,KLM,1202 €,2024-03-13 09:02:20,2024-04-30
+8:30,18:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, CDG",18h 50m,"Air Europa, Air France",1251 €,2024-03-13 09:02:20,2024-04-30
+6:45,14:55,Bilbao,BIO,Los Ángeles,LAX,"FRA, MUC",17h 10m,Lufthansa,1292 €,2024-03-13 09:02:20,2024-04-30
+6:45,13:00,Bilbao,BIO,Los Ángeles,LAX,FRA,15h 15m,"Lufthansa, Air India",1353 €,2024-03-13 09:02:20,2024-04-30
+6:50,16:40,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",18h 50m,KLM,1264 €,2024-03-13 09:02:20,2024-04-30
+6:50,16:40,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",18h 50m,"KLM, Virgin Atlantic",1264 €,2024-03-13 09:02:20,2024-04-30
+6:50,18:38,Bilbao,BIO,Los Ángeles,LAX,"AMS, ATL",20h 48m,Delta,1253 €,2024-03-13 09:02:20,2024-04-30
+7:10,18:38,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",20h 28m,Delta,1263 €,2024-03-13 09:02:20,2024-04-30
+8:30,22:04,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",22h 34m,KLM,1195 €,2024-03-13 09:02:20,2024-04-30
+10:30,23:29,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",21h 59m,Air France,1208 €,2024-03-13 09:02:20,2024-04-30
+7:10,20:25,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",22h 15m,KLM,1202 €,2024-03-13 09:02:20,2024-04-30
+6:50,20:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",22h 35m,KLM,1197 €,2024-03-13 09:02:20,2024-04-30
+10:30,23:29,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",21h 59m,Air France,1212 €,2024-03-13 09:02:20,2024-04-30
+6:50,17:15,Bilbao,BIO,Los Ángeles,LAX,"AMS, YYC",19h 25m,KLM,1262 €,2024-03-13 09:02:20,2024-04-30
+7:10,22:36,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",24h 26m,Air France,1162 €,2024-03-13 09:02:20,2024-04-30
+7:10,20:25,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",22h 15m,KLM,1207 €,2024-03-13 09:02:20,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,Delta,1259 €,2024-03-13 09:02:20,2024-04-30
+6:50,16:05,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 15m,KLM,1289 €,2024-03-13 09:02:20,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,Delta,1263 €,2024-03-13 09:02:20,2024-04-30
+10:30,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",21h 11m,Delta,1263 €,2024-03-13 09:02:20,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,KLM,1289 €,2024-03-13 09:02:20,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,KLM,1289 €,2024-03-13 09:02:20,2024-04-30
+7:10,21:45,Bilbao,BIO,Los Ángeles,LAX,CDG,23h 35m,Air France,1207 €,2024-03-13 09:02:20,2024-04-30
+6:50,16:40,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",18h 50m,"KLM, Air France",1284 €,2024-03-13 09:02:20,2024-04-30
+7:10,18:38,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",20h 28m,KLM,1259 €,2024-03-13 09:02:20,2024-04-30
+10:30,22:04,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",20h 34m,KLM,1259 €,2024-03-13 09:02:20,2024-04-30
+7:10,21:31,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",23h 21m,KLM,1202 €,2024-03-13 09:02:20,2024-04-30
+6:50,18:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",20h 30m,KLM,1287 €,2024-03-13 09:02:20,2024-04-30
+6:50,18:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",20h 30m,KLM,1287 €,2024-03-13 09:02:20,2024-04-30
+6:50,21:31,Bilbao,BIO,Los Ángeles,LAX,"AMS, JFK",23h 41m,KLM,1197 €,2024-03-13 09:02:20,2024-04-30
+11:35,21:55,Bilbao,BIO,Los Ángeles,LAX,"MUC, DEN",19h 20m,United Airlines,1288 €,2024-03-13 09:02:20,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,Lufthansa,1305 €,2024-03-13 09:02:20,2024-04-30
+7:10,21:33,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",23h 23m,KLM,1207 €,2024-03-13 09:02:20,2024-04-30
+7:10,21:33,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",23h 23m,KLM,1207 €,2024-03-13 09:02:20,2024-04-30
+11:35,22:14,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",19h 39m,United Airlines,1288 €,2024-03-13 09:02:20,2024-04-30
+11:35,22:14,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",19h 39m,Lufthansa,1288 €,2024-03-13 09:02:20,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,"KLM, Air France",1312 €,2024-03-13 09:02:20,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,"KLM, Air France",1312 €,2024-03-13 09:02:20,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,"KLM, Air France",1312 €,2024-03-13 09:02:20,2024-04-30
+12:00,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",18h 45m,"KLM, Air France",1312 €,2024-03-13 09:02:20,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,"Lufthansa, United Airlines",1315 €,2024-03-13 09:02:20,2024-04-30
+11:35,22:49,Bilbao,BIO,Los Ángeles,LAX,"MUC, YVR",20h 14m,Air Canada,1284 €,2024-03-13 09:02:20,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,Lufthansa,1305 €,2024-03-13 09:02:20,2024-04-30
+8:55,21:48,Bilbao,BIO,Los Ángeles,LAX,"BCN, SFO",21h 53m,Iberia,1280 €,2024-03-13 09:02:20,2024-04-30
+11:35,21:55,Bilbao,BIO,Los Ángeles,LAX,"MUC, DEN",19h 20m,Lufthansa,1308 €,2024-03-13 09:02:20,2024-04-30
+11:35,22:49,Bilbao,BIO,Los Ángeles,LAX,"MUC, YVR",20h 14m,"Lufthansa, Air Canada",1290 €,2024-03-13 09:02:20,2024-04-30
+7:10,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",24h 31m,Air France,1203 €,2024-03-13 09:02:20,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,Lufthansa,1325 €,2024-03-13 09:02:20,2024-04-30
+7:10,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",24h 31m,Air France,1207 €,2024-03-13 09:02:20,2024-04-30
+11:35,22:14,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",19h 39m,Lufthansa,1308 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:32,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",19h 47m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+7:10,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",24h 31m,Air France,1208 €,2024-03-13 09:02:20,2024-04-30
+7:10,22:41,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",24h 31m,Air France,1212 €,2024-03-13 09:02:20,2024-04-30
+7:10,20:30,Bilbao,BIO,Los Ángeles,LAX,"CDG, ATL",22h 20m,KLM,1259 €,2024-03-13 09:02:20,2024-04-30
+7:10,20:25,Bilbao,BIO,Los Ángeles,LAX,"CDG, LHR",22h 15m,Air France,1288 €,2024-03-13 09:02:20,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,Air Canada,1324 €,2024-03-13 09:02:20,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,Lufthansa,1325 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:03,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAH",20h 18m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:10,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",20h 25m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+11:35,23:58,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",21h 23m,United Airlines,1288 €,2024-03-13 09:02:20,2024-04-30
+11:35,23:58,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",21h 23m,Lufthansa,1288 €,2024-03-13 09:02:20,2024-04-30
+6:50,20:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",22h 35m,KLM,1290 €,2024-03-13 09:02:20,2024-04-30
+6:50,20:25,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",22h 35m,KLM,1290 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,Lufthansa,1325 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,Lufthansa,1325 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, United Airlines",1325 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, United Airlines",1325 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:34,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",20h 49m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:34,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",20h 49m,Lufthansa,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:32,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",19h 47m,Lufthansa,1325 €,2024-03-13 09:02:20,2024-04-30
+7:10,20:50,Bilbao,BIO,Los Ángeles,LAX,"CDG, LHR",22h 40m,"Air France, Virgin Atlantic",1297 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:52,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",21h 07m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:52,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",21h 07m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+11:35,0:36,Bilbao,BIO,Los Ángeles,LAX,"MUC, SFO",22h 01m,United Airlines,1288 €,2024-03-13 09:02:20,2024-04-30
+11:35,0:36,Bilbao,BIO,Los Ángeles,LAX,"MUC, SFO",22h 01m,Lufthansa,1288 €,2024-03-13 09:02:20,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,Lufthansa,1358 €,2024-03-13 09:02:20,2024-04-30
+11:35,0:45,Bilbao,BIO,Los Ángeles,LAX,"MUC, IAD",22h 10m,United Airlines,1288 €,2024-03-13 09:02:20,2024-04-30
+11:35,0:45,Bilbao,BIO,Los Ángeles,LAX,"MUC, IAD",22h 10m,Lufthansa,1288 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:03,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAH",20h 18m,Lufthansa,1325 €,2024-03-13 09:02:20,2024-04-30
+6:40,19:11,Bilbao,BIO,Los Ángeles,LAX,"FRA, YYZ",21h 31m,Air Canada,1302 €,2024-03-13 09:02:20,2024-04-30
+14:05,23:58,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",18h 53m,Lufthansa,1361 €,2024-03-13 09:02:20,2024-04-30
+11:35,23:58,Bilbao,BIO,Los Ángeles,LAX,"MUC, ORD",21h 23m,Lufthansa,1308 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:10,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",20h 25m,Austrian Airlines,1324 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:10,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",20h 25m,Lufthansa,1325 €,2024-03-13 09:02:20,2024-04-30
+7:10,20:50,Bilbao,BIO,Los Ángeles,LAX,"CDG, LHR",22h 40m,Air France,1285 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LGW-LHR",19h 35m,"Lufthansa, United Airlines",1347 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:28,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",21h 43m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:29,Bilbao,BIO,Los Ángeles,LAX,"FRA, SEA",21h 44m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,Lufthansa,1358 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:34,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",20h 49m,"Lufthansa, Air Canada",1325 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:01,Bilbao,BIO,Los Ángeles,LAX,"FRA, YUL",23h 16m,Air Canada,1275 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:01,Bilbao,BIO,Los Ángeles,LAX,"FRA, YUL",23h 16m,Air Canada,1275 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LGW-LHR",19h 35m,Lufthansa,1353 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAH",22h 02m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+14:05,0:36,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",19h 31m,Lufthansa,1361 €,2024-03-13 09:02:20,2024-04-30
+11:35,0:36,Bilbao,BIO,Los Ángeles,LAX,"MUC, SFO",22h 01m,"Lufthansa, Air New Zealand",1308 €,2024-03-13 09:02:20,2024-04-30
+6:50,20:50,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",23h 00m,KLM,1287 €,2024-03-13 09:02:20,2024-04-30
+6:50,20:50,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",23h 00m,KLM,1287 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:52,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",21h 07m,Lufthansa,1325 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:52,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",21h 07m,Lufthansa,1325 €,2024-03-13 09:02:20,2024-04-30
+11:35,0:45,Bilbao,BIO,Los Ángeles,LAX,"MUC, IAD",22h 10m,Lufthansa,1308 €,2024-03-13 09:02:20,2024-04-30
+12:00,20:44,Bilbao,BIO,Los Ángeles,LAX,"AMS, SEA",17h 44m,KLM,1403 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:26,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",22h 41m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:26,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",22h 41m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:26,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",22h 41m,Lufthansa,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:26,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",22h 41m,Lufthansa,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:28,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",21h 43m,Lufthansa,1324 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:28,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",21h 43m,"Lufthansa, Air Canada",1325 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:29,Bilbao,BIO,Los Ángeles,LAX,"FRA, SEA",21h 44m,Lufthansa,1325 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",22h 50m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",22h 50m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:01,Bilbao,BIO,Los Ángeles,LAX,"FRA, YUL",23h 16m,"Lufthansa, Air Canada",1297 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:01,Bilbao,BIO,Los Ángeles,LAX,"FRA, YUL",23h 16m,"Lufthansa, Air Canada",1297 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:50,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",23h 05m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:50,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",23h 05m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:56,Bilbao,BIO,Los Ángeles,LAX,"FRA, YYZ",24h 11m,Air Canada,1281 €,2024-03-13 09:02:20,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1289 €,2024-03-13 09:02:20,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1289 €,2024-03-13 09:02:20,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1289 €,2024-03-13 09:02:20,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1291 €,2024-03-13 09:02:20,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1291 €,2024-03-13 09:02:20,2024-04-30
+6:50,21:45,Bilbao,BIO,Los Ángeles,LAX,"AMS, CDG",23h 55m,KLM,1291 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,Lufthansa,1311 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,Lufthansa,1311 €,2024-03-13 09:02:20,2024-04-30
+21:05,11:50,Bilbao,BIO,Los Ángeles,LAX,"MAD, AMS",23h 45m,"Air Europa, KLM",1277 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:23,Bilbao,BIO,Los Ángeles,LAX,"FRA, BOS",23h 38m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",23h 50m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+13:40,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",18h 18m,Iberia,1421 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",23h 57m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAD",23h 57m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,SWISS,1324 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:42,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",22h 57m,Lufthansa,1324 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",24h 02m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",24h 02m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:56,Bilbao,BIO,Los Ángeles,LAX,"FRA, YYZ",24h 11m,"Lufthansa, Air Canada",1302 €,2024-03-13 09:02:20,2024-04-30
+6:40,21:56,Bilbao,BIO,Los Ángeles,LAX,"FRA, YYZ",24h 16m,Air Canada,1302 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:55,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAH",24h 10m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:55,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",24h 10m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:55,Bilbao,BIO,Los Ángeles,LAX,"FRA, IAH",24h 10m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:55,Bilbao,BIO,Los Ángeles,LAX,"FRA, DEN",24h 10m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+12:00,20:44,Bilbao,BIO,Los Ángeles,LAX,"AMS, SEA",17h 44m,KLM,1440 €,2024-03-13 09:02:20,2024-04-30
+6:50,17:15,Bilbao,BIO,Los Ángeles,LAX,"AMS, IAH",19h 25m,"Aeromexico, KLM",1404 €,2024-03-13 09:02:20,2024-04-30
+6:45,22:14,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",24h 29m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:45,22:14,Bilbao,BIO,Los Ángeles,LAX,"FRA, ORD",24h 29m,United Airlines,1305 €,2024-03-13 09:02:20,2024-04-30
+6:50,17:15,Bilbao,BIO,Los Ángeles,LAX,"AMS, IAH",19h 25m,KLM,1411 €,2024-03-13 09:02:20,2024-04-30
+8:30,18:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",19h 08m,KLM,1419 €,2024-03-13 09:02:20,2024-04-30
+13:40,23:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 17m,Iberia,1421 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",23h 50m,Austrian Airlines,1324 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:35,Bilbao,BIO,Los Ángeles,LAX,"FRA, EWR",23h 50m,Lufthansa,1324 €,2024-03-13 09:02:20,2024-04-30
+10:30,21:14,Bilbao,BIO,Los Ángeles,LAX,"CDG, BOS",19h 44m,KLM,1411 €,2024-03-13 09:02:20,2024-04-30
+6:50,18:02,Bilbao,BIO,Los Ángeles,LAX,"AMS, DTW",20h 12m,"Aeromexico, KLM",1400 €,2024-03-13 09:02:20,2024-04-30
+7:10,18:02,Bilbao,BIO,Los Ángeles,LAX,"CDG, DTW",19h 52m,KLM,1409 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",24h 02m,Air Canada,1324 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:47,Bilbao,BIO,Los Ángeles,LAX,"FRA, SFO",24h 02m,Austrian Airlines,1324 €,2024-03-13 09:02:20,2024-04-30
+6:50,18:22,Bilbao,BIO,Los Ángeles,LAX,"AMS, SLC",20h 32m,"Aeromexico, KLM",1400 €,2024-03-13 09:02:20,2024-04-30
+8:30,18:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",19h 08m,KLM,1433 €,2024-03-13 09:02:20,2024-04-30
+12:00,20:44,Bilbao,BIO,Los Ángeles,LAX,"AMS, SEA",17h 44m,"Aeromexico, KLM",1487 €,2024-03-13 09:02:20,2024-04-30
+7:10,16:20,Bilbao,BIO,Los Ángeles,LAX,"CDG, SLC",18h 10m,"Air France, Aeromexico",1492 €,2024-03-13 09:02:20,2024-04-30
+6:50,16:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, SLC",18h 30m,"Aeromexico, KLM",1487 €,2024-03-13 09:02:20,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,Air France,1473 €,2024-03-13 09:02:20,2024-04-30
+7:10,19:09,Bilbao,BIO,Los Ángeles,LAX,"CDG, JFK",20h 59m,Delta,1581 €,2024-03-13 09:02:20,2024-04-30
+8:30,18:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",19h 08m,"Air Europa, Air France",1688 €,2024-03-13 09:02:20,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,Iberia,2188 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,Iberia,2188 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,Iberia,2188 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,Iberia,2214 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,Iberia,2214 €,2024-03-13 09:02:20,2024-04-30
+13:40,0:36,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 56m,"Iberia, Finnair",2212 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,Iberia,2214 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,Iberia,2214 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Iberia,2214 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Iberia,2214 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,Iberia,2220 €,2024-03-13 09:02:20,2024-04-30
+8:30,18:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",19h 08m,Delta,2611 €,2024-03-13 09:02:20,2024-04-30
+8:30,20:30,Bilbao,BIO,Los Ángeles,LAX,"MAD, ATL",21h 00m,Delta,2611 €,2024-03-13 09:02:20,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,British Airways,3319 €,2024-03-13 09:02:20,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,"Iberia, British Airways",3319 €,2024-03-13 09:02:20,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,British Airways,3319 €,2024-03-13 09:02:20,2024-04-30
+9:15,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",18h 27m,British Airways,3320 €,2024-03-13 09:02:20,2024-04-30
+9:15,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",18h 27m,Iberia,3320 €,2024-03-13 09:02:20,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,British Airways,3320 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,British Airways,3320 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,Iberia,3320 €,2024-03-13 09:02:20,2024-04-30
+13:40,23:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 17m,British Airways,3320 €,2024-03-13 09:02:20,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,American Airlines,3409 €,2024-03-13 09:02:20,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,"Iberia, American Airlines",3409 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",20h 05m,British Airways,3320 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,British Airways,3346 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,British Airways,3346 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",21h 06m,British Airways,3320 €,2024-03-13 09:02:20,2024-04-30
+9:15,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,15h 50m,British Airways,3428 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LGW-LHR",19h 20m,Iberia,3368 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LGW-LHR",19h 20m,British Airways,3368 €,2024-03-13 09:02:20,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,American Airlines,3409 €,2024-03-13 09:02:20,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,"Iberia, American Airlines",3409 €,2024-03-13 09:02:20,2024-04-30
+9:15,22:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 38m,British Airways,3320 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 35m,British Airways,3320 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 35m,British Airways,3320 €,2024-03-13 09:02:20,2024-04-30
+13:40,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",18h 18m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",18h 27m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,23:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",23h 38m,British Airways,3320 €,2024-03-13 09:02:20,2024-04-30
+13:40,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",18h 18m,Iberia,3406 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+13:40,23:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 17m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",19h 07m,American Airlines,3417 €,2024-03-13 09:02:20,2024-04-30
+6:45,16:05,Bilbao,BIO,Los Ángeles,LAX,MAD,18h 20m,British Airways,3428 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,British Airways,3414 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,British Airways,3414 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,Iberia,3406 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+13:40,0:36,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 56m,British Airways,3414 €,2024-03-13 09:02:20,2024-04-30
+13:40,0:36,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 56m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,Iberia,3406 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:17,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",20h 02m,British Airways,3414 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:17,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",20h 02m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:23,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 08m,Iberia,3394 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",20h 05m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",21h 06m,Iberia,3394 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",20h 07m,American Airlines,3417 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,Iberia,3394 €,2024-03-13 09:02:20,2024-04-30
+13:40,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",18h 18m,Alaska Airlines,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:47,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",20h 32m,British Airways,3414 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,Iberia,3406 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 36m,Royal Air Maroc,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,Iberia,3406 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:47,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",20h 32m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",18h 27m,Iberia,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,American Airlines,3440 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,American Airlines,3440 €,2024-03-13 09:02:20,2024-04-30
+7:10,17:20,Bilbao,BIO,Los Ángeles,LAX,"CDG, LHR",19h 10m,Varias aerolíneas,3417 €,2024-03-13 09:02:20,2024-04-30
+13:40,0:36,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",19h 56m,Royal Air Maroc,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:17,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",20h 02m,Royal Air Maroc,3433 €,2024-03-13 09:02:20,2024-04-30
+13:40,23:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",18h 58m,Alaska Airlines,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",20h 57m,British Airways,3414 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",20h 07m,Royal Air Maroc,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",20h 57m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:23,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 08m,British Airways,3414 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:23,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 08m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:30,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",21h 15m,British Airways,3414 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,American Airlines,3440 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,American Airlines,3440 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,British Airways,3414 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",19h 03m,British Airways,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",21h 06m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+13:40,23:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 17m,British Airways,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",19h 07m,Finnair,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:30,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",21h 15m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, Austrian Airlines",3424 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, Brussels Airlines",3424 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, Brussels Airlines",3424 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LHR",19h 35m,"Lufthansa, Austrian Airlines",3424 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, BOS",21h 23m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,American Airlines,3440 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,American Airlines,3440 €,2024-03-13 09:02:20,2024-04-30
+9:15,22:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 38m,Iberia,3394 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",21h 33m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:54,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",21h 39m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LGW-LHR",20h 20m,Iberia,3442 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",21h 37m,American Airlines,3417 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 43m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",19h 38m,Alaska Airlines,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,23:11,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",22h 56m,Iberia,3394 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:30,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",21h 15m,Royal Air Maroc,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,Iberia,3432 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 00m,Royal Air Maroc,3459 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",20h 05m,Finnair,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",22h 08m,American Airlines,3418 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:18,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",21h 33m,Royal Air Maroc,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LGW-LHR",19h 35m,"Lufthansa, Austrian Airlines",3446 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:20,Bilbao,BIO,Los Ángeles,LAX,"FRA, LGW-LHR",19h 35m,"Lufthansa, Brussels Airlines",3446 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Iberia,3432 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Iberia,3432 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",21h 37m,Royal Air Maroc,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,20:47,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",20h 32m,British Airways,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,Iberia,3459 €,2024-03-13 09:02:20,2024-04-30
+6:45,17:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",19h 20m,British Airways,3459 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:42,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",20h 57m,Iberia,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:23,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 08m,Finnair,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",21h 06m,Iberia,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:57,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",21h 12m,Alaska Airlines,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,22:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 38m,Royal Air Maroc,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:38,Bilbao,BIO,Los Ángeles,LAX,"MAD, BOS",21h 23m,Alaska Airlines,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:54,Bilbao,BIO,Los Ángeles,LAX,"MAD, PHL",21h 39m,Finnair,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,21:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",21h 43m,British Airways,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,British Airways,3459 €,2024-03-13 09:02:20,2024-04-30
+6:45,18:05,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",20h 20m,Iberia,3459 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,Finnair,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:51,Bilbao,BIO,Los Ángeles,LAX,"MAD, JFK",22h 06m,Finnair,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,19:53,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",22h 08m,Alaska Airlines,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,22:37,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",22h 22m,Iberia,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,16:05,,-,scala,1 e,18h 20m,"Iberia, British Airways",1,3564 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:17,Bilbao,BIO,Los Ángeles,LAX,"MAD, ORD",22h 32m,British Airways,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,21:48,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",24h 03m,Iberia,3402 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 35m,Alaska Airlines,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:20,Bilbao,BIO,Los Ángeles,LAX,"MAD, MIA",22h 35m,Alaska Airlines,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:22,Bilbao,BIO,Los Ángeles,LAX,"MAD, CLT",22h 37m,Iberia,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",22h 43m,Alaska Airlines,3433 €,2024-03-13 09:02:20,2024-04-30
+9:15,22:58,Bilbao,BIO,Los Ángeles,LAX,"MAD, DFW",22h 43m,Alaska Airlines,3433 €,2024-03-13 09:02:20,2024-04-30
+6:45,22:10,Bilbao,BIO,Los Ángeles,LAX,"MAD, SFO",24h 25m,Iberia,3402 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",22h 30m,Iberia,3459 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",22h 30m,Iberia,3459 €,2024-03-13 09:02:20,2024-04-30
+6:45,20:15,Bilbao,BIO,Los Ángeles,LAX,"MAD, LHR",22h 30m,British Airways,3459 €,2024-03-13 09:02:20,2024-04-30
+8:55,22:10,,-,scalas,2 e,22h 15m,Iberia,1,3571 €,2024-03-13 09:02:20,2024-04-30
+7:40,21:48,,-,scalas,2 e,23h 08m,Iberia,1,3571 €,2024-03-13 09:02:20,2024-04-30
+8:55,23:11,,-,scalas,2 e,23h 16m,Iberia,1,3571 €,2024-03-13 09:02:20,2024-04-30
+7:40,22:10,,-,scalas,2 e,23h 30m,Iberia,1,3571 €,2024-03-13 09:02:20,2024-04-30
+7:40,23:11,,-,scalas,2 e,24h 31m,Iberia,1,3571 €,2024-03-13 09:02:20,2024-04-30
+6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",19h 30m,Varias aerolíneas,5481 €,2024-03-13 09:02:20,2024-04-30
+6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LGW-LHR",19h 30m,Varias aerolíneas,5503 €,2024-03-13 09:02:20,2024-04-30
+6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",19h 30m,"KLM, Austrian Airlines",6737 €,2024-03-13 09:02:20,2024-04-30
+6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",19h 30m,"KLM, Lufthansa",6737 €,2024-03-13 09:02:20,2024-04-30
