@@ -1312,3 +1312,1590 @@ Departure Time,Arrival Time,Departure Airport,Departure_Cod,Arrival Airport,Arri
 6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LGW-LHR",19h 30m,Varias aerolíneas,5503 €,2024-03-13 09:02:20,2024-04-30
 6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",19h 30m,"KLM, Austrian Airlines",6737 €,2024-03-13 09:02:20,2024-04-30
 6:50,17:20,Bilbao,BIO,Los Ángeles,LAX,"AMS, LHR",19h 30m,"KLM, Lufthansa",6737 €,2024-03-13 09:02:20,2024-04-30
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,77 €,2024-03-13 16:31:09,2024-04-01
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,79 €,2024-03-13 16:31:09,2024-04-01
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,86 €,2024-03-13 16:31:09,2024-04-01
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,108 €,2024-03-13 16:31:09,2024-04-01
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 16:31:09,2024-04-01
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,106 €,2024-03-13 16:31:09,2024-04-01
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 16:31:09,2024-04-01
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,130 €,2024-03-13 16:31:09,2024-04-01
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,130 €,2024-03-13 16:31:09,2024-04-01
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 16:31:09,2024-04-01
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,137 €,2024-03-13 16:31:09,2024-04-01
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 16:31:09,2024-04-01
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,188 €,2024-03-13 16:31:09,2024-04-01
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",208 €,2024-03-13 16:31:09,2024-04-01
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,231 €,2024-03-13 16:31:09,2024-04-01
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",208 €,2024-03-13 16:31:09,2024-04-01
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",253 €,2024-03-13 16:31:09,2024-04-01
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",260 €,2024-03-13 16:31:09,2024-04-01
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,346 €,2024-03-13 16:31:09,2024-04-01
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,"Vueling, Iberia",353 €,2024-03-13 16:31:09,2024-04-01
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,472 €,2024-03-13 16:31:09,2024-04-01
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Iberia,553 €,2024-03-13 16:31:09,2024-04-01
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,584 €,2024-03-13 16:31:09,2024-04-01
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,594 €,2024-03-13 16:31:09,2024-04-01
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,672 €,2024-03-13 16:31:09,2024-04-01
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,77 €,2024-03-13 16:34:59,2024-04-01
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,79 €,2024-03-13 16:34:59,2024-04-01
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,86 €,2024-03-13 16:34:59,2024-04-01
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,108 €,2024-03-13 16:34:59,2024-04-01
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 16:34:59,2024-04-01
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,106 €,2024-03-13 16:34:59,2024-04-01
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 16:34:59,2024-04-01
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,130 €,2024-03-13 16:34:59,2024-04-01
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,130 €,2024-03-13 16:34:59,2024-04-01
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 16:34:59,2024-04-01
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,137 €,2024-03-13 16:34:59,2024-04-01
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 16:34:59,2024-04-01
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,188 €,2024-03-13 16:34:59,2024-04-01
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",208 €,2024-03-13 16:34:59,2024-04-01
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,231 €,2024-03-13 16:34:59,2024-04-01
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",208 €,2024-03-13 16:34:59,2024-04-01
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",253 €,2024-03-13 16:34:59,2024-04-01
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",260 €,2024-03-13 16:34:59,2024-04-01
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,346 €,2024-03-13 16:34:59,2024-04-01
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,"Vueling, Iberia",353 €,2024-03-13 16:34:59,2024-04-01
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,472 €,2024-03-13 16:34:59,2024-04-01
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Iberia,553 €,2024-03-13 16:34:59,2024-04-01
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,584 €,2024-03-13 16:34:59,2024-04-01
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,594 €,2024-03-13 16:34:59,2024-04-01
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,672 €,2024-03-13 16:34:59,2024-04-01
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,77 €,2024-03-13 16:36:28,2024-04-01
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,79 €,2024-03-13 16:36:28,2024-04-01
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,86 €,2024-03-13 16:36:28,2024-04-01
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,108 €,2024-03-13 16:36:28,2024-04-01
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 16:36:28,2024-04-01
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,106 €,2024-03-13 16:36:28,2024-04-01
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 16:36:28,2024-04-01
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,130 €,2024-03-13 16:36:28,2024-04-01
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,130 €,2024-03-13 16:36:28,2024-04-01
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 16:36:28,2024-04-01
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,137 €,2024-03-13 16:36:28,2024-04-01
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 16:36:28,2024-04-01
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,188 €,2024-03-13 16:36:28,2024-04-01
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",208 €,2024-03-13 16:36:28,2024-04-01
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,231 €,2024-03-13 16:36:28,2024-04-01
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",208 €,2024-03-13 16:36:28,2024-04-01
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",253 €,2024-03-13 16:36:28,2024-04-01
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",260 €,2024-03-13 16:36:28,2024-04-01
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,346 €,2024-03-13 16:36:28,2024-04-01
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,"Vueling, Iberia",353 €,2024-03-13 16:36:28,2024-04-01
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,472 €,2024-03-13 16:36:28,2024-04-01
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Iberia,553 €,2024-03-13 16:36:28,2024-04-01
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,584 €,2024-03-13 16:36:28,2024-04-01
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,594 €,2024-03-13 16:36:28,2024-04-01
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,672 €,2024-03-13 16:36:28,2024-04-01
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,77 €,2024-03-13 17:05:12,2024-04-01
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,79 €,2024-03-13 17:05:12,2024-04-01
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,86 €,2024-03-13 17:05:12,2024-04-01
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,108 €,2024-03-13 17:05:12,2024-04-01
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 17:05:12,2024-04-01
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,106 €,2024-03-13 17:05:12,2024-04-01
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 17:05:12,2024-04-01
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,130 €,2024-03-13 17:05:12,2024-04-01
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,130 €,2024-03-13 17:05:12,2024-04-01
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 17:05:12,2024-04-01
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 17:05:12,2024-04-01
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,137 €,2024-03-13 17:05:12,2024-04-01
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,188 €,2024-03-13 17:05:12,2024-04-01
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",208 €,2024-03-13 17:05:12,2024-04-01
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",208 €,2024-03-13 17:05:12,2024-04-01
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,231 €,2024-03-13 17:05:12,2024-04-01
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",253 €,2024-03-13 17:05:12,2024-04-01
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",260 €,2024-03-13 17:05:12,2024-04-01
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,346 €,2024-03-13 17:05:12,2024-04-01
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,"Vueling, Iberia",352 €,2024-03-13 17:05:12,2024-04-01
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,472 €,2024-03-13 17:05:12,2024-04-01
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Iberia,553 €,2024-03-13 17:05:12,2024-04-01
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,591 €,2024-03-13 17:05:12,2024-04-01
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,615 €,2024-03-13 17:05:12,2024-04-01
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,672 €,2024-03-13 17:05:12,2024-04-01
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,48 €,2024-03-13 17:05:12,2024-04-02
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 17:05:12,2024-04-02
+11:05,12:15,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,75 €,2024-03-13 17:05:12,2024-04-02
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,75 €,2024-03-13 17:05:12,2024-04-02
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,86 €,2024-03-13 17:05:12,2024-04-02
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,106 €,2024-03-13 17:05:12,2024-04-02
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,86 €,2024-03-13 17:05:12,2024-04-02
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 17:05:12,2024-04-02
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,116 €,2024-03-13 17:05:12,2024-04-02
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,192 €,2024-03-13 17:05:12,2024-04-02
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,135 €,2024-03-13 17:05:12,2024-04-02
+15:15,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",125 €,2024-03-13 17:05:12,2024-04-02
+19:00,22:55,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 55m,"Vueling, Iberia",147 €,2024-03-13 17:05:12,2024-04-02
+19:25,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 30m,"Vueling, Iberia",164 €,2024-03-13 17:05:12,2024-04-02
+19:45,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,144 €,2024-03-13 17:05:12,2024-04-02
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,256 €,2024-03-13 17:05:12,2024-04-02
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,144 €,2024-03-13 17:05:12,2024-04-02
+7:40,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",169 €,2024-03-13 17:05:12,2024-04-02
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",173 €,2024-03-13 17:05:12,2024-04-02
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,290 €,2024-03-13 17:05:12,2024-04-02
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,356 €,2024-03-13 17:05:12,2024-04-02
+17:55,22:05,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 10m,"Vueling, Iberia",243 €,2024-03-13 17:05:12,2024-04-02
+18:20,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,"Vueling, Iberia",268 €,2024-03-13 17:05:12,2024-04-02
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,290 €,2024-03-13 17:05:12,2024-04-02
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,317 €,2024-03-13 17:05:12,2024-04-02
+18:20,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Iberia,482 €,2024-03-13 17:05:12,2024-04-02
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,504 €,2024-03-13 17:05:12,2024-04-02
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,26 €,2024-03-13 17:05:12,2024-04-03
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,31 €,2024-03-13 17:05:12,2024-04-03
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,31 €,2024-03-13 17:05:12,2024-04-03
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,36 €,2024-03-13 17:05:12,2024-04-03
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 17:05:12,2024-04-03
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 17:05:12,2024-04-03
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,52 €,2024-03-13 17:05:12,2024-04-03
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,52 €,2024-03-13 17:05:12,2024-04-03
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 17:05:12,2024-04-03
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,74 €,2024-03-13 17:05:12,2024-04-03
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 17:05:12,2024-04-03
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,86 €,2024-03-13 17:05:12,2024-04-03
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Vueling,76 €,2024-03-13 17:05:12,2024-04-03
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,76 €,2024-03-13 17:05:12,2024-04-03
+7:40,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",72 €,2024-03-13 17:05:12,2024-04-03
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",89 €,2024-03-13 17:05:12,2024-04-03
+17:30,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Air Europa",112 €,2024-03-13 17:05:12,2024-04-03
+11:25,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",101 €,2024-03-13 17:05:12,2024-04-03
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",117 €,2024-03-13 17:05:12,2024-04-03
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,140 €,2024-03-13 17:05:12,2024-04-03
+12:10,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 55m,TAP AIR PORTUGAL,113 €,2024-03-13 17:05:12,2024-04-03
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Vueling,236 €,2024-03-13 17:05:12,2024-04-03
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,236 €,2024-03-13 17:05:12,2024-04-03
+11:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 35m,"Vueling, Iberia",252 €,2024-03-13 17:05:12,2024-04-03
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Iberia,272 €,2024-03-13 17:05:12,2024-04-03
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Iberia,284 €,2024-03-13 17:05:12,2024-04-03
+14:20,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,Iberia,360 €,2024-03-13 17:05:12,2024-04-03
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,358 €,2024-03-13 17:05:12,2024-04-03
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Iberia,432 €,2024-03-13 17:05:12,2024-04-03
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,432 €,2024-03-13 17:05:12,2024-04-03
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,30 €,2024-03-13 17:05:12,2024-04-04
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,34 €,2024-03-13 17:05:12,2024-04-04
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,35 €,2024-03-13 17:05:12,2024-04-04
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 17:05:12,2024-04-04
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,45 €,2024-03-13 17:05:12,2024-04-04
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,47 €,2024-03-13 17:05:12,2024-04-04
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,47 €,2024-03-13 17:05:12,2024-04-04
+19:35,20:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,51 €,2024-03-13 17:05:12,2024-04-04
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 17:05:12,2024-04-04
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 17:05:12,2024-04-04
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,75 €,2024-03-13 17:05:12,2024-04-04
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,106 €,2024-03-13 17:05:12,2024-04-04
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,91 €,2024-03-13 17:05:12,2024-04-04
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Vueling,68 €,2024-03-13 17:05:12,2024-04-04
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,55 €,2024-03-13 17:05:12,2024-04-04
+18:35,22:20,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 45m,"Volotea, Air Europa",96 €,2024-03-13 17:05:12,2024-04-04
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",94 €,2024-03-13 17:05:12,2024-04-04
+11:40,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Vueling,113 €,2024-03-13 17:05:12,2024-04-04
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",88 €,2024-03-13 17:05:12,2024-04-04
+7:10,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,118 €,2024-03-13 17:05:12,2024-04-04
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Vueling,111 €,2024-03-13 17:05:12,2024-04-04
+11:40,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",107 €,2024-03-13 17:05:12,2024-04-04
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",78 €,2024-03-13 17:05:12,2024-04-04
+7:10,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",96 €,2024-03-13 17:05:12,2024-04-04
+14:15,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 05m,"Vueling, Iberia",114 €,2024-03-13 17:05:12,2024-04-04
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",125 €,2024-03-13 17:05:12,2024-04-04
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",131 €,2024-03-13 17:05:12,2024-04-04
+14:15,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 15m,"Vueling, Iberia",132 €,2024-03-13 17:05:12,2024-04-04
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Iberia,271 €,2024-03-13 17:05:12,2024-04-04
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,257 €,2024-03-13 17:05:12,2024-04-04
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,331 €,2024-03-13 17:05:12,2024-04-04
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,425 €,2024-03-13 17:05:12,2024-04-04
+11:00,15:25,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 25m,TAP AIR PORTUGAL,406 €,2024-03-13 17:05:12,2024-04-04
+13:40,19:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,5h 20m,Iberia,425 €,2024-03-13 17:05:12,2024-04-04
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 17:05:12,2024-04-05
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 17:05:12,2024-04-05
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,48 €,2024-03-13 17:05:12,2024-04-05
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,48 €,2024-03-13 17:05:12,2024-04-05
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,47 €,2024-03-13 17:05:12,2024-04-05
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,53 €,2024-03-13 17:05:12,2024-04-05
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 17:05:12,2024-04-05
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 17:05:12,2024-04-05
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,72 €,2024-03-13 17:05:12,2024-04-05
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 17:05:12,2024-04-05
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,89 €,2024-03-13 17:05:12,2024-04-05
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 17:05:12,2024-04-05
+14:40,18:15,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 35m,"Vueling, Air Europa",90 €,2024-03-13 17:05:12,2024-04-05
+17:40,21:40,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 00m,"Volotea, Air Europa",80 €,2024-03-13 17:05:12,2024-04-05
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Vueling,118 €,2024-03-13 17:05:12,2024-04-05
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Vueling,105 €,2024-03-13 17:05:12,2024-04-05
+12:25,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 40m,TAP AIR PORTUGAL,113 €,2024-03-13 17:05:12,2024-04-05
+10:30,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 05m,Iberia,123 €,2024-03-13 17:05:12,2024-04-05
+13:25,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,"Vueling, Iberia",140 €,2024-03-13 17:05:12,2024-04-05
+12:25,17:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 55m,"TAP AIR PORTUGAL, easyJet",156 €,2024-03-13 17:05:12,2024-04-05
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Iberia,343 €,2024-03-13 17:05:12,2024-04-05
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Iberia,343 €,2024-03-13 17:05:12,2024-04-05
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,331 €,2024-03-13 17:05:12,2024-04-05
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,524 €,2024-03-13 17:05:12,2024-04-05
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 17:05:12,2024-04-06
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 17:05:12,2024-04-06
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,36 €,2024-03-13 17:05:12,2024-04-06
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,36 €,2024-03-13 17:05:12,2024-04-06
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 17:05:12,2024-04-06
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 17:05:12,2024-04-06
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,49 €,2024-03-13 17:05:12,2024-04-06
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,47 €,2024-03-13 17:05:12,2024-04-06
+8:55,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Vueling,71 €,2024-03-13 17:05:12,2024-04-06
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",107 €,2024-03-13 17:05:12,2024-04-06
+8:25,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 15m,"Vueling, Air Europa",95 €,2024-03-13 17:05:12,2024-04-06
+6:45,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,122 €,2024-03-13 17:05:12,2024-04-06
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",115 €,2024-03-13 17:05:12,2024-04-06
+6:45,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,"Vueling, Iberia",121 €,2024-03-13 17:05:12,2024-04-06
+8:55,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Iberia,275 €,2024-03-13 17:05:12,2024-04-06
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 17:05:12,2024-04-07
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,58 €,2024-03-13 17:05:12,2024-04-07
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,66 €,2024-03-13 17:05:12,2024-04-07
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 17:05:12,2024-04-07
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 17:05:12,2024-04-07
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 17:05:12,2024-04-07
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,69 €,2024-03-13 17:05:12,2024-04-07
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,59 €,2024-03-13 17:05:12,2024-04-07
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,107 €,2024-03-13 17:05:12,2024-04-07
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,60 €,2024-03-13 17:05:12,2024-04-07
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",110 €,2024-03-13 17:05:12,2024-04-07
+7:00,10:40,Bilbao,BIO,Madrid-Barajas,MAD,VLC,3h 40m,"Vueling, Iberia",113 €,2024-03-13 17:05:12,2024-04-07
+20:30,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,3h 50m,TAP AIR PORTUGAL,127 €,2024-03-13 17:05:12,2024-04-07
+10:55,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Vueling,135 €,2024-03-13 17:05:12,2024-04-07
+10:55,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",113 €,2024-03-13 17:05:12,2024-04-07
+10:00,13:45,Bilbao,BIO,Madrid-Barajas,MAD,VGO,3h 45m,"Iberia, Air Europa",201 €,2024-03-13 17:05:12,2024-04-07
+10:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 35m,Iberia,181 €,2024-03-13 17:05:12,2024-04-07
+16:45,20:40,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 55m,Air Europa,269 €,2024-03-13 17:05:12,2024-04-07
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,295 €,2024-03-13 17:05:12,2024-04-07
+16:45,21:40,Bilbao,BIO,Madrid-Barajas,MAD,"PMI, VLC",4h 55m,Air Europa,349 €,2024-03-13 17:05:12,2024-04-07
+20:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 50m,Iberia,424 €,2024-03-13 17:05:12,2024-04-07
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,402 €,2024-03-13 17:05:12,2024-04-07
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,27 €,2024-03-13 17:05:12,2024-04-08
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 17:05:12,2024-04-08
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 17:05:12,2024-04-08
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 17:05:12,2024-04-08
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,47 €,2024-03-13 17:05:12,2024-04-08
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,60 €,2024-03-13 17:05:12,2024-04-08
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 17:05:12,2024-04-08
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,66 €,2024-03-13 17:05:12,2024-04-08
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 17:05:12,2024-04-08
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,75 €,2024-03-13 17:05:12,2024-04-08
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 17:05:12,2024-04-08
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 17:05:12,2024-04-08
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,67 €,2024-03-13 17:05:12,2024-04-08
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,79 €,2024-03-13 17:05:12,2024-04-08
+9:10,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 35m,"Vueling, Air Europa",73 €,2024-03-13 17:05:12,2024-04-08
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,95 €,2024-03-13 17:05:12,2024-04-08
+13:50,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,105 €,2024-03-13 17:05:12,2024-04-08
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,93 €,2024-03-13 17:05:12,2024-04-08
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",87 €,2024-03-13 17:05:12,2024-04-08
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",92 €,2024-03-13 17:05:12,2024-04-08
+13:50,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",102 €,2024-03-13 17:05:12,2024-04-08
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,114 €,2024-03-13 17:05:12,2024-04-08
+17:35,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,"Vueling, Iberia",108 €,2024-03-13 17:05:12,2024-04-08
+19:00,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,5h 20m,"Vueling, TAP AIR PORTUGAL",97 €,2024-03-13 17:05:12,2024-04-08
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,"Vueling, Iberia",159 €,2024-03-13 17:05:12,2024-04-08
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Iberia,265 €,2024-03-13 17:05:12,2024-04-08
+13:50,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Iberia,277 €,2024-03-13 17:05:12,2024-04-08
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,319 €,2024-03-13 17:05:12,2024-04-08
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,364 €,2024-03-13 17:05:12,2024-04-08
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,Iberia,386 €,2024-03-13 17:05:12,2024-04-08
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,487 €,2024-03-13 17:05:12,2024-04-08
+14:00,19:00,Bilbao,BIO,Madrid-Barajas,MAD,VGO,5h 00m,Iberia,515 €,2024-03-13 17:05:12,2024-04-08
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,27 €,2024-03-13 17:05:12,2024-04-09
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 17:05:12,2024-04-09
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 17:05:12,2024-04-09
+11:05,12:15,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,36 €,2024-03-13 17:05:12,2024-04-09
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 17:05:12,2024-04-09
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,47 €,2024-03-13 17:05:12,2024-04-09
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,47 €,2024-03-13 17:05:12,2024-04-09
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 17:05:12,2024-04-09
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 17:05:12,2024-04-09
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,66 €,2024-03-13 17:05:12,2024-04-09
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 17:05:12,2024-04-09
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,106 €,2024-03-13 17:05:12,2024-04-09
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,87 €,2024-03-13 17:05:12,2024-04-09
+19:25,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 30m,"Vueling, Iberia Express",47 €,2024-03-13 17:05:12,2024-04-09
+19:25,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 30m,"Vueling, Iberia",51 €,2024-03-13 17:05:12,2024-04-09
+13:50,18:15,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 25m,"Volotea, Air Europa",55 €,2024-03-13 17:05:12,2024-04-09
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,76 €,2024-03-13 17:05:12,2024-04-09
+15:10,19:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 10m,"Vueling, TAP AIR PORTUGAL",72 €,2024-03-13 17:05:12,2024-04-09
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",74 €,2024-03-13 17:05:12,2024-04-09
+17:55,22:05,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 10m,"Vueling, Iberia Express",132 €,2024-03-13 17:05:12,2024-04-09
+18:20,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,"Vueling, Iberia",127 €,2024-03-13 17:05:12,2024-04-09
+17:55,22:05,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 10m,"Vueling, Iberia",140 €,2024-03-13 17:05:12,2024-04-09
+19:45,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,284 €,2024-03-13 17:05:12,2024-04-09
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,286 €,2024-03-13 17:05:12,2024-04-09
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,331 €,2024-03-13 17:05:12,2024-04-09
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,435 €,2024-03-13 17:05:12,2024-04-09
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,435 €,2024-03-13 17:05:12,2024-04-09
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,31 €,2024-03-13 17:05:12,2024-04-10
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,31 €,2024-03-13 17:05:12,2024-04-10
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,46 €,2024-03-13 17:05:12,2024-04-10
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,51 €,2024-03-13 17:05:12,2024-04-10
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,51 €,2024-03-13 17:05:12,2024-04-10
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 17:05:12,2024-04-10
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 17:05:12,2024-04-10
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 17:05:12,2024-04-10
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,67 €,2024-03-13 17:05:12,2024-04-10
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,71 €,2024-03-13 17:05:12,2024-04-10
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 17:05:12,2024-04-10
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,92 €,2024-03-13 17:05:12,2024-04-10
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Vueling,53 €,2024-03-13 17:05:12,2024-04-10
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,66 €,2024-03-13 17:05:12,2024-04-11
+19:35,20:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,92 €,2024-03-13 17:05:12,2024-04-11
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,92 €,2024-03-13 17:05:12,2024-04-11
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,153 €,2024-03-13 17:05:12,2024-04-11
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Vueling,108 €,2024-03-13 17:05:12,2024-04-11
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,104 €,2024-03-13 17:05:12,2024-04-11
+7:10,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,6h 00m,Vueling,88 €,2024-03-13 17:05:12,2024-04-11
+8:55,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,7h 50m,Vueling,118 €,2024-03-13 17:05:12,2024-04-11
+7:10,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,9h 35m,Vueling,98 €,2024-03-13 17:05:12,2024-04-11
+19:55,8:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,13h 00m,Vueling,99 €,2024-03-13 17:05:12,2024-04-11
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,54 €,2024-03-13 17:05:12,2024-04-13
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,36 €,2024-03-13 17:05:12,2024-04-13
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,82 €,2024-03-13 17:05:12,2024-04-13
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,106 €,2024-03-13 17:05:12,2024-04-13
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,114 €,2024-03-13 17:05:12,2024-04-13
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,111 €,2024-03-13 17:05:12,2024-04-13
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,133 €,2024-03-13 17:05:12,2024-04-13
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,161 €,2024-03-13 17:05:12,2024-04-13
+8:55,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Vueling,104 €,2024-03-13 17:05:12,2024-04-13
+6:45,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,6h 20m,Vueling,73 €,2024-03-13 17:05:12,2024-04-13
+18:45,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,5h 35m,TAP AIR PORTUGAL,196 €,2024-03-13 17:05:12,2024-04-13
+8:55,16:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,7h 55m,Vueling,136 €,2024-03-13 17:05:12,2024-04-13
+6:45,16:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,10h 05m,Vueling,103 €,2024-03-13 17:05:12,2024-04-13
+19:20,8:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,13h 30m,Vueling,98 €,2024-03-13 17:05:12,2024-04-13
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,69 €,2024-03-13 17:05:12,2024-04-14
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,69 €,2024-03-13 17:05:12,2024-04-14
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,74 €,2024-03-13 17:05:12,2024-04-14
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,110 €,2024-03-13 17:05:12,2024-04-14
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,118 €,2024-03-13 17:05:12,2024-04-14
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,133 €,2024-03-13 17:05:12,2024-04-14
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,81 €,2024-03-13 17:05:12,2024-04-14
+10:55,17:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,6h 05m,Vueling,137 €,2024-03-13 17:05:12,2024-04-14
+8:55,17:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,8h 05m,Vueling,110 €,2024-03-13 17:05:12,2024-04-14
+20:30,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,3h 50m,TAP AIR PORTUGAL,242 €,2024-03-13 17:05:12,2024-04-14
+23:00,8:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,9h 50m,Vueling,145 €,2024-03-13 17:05:12,2024-04-14
+16:45,20:40,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 55m,Air Europa,355 €,2024-03-13 17:05:12,2024-04-14
+16:45,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,5h 50m,Air Europa,331 €,2024-03-13 17:05:12,2024-04-14
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,27 €,2024-03-13 17:05:12,2024-04-17
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 17:05:12,2024-04-17
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 17:05:12,2024-04-17
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,36 €,2024-03-13 17:05:12,2024-04-17
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,36 €,2024-03-13 17:05:12,2024-04-17
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 17:05:12,2024-04-17
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 17:05:12,2024-04-17
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,53 €,2024-03-13 17:05:12,2024-04-17
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 17:05:12,2024-04-17
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,66 €,2024-03-13 17:05:12,2024-04-17
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 17:05:12,2024-04-17
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Vueling,48 €,2024-03-13 17:05:12,2024-04-17
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,50 €,2024-03-13 17:05:12,2024-04-17
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,65 €,2024-03-13 17:05:12,2024-04-20
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,71 €,2024-03-13 17:05:12,2024-04-20
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,114 €,2024-03-13 17:05:12,2024-04-20
+12:00,19:30,Bilbao,BIO,Madrid-Barajas,MAD,AMS,7h 30m,KLM,286 €,2024-03-13 17:05:12,2024-04-20
+6:50,16:25,Bilbao,BIO,Madrid-Barajas,MAD,AMS,9h 35m,KLM,286 €,2024-03-13 17:05:12,2024-04-20
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,54 €,2024-03-13 17:05:12,2024-04-23
+11:05,12:15,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,54 €,2024-03-13 17:05:12,2024-04-23
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,54 €,2024-03-13 17:05:12,2024-04-23
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,54 €,2024-03-13 17:05:12,2024-04-23
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,60 €,2024-03-13 17:05:12,2024-04-23
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,49 €,2024-03-13 17:05:12,2024-04-23
+17:15,23:25,Bilbao,BIO,Madrid-Barajas,MAD,AMS,6h 10m,KLM,242 €,2024-03-13 17:05:12,2024-04-23
+12:00,19:30,Bilbao,BIO,Madrid-Barajas,MAD,AMS,7h 30m,KLM,286 €,2024-03-13 17:05:12,2024-04-23
+6:50,16:25,Bilbao,BIO,Madrid-Barajas,MAD,AMS,9h 35m,KLM,242 €,2024-03-13 17:05:12,2024-04-23
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,50 €,2024-03-13 17:05:12,2024-04-24
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,50 €,2024-03-13 17:05:12,2024-04-24
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,67 €,2024-03-13 17:05:12,2024-04-24
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,67 €,2024-03-13 17:05:12,2024-04-24
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,45 €,2024-03-13 17:05:12,2024-04-24
+11:25,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,6h 25m,Vueling,47 €,2024-03-13 17:05:12,2024-04-24
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Vueling,201 €,2024-03-13 17:05:12,2024-04-26
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Vueling,289 €,2024-03-13 17:05:12,2024-04-26
+8:55,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,7h 50m,Vueling,136 €,2024-03-13 17:05:12,2024-04-26
+7:10,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,9h 35m,Vueling,131 €,2024-03-13 17:05:12,2024-04-26
+13:25,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,8h 35m,Vueling,198 €,2024-03-13 17:05:12,2024-04-26
+23:00,8:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,9h 55m,Vueling,103 €,2024-03-13 17:05:12,2024-04-26
+21:20,8:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,11h 35m,Vueling,165 €,2024-03-13 17:05:12,2024-04-26
+19:55,8:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,13h 00m,Vueling,223 €,2024-03-13 17:05:12,2024-04-26
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,84 €,2024-03-13 17:05:12,2024-04-27
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,137 €,2024-03-13 17:05:12,2024-04-27
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,152 €,2024-03-13 17:05:12,2024-04-27
+17:15,23:25,Bilbao,BIO,Madrid-Barajas,MAD,AMS,6h 10m,KLM,242 €,2024-03-13 17:05:12,2024-04-27
+12:00,19:30,Bilbao,BIO,Madrid-Barajas,MAD,AMS,7h 30m,KLM,402 €,2024-03-13 17:05:12,2024-04-27
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,54 €,2024-03-13 17:05:12,2024-04-30
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,54 €,2024-03-13 17:05:12,2024-04-30
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,65 €,2024-03-13 17:05:12,2024-04-30
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,84 €,2024-03-13 17:05:12,2024-04-30
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,49 €,2024-03-13 17:05:12,2024-04-30
+17:15,23:25,Bilbao,BIO,Madrid-Barajas,MAD,AMS,6h 10m,KLM,286 €,2024-03-13 17:05:12,2024-04-30
+12:00,19:30,Bilbao,BIO,Madrid-Barajas,MAD,AMS,7h 30m,KLM,286 €,2024-03-13 17:05:12,2024-04-30
+6:50,16:25,Bilbao,BIO,Madrid-Barajas,MAD,AMS,9h 35m,KLM,286 €,2024-03-13 17:05:12,2024-04-30
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,77 €,2024-03-13 23:03:27,2024-04-01
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,79 €,2024-03-13 23:03:27,2024-04-01
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,84 €,2024-03-13 23:03:27,2024-04-01
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,105 €,2024-03-13 23:03:27,2024-04-01
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 23:03:27,2024-04-01
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,98 €,2024-03-13 23:03:27,2024-04-01
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 23:03:27,2024-04-01
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,126 €,2024-03-13 23:03:27,2024-04-01
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,126 €,2024-03-13 23:03:27,2024-04-01
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 23:03:27,2024-04-01
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 23:03:27,2024-04-01
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,144 €,2024-03-13 23:03:27,2024-04-01
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,190 €,2024-03-13 23:03:27,2024-04-01
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,166 €,2024-03-13 23:03:27,2024-04-01
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",237 €,2024-03-13 23:03:27,2024-04-01
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,341 €,2024-03-13 23:03:27,2024-04-01
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,"Vueling, Iberia",352 €,2024-03-13 23:03:27,2024-04-01
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,435 €,2024-03-13 23:03:27,2024-04-01
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Iberia,467 €,2024-03-13 23:03:27,2024-04-01
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,580 €,2024-03-13 23:03:27,2024-04-01
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,615 €,2024-03-13 23:03:27,2024-04-01
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,667 €,2024-03-13 23:03:27,2024-04-01
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,48 €,2024-03-13 23:03:27,2024-04-02
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 23:03:27,2024-04-02
+11:05,12:15,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,75 €,2024-03-13 23:03:27,2024-04-02
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,75 €,2024-03-13 23:03:27,2024-04-02
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,86 €,2024-03-13 23:03:27,2024-04-02
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,106 €,2024-03-13 23:03:27,2024-04-02
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,91 €,2024-03-13 23:03:27,2024-04-02
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 23:03:27,2024-04-02
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,121 €,2024-03-13 23:03:27,2024-04-02
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,192 €,2024-03-13 23:03:27,2024-04-02
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,134 €,2024-03-13 23:03:27,2024-04-02
+15:15,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",133 €,2024-03-13 23:03:27,2024-04-02
+19:00,22:55,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 55m,"Vueling, Iberia",151 €,2024-03-13 23:03:27,2024-04-02
+19:25,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 30m,"Vueling, Iberia",164 €,2024-03-13 23:03:27,2024-04-02
+19:45,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,144 €,2024-03-13 23:03:27,2024-04-02
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,256 €,2024-03-13 23:03:27,2024-04-02
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,144 €,2024-03-13 23:03:27,2024-04-02
+7:40,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",170 €,2024-03-13 23:03:27,2024-04-02
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",173 €,2024-03-13 23:03:27,2024-04-02
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,297 €,2024-03-13 23:03:27,2024-04-02
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,356 €,2024-03-13 23:03:27,2024-04-02
+17:55,22:05,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 10m,"Vueling, Iberia",243 €,2024-03-13 23:03:27,2024-04-02
+18:20,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,"Vueling, Iberia",268 €,2024-03-13 23:03:27,2024-04-02
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,289 €,2024-03-13 23:03:27,2024-04-02
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,317 €,2024-03-13 23:03:27,2024-04-02
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,499 €,2024-03-13 23:03:27,2024-04-02
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,26 €,2024-03-13 23:03:27,2024-04-03
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-03
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-03
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,35 €,2024-03-13 23:03:27,2024-04-03
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-03
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-03
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,51 €,2024-03-13 23:03:27,2024-04-03
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-03
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,66 €,2024-03-13 23:03:27,2024-04-03
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,69 €,2024-03-13 23:03:27,2024-04-03
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-03
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,89 €,2024-03-13 23:03:27,2024-04-03
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Vueling,74 €,2024-03-13 23:03:27,2024-04-03
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,74 €,2024-03-13 23:03:27,2024-04-03
+7:40,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",73 €,2024-03-13 23:03:27,2024-04-03
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",89 €,2024-03-13 23:03:27,2024-04-03
+17:30,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Air Europa",114 €,2024-03-13 23:03:27,2024-04-03
+11:25,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",104 €,2024-03-13 23:03:27,2024-04-03
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",117 €,2024-03-13 23:03:27,2024-04-03
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,141 €,2024-03-13 23:03:27,2024-04-03
+12:10,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 55m,TAP AIR PORTUGAL,114 €,2024-03-13 23:03:27,2024-04-03
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",108 €,2024-03-13 23:03:27,2024-04-03
+17:40,23:00,Bilbao,BIO,Madrid-Barajas,MAD,PMI,5h 20m,"Air Europa, Iberia Express",123 €,2024-03-13 23:03:27,2024-04-03
+17:40,23:00,Bilbao,BIO,Madrid-Barajas,MAD,PMI,5h 20m,"Air Europa, Iberia",116 €,2024-03-13 23:03:27,2024-04-03
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Vueling,231 €,2024-03-13 23:03:27,2024-04-03
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,231 €,2024-03-13 23:03:27,2024-04-03
+11:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 35m,"Vueling, Iberia",250 €,2024-03-13 23:03:27,2024-04-03
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Iberia,273 €,2024-03-13 23:03:27,2024-04-03
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Iberia,286 €,2024-03-13 23:03:27,2024-04-03
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,353 €,2024-03-13 23:03:27,2024-04-03
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Iberia,425 €,2024-03-13 23:03:27,2024-04-03
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,425 €,2024-03-13 23:03:27,2024-04-03
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-04
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,35 €,2024-03-13 23:03:27,2024-04-04
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-04
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-04
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-04
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-04
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,45 €,2024-03-13 23:03:27,2024-04-04
+19:35,20:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,51 €,2024-03-13 23:03:27,2024-04-04
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-04
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-04
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,75 €,2024-03-13 23:03:27,2024-04-04
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,106 €,2024-03-13 23:03:27,2024-04-04
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,90 €,2024-03-13 23:03:27,2024-04-04
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Vueling,68 €,2024-03-13 23:03:27,2024-04-04
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,50 €,2024-03-13 23:03:27,2024-04-04
+18:35,22:20,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 45m,"Volotea, Air Europa",95 €,2024-03-13 23:03:27,2024-04-04
+7:10,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",72 €,2024-03-13 23:03:27,2024-04-04
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",88 €,2024-03-13 23:03:27,2024-04-04
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",78 €,2024-03-13 23:03:27,2024-04-04
+14:15,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 05m,"Vueling, Iberia",107 €,2024-03-13 23:03:27,2024-04-04
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",118 €,2024-03-13 23:03:27,2024-04-04
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Iberia,272 €,2024-03-13 23:03:27,2024-04-04
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,258 €,2024-03-13 23:03:27,2024-04-04
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,326 €,2024-03-13 23:03:27,2024-04-04
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,423 €,2024-03-13 23:03:27,2024-04-04
+11:00,15:25,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 25m,TAP AIR PORTUGAL,434 €,2024-03-13 23:03:27,2024-04-04
+13:40,19:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,5h 20m,Iberia,435 €,2024-03-13 23:03:27,2024-04-04
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,31 €,2024-03-13 23:03:27,2024-04-05
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-05
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,45 €,2024-03-13 23:03:27,2024-04-05
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,47 €,2024-03-13 23:03:27,2024-04-05
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,47 €,2024-03-13 23:03:27,2024-04-05
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,59 €,2024-03-13 23:03:27,2024-04-05
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-05
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,66 €,2024-03-13 23:03:27,2024-04-05
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,70 €,2024-03-13 23:03:27,2024-04-05
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-05
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,89 €,2024-03-13 23:03:27,2024-04-05
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 23:03:27,2024-04-05
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Vueling,102 €,2024-03-13 23:03:27,2024-04-05
+14:40,18:15,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 35m,"Vueling, Air Europa",90 €,2024-03-13 23:03:27,2024-04-05
+17:40,21:40,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 00m,"Volotea, Air Europa",82 €,2024-03-13 23:03:27,2024-04-05
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Vueling,102 €,2024-03-13 23:03:27,2024-04-05
+12:25,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 40m,TAP AIR PORTUGAL,114 €,2024-03-13 23:03:27,2024-04-05
+10:30,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 05m,Iberia,123 €,2024-03-13 23:03:27,2024-04-05
+13:25,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,"Vueling, Iberia",115 €,2024-03-13 23:03:27,2024-04-05
+12:25,17:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 55m,"TAP AIR PORTUGAL, easyJet",134 €,2024-03-13 23:03:27,2024-04-05
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Iberia,310 €,2024-03-13 23:03:27,2024-04-05
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,350 €,2024-03-13 23:03:27,2024-04-05
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Iberia,339 €,2024-03-13 23:03:27,2024-04-05
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,326 €,2024-03-13 23:03:27,2024-04-05
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,526 €,2024-03-13 23:03:27,2024-04-05
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,31 €,2024-03-13 23:03:27,2024-04-06
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,31 €,2024-03-13 23:03:27,2024-04-06
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,35 €,2024-03-13 23:03:27,2024-04-06
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,35 €,2024-03-13 23:03:27,2024-04-06
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-06
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-06
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,47 €,2024-03-13 23:03:27,2024-04-06
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,50 €,2024-03-13 23:03:27,2024-04-06
+8:55,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Vueling,68 €,2024-03-13 23:03:27,2024-04-06
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",109 €,2024-03-13 23:03:27,2024-04-06
+6:45,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,122 €,2024-03-13 23:03:27,2024-04-06
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",118 €,2024-03-13 23:03:27,2024-04-06
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,31 €,2024-03-13 23:03:27,2024-04-07
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,59 €,2024-03-13 23:03:27,2024-04-07
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 23:03:27,2024-04-07
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-07
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-07
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,65 €,2024-03-13 23:03:27,2024-04-07
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-07
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,65 €,2024-03-13 23:03:27,2024-04-07
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,151 €,2024-03-13 23:03:27,2024-04-07
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,61 €,2024-03-13 23:03:27,2024-04-07
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",112 €,2024-03-13 23:03:27,2024-04-07
+7:00,10:40,Bilbao,BIO,Madrid-Barajas,MAD,VLC,3h 40m,"Vueling, Iberia",116 €,2024-03-13 23:03:27,2024-04-07
+10:55,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Vueling,135 €,2024-03-13 23:03:27,2024-04-07
+20:30,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,3h 50m,TAP AIR PORTUGAL,150 €,2024-03-13 23:03:27,2024-04-07
+10:00,13:45,Bilbao,BIO,Madrid-Barajas,MAD,VGO,3h 45m,"Iberia, Air Europa",146 €,2024-03-13 23:03:27,2024-04-07
+10:55,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",117 €,2024-03-13 23:03:27,2024-04-07
+10:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 35m,Iberia,181 €,2024-03-13 23:03:27,2024-04-07
+16:45,20:40,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 55m,Air Europa,264 €,2024-03-13 23:03:27,2024-04-07
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,272 €,2024-03-13 23:03:27,2024-04-07
+16:45,21:40,Bilbao,BIO,Madrid-Barajas,MAD,"PMI, VLC",4h 55m,Air Europa,348 €,2024-03-13 23:03:27,2024-04-07
+20:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 50m,Iberia,432 €,2024-03-13 23:03:27,2024-04-07
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,443 €,2024-03-13 23:03:27,2024-04-07
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,27 €,2024-03-13 23:03:27,2024-04-08
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-08
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-08
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-08
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,47 €,2024-03-13 23:03:27,2024-04-08
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-08
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,61 €,2024-03-13 23:03:27,2024-04-08
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,67 €,2024-03-13 23:03:27,2024-04-08
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,74 €,2024-03-13 23:03:27,2024-04-08
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-08
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-08
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,88 €,2024-03-13 23:03:27,2024-04-08
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,70 €,2024-03-13 23:03:27,2024-04-08
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,78 €,2024-03-13 23:03:27,2024-04-08
+9:10,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 35m,"Vueling, Air Europa",79 €,2024-03-13 23:03:27,2024-04-08
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",80 €,2024-03-13 23:03:27,2024-04-08
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,93 €,2024-03-13 23:03:27,2024-04-08
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,113 €,2024-03-13 23:03:27,2024-04-08
+17:40,23:00,Bilbao,BIO,Madrid-Barajas,MAD,PMI,5h 20m,"Air Europa, Iberia",116 €,2024-03-13 23:03:27,2024-04-08
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,"Vueling, Iberia",153 €,2024-03-13 23:03:27,2024-04-08
+12:30,17:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 50m,"TAP AIR PORTUGAL, easyJet",155 €,2024-03-13 23:03:27,2024-04-08
+12:30,17:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 50m,"TAP AIR PORTUGAL, easyJet Europe",155 €,2024-03-13 23:03:27,2024-04-08
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Iberia,272 €,2024-03-13 23:03:27,2024-04-08
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,285 €,2024-03-13 23:03:27,2024-04-08
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,317 €,2024-03-13 23:03:27,2024-04-08
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,359 €,2024-03-13 23:03:27,2024-04-08
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,Iberia,429 €,2024-03-13 23:03:27,2024-04-08
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,27 €,2024-03-13 23:03:27,2024-04-09
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-09
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-09
+11:05,12:15,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,36 €,2024-03-13 23:03:27,2024-04-09
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-09
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,53 €,2024-03-13 23:03:27,2024-04-09
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,53 €,2024-03-13 23:03:27,2024-04-09
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-09
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 23:03:27,2024-04-09
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,66 €,2024-03-13 23:03:27,2024-04-09
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-09
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,106 €,2024-03-13 23:03:27,2024-04-09
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,87 €,2024-03-13 23:03:27,2024-04-09
+19:25,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 30m,"Vueling, Iberia Express",47 €,2024-03-13 23:03:27,2024-04-09
+19:25,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 30m,"Vueling, Iberia",51 €,2024-03-13 23:03:27,2024-04-09
+13:50,18:15,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 25m,"Volotea, Air Europa",59 €,2024-03-13 23:03:27,2024-04-09
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,74 €,2024-03-13 23:03:27,2024-04-09
+15:10,19:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 10m,"Vueling, TAP AIR PORTUGAL",68 €,2024-03-13 23:03:27,2024-04-09
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",78 €,2024-03-13 23:03:27,2024-04-09
+17:55,22:05,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 10m,"Vueling, Iberia Express",132 €,2024-03-13 23:03:27,2024-04-09
+18:20,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,"Vueling, Iberia",130 €,2024-03-13 23:03:27,2024-04-09
+17:55,22:05,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 10m,"Vueling, Iberia",140 €,2024-03-13 23:03:27,2024-04-09
+19:45,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,226 €,2024-03-13 23:03:27,2024-04-09
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,284 €,2024-03-13 23:03:27,2024-04-09
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,326 €,2024-03-13 23:03:27,2024-04-09
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,432 €,2024-03-13 23:03:27,2024-04-09
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,432 €,2024-03-13 23:03:27,2024-04-09
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-10
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,47 €,2024-03-13 23:03:27,2024-04-10
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,49 €,2024-03-13 23:03:27,2024-04-10
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,53 €,2024-03-13 23:03:27,2024-04-10
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,53 €,2024-03-13 23:03:27,2024-04-10
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-10
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-10
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-10
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,69 €,2024-03-13 23:03:27,2024-04-10
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,73 €,2024-03-13 23:03:27,2024-04-10
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-10
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,95 €,2024-03-13 23:03:27,2024-04-10
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Vueling,53 €,2024-03-13 23:03:27,2024-04-10
+14:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 50m,"Volotea, Iberia Express",60 €,2024-03-13 23:03:27,2024-04-10
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,59 €,2024-03-13 23:03:27,2024-04-10
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,52 €,2024-03-13 23:03:27,2024-04-10
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",69 €,2024-03-13 23:03:27,2024-04-10
+7:40,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",66 €,2024-03-13 23:03:27,2024-04-10
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",87 €,2024-03-13 23:03:27,2024-04-10
+14:25,18:55,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 30m,"Vueling, Iberia",79 €,2024-03-13 23:03:27,2024-04-10
+11:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 35m,"Vueling, Iberia",120 €,2024-03-13 23:03:27,2024-04-10
+12:10,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 55m,TAP AIR PORTUGAL,122 €,2024-03-13 23:03:27,2024-04-10
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Vueling,237 €,2024-03-13 23:03:27,2024-04-10
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,216 €,2024-03-13 23:03:27,2024-04-10
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Iberia,249 €,2024-03-13 23:03:27,2024-04-10
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Iberia,257 €,2024-03-13 23:03:27,2024-04-10
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,271 €,2024-03-13 23:03:27,2024-04-10
+14:20,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,Iberia,326 €,2024-03-13 23:03:27,2024-04-10
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Iberia,484 €,2024-03-13 23:03:27,2024-04-10
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,432 €,2024-03-13 23:03:27,2024-04-10
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,27 €,2024-03-13 23:03:27,2024-04-11
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,39 €,2024-03-13 23:03:27,2024-04-11
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-11
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-11
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,49 €,2024-03-13 23:03:27,2024-04-11
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,49 €,2024-03-13 23:03:27,2024-04-11
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,53 €,2024-03-13 23:03:27,2024-04-11
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-11
+19:35,20:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,80 €,2024-03-13 23:03:27,2024-04-11
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,80 €,2024-03-13 23:03:27,2024-04-11
+18:35,22:20,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 45m,"Volotea, Air Europa",79 €,2024-03-13 23:03:27,2024-04-11
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Vueling,72 €,2024-03-13 23:03:27,2024-04-11
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,152 €,2024-03-13 23:03:27,2024-04-11
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,192 €,2024-03-13 23:03:27,2024-04-11
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,70 €,2024-03-13 23:03:27,2024-04-11
+17:55,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,5h 05m,"Vueling, Iberia",41 €,2024-03-13 23:03:27,2024-04-11
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",77 €,2024-03-13 23:03:27,2024-04-11
+7:10,11:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",86 €,2024-03-13 23:03:27,2024-04-11
+7:10,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",72 €,2024-03-13 23:03:27,2024-04-11
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",83 €,2024-03-13 23:03:27,2024-04-11
+11:00,15:25,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 25m,TAP AIR PORTUGAL,127 €,2024-03-13 23:03:27,2024-04-11
+14:15,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 05m,"Vueling, Iberia",133 €,2024-03-13 23:03:27,2024-04-11
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,268 €,2024-03-13 23:03:27,2024-04-11
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",143 €,2024-03-13 23:03:27,2024-04-11
+14:15,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 15m,"Vueling, Iberia",146 €,2024-03-13 23:03:27,2024-04-11
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Iberia,284 €,2024-03-13 23:03:27,2024-04-11
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,264 €,2024-03-13 23:03:27,2024-04-11
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,297 €,2024-03-13 23:03:27,2024-04-11
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,432 €,2024-03-13 23:03:27,2024-04-11
+13:40,19:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,5h 20m,Iberia,591 €,2024-03-13 23:03:27,2024-04-11
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,48 €,2024-03-13 23:03:27,2024-04-12
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,53 €,2024-03-13 23:03:27,2024-04-12
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,53 €,2024-03-13 23:03:27,2024-04-12
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-12
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-12
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 23:03:27,2024-04-12
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,104 €,2024-03-13 23:03:27,2024-04-12
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,80 €,2024-03-13 23:03:27,2024-04-12
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,98 €,2024-03-13 23:03:27,2024-04-12
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 23:03:27,2024-04-12
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,168 €,2024-03-13 23:03:27,2024-04-12
+17:40,21:40,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 00m,"Volotea, Air Europa",94 €,2024-03-13 23:03:27,2024-04-12
+7:10,11:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",95 €,2024-03-13 23:03:27,2024-04-12
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,229 €,2024-03-13 23:03:27,2024-04-12
+15:10,19:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 10m,"Vueling, TAP AIR PORTUGAL",101 €,2024-03-13 23:03:27,2024-04-12
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Vueling,164 €,2024-03-13 23:03:27,2024-04-12
+15:10,19:10,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 00m,"Vueling, Iberia",166 €,2024-03-13 23:03:27,2024-04-12
+10:30,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 05m,Iberia,178 €,2024-03-13 23:03:27,2024-04-12
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",178 €,2024-03-13 23:03:27,2024-04-12
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Vueling,218 €,2024-03-13 23:03:27,2024-04-12
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Iberia,408 €,2024-03-13 23:03:27,2024-04-12
+12:25,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 40m,TAP AIR PORTUGAL,386 €,2024-03-13 23:03:27,2024-04-12
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,444 €,2024-03-13 23:03:27,2024-04-12
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Iberia,548 €,2024-03-13 23:03:27,2024-04-12
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,591 €,2024-03-13 23:03:27,2024-04-12
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,670 €,2024-03-13 23:03:27,2024-04-12
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-13
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,49 €,2024-03-13 23:03:27,2024-04-13
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,69 €,2024-03-13 23:03:27,2024-04-13
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,75 €,2024-03-13 23:03:27,2024-04-13
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,75 €,2024-03-13 23:03:27,2024-04-13
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-13
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,104 €,2024-03-13 23:03:27,2024-04-13
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 23:03:27,2024-04-13
+8:55,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Vueling,84 €,2024-03-13 23:03:27,2024-04-13
+12:10,16:10,Bilbao,BIO,Madrid-Barajas,MAD,IBZ,4h 00m,"Vueling, Air Europa",97 €,2024-03-13 23:03:27,2024-04-13
+16:45,21:40,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 55m,"Vueling, Air Europa",88 €,2024-03-13 23:03:27,2024-04-13
+6:45,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,108 €,2024-03-13 23:03:27,2024-04-13
+6:45,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,"Vueling, Iberia",84 €,2024-03-13 23:03:27,2024-04-13
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",119 €,2024-03-13 23:03:27,2024-04-13
+8:55,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Iberia,300 €,2024-03-13 23:03:27,2024-04-13
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 23:03:27,2024-04-14
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 23:03:27,2024-04-14
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,73 €,2024-03-13 23:03:27,2024-04-14
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-14
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,102 €,2024-03-13 23:03:27,2024-04-14
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,117 €,2024-03-13 23:03:27,2024-04-14
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 23:03:27,2024-04-14
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 23:03:27,2024-04-14
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,139 €,2024-03-13 23:03:27,2024-04-14
+8:55,12:45,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 50m,"Vueling, Iberia Express",89 €,2024-03-13 23:03:27,2024-04-14
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,83 €,2024-03-13 23:03:27,2024-04-14
+8:55,12:45,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 50m,"Vueling, Iberia",100 €,2024-03-13 23:03:27,2024-04-14
+10:00,13:45,Bilbao,BIO,Madrid-Barajas,MAD,VGO,3h 45m,"Iberia, Air Europa",125 €,2024-03-13 23:03:27,2024-04-14
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",144 €,2024-03-13 23:03:27,2024-04-14
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,"Vueling, Air Europa",130 €,2024-03-13 23:03:27,2024-04-14
+10:55,14:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",143 €,2024-03-13 23:03:27,2024-04-14
+10:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 35m,Iberia,162 €,2024-03-13 23:03:27,2024-04-14
+10:55,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",147 €,2024-03-13 23:03:27,2024-04-14
+20:30,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,3h 50m,TAP AIR PORTUGAL,226 €,2024-03-13 23:03:27,2024-04-14
+16:45,20:40,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 55m,Air Europa,314 €,2024-03-13 23:03:27,2024-04-14
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,297 €,2024-03-13 23:03:27,2024-04-14
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,339 €,2024-03-13 23:03:27,2024-04-14
+20:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 50m,Iberia,432 €,2024-03-13 23:03:27,2024-04-14
+16:45,21:40,Bilbao,BIO,Madrid-Barajas,MAD,"PMI, VLC",4h 55m,Air Europa,454 €,2024-03-13 23:03:27,2024-04-14
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-15
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-15
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,27 €,2024-03-13 23:03:27,2024-04-15
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-15
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,68 €,2024-03-13 23:03:27,2024-04-15
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,66 €,2024-03-13 23:03:27,2024-04-15
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,66 €,2024-03-13 23:03:27,2024-04-15
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-15
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-15
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,125 €,2024-03-13 23:03:27,2024-04-15
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 23:03:27,2024-04-15
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,37 €,2024-03-13 23:03:27,2024-04-15
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,79 €,2024-03-13 23:03:27,2024-04-15
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,66 €,2024-03-13 23:03:27,2024-04-15
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",75 €,2024-03-13 23:03:27,2024-04-15
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,160 €,2024-03-13 23:03:27,2024-04-15
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",62 €,2024-03-13 23:03:27,2024-04-15
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,87 €,2024-03-13 23:03:27,2024-04-15
+7:10,11:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,Vueling,112 €,2024-03-13 23:03:27,2024-04-15
+9:10,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 35m,"Vueling, Air Europa",102 €,2024-03-13 23:03:27,2024-04-15
+17:35,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,"Vueling, Iberia",68 €,2024-03-13 23:03:27,2024-04-15
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",114 €,2024-03-13 23:03:27,2024-04-15
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",100 €,2024-03-13 23:03:27,2024-04-15
+7:10,11:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",111 €,2024-03-13 23:03:27,2024-04-15
+17:40,23:00,Bilbao,BIO,Madrid-Barajas,MAD,PMI,5h 20m,"Air Europa, Iberia",103 €,2024-03-13 23:03:27,2024-04-15
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,275 €,2024-03-13 23:03:27,2024-04-15
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Iberia,292 €,2024-03-13 23:03:27,2024-04-15
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,308 €,2024-03-13 23:03:27,2024-04-15
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,300 €,2024-03-13 23:03:27,2024-04-15
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,"Vueling, Iberia",341 €,2024-03-13 23:03:27,2024-04-15
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,352 €,2024-03-13 23:03:27,2024-04-15
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,484 €,2024-03-13 23:03:27,2024-04-15
+14:00,19:00,Bilbao,BIO,Madrid-Barajas,MAD,VGO,5h 00m,Iberia,539 €,2024-03-13 23:03:27,2024-04-15
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,27 €,2024-03-13 23:03:27,2024-04-16
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-16
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-16
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,37 €,2024-03-13 23:03:27,2024-04-16
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,37 €,2024-03-13 23:03:27,2024-04-16
+11:05,12:15,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,37 €,2024-03-13 23:03:27,2024-04-16
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-16
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-16
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-16
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,69 €,2024-03-13 23:03:27,2024-04-16
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,74 €,2024-03-13 23:03:27,2024-04-16
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-16
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,92 €,2024-03-13 23:03:27,2024-04-16
+13:50,18:15,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 25m,"Volotea, Air Europa",55 €,2024-03-13 23:03:27,2024-04-16
+7:40,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",67 €,2024-03-13 23:03:27,2024-04-16
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,91 €,2024-03-13 23:03:27,2024-04-16
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",82 €,2024-03-13 23:03:27,2024-04-16
+19:45,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,104 €,2024-03-13 23:03:27,2024-04-16
+18:20,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,"Vueling, Iberia",110 €,2024-03-13 23:03:27,2024-04-16
+17:55,22:05,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 10m,"Vueling, Iberia Express",150 €,2024-03-13 23:03:27,2024-04-16
+13:50,18:55,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 05m,"Volotea, Iberia",102 €,2024-03-13 23:03:27,2024-04-16
+17:55,22:05,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 10m,"Vueling, Iberia",157 €,2024-03-13 23:03:27,2024-04-16
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,247 €,2024-03-13 23:03:27,2024-04-16
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,327 €,2024-03-13 23:03:27,2024-04-16
+18:20,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Iberia,379 €,2024-03-13 23:03:27,2024-04-16
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,435 €,2024-03-13 23:03:27,2024-04-16
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,435 €,2024-03-13 23:03:27,2024-04-16
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,27 €,2024-03-13 23:03:27,2024-04-17
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-17
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,32 €,2024-03-13 23:03:27,2024-04-17
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,37 €,2024-03-13 23:03:27,2024-04-17
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,37 €,2024-03-13 23:03:27,2024-04-17
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-17
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-17
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,53 €,2024-03-13 23:03:27,2024-04-17
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,67 €,2024-03-13 23:03:27,2024-04-17
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,69 €,2024-03-13 23:03:27,2024-04-17
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-17
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Vueling,47 €,2024-03-13 23:03:27,2024-04-17
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,49 €,2024-03-13 23:03:27,2024-04-17
+8:55,12:45,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 50m,"Vueling, Iberia Express",65 €,2024-03-13 23:03:27,2024-04-17
+7:40,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",46 €,2024-03-13 23:03:27,2024-04-17
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,63 €,2024-03-13 23:03:27,2024-04-17
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",51 €,2024-03-13 23:03:27,2024-04-17
+14:25,18:55,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 30m,"Vueling, Iberia",86 €,2024-03-13 23:03:27,2024-04-17
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Vueling,111 €,2024-03-13 23:03:27,2024-04-17
+11:25,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",109 €,2024-03-13 23:03:27,2024-04-17
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",97 €,2024-03-13 23:03:27,2024-04-17
+11:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 35m,"Vueling, Iberia",145 €,2024-03-13 23:03:27,2024-04-17
+12:10,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 55m,TAP AIR PORTUGAL,124 €,2024-03-13 23:03:27,2024-04-17
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Iberia,245 €,2024-03-13 23:03:27,2024-04-17
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Vueling,315 €,2024-03-13 23:03:27,2024-04-17
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,269 €,2024-03-13 23:03:27,2024-04-17
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,247 €,2024-03-13 23:03:27,2024-04-17
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Iberia,272 €,2024-03-13 23:03:27,2024-04-17
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Iberia,526 €,2024-03-13 23:03:27,2024-04-17
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,487 €,2024-03-13 23:03:27,2024-04-17
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,25 €,2024-03-13 23:03:27,2024-04-18
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-18
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,34 €,2024-03-13 23:03:27,2024-04-18
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-18
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-18
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,45 €,2024-03-13 23:03:27,2024-04-18
+19:35,20:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,51 €,2024-03-13 23:03:27,2024-04-18
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-18
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,63 €,2024-03-13 23:03:27,2024-04-18
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,70 €,2024-03-13 23:03:27,2024-04-18
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-18
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-18
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,108 €,2024-03-13 23:03:27,2024-04-18
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Vueling,65 €,2024-03-13 23:03:27,2024-04-18
+18:35,22:20,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 45m,"Volotea, Air Europa",79 €,2024-03-13 23:03:27,2024-04-18
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,66 €,2024-03-13 23:03:27,2024-04-18
+7:10,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",72 €,2024-03-13 23:03:27,2024-04-18
+17:55,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,5h 05m,"Vueling, Iberia",49 €,2024-03-13 23:03:27,2024-04-18
+7:10,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,105 €,2024-03-13 23:03:27,2024-04-18
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",84 €,2024-03-13 23:03:27,2024-04-18
+7:10,11:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",87 €,2024-03-13 23:03:27,2024-04-18
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",78 €,2024-03-13 23:03:27,2024-04-18
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Vueling,111 €,2024-03-13 23:03:27,2024-04-18
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,"Vueling, Air Europa",119 €,2024-03-13 23:03:27,2024-04-18
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",118 €,2024-03-13 23:03:27,2024-04-18
+14:15,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 05m,"Vueling, Iberia",157 €,2024-03-13 23:03:27,2024-04-18
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Iberia,272 €,2024-03-13 23:03:27,2024-04-18
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,265 €,2024-03-13 23:03:27,2024-04-18
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,271 €,2024-03-13 23:03:27,2024-04-18
+11:00,15:25,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 25m,TAP AIR PORTUGAL,293 €,2024-03-13 23:03:27,2024-04-18
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,424 €,2024-03-13 23:03:27,2024-04-18
+14:15,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 05m,Iberia,440 €,2024-03-13 23:03:27,2024-04-18
+13:40,19:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,5h 20m,Iberia,424 €,2024-03-13 23:03:27,2024-04-18
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-19
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-19
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,35 €,2024-03-13 23:03:27,2024-04-19
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-19
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-19
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-19
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,51 €,2024-03-13 23:03:27,2024-04-19
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-19
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,65 €,2024-03-13 23:03:27,2024-04-19
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,63 €,2024-03-13 23:03:27,2024-04-19
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 23:03:27,2024-04-19
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,121 €,2024-03-13 23:03:27,2024-04-19
+17:40,21:40,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 00m,"Volotea, Air Europa",94 €,2024-03-13 23:03:27,2024-04-19
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Vueling,157 €,2024-03-13 23:03:27,2024-04-19
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",111 €,2024-03-13 23:03:27,2024-04-19
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Vueling,171 €,2024-03-13 23:03:27,2024-04-19
+15:15,20:00,Bilbao,BIO,Madrid-Barajas,MAD,ORY,4h 45m,"Volotea, Transavia France",153 €,2024-03-13 23:03:27,2024-04-19
+10:30,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 05m,Iberia,202 €,2024-03-13 23:03:27,2024-04-19
+8:05,13:25,Bilbao,BIO,Madrid-Barajas,MAD,LYS,5h 20m,"Volotea, easyJet",196 €,2024-03-13 23:03:27,2024-04-19
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,271 €,2024-03-13 23:03:27,2024-04-19
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Iberia,397 €,2024-03-13 23:03:27,2024-04-19
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,418 €,2024-03-13 23:03:27,2024-04-19
+12:25,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 40m,TAP AIR PORTUGAL,409 €,2024-03-13 23:03:27,2024-04-19
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Iberia,435 €,2024-03-13 23:03:27,2024-04-19
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,579 €,2024-03-13 23:03:27,2024-04-19
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-20
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-20
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-20
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,45 €,2024-03-13 23:03:27,2024-04-20
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,50 €,2024-03-13 23:03:27,2024-04-20
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-20
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,65 €,2024-03-13 23:03:27,2024-04-20
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,80 €,2024-03-13 23:03:27,2024-04-20
+15:30,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",79 €,2024-03-13 23:03:27,2024-04-20
+8:55,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Vueling,117 €,2024-03-13 23:03:27,2024-04-20
+12:10,16:10,Bilbao,BIO,Madrid-Barajas,MAD,IBZ,4h 00m,"Vueling, Air Europa",101 €,2024-03-13 23:03:27,2024-04-20
+6:45,10:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 55m,"Vueling, Iberia",108 €,2024-03-13 23:03:27,2024-04-20
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",133 €,2024-03-13 23:03:27,2024-04-20
+6:45,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,"Vueling, Iberia",129 €,2024-03-13 23:03:27,2024-04-20
+6:45,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,141 €,2024-03-13 23:03:27,2024-04-20
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",147 €,2024-03-13 23:03:27,2024-04-20
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,"Vueling, Air Europa",172 €,2024-03-13 23:03:27,2024-04-20
+8:55,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Iberia,357 €,2024-03-13 23:03:27,2024-04-20
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,52 €,2024-03-13 23:03:27,2024-04-21
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,69 €,2024-03-13 23:03:27,2024-04-21
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,70 €,2024-03-13 23:03:27,2024-04-21
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,70 €,2024-03-13 23:03:27,2024-04-21
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,83 €,2024-03-13 23:03:27,2024-04-21
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-21
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-21
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,124 €,2024-03-13 23:03:27,2024-04-21
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 23:03:27,2024-04-21
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,70 €,2024-03-13 23:03:27,2024-04-21
+8:55,12:45,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 50m,"Vueling, Iberia Express",120 €,2024-03-13 23:03:27,2024-04-21
+7:00,10:40,Bilbao,BIO,Madrid-Barajas,MAD,VLC,3h 40m,"Vueling, Iberia",102 €,2024-03-13 23:03:27,2024-04-21
+8:55,12:45,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 50m,"Vueling, Iberia",127 €,2024-03-13 23:03:27,2024-04-21
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",142 €,2024-03-13 23:03:27,2024-04-21
+14:55,18:55,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 00m,"Volotea, Iberia Express",156 €,2024-03-13 23:03:27,2024-04-21
+10:55,14:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",133 €,2024-03-13 23:03:27,2024-04-21
+10:00,13:45,Bilbao,BIO,Madrid-Barajas,MAD,VGO,3h 45m,"Iberia, Air Europa",146 €,2024-03-13 23:03:27,2024-04-21
+19:10,22:55,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 45m,"Vueling, Iberia",146 €,2024-03-13 23:03:27,2024-04-21
+10:55,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",131 €,2024-03-13 23:03:27,2024-04-21
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,"Vueling, Air Europa",162 €,2024-03-13 23:03:27,2024-04-21
+10:55,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Vueling,172 €,2024-03-13 23:03:27,2024-04-21
+10:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 35m,Iberia,170 €,2024-03-13 23:03:27,2024-04-21
+16:45,20:40,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 55m,Air Europa,236 €,2024-03-13 23:03:27,2024-04-21
+20:30,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,3h 50m,TAP AIR PORTUGAL,211 €,2024-03-13 23:03:27,2024-04-21
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,278 €,2024-03-13 23:03:27,2024-04-21
+16:45,21:40,Bilbao,BIO,Madrid-Barajas,MAD,"PMI, VLC",4h 55m,Air Europa,315 €,2024-03-13 23:03:27,2024-04-21
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,326 €,2024-03-13 23:03:27,2024-04-21
+20:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 50m,Iberia,591 €,2024-03-13 23:03:27,2024-04-21
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,25 €,2024-03-13 23:03:27,2024-04-22
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-22
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-22
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,35 €,2024-03-13 23:03:27,2024-04-22
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,35 €,2024-03-13 23:03:27,2024-04-22
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,39 €,2024-03-13 23:03:27,2024-04-22
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-22
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-22
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-22
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-22
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,63 €,2024-03-13 23:03:27,2024-04-22
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,65 €,2024-03-13 23:03:27,2024-04-22
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,79 €,2024-03-13 23:03:27,2024-04-22
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,82 €,2024-03-13 23:03:27,2024-04-22
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,96 €,2024-03-13 23:03:27,2024-04-22
+9:10,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 35m,"Vueling, Air Europa",107 €,2024-03-13 23:03:27,2024-04-22
+17:35,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,"Vueling, Iberia",111 €,2024-03-13 23:03:27,2024-04-22
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,123 €,2024-03-13 23:03:27,2024-04-22
+19:00,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,5h 20m,"Vueling, TAP AIR PORTUGAL",97 €,2024-03-13 23:03:27,2024-04-22
+13:50,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",124 €,2024-03-13 23:03:27,2024-04-22
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,"Vueling, Iberia",113 €,2024-03-13 23:03:27,2024-04-22
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,231 €,2024-03-13 23:03:27,2024-04-22
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Iberia,300 €,2024-03-13 23:03:27,2024-04-22
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,297 €,2024-03-13 23:03:27,2024-04-22
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,317 €,2024-03-13 23:03:27,2024-04-22
+13:50,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Iberia,353 €,2024-03-13 23:03:27,2024-04-22
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,432 €,2024-03-13 23:03:27,2024-04-22
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,25 €,2024-03-13 23:03:27,2024-04-23
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-23
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-23
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-23
+11:05,12:15,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-23
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-23
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-23
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,40 €,2024-03-13 23:03:27,2024-04-23
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-23
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-23
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-23
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-23
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,65 €,2024-03-13 23:03:27,2024-04-23
+19:25,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 30m,"Vueling, Iberia Express",37 €,2024-03-13 23:03:27,2024-04-23
+19:25,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 30m,"Vueling, Iberia",42 €,2024-03-13 23:03:27,2024-04-23
+19:00,22:55,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 55m,"Vueling, Iberia",55 €,2024-03-13 23:03:27,2024-04-23
+13:50,18:15,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 25m,"Volotea, Air Europa",54 €,2024-03-13 23:03:27,2024-04-23
+17:55,22:05,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 10m,"Vueling, Iberia Express",92 €,2024-03-13 23:03:27,2024-04-23
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,81 €,2024-03-13 23:03:27,2024-04-23
+17:55,22:05,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 10m,"Vueling, Iberia",96 €,2024-03-13 23:03:27,2024-04-23
+19:45,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,103 €,2024-03-13 23:03:27,2024-04-23
+18:20,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,"Vueling, Iberia",126 €,2024-03-13 23:03:27,2024-04-23
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,300 €,2024-03-13 23:03:27,2024-04-23
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,297 €,2024-03-13 23:03:27,2024-04-23
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,432 €,2024-03-13 23:03:27,2024-04-23
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,421 €,2024-03-13 23:03:27,2024-04-23
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,25 €,2024-03-13 23:03:27,2024-04-24
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-24
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-24
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-24
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-24
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-24
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-24
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,50 €,2024-03-13 23:03:27,2024-04-24
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,50 €,2024-03-13 23:03:27,2024-04-24
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-24
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-24
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,72 €,2024-03-13 23:03:27,2024-04-24
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Vueling,48 €,2024-03-13 23:03:27,2024-04-24
+19:05,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 50m,"Vueling, Iberia Express",44 €,2024-03-13 23:03:27,2024-04-24
+8:55,12:45,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 50m,"Vueling, Iberia Express",52 €,2024-03-13 23:03:27,2024-04-24
+14:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 50m,"Volotea, Iberia Express",60 €,2024-03-13 23:03:27,2024-04-24
+11:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 35m,"Vueling, Iberia Express",68 €,2024-03-13 23:03:27,2024-04-24
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,54 €,2024-03-13 23:03:27,2024-04-24
+19:05,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 50m,"Vueling, Iberia",50 €,2024-03-13 23:03:27,2024-04-24
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,65 €,2024-03-13 23:03:27,2024-04-24
+8:55,12:45,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 50m,"Vueling, Iberia",58 €,2024-03-13 23:03:27,2024-04-24
+7:40,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",56 €,2024-03-13 23:03:27,2024-04-24
+14:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 50m,"Volotea, Iberia",66 €,2024-03-13 23:03:27,2024-04-24
+11:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 35m,"Vueling, Iberia",74 €,2024-03-13 23:03:27,2024-04-24
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",96 €,2024-03-13 23:03:27,2024-04-24
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Vueling,95 €,2024-03-13 23:03:27,2024-04-24
+14:25,18:55,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 30m,"Vueling, Iberia",77 €,2024-03-13 23:03:27,2024-04-24
+11:25,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,113 €,2024-03-13 23:03:27,2024-04-24
+14:25,18:55,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 30m,Vueling,116 €,2024-03-13 23:03:27,2024-04-24
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",79 €,2024-03-13 23:03:27,2024-04-24
+11:25,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",100 €,2024-03-13 23:03:27,2024-04-24
+17:40,23:00,Bilbao,BIO,Madrid-Barajas,MAD,PMI,5h 20m,"Air Europa, Iberia",101 €,2024-03-13 23:03:27,2024-04-24
+12:10,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 55m,TAP AIR PORTUGAL,124 €,2024-03-13 23:03:27,2024-04-24
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Iberia,243 €,2024-03-13 23:03:27,2024-04-24
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Iberia,248 €,2024-03-13 23:03:27,2024-04-24
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,285 €,2024-03-13 23:03:27,2024-04-24
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,274 €,2024-03-13 23:03:27,2024-04-24
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Vueling,395 €,2024-03-13 23:03:27,2024-04-24
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Iberia,432 €,2024-03-13 23:03:27,2024-04-24
+11:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 35m,Iberia,428 €,2024-03-13 23:03:27,2024-04-24
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,484 €,2024-03-13 23:03:27,2024-04-24
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-25
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-25
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,25 €,2024-03-13 23:03:27,2024-04-25
+19:35,20:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-25
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-25
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-25
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-25
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-25
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-25
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-25
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,50 €,2024-03-13 23:03:27,2024-04-25
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,60 €,2024-03-13 23:03:27,2024-04-25
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,63 €,2024-03-13 23:03:27,2024-04-25
+14:45,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 00m,"Volotea, Iberia Express",64 €,2024-03-13 23:03:27,2024-04-25
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Vueling,76 €,2024-03-13 23:03:27,2024-04-25
+14:45,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 00m,"Volotea, Vueling",76 €,2024-03-13 23:03:27,2024-04-25
+18:35,22:20,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 45m,"Volotea, Air Europa",86 €,2024-03-13 23:03:27,2024-04-25
+19:05,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 50m,"Vueling, Iberia Express",88 €,2024-03-13 23:03:27,2024-04-25
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,78 €,2024-03-13 23:03:27,2024-04-25
+14:45,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 00m,"Volotea, Iberia",73 €,2024-03-13 23:03:27,2024-04-25
+7:10,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",71 €,2024-03-13 23:03:27,2024-04-25
+7:10,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,104 €,2024-03-13 23:03:27,2024-04-25
+19:05,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 50m,"Vueling, Iberia",91 €,2024-03-13 23:03:27,2024-04-25
+7:10,11:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",86 €,2024-03-13 23:03:27,2024-04-25
+17:55,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,5h 05m,"Vueling, Iberia",61 €,2024-03-13 23:03:27,2024-04-25
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,"Vueling, Air Europa",94 €,2024-03-13 23:03:27,2024-04-25
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",117 €,2024-03-13 23:03:27,2024-04-25
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Vueling,116 €,2024-03-13 23:03:27,2024-04-25
+11:40,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Vueling,142 €,2024-03-13 23:03:27,2024-04-25
+11:40,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",126 €,2024-03-13 23:03:27,2024-04-25
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",111 €,2024-03-13 23:03:27,2024-04-25
+14:15,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 05m,"Vueling, Iberia",162 €,2024-03-13 23:03:27,2024-04-25
+14:15,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 05m,Iberia,269 €,2024-03-13 23:03:27,2024-04-25
+11:00,15:25,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 25m,TAP AIR PORTUGAL,284 €,2024-03-13 23:03:27,2024-04-25
+8:55,13:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,Iberia,292 €,2024-03-13 23:03:27,2024-04-25
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,271 €,2024-03-13 23:03:27,2024-04-25
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,293 €,2024-03-13 23:03:27,2024-04-25
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,432 €,2024-03-13 23:03:27,2024-04-25
+13:40,19:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,5h 20m,Iberia,432 €,2024-03-13 23:03:27,2024-04-25
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,34 €,2024-03-13 23:03:27,2024-04-26
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-26
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-26
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-26
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-26
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-26
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,100 €,2024-03-13 23:03:27,2024-04-26
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,98 €,2024-03-13 23:03:27,2024-04-26
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,98 €,2024-03-13 23:03:27,2024-04-26
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 23:03:27,2024-04-26
+17:40,21:40,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 00m,"Volotea, Air Europa",94 €,2024-03-13 23:03:27,2024-04-26
+7:10,11:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",104 €,2024-03-13 23:03:27,2024-04-26
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,218 €,2024-03-13 23:03:27,2024-04-26
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Vueling,179 €,2024-03-13 23:03:27,2024-04-26
+7:10,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",113 €,2024-03-13 23:03:27,2024-04-26
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,270 €,2024-03-13 23:03:27,2024-04-26
+8:05,13:25,Bilbao,BIO,Madrid-Barajas,MAD,LYS,5h 20m,"Volotea, easyJet",155 €,2024-03-13 23:03:27,2024-04-26
+14:40,18:55,Bilbao,BIO,Madrid-Barajas,MAD,OPO,4h 15m,"Vueling, Iberia",160 €,2024-03-13 23:03:27,2024-04-26
+10:30,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 05m,Iberia,183 €,2024-03-13 23:03:27,2024-04-26
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",191 €,2024-03-13 23:03:27,2024-04-26
+15:15,20:00,Bilbao,BIO,Madrid-Barajas,MAD,ORY,4h 45m,"Volotea, Transavia France",212 €,2024-03-13 23:03:27,2024-04-26
+15:10,19:10,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 00m,"Vueling, Iberia",233 €,2024-03-13 23:03:27,2024-04-26
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Vueling,263 €,2024-03-13 23:03:27,2024-04-26
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,352 €,2024-03-13 23:03:27,2024-04-26
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Iberia,445 €,2024-03-13 23:03:27,2024-04-26
+12:25,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 40m,TAP AIR PORTUGAL,406 €,2024-03-13 23:03:27,2024-04-26
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Iberia,585 €,2024-03-13 23:03:27,2024-04-26
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,45 €,2024-03-13 23:03:27,2024-04-27
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,46 €,2024-03-13 23:03:27,2024-04-27
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,65 €,2024-03-13 23:03:27,2024-04-27
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,63 €,2024-03-13 23:03:27,2024-04-27
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,98 €,2024-03-13 23:03:27,2024-04-27
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,98 €,2024-03-13 23:03:27,2024-04-27
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 23:03:27,2024-04-27
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,157 €,2024-03-13 23:03:27,2024-04-27
+8:55,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Vueling,171 €,2024-03-13 23:03:27,2024-04-27
+8:25,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 15m,"Vueling, Air Europa",136 €,2024-03-13 23:03:27,2024-04-27
+8:55,13:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",206 €,2024-03-13 23:03:27,2024-04-27
+8:55,13:05,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,Iberia,435 €,2024-03-13 23:03:27,2024-04-27
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,65 €,2024-03-13 23:03:27,2024-04-28
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,65 €,2024-03-13 23:03:27,2024-04-28
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,63 €,2024-03-13 23:03:27,2024-04-28
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,81 €,2024-03-13 23:03:27,2024-04-28
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,82 €,2024-03-13 23:03:27,2024-04-28
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,90 €,2024-03-13 23:03:27,2024-04-28
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,131 €,2024-03-13 23:03:27,2024-04-28
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,134 €,2024-03-13 23:03:27,2024-04-28
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,192 €,2024-03-13 23:03:27,2024-04-28
+14:55,18:55,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 00m,"Volotea, Iberia Express",145 €,2024-03-13 23:03:27,2024-04-28
+8:55,12:45,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 50m,"Vueling, Iberia Express",151 €,2024-03-13 23:03:27,2024-04-28
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,140 €,2024-03-13 23:03:27,2024-04-28
+14:55,18:55,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 00m,"Volotea, Iberia",150 €,2024-03-13 23:03:27,2024-04-28
+20:30,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,3h 50m,TAP AIR PORTUGAL,197 €,2024-03-13 23:03:27,2024-04-28
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,"Vueling, Air Europa",192 €,2024-03-13 23:03:27,2024-04-28
+10:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 35m,Iberia,191 €,2024-03-13 23:03:27,2024-04-28
+16:45,20:40,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 55m,Air Europa,350 €,2024-03-13 23:03:27,2024-04-28
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,298 €,2024-03-13 23:03:27,2024-04-28
+20:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 50m,Iberia,424 €,2024-03-13 23:03:27,2024-04-28
+8:55,14:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,381 €,2024-03-13 23:03:27,2024-04-28
+16:45,21:40,Bilbao,BIO,Madrid-Barajas,MAD,"PMI, VLC",4h 55m,Air Europa,560 €,2024-03-13 23:03:27,2024-04-28
+10:00,13:45,Bilbao,BIO,Madrid-Barajas,MAD,VGO,3h 45m,"Iberia, Air Europa",587 €,2024-03-13 23:03:27,2024-04-28
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-29
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,30 €,2024-03-13 23:03:27,2024-04-29
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,25 €,2024-03-13 23:03:27,2024-04-29
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,35 €,2024-03-13 23:03:27,2024-04-29
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,35 €,2024-03-13 23:03:27,2024-04-29
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-29
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-29
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,41 €,2024-03-13 23:03:27,2024-04-29
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,65 €,2024-03-13 23:03:27,2024-04-29
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,76 €,2024-03-13 23:03:27,2024-04-29
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,83 €,2024-03-13 23:03:27,2024-04-29
+17:40,18:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,106 €,2024-03-13 23:03:27,2024-04-29
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,65 €,2024-03-13 23:03:27,2024-04-29
+9:10,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 35m,"Vueling, Air Europa",77 €,2024-03-13 23:03:27,2024-04-29
+10:50,14:55,Bilbao,BIO,Madrid-Barajas,MAD,ALC,4h 05m,"Volotea, Iberia",92 €,2024-03-13 23:03:27,2024-04-29
+7:10,11:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",98 €,2024-03-13 23:03:27,2024-04-29
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,103 €,2024-03-13 23:03:27,2024-04-29
+19:00,23:10,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 10m,"Vueling, Iberia",101 €,2024-03-13 23:03:27,2024-04-29
+17:35,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,"Vueling, Iberia",88 €,2024-03-13 23:03:27,2024-04-29
+19:00,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,5h 20m,"Vueling, TAP AIR PORTUGAL",79 €,2024-03-13 23:03:27,2024-04-29
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,140 €,2024-03-13 23:03:27,2024-04-29
+13:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,4h 50m,"Vueling, Iberia",120 €,2024-03-13 23:03:27,2024-04-29
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,231 €,2024-03-13 23:03:27,2024-04-29
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Iberia,270 €,2024-03-13 23:03:27,2024-04-29
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,326 €,2024-03-13 23:03:27,2024-04-29
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,386 €,2024-03-13 23:03:27,2024-04-29
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,432 €,2024-03-13 23:03:27,2024-04-29
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,421 €,2024-03-13 23:03:27,2024-04-30
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,119 €,2024-03-13 23:41:21,2024-04-01
+23:00,0:10,,+1,,-,directo,1h 10m,Vueling,119 €,2024-03-13 23:41:21,2024-04-01
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,129 €,2024-03-13 23:41:21,2024-04-01
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,142 €,2024-03-13 23:41:21,2024-04-01
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,142 €,2024-03-13 23:41:21,2024-04-01
+13:50,15:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,142 €,2024-03-13 23:41:21,2024-04-01
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,220 €,2024-03-13 23:41:21,2024-04-01
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,248 €,2024-03-13 23:41:21,2024-04-01
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,248 €,2024-03-13 23:41:21,2024-04-01
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,248 €,2024-03-13 23:41:21,2024-04-01
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,281 €,2024-03-13 23:41:21,2024-04-01
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,281 €,2024-03-13 23:41:21,2024-04-01
+13:50,15:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,281 €,2024-03-13 23:41:21,2024-04-01
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,242 €,2024-03-13 23:41:21,2024-04-01
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,256 €,2024-03-13 23:41:21,2024-04-01
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,256 €,2024-03-13 23:41:21,2024-04-01
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,256 €,2024-03-13 23:41:21,2024-04-01
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,378 €,2024-03-13 23:41:21,2024-04-01
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Vueling,346 €,2024-03-13 23:41:21,2024-04-01
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,434 €,2024-03-13 23:41:21,2024-04-01
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Vueling,434 €,2024-03-13 23:41:21,2024-04-01
+14:10,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 25m,Lufthansa,452 €,2024-03-13 23:41:21,2024-04-01
+17:40,21:10,Bilbao,BIO,Barcelona-El Prat,BCN,PMI,3h 30m,Air Europa,636 €,2024-03-13 23:41:21,2024-04-01
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,487 €,2024-03-13 23:41:21,2024-04-01
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,72 €,2024-03-13 23:41:21,2024-04-02
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,74 €,2024-03-13 23:41:21,2024-04-02
+18:20,19:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,83 €,2024-03-13 23:41:21,2024-04-02
+7:40,8:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,98 €,2024-03-13 23:41:21,2024-04-02
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,106 €,2024-03-13 23:41:21,2024-04-02
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,153 €,2024-03-13 23:41:21,2024-04-02
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,186 €,2024-03-13 23:41:21,2024-04-02
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,186 €,2024-03-13 23:41:21,2024-04-02
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,186 €,2024-03-13 23:41:21,2024-04-02
+18:20,19:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,195 €,2024-03-13 23:41:21,2024-04-02
+7:40,8:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,226 €,2024-03-13 23:41:21,2024-04-02
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,157 €,2024-03-13 23:41:21,2024-04-02
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,168 €,2024-03-13 23:41:21,2024-04-02
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,157 €,2024-03-13 23:41:21,2024-04-02
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,285 €,2024-03-13 23:41:21,2024-04-02
+19:45,1:30,Bilbao,BIO,Barcelona-El Prat,BCN,LIS,5h 45m,TAP AIR PORTUGAL,175 €,2024-03-13 23:41:21,2024-04-02
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,342 €,2024-03-13 23:41:21,2024-04-02
+11:05,15:40,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 35m,Iberia,401 €,2024-03-13 23:41:21,2024-04-02
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,434 €,2024-03-13 23:41:21,2024-04-02
+6:45,10:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 00m,Iberia,526 €,2024-03-13 23:41:21,2024-04-02
+13:45,19:05,Bilbao,BIO,Barcelona-El Prat,BCN,DUS,5h 20m,Eurowings,493 €,2024-03-13 23:41:21,2024-04-02
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,492 €,2024-03-13 23:41:21,2024-04-02
+7:00,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,"SCQ, MAD",5h 45m,Iberia,601 €,2024-03-13 23:41:21,2024-04-02
+6:45,11:55,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 10m,Lufthansa,1267 €,2024-03-13 23:41:21,2024-04-02
+15:55,17:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,34 €,2024-03-13 23:41:21,2024-04-03
+11:25,12:35,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,37 €,2024-03-13 23:41:21,2024-04-03
+14:20,15:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,40 €,2024-03-13 23:41:21,2024-04-03
+7:40,8:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,40 €,2024-03-13 23:41:21,2024-04-03
+17:30,18:40,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,45 €,2024-03-13 23:41:21,2024-04-03
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,55 €,2024-03-13 23:41:21,2024-04-03
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,110 €,2024-03-13 23:41:21,2024-04-03
+15:55,17:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,118 €,2024-03-13 23:41:21,2024-04-03
+14:20,15:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,125 €,2024-03-13 23:41:21,2024-04-03
+11:25,12:35,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,125 €,2024-03-13 23:41:21,2024-04-03
+7:40,8:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,125 €,2024-03-13 23:41:21,2024-04-03
+17:30,18:40,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,131 €,2024-03-13 23:41:21,2024-04-03
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,144 €,2024-03-13 23:41:21,2024-04-03
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,71 €,2024-03-13 23:41:21,2024-04-03
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,82 €,2024-03-13 23:41:21,2024-04-03
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,99 €,2024-03-13 23:41:21,2024-04-03
+17:40,21:10,Bilbao,BIO,Barcelona-El Prat,BCN,PMI,3h 30m,Air Europa,176 €,2024-03-13 23:41:21,2024-04-03
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,178 €,2024-03-13 23:41:21,2024-04-03
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,234 €,2024-03-13 23:41:21,2024-04-03
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,"Vueling, Iberia",114 €,2024-03-13 23:41:21,2024-04-03
+6:45,11:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,"Vueling, Iberia",124 €,2024-03-13 23:41:21,2024-04-03
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,"Iberia, Vueling",119 €,2024-03-13 23:41:21,2024-04-03
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,192 €,2024-03-13 23:41:21,2024-04-03
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Vueling,167 €,2024-03-13 23:41:21,2024-04-03
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,221 €,2024-03-13 23:41:21,2024-04-03
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,150 €,2024-03-13 23:41:21,2024-04-03
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Vueling,206 €,2024-03-13 23:41:21,2024-04-03
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,365 €,2024-03-13 23:41:21,2024-04-03
+7:40,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,"SCQ, MAD",5h 05m,Iberia,298 €,2024-03-13 23:41:21,2024-04-03
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,402 €,2024-03-13 23:41:21,2024-04-03
+14:05,19:30,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 25m,Lufthansa,497 €,2024-03-13 23:41:21,2024-04-03
+14:15,15:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,36 €,2024-03-13 23:41:21,2024-04-04
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,40 €,2024-03-13 23:41:21,2024-04-04
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,40 €,2024-03-13 23:41:21,2024-04-04
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,45 €,2024-03-13 23:41:21,2024-04-04
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,45 €,2024-03-13 23:41:21,2024-04-04
+11:40,12:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,117 €,2024-03-13 23:41:21,2024-04-04
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,123 €,2024-03-13 23:41:21,2024-04-04
+14:15,15:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,125 €,2024-03-13 23:41:21,2024-04-04
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,129 €,2024-03-13 23:41:21,2024-04-04
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,129 €,2024-03-13 23:41:21,2024-04-04
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,132 €,2024-03-13 23:41:21,2024-04-04
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,54 €,2024-03-13 23:41:21,2024-04-04
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,54 €,2024-03-13 23:41:21,2024-04-04
+19:35,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 15m,Iberia,84 €,2024-03-13 23:41:21,2024-04-04
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,76 €,2024-03-13 23:41:21,2024-04-04
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,84 €,2024-03-13 23:41:21,2024-04-04
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,122 €,2024-03-13 23:41:21,2024-04-04
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,228 €,2024-03-13 23:41:21,2024-04-04
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Vueling,215 €,2024-03-13 23:41:21,2024-04-04
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Vueling,206 €,2024-03-13 23:41:21,2024-04-04
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,313 €,2024-03-13 23:41:21,2024-04-04
+7:00,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,"SCQ, MAD",5h 45m,Iberia,263 €,2024-03-13 23:41:21,2024-04-04
+8:25,14:05,Bilbao,BIO,Barcelona-El Prat,BCN,ZRH,5h 40m,SWISS,345 €,2024-03-13 23:41:21,2024-04-04
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,457 €,2024-03-13 23:41:21,2024-04-04
+13:40,18:40,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,Iberia,526 €,2024-03-13 23:41:21,2024-04-04
+6:45,11:55,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 10m,Lufthansa,532 €,2024-03-13 23:41:21,2024-04-04
+9:15,15:00,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 45m,Iberia,526 €,2024-03-13 23:41:21,2024-04-04
+21:20,22:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,30 €,2024-03-13 23:41:21,2024-04-05
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,35 €,2024-03-13 23:41:21,2024-04-05
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,41 €,2024-03-13 23:41:21,2024-04-05
+13:25,14:35,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,46 €,2024-03-13 23:41:21,2024-04-05
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,50 €,2024-03-13 23:41:21,2024-04-05
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,61 €,2024-03-13 23:41:21,2024-04-05
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,112 €,2024-03-13 23:41:21,2024-04-05
+21:20,22:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,117 €,2024-03-13 23:41:21,2024-04-05
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,132 €,2024-03-13 23:41:21,2024-04-05
+13:25,14:35,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,139 €,2024-03-13 23:41:21,2024-04-05
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,139 €,2024-03-13 23:41:21,2024-04-05
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,153 €,2024-03-13 23:41:21,2024-04-05
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,169 €,2024-03-13 23:41:21,2024-04-05
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,92 €,2024-03-13 23:41:21,2024-04-05
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,97 €,2024-03-13 23:41:21,2024-04-05
+6:45,11:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,Iberia,72 €,2024-03-13 23:41:21,2024-04-05
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,98 €,2024-03-13 23:41:21,2024-04-05
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,151 €,2024-03-13 23:41:21,2024-04-05
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,192 €,2024-03-13 23:41:21,2024-04-05
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,171 €,2024-03-13 23:41:21,2024-04-05
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,130 €,2024-03-13 23:41:21,2024-04-05
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,264 €,2024-03-13 23:41:21,2024-04-05
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,346 €,2024-03-13 23:41:21,2024-04-05
+8:30,14:05,Bilbao,BIO,Barcelona-El Prat,BCN,ZRH,5h 35m,SWISS,345 €,2024-03-13 23:41:21,2024-04-05
+6:45,11:55,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 10m,Lufthansa,387 €,2024-03-13 23:41:21,2024-04-05
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,417 €,2024-03-13 23:41:21,2024-04-05
+13:40,18:40,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,Iberia,582 €,2024-03-13 23:41:21,2024-04-05
+19:20,20:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,27 €,2024-03-13 23:41:21,2024-04-06
+15:30,16:40,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,27 €,2024-03-13 23:41:21,2024-04-06
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,40 €,2024-03-13 23:41:21,2024-04-06
+19:20,20:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,104 €,2024-03-13 23:41:21,2024-04-06
+15:30,16:40,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,104 €,2024-03-13 23:41:21,2024-04-06
+6:45,7:55,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,104 €,2024-03-13 23:41:21,2024-04-06
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,123 €,2024-03-13 23:41:21,2024-04-06
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,54 €,2024-03-13 23:41:21,2024-04-06
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,57 €,2024-03-13 23:41:21,2024-04-06
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,104 €,2024-03-13 23:41:21,2024-04-06
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,154 €,2024-03-13 23:41:21,2024-04-06
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,264 €,2024-03-13 23:41:21,2024-04-06
+18:45,0:15,Bilbao,BIO,Barcelona-El Prat,BCN,LIS,5h 30m,"TAP AIR PORTUGAL, Iberia",234 €,2024-03-13 23:41:21,2024-04-06
+14:05,19:30,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 25m,Lufthansa,422 €,2024-03-13 23:41:21,2024-04-06
+9:15,14:55,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 40m,Iberia,558 €,2024-03-13 23:41:21,2024-04-06
+10:55,12:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,45 €,2024-03-13 23:41:21,2024-04-07
+23:00,0:10,,+1,,-,directo,1h 10m,Vueling,60 €,2024-03-13 23:41:21,2024-04-07
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,76 €,2024-03-13 23:41:21,2024-04-07
+19:50,21:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,83 €,2024-03-13 23:41:21,2024-04-07
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,117 €,2024-03-13 23:41:21,2024-04-07
+10:55,12:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,129 €,2024-03-13 23:41:21,2024-04-07
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,169 €,2024-03-13 23:41:21,2024-04-07
+19:50,21:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,182 €,2024-03-13 23:41:21,2024-04-07
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,186 €,2024-03-13 23:41:21,2024-04-07
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Iberia,70 €,2024-03-13 23:41:21,2024-04-07
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,116 €,2024-03-13 23:41:21,2024-04-07
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,148 €,2024-03-13 23:41:21,2024-04-07
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,"Iberia, Vueling",152 €,2024-03-13 23:41:21,2024-04-07
+13:40,18:55,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 15m,"Iberia, Vueling",157 €,2024-03-13 23:41:21,2024-04-07
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,226 €,2024-03-13 23:41:21,2024-04-07
+8:30,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 15m,"Air Europa, Iberia",192 €,2024-03-13 23:41:21,2024-04-07
+20:30,1:30,Bilbao,BIO,Barcelona-El Prat,BCN,LIS,5h 00m,TAP AIR PORTUGAL,181 €,2024-03-13 23:41:21,2024-04-07
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Vueling,216 €,2024-03-13 23:41:21,2024-04-07
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,248 €,2024-03-13 23:41:21,2024-04-07
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,"Iberia, Vueling",185 €,2024-03-13 23:41:21,2024-04-07
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Vueling,240 €,2024-03-13 23:41:21,2024-04-07
+16:45,21:10,Bilbao,BIO,Barcelona-El Prat,BCN,PMI,4h 25m,Air Europa,285 €,2024-03-13 23:41:21,2024-04-07
+6:45,11:55,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 10m,Lufthansa,387 €,2024-03-13 23:41:21,2024-04-07
+9:30,14:05,Bilbao,BIO,Barcelona-El Prat,BCN,ZRH,4h 35m,SWISS,470 €,2024-03-13 23:41:21,2024-04-07
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,452 €,2024-03-13 23:41:21,2024-04-07
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,535 €,2024-03-13 23:41:21,2024-04-07
+13:40,18:55,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 15m,Iberia,613 €,2024-03-13 23:41:21,2024-04-07
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,26 €,2024-03-13 23:41:21,2024-04-08
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,28 €,2024-03-13 23:41:21,2024-04-08
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,30 €,2024-03-13 23:41:21,2024-04-08
+13:50,15:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,40 €,2024-03-13 23:41:21,2024-04-08
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,66 €,2024-03-13 23:41:21,2024-04-08
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,72 €,2024-03-13 23:41:21,2024-04-08
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,109 €,2024-03-13 23:41:21,2024-04-08
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,114 €,2024-03-13 23:41:21,2024-04-08
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,114 €,2024-03-13 23:41:21,2024-04-08
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,114 €,2024-03-13 23:41:21,2024-04-08
+13:50,15:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,129 €,2024-03-13 23:41:21,2024-04-08
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,166 €,2024-03-13 23:41:21,2024-04-08
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,64 €,2024-03-13 23:41:21,2024-04-08
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,68 €,2024-03-13 23:41:21,2024-04-08
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,57 €,2024-03-13 23:41:21,2024-04-08
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,80 €,2024-03-13 23:41:21,2024-04-08
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,57 €,2024-03-13 23:41:21,2024-04-08
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,88 €,2024-03-13 23:41:21,2024-04-08
+6:45,11:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,Iberia,70 €,2024-03-13 23:41:21,2024-04-08
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Iberia,68 €,2024-03-13 23:41:21,2024-04-08
+17:40,21:10,Bilbao,BIO,Barcelona-El Prat,BCN,PMI,3h 30m,Air Europa,115 €,2024-03-13 23:41:21,2024-04-08
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,95 €,2024-03-13 23:41:21,2024-04-08
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,183 €,2024-03-13 23:41:21,2024-04-08
+6:45,10:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 00m,"Iberia, Vueling",120 €,2024-03-13 23:41:21,2024-04-08
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,"Iberia, Vueling",118 €,2024-03-13 23:41:21,2024-04-08
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,167 €,2024-03-13 23:41:21,2024-04-08
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,"Iberia, Vueling",114 €,2024-03-13 23:41:21,2024-04-08
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,"Iberia, Vueling",118 €,2024-03-13 23:41:21,2024-04-08
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Vueling,167 €,2024-03-13 23:41:21,2024-04-08
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,187 €,2024-03-13 23:41:21,2024-04-08
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Vueling,187 €,2024-03-13 23:41:21,2024-04-08
+15:35,20:30,Bilbao,BIO,Barcelona-El Prat,BCN,BRU,4h 55m,Brussels Airlines,299 €,2024-03-13 23:41:21,2024-04-08
+14:10,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 25m,Lufthansa,387 €,2024-03-13 23:41:21,2024-04-08
+6:45,10:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 00m,Iberia,526 €,2024-03-13 23:41:21,2024-04-08
+23:00,0:10,,+1,,-,directo,1h 10m,Vueling,19 €,2024-03-13 23:41:21,2024-04-09
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,27 €,2024-03-13 23:41:21,2024-04-09
+18:20,19:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,30 €,2024-03-13 23:41:21,2024-04-09
+7:40,8:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,36 €,2024-03-13 23:41:21,2024-04-09
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,51 €,2024-03-13 23:41:21,2024-04-09
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,108 €,2024-03-13 23:41:21,2024-04-09
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,108 €,2024-03-13 23:41:21,2024-04-09
+18:20,19:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,108 €,2024-03-13 23:41:21,2024-04-09
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,113 €,2024-03-13 23:41:21,2024-04-09
+7:40,8:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,128 €,2024-03-13 23:41:21,2024-04-09
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,148 €,2024-03-13 23:41:21,2024-04-09
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,48 €,2024-03-13 23:41:21,2024-04-09
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,56 €,2024-03-13 23:41:21,2024-04-09
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,56 €,2024-03-13 23:41:21,2024-04-09
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,56 €,2024-03-13 23:41:21,2024-04-09
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,56 €,2024-03-13 23:41:21,2024-04-09
+11:05,16:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 05m,Iberia,56 €,2024-03-13 23:41:21,2024-04-09
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,126 €,2024-03-13 23:41:21,2024-04-09
+19:45,1:30,Bilbao,BIO,Barcelona-El Prat,BCN,LIS,5h 45m,TAP AIR PORTUGAL,104 €,2024-03-13 23:41:21,2024-04-09
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,126 €,2024-03-13 23:41:21,2024-04-09
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Vueling,210 €,2024-03-13 23:41:21,2024-04-09
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,262 €,2024-03-13 23:41:21,2024-04-09
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Vueling,238 €,2024-03-13 23:41:21,2024-04-09
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,281 €,2024-03-13 23:41:21,2024-04-09
+7:00,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,"SCQ, MAD",5h 45m,Iberia,263 €,2024-03-13 23:41:21,2024-04-09
+13:45,19:05,Bilbao,BIO,Barcelona-El Prat,BCN,DUS,5h 20m,Eurowings,308 €,2024-03-13 23:41:21,2024-04-09
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,286 €,2024-03-13 23:41:21,2024-04-09
+14:20,15:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,18 €,2024-03-13 23:41:21,2024-04-10
+7:40,8:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,18 €,2024-03-13 23:41:21,2024-04-10
+11:25,12:35,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,19 €,2024-03-13 23:41:21,2024-04-10
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,30 €,2024-03-13 23:41:21,2024-04-10
+17:30,18:40,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,31 €,2024-03-13 23:41:21,2024-04-10
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,36 €,2024-03-13 23:41:21,2024-04-10
+7:40,8:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,109 €,2024-03-13 23:41:21,2024-04-10
+15:55,17:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,109 €,2024-03-13 23:41:21,2024-04-10
+17:30,18:40,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,114 €,2024-03-13 23:41:21,2024-04-10
+14:20,15:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,114 €,2024-03-13 23:41:21,2024-04-10
+11:25,12:35,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,114 €,2024-03-13 23:41:21,2024-04-10
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,123 €,2024-03-13 23:41:21,2024-04-10
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,142 €,2024-03-13 23:41:21,2024-04-10
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,57 €,2024-03-13 23:41:21,2024-04-10
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,82 €,2024-03-13 23:41:21,2024-04-10
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,64 €,2024-03-13 23:41:21,2024-04-10
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,110 €,2024-03-13 23:41:21,2024-04-10
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,128 €,2024-03-13 23:41:21,2024-04-10
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,119 €,2024-03-13 23:41:21,2024-04-10
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Vueling,192 €,2024-03-13 23:41:21,2024-04-10
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,258 €,2024-03-13 23:41:21,2024-04-10
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,155 €,2024-03-13 23:41:21,2024-04-10
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,256 €,2024-03-13 23:41:21,2024-04-10
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,286 €,2024-03-13 23:41:21,2024-04-10
+7:40,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,"SCQ, MAD",5h 05m,Iberia,351 €,2024-03-13 23:41:21,2024-04-10
+14:05,19:30,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 25m,Lufthansa,417 €,2024-03-13 23:41:21,2024-04-10
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,36 €,2024-03-13 23:41:21,2024-04-11
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,40 €,2024-03-13 23:41:21,2024-04-11
+11:40,12:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,41 €,2024-03-13 23:41:21,2024-04-11
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,51 €,2024-03-13 23:41:21,2024-04-11
+14:15,15:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,108 €,2024-03-13 23:41:21,2024-04-11
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,128 €,2024-03-13 23:41:21,2024-04-11
+11:40,12:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,132 €,2024-03-13 23:41:21,2024-04-11
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,132 €,2024-03-13 23:41:21,2024-04-11
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,148 €,2024-03-13 23:41:21,2024-04-11
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,153 €,2024-03-13 23:41:21,2024-04-11
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,73 €,2024-03-13 23:41:21,2024-04-11
+19:35,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 15m,Iberia,82 €,2024-03-13 23:41:21,2024-04-11
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,86 €,2024-03-13 23:41:21,2024-04-11
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,143 €,2024-03-13 23:41:21,2024-04-11
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,163 €,2024-03-13 23:41:21,2024-04-11
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,143 €,2024-03-13 23:41:21,2024-04-11
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,153 €,2024-03-13 23:41:21,2024-04-11
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Iberia,187 €,2024-03-13 23:41:21,2024-04-11
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Vueling,238 €,2024-03-13 23:41:21,2024-04-11
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,281 €,2024-03-13 23:41:21,2024-04-11
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,310 €,2024-03-13 23:41:21,2024-04-11
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,359 €,2024-03-13 23:41:21,2024-04-11
+7:00,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,"SCQ, MAD",5h 45m,Iberia,297 €,2024-03-13 23:41:21,2024-04-11
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,335 €,2024-03-13 23:41:21,2024-04-11
+8:25,14:05,Bilbao,BIO,Barcelona-El Prat,BCN,ZRH,5h 40m,SWISS,345 €,2024-03-13 23:41:21,2024-04-11
+6:45,11:55,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 10m,Lufthansa,387 €,2024-03-13 23:41:21,2024-04-11
+13:40,18:40,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,Iberia,532 €,2024-03-13 23:41:21,2024-04-11
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,497 €,2024-03-13 23:41:21,2024-04-11
+9:15,15:00,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 45m,Iberia,569 €,2024-03-13 23:41:21,2024-04-11
+23:00,0:10,,+1,,-,directo,1h 10m,Vueling,56 €,2024-03-13 23:41:21,2024-04-12
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,74 €,2024-03-13 23:41:21,2024-04-12
+13:25,14:35,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,100 €,2024-03-13 23:41:21,2024-04-12
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,109 €,2024-03-13 23:41:21,2024-04-12
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,134 €,2024-03-13 23:41:21,2024-04-12
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,148 €,2024-03-13 23:41:21,2024-04-12
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,180 €,2024-03-13 23:41:21,2024-04-12
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,195 €,2024-03-13 23:41:21,2024-04-12
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,221 €,2024-03-13 23:41:21,2024-04-12
+13:25,14:35,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,221 €,2024-03-13 23:41:21,2024-04-12
+6:45,11:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,Iberia,56 €,2024-03-13 23:41:21,2024-04-12
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,367 €,2024-03-13 23:41:21,2024-04-12
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,94 €,2024-03-13 23:41:21,2024-04-12
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,126 €,2024-03-13 23:41:21,2024-04-12
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,146 €,2024-03-13 23:41:21,2024-04-12
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,131 €,2024-03-13 23:41:21,2024-04-12
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,143 €,2024-03-13 23:41:21,2024-04-12
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,118 €,2024-03-13 23:41:21,2024-04-12
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,327 €,2024-03-13 23:41:21,2024-04-12
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,335 €,2024-03-13 23:41:21,2024-04-12
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,309 €,2024-03-13 23:41:21,2024-04-12
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,286 €,2024-03-13 23:41:21,2024-04-12
+8:30,14:05,Bilbao,BIO,Barcelona-El Prat,BCN,ZRH,5h 35m,SWISS,345 €,2024-03-13 23:41:21,2024-04-12
+6:45,11:55,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 10m,Lufthansa,387 €,2024-03-13 23:41:21,2024-04-12
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,417 €,2024-03-13 23:41:21,2024-04-12
+6:45,10:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 05m,Iberia,558 €,2024-03-13 23:41:21,2024-04-12
+15:30,16:40,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,39 €,2024-03-13 23:41:21,2024-04-13
+19:20,20:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,55 €,2024-03-13 23:41:21,2024-04-13
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,61 €,2024-03-13 23:41:21,2024-04-13
+6:45,7:55,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,109 €,2024-03-13 23:41:21,2024-04-13
+15:30,16:40,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,129 €,2024-03-13 23:41:21,2024-04-13
+19:20,20:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,142 €,2024-03-13 23:41:21,2024-04-13
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,157 €,2024-03-13 23:41:21,2024-04-13
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,54 €,2024-03-13 23:41:21,2024-04-13
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,70 €,2024-03-13 23:41:21,2024-04-13
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,70 €,2024-03-13 23:41:21,2024-04-13
+8:30,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 15m,"Air Europa, Iberia",121 €,2024-03-13 23:41:21,2024-04-13
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,147 €,2024-03-13 23:41:21,2024-04-13
+8:30,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 15m,"Air Europa, Iberia",116 €,2024-03-13 23:41:21,2024-04-13
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,187 €,2024-03-13 23:41:21,2024-04-13
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,215 €,2024-03-13 23:41:21,2024-04-13
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,204 €,2024-03-13 23:41:21,2024-04-13
+14:05,19:30,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 25m,Lufthansa,387 €,2024-03-13 23:41:21,2024-04-13
+13:40,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 05m,Iberia,526 €,2024-03-13 23:41:21,2024-04-13
+9:15,14:55,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 40m,Iberia,526 €,2024-03-13 23:41:21,2024-04-13
+10:55,12:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,92 €,2024-03-13 23:41:21,2024-04-14
+23:00,0:10,,+1,,-,directo,1h 10m,Vueling,92 €,2024-03-13 23:41:21,2024-04-14
+19:50,21:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,140 €,2024-03-13 23:41:21,2024-04-14
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,140 €,2024-03-13 23:41:21,2024-04-14
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,147 €,2024-03-13 23:41:21,2024-04-14
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,219 €,2024-03-13 23:41:21,2024-04-14
+10:55,12:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,219 €,2024-03-13 23:41:21,2024-04-14
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Iberia,82 €,2024-03-13 23:41:21,2024-04-14
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,117 €,2024-03-13 23:41:21,2024-04-14
+19:50,21:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,281 €,2024-03-13 23:41:21,2024-04-14
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,281 €,2024-03-13 23:41:21,2024-04-14
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,158 €,2024-03-13 23:41:21,2024-04-14
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,155 €,2024-03-13 23:41:21,2024-04-14
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,117 €,2024-03-13 23:41:21,2024-04-14
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,239 €,2024-03-13 23:41:21,2024-04-14
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,295 €,2024-03-13 23:41:21,2024-04-14
+16:45,21:10,Bilbao,BIO,Barcelona-El Prat,BCN,PMI,4h 25m,Air Europa,456 €,2024-03-13 23:41:21,2024-04-14
+6:45,11:55,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 10m,Lufthansa,387 €,2024-03-13 23:41:21,2024-04-14
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,402 €,2024-03-13 23:41:21,2024-04-14
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,492 €,2024-03-13 23:41:21,2024-04-14
+9:30,14:05,Bilbao,BIO,Barcelona-El Prat,BCN,ZRH,4h 35m,SWISS,545 €,2024-03-13 23:41:21,2024-04-14
+13:40,18:55,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 15m,Iberia,613 €,2024-03-13 23:41:21,2024-04-14
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,19 €,2024-03-13 23:41:21,2024-04-15
+23:00,0:10,,+1,,-,directo,1h 10m,Vueling,19 €,2024-03-13 23:41:21,2024-04-15
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,30 €,2024-03-13 23:41:21,2024-04-15
+13:50,15:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,50 €,2024-03-13 23:41:21,2024-04-15
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,60 €,2024-03-13 23:41:21,2024-04-15
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,60 €,2024-03-13 23:41:21,2024-04-15
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,109 €,2024-03-13 23:41:21,2024-04-15
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,115 €,2024-03-13 23:41:21,2024-04-15
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,115 €,2024-03-13 23:41:21,2024-04-15
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,123 €,2024-03-13 23:41:21,2024-04-15
+13:50,15:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,136 €,2024-03-13 23:41:21,2024-04-15
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,150 €,2024-03-13 23:41:21,2024-04-15
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,166 €,2024-03-13 23:41:21,2024-04-15
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,88 €,2024-03-13 23:41:21,2024-04-15
+6:45,11:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,Iberia,74 €,2024-03-13 23:41:21,2024-04-15
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Iberia,80 €,2024-03-13 23:41:21,2024-04-15
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,119 €,2024-03-13 23:41:21,2024-04-15
+16:50,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,"Air Europa, Iberia",100 €,2024-03-13 23:41:21,2024-04-15
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,122 €,2024-03-13 23:41:21,2024-04-15
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,145 €,2024-03-13 23:41:21,2024-04-15
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,187 €,2024-03-13 23:41:21,2024-04-15
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,136 €,2024-03-13 23:41:21,2024-04-15
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,145 €,2024-03-13 23:41:21,2024-04-15
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,103 €,2024-03-13 23:41:21,2024-04-15
+17:40,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 10m,Vueling,187 €,2024-03-13 23:41:21,2024-04-15
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,261 €,2024-03-13 23:41:21,2024-04-15
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,335 €,2024-03-13 23:41:21,2024-04-15
+7:40,8:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,35 €,2024-03-13 23:41:21,2024-04-16
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,26 €,2024-03-13 23:41:21,2024-04-16
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,71 €,2024-03-13 23:41:21,2024-04-16
+18:20,19:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,115 €,2024-03-13 23:41:21,2024-04-16
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,123 €,2024-03-13 23:41:21,2024-04-16
+15:15,16:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,123 €,2024-03-13 23:41:21,2024-04-16
+7:40,8:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,123 €,2024-03-13 23:41:21,2024-04-16
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,49 €,2024-03-13 23:41:21,2024-04-16
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,183 €,2024-03-13 23:41:21,2024-04-16
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,57 €,2024-03-13 23:41:21,2024-04-16
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,74 €,2024-03-13 23:41:21,2024-04-16
+11:05,16:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 05m,Iberia,57 €,2024-03-13 23:41:21,2024-04-16
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,74 €,2024-03-13 23:41:21,2024-04-16
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,128 €,2024-03-13 23:41:21,2024-04-16
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,128 €,2024-03-13 23:41:21,2024-04-16
+11:05,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 30m,"Iberia, Air Europa",103 €,2024-03-13 23:41:21,2024-04-16
+19:45,1:30,Bilbao,BIO,Barcelona-El Prat,BCN,LIS,5h 45m,TAP AIR PORTUGAL,104 €,2024-03-13 23:41:21,2024-04-16
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,258 €,2024-03-13 23:41:21,2024-04-16
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,239 €,2024-03-13 23:41:21,2024-04-16
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,204 €,2024-03-13 23:41:21,2024-04-16
+13:45,19:05,Bilbao,BIO,Barcelona-El Prat,BCN,DUS,5h 20m,Eurowings,278 €,2024-03-13 23:41:21,2024-04-16
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,331 €,2024-03-13 23:41:21,2024-04-16
+6:45,11:55,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 10m,Lufthansa,387 €,2024-03-13 23:41:21,2024-04-16
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,417 €,2024-03-13 23:41:21,2024-04-16
+6:45,10:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 00m,Iberia,538 €,2024-03-13 23:41:21,2024-04-16
+11:05,15:40,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 35m,Iberia,526 €,2024-03-13 23:41:21,2024-04-16
