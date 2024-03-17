@@ -26,29 +26,31 @@ def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
             end_date = datetime.strptime(flight_date_end, "%Y-%m-%d")
 
             while current_date <= end_date:
+                start_time = time.time()  # Momento inicial de la captura de datos
+
                 # Construye la URL utilizando los parámetros
                 flight_date = current_date.strftime("%Y-%m-%d")
                 url = f"https://www.kayak.es/flights/{departure_cod}-{arrival_cod}/{flight_date}?sort=bestflight_a"
                 driver.get(url)
-                randomTime(5, 10)
+                randomTime(10, 15)
 
                 try:
                     # COOKIES
                     div_element = wait.until(ec.presence_of_element_located((By.CLASS_NAME, 'P4zO-submit-buttons')))
                     first_button = div_element.find_element(By.TAG_NAME, 'button')
                     first_button.click()
-                    randomTime(4, 5)
+                    randomTime(4, 10)
                     # Scroll down the page to trigger loading of additional elements
                     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                    randomTime(5, 10)
+                    randomTime(4, 10)
 
                 except Exception as q:
                     print(f"Error: {q}")
                     print("LAS COOKIES YA HAN SIDO ACEPTADAS")
 
+                # Find the 'show more' button using JavaScript
                 while True:
                     try:
-                        # Find the 'show more' button using JavaScript
                         show_more_button = driver.find_element(By.CSS_SELECTOR, 'div[role="button"].ULvh-button.show-more-button')
                         randomTime(5, 10)
                         # Click the 'show more' button using JavaScript
@@ -56,13 +58,14 @@ def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
                         # Wait for a short time to allow additional content to load (adjust as needed)
                         randomTime(2, 3)
                         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                        randomTime(5, 15)
                     except NoSuchElementException:
                         # If the button is not found, it means there are no more results to load
                         driver.execute_script("window.scrollTo(0, 0);")
+                        randomTime(2, 5)
                         print("No more results to load.")
                         break
-
-                randomTime(2, 5)
+                
 
                 elementos = driver.find_elements(By.CLASS_NAME, 'nrc6')
 
@@ -142,7 +145,12 @@ def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
                 
                 randomTime(5, 10)
                 print(f"He encontrado: {len(elementos)} resultados")
-                randomTime(5, 10)
+                randomTime(10, 15)
+
+                end_time = time.time()  # Momento final de la captura de datos
+                elapsed_time = end_time - start_time  # Tiempo transcurrido
+                print(f"Tiempo de ejecución de la captura de datos: {elapsed_time} segundos")
+
                 current_date += timedelta(days=1)
 
 
@@ -161,9 +169,9 @@ with open('rutas.json', 'r') as file:
 
 # Programar la ejecución de la función para cada ruta en el JSON
 for ruta in rutas:
-    schedule.every().day.at("03:30").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-    schedule.every().day.at("08:30").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-    schedule.every().day.at("23:05").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("00:00").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("09:09").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("23:09").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
 
 
 
