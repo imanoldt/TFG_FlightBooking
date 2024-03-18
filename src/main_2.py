@@ -15,6 +15,7 @@ import json
 
 def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
     if __name__ == '__main__':
+        start_time = time.time()  # Momento inicial de la tarea programada
         try:
             fecha_actual = datetime.now()
             # Llama a la función iniciar_webdriver con los parámetros adecuados
@@ -26,8 +27,6 @@ def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
             end_date = datetime.strptime(flight_date_end, "%Y-%m-%d")
 
             while current_date <= end_date:
-                start_time = time.time()  # Momento inicial de la captura de datos
-
                 # Construye la URL utilizando los parámetros
                 flight_date = current_date.strftime("%Y-%m-%d")
                 url = f"https://www.kayak.es/flights/{departure_cod}-{arrival_cod}/{flight_date}?sort=bestflight_a"
@@ -147,20 +146,17 @@ def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
                 print(f"He encontrado: {len(elementos)} resultados")
                 randomTime(10, 15)
 
-                end_time = time.time()  # Momento final de la captura de datos
-                elapsed_time = end_time - start_time  # Tiempo transcurrido
-                print(f"Tiempo de ejecución de la captura de datos: {elapsed_time} segundos")
-
                 current_date += timedelta(days=1)
-
-
 
         except Exception as q:(
             print(f"Error: {q}"))
         finally:
             # Cerrar el navegador al finalizar
             driver.quit()
-
+        
+    end_time = time.time()  # Momento final de la tarea programada
+    elapsed_time = end_time - start_time  # Tiempo transcurrido
+    print(f"-------------Tiempo de ejecución de la tarea programada: {elapsed_time} segundos")
 
 # Cargar rutas desde el archivo JSON
 with open('rutas.json', 'r') as file:
@@ -170,16 +166,9 @@ with open('rutas.json', 'r') as file:
 # Programar la ejecución de la función para cada ruta en el JSON
 for ruta in rutas:
     schedule.every().day.at("00:00").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-    schedule.every().day.at("09:09").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-    schedule.every().day.at("23:09").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("10:09").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("19:00").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
 
-
-
-# Obtener la primera ruta del JSON
-#primera_ruta = rutas[2]
-
-# Llamar manualmente a la función prueba con los parámetros de la primera ruta
-#prueba(primera_ruta['departure_cod'], primera_ruta['arrival_cod'], primera_ruta['date_start'], primera_ruta['date_end'])
 
 """
 # Llamar manualmente a la función prueba para cada ruta en el JSON
