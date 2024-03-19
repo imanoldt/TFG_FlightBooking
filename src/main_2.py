@@ -11,6 +11,7 @@ from save_csv import guardar_en_csv
 from datetime import datetime, timedelta
 import time
 import json
+import logging
 
 
 def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
@@ -154,9 +155,11 @@ def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
             # Cerrar el navegador al finalizar
             driver.quit()
         
+
     end_time = time.time()  # Momento final de la tarea programada
     elapsed_time = end_time - start_time  # Tiempo transcurrido
-    print(f"-------------Tiempo de ejecución de la tarea programada: {elapsed_time} segundos")
+    log_message = f"Ruta: {departure_cod}-{arrival_cod}, Fecha inicio: {flight_date_start}, Fecha fin: {flight_date_end}, Tiempo de ejecución: {elapsed_time} segundos"
+    logging.info(log_message)
 
 # Cargar rutas desde el archivo JSON
 with open('rutas.json', 'r') as file:
