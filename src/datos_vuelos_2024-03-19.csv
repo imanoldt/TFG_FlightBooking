@@ -21401,3 +21401,898 @@ Departure Time,Arrival Time,Departure Airport,Departure_Cod,Arrival Airport,Arri
 14:05,19:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,5h 05m,"Lufthansa, KLM",2934 €,2024-03-19 11:56:12,2024-04-23
 11:35,19:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 50m,"Lufthansa, KLM",2810 €,2024-03-19 11:56:12,2024-04-23
 14:05,20:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 25m,"Lufthansa, KLM",2934 €,2024-03-19 11:56:12,2024-04-23
+12:00,14:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,115 €,2024-03-19 11:56:12,2024-04-24
+6:50,8:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 05m,KLM,138 €,2024-03-19 11:56:12,2024-04-24
+15:55,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 50m,Vueling,72 €,2024-03-19 11:56:12,2024-04-24
+12:05,14:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 10m,Iberia,163 €,2024-03-19 11:56:12,2024-04-24
+7:40,12:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 55m,Vueling,78 €,2024-03-19 11:56:12,2024-04-24
+14:20,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 35m,Vueling,91 €,2024-03-19 11:56:12,2024-04-24
+12:45,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Air Europa,95 €,2024-03-19 11:56:12,2024-04-24
+14:20,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 25m,Vueling,76 €,2024-03-19 11:56:12,2024-04-24
+11:25,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 15m,Vueling,78 €,2024-03-19 11:56:12,2024-04-24
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,76 €,2024-03-19 11:56:12,2024-04-24
+10:40,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 35m,easyJet,61 €,2024-03-19 11:56:12,2024-04-24
+7:00,14:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 55m,"Vueling, easyJet",60 €,2024-03-19 11:56:12,2024-04-24
+10:40,19:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,9h 00m,easyJet,57 €,2024-03-19 11:56:12,2024-04-24
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Iberia,113 €,2024-03-19 11:56:12,2024-04-24
+17:30,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 25m,Vueling,129 €,2024-03-19 11:56:12,2024-04-24
+11:25,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 30m,Vueling,78 €,2024-03-19 11:56:12,2024-04-24
+7:40,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 55m,Vueling,77 €,2024-03-19 11:56:12,2024-04-24
+6:45,11:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 35m,Iberia,136 €,2024-03-19 11:56:12,2024-04-24
+14:05,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 25m,Lufthansa,139 €,2024-03-19 11:56:12,2024-04-24
+11:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,4h 50m,Lufthansa,132 €,2024-03-19 11:56:12,2024-04-24
+13:55,19:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,5h 45m,"Vueling, easyJet",92 €,2024-03-19 11:56:12,2024-04-24
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,141 €,2024-03-19 11:56:12,2024-04-24
+12:10,18:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LIS,6h 30m,TAP AIR PORTUGAL,107 €,2024-03-19 11:56:12,2024-04-24
+13:55,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 30m,"Vueling, easyJet",89 €,2024-03-19 11:56:12,2024-04-24
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,Air France,113 €,2024-03-19 11:56:12,2024-04-24
+15:55,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 00m,Vueling,123 €,2024-03-19 11:56:12,2024-04-24
+10:40,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-SEN,7h 45m,easyJet,82 €,2024-03-19 11:56:12,2024-04-24
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Vueling,88 €,2024-03-19 11:56:12,2024-04-24
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,Air France,128 €,2024-03-19 11:56:12,2024-04-24
+9:15,15:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 30m,Iberia,123 €,2024-03-19 11:56:12,2024-04-24
+15:10,21:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 15m,"Vueling, KLM",109 €,2024-03-19 11:56:12,2024-04-24
+15:10,21:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 15m,"Vueling, Air France",109 €,2024-03-19 11:56:12,2024-04-24
+10:40,17:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,6h 20m,"easyJet, KLM",112 €,2024-03-19 11:56:12,2024-04-24
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,184 €,2024-03-19 11:56:12,2024-04-24
+11:50,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAN,5h 00m,easyJet,143 €,2024-03-19 11:56:12,2024-04-24
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,Air France,113 €,2024-03-19 11:56:12,2024-04-24
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,Air France,158 €,2024-03-19 11:56:12,2024-04-24
+8:55,17:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,9h 00m,Vueling,90 €,2024-03-19 11:56:12,2024-04-24
+17:40,1:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,7h 20m,"Air Europa, Transavia",103 €,2024-03-19 11:56:12,2024-04-24
+17:30,23:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 05m,"Vueling, Transavia",125 €,2024-03-19 11:56:12,2024-04-24
+14:20,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 35m,Vueling,127 €,2024-03-19 11:56:12,2024-04-24
+8:55,16:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"PMI, BRS",8h 00m,Varias aerolíneas,92 €,2024-03-19 11:56:12,2024-04-24
+19:05,1:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,SVQ,6h 20m,"Vueling, Transavia",145 €,2024-03-19 11:56:12,2024-04-24
+10:40,18:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 40m,"easyJet, British Airways",95 €,2024-03-19 11:56:12,2024-04-24
+14:25,20:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,6h 30m,Vueling,151 €,2024-03-19 11:56:12,2024-04-24
+7:35,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 25m,Lufthansa,132 €,2024-03-19 11:56:12,2024-04-24
+13:40,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 20m,British Airways,120 €,2024-03-19 11:56:12,2024-04-24
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,113 €,2024-03-19 11:56:12,2024-04-24
+6:45,11:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 35m,Vueling,223 €,2024-03-19 11:56:12,2024-04-24
+10:40,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LCY,6h 55m,"easyJet, British Airways",141 €,2024-03-19 11:56:12,2024-04-24
+16:10,23:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUB,7h 15m,"Aer Lingus, KLM",144 €,2024-03-19 11:56:12,2024-04-24
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 15m,Iberia,118 €,2024-03-19 11:56:12,2024-04-24
+7:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,132 €,2024-03-19 11:56:12,2024-04-24
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Vueling,240 €,2024-03-19 11:56:12,2024-04-24
+11:35,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, FRA",6h 55m,Lufthansa,182 €,2024-03-19 11:56:12,2024-04-24
+13:40,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 20m,British Airways,153 €,2024-03-19 11:56:12,2024-04-24
+14:05,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 35m,Lufthansa,174 €,2024-03-19 11:56:12,2024-04-24
+14:05,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 35m,Lufthansa,174 €,2024-03-19 11:56:12,2024-04-24
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 10m,Lufthansa,166 €,2024-03-19 11:56:12,2024-04-24
+17:40,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 20m,"Iberia, KLM",214 €,2024-03-19 11:56:12,2024-04-24
+13:40,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 20m,"Iberia, British Airways",164 €,2024-03-19 11:56:12,2024-04-24
+10:40,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LCY,8h 35m,"easyJet, British Airways",141 €,2024-03-19 11:56:12,2024-04-24
+10:40,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,7h 45m,"easyJet, British Airways",162 €,2024-03-19 11:56:12,2024-04-24
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,175 €,2024-03-19 11:56:12,2024-04-24
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,175 €,2024-03-19 11:56:12,2024-04-24
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,SWISS,181 €,2024-03-19 11:56:12,2024-04-24
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,Air France,210 €,2024-03-19 11:56:12,2024-04-24
+15:55,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 50m,Iberia,263 €,2024-03-19 11:56:12,2024-04-24
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,181 €,2024-03-19 11:56:12,2024-04-24
+14:20,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 35m,Iberia,276 €,2024-03-19 11:56:12,2024-04-24
+7:40,12:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 55m,Iberia,271 €,2024-03-19 11:56:12,2024-04-24
+14:40,19:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUS,4h 25m,"Eurowings, KLM",264 €,2024-03-19 11:56:12,2024-04-24
+6:45,15:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 00m,Iberia,192 €,2024-03-19 11:56:12,2024-04-24
+9:15,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 35m,British Airways,224 €,2024-03-19 11:56:12,2024-04-24
+14:20,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 25m,Iberia,268 €,2024-03-19 11:56:12,2024-04-24
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,KLM,261 €,2024-03-19 11:56:12,2024-04-24
+11:25,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 15m,Iberia,279 €,2024-03-19 11:56:12,2024-04-24
+9:15,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 35m,"Iberia, British Airways",252 €,2024-03-19 11:56:12,2024-04-24
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,British Airways,257 €,2024-03-19 11:56:12,2024-04-24
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,276 €,2024-03-19 11:56:12,2024-04-24
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,Air Europa,301 €,2024-03-19 11:56:12,2024-04-24
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,KLM,296 €,2024-03-19 11:56:12,2024-04-24
+9:15,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 10m,British Airways,231 €,2024-03-19 11:56:12,2024-04-24
+9:15,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 10m,British Airways,231 €,2024-03-19 11:56:12,2024-04-24
+6:45,15:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 30m,British Airways,245 €,2024-03-19 11:56:12,2024-04-24
+11:25,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 30m,Iberia,271 €,2024-03-19 11:56:12,2024-04-24
+7:40,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 55m,Iberia,263 €,2024-03-19 11:56:12,2024-04-24
+17:30,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 25m,Iberia,342 €,2024-03-19 11:56:12,2024-04-24
+9:15,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 35m,"Iberia, British Airways",282 €,2024-03-19 11:56:12,2024-04-24
+9:15,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 10m,"Iberia, British Airways",252 €,2024-03-19 11:56:12,2024-04-24
+9:15,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 10m,"Iberia, British Airways",252 €,2024-03-19 11:56:12,2024-04-24
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,"Air Europa, KLM",320 €,2024-03-19 11:56:12,2024-04-24
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,Air Europa,360 €,2024-03-19 11:56:12,2024-04-24
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,"Iberia, British Airways",309 €,2024-03-19 11:56:12,2024-04-24
+15:55,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 00m,Iberia,342 €,2024-03-19 11:56:12,2024-04-24
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Iberia,292 €,2024-03-19 11:56:12,2024-04-24
+9:15,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 10m,"Iberia, British Airways",282 €,2024-03-19 11:56:12,2024-04-24
+9:15,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 10m,"Iberia, British Airways",282 €,2024-03-19 11:56:12,2024-04-24
+8:30,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 05m,Air Europa,336 €,2024-03-19 11:56:12,2024-04-24
+14:20,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 35m,Iberia,347 €,2024-03-19 11:56:12,2024-04-24
+11:35,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,322 €,2024-03-19 11:56:12,2024-04-24
+14:05,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",6h 20m,Lufthansa,374 €,2024-03-19 11:56:12,2024-04-24
+13:50,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, MUC",7h 50m,"Brussels Airlines, Lufthansa",379 €,2024-03-19 11:56:12,2024-04-24
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, KLM",416 €,2024-03-19 11:56:12,2024-04-24
+11:35,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, ZRH",7h 40m,SWISS,403 €,2024-03-19 11:56:12,2024-04-24
+7:35,13:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,5h 45m,"Lufthansa, KLM",450 €,2024-03-19 11:56:12,2024-04-24
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,KLM,450 €,2024-03-19 11:56:12,2024-04-24
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,"Air Europa, KLM",477 €,2024-03-19 11:56:12,2024-04-24
+16:50,1:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, PMI",8h 10m,KLM,872 €,2024-03-19 11:56:12,2024-04-24
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1103 €,2024-03-19 11:56:12,2024-04-24
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1104 €,2024-03-19 11:56:12,2024-04-24
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,KLM,1103 €,2024-03-19 11:56:12,2024-04-24
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,KLM,1103 €,2024-03-19 11:56:12,2024-04-24
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,KLM,1103 €,2024-03-19 11:56:12,2024-04-24
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,KLM,1106 €,2024-03-19 11:56:12,2024-04-24
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,KLM,1106 €,2024-03-19 11:56:12,2024-04-24
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-24
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-24
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-24
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1503 €,2024-03-19 11:56:12,2024-04-24
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-24
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-24
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-24
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-24
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-24
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-24
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-24
+14:05,19:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,5h 05m,"Lufthansa, KLM",2860 €,2024-03-19 11:56:12,2024-04-24
+11:35,19:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 50m,"Lufthansa, KLM",2810 €,2024-03-19 11:56:12,2024-04-24
+7:35,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 05m,"Lufthansa, KLM",2810 €,2024-03-19 11:56:12,2024-04-24
+14:05,20:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 25m,"Lufthansa, KLM",2934 €,2024-03-19 11:56:12,2024-04-24
+6:50,9:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 10m,KLM,115 €,2024-03-19 11:56:12,2024-04-25
+12:00,14:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,176 €,2024-03-19 11:56:12,2024-04-25
+14:15,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 40m,Vueling,100 €,2024-03-19 11:56:12,2024-04-25
+9:15,15:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 30m,Iberia,93 €,2024-03-19 11:56:12,2024-04-25
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Iberia,106 €,2024-03-19 11:56:12,2024-04-25
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,113 €,2024-03-19 11:56:12,2024-04-25
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,114 €,2024-03-19 11:56:12,2024-04-25
+7:10,12:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 25m,Vueling,118 €,2024-03-19 11:56:12,2024-04-25
+14:05,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 25m,Lufthansa,139 €,2024-03-19 11:56:12,2024-04-25
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,Air France,113 €,2024-03-19 11:56:12,2024-04-25
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,Air France,128 €,2024-03-19 11:56:12,2024-04-25
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,Air France,113 €,2024-03-19 11:56:12,2024-04-25
+11:40,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 15m,Vueling,113 €,2024-03-19 11:56:12,2024-04-25
+13:55,19:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,5h 40m,"Vueling, easyJet",118 €,2024-03-19 11:56:12,2024-04-25
+11:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,4h 50m,Lufthansa,189 €,2024-03-19 11:56:12,2024-04-25
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,Air France,113 €,2024-03-19 11:56:12,2024-04-25
+7:15,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 55m,"Vueling, KLM",120 €,2024-03-19 11:56:12,2024-04-25
+11:40,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 00m,Vueling,144 €,2024-03-19 11:56:12,2024-04-25
+19:45,0:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,OPO,4h 45m,"Vueling, Transavia",170 €,2024-03-19 11:56:12,2024-04-25
+15:50,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 55m,Vueling,207 €,2024-03-19 11:56:12,2024-04-25
+6:45,11:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 35m,Vueling,240 €,2024-03-19 11:56:12,2024-04-25
+7:15,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 25m,"Vueling, Air France",120 €,2024-03-19 11:56:12,2024-04-25
+7:15,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 25m,"Vueling, KLM",120 €,2024-03-19 11:56:12,2024-04-25
+7:35,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 25m,Lufthansa,132 €,2024-03-19 11:56:12,2024-04-25
+18:35,0:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,OPO,5h 55m,"Volotea, Transavia",148 €,2024-03-19 11:56:12,2024-04-25
+8:30,14:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,AGP,5h 40m,"Vueling, easyJet",174 €,2024-03-19 11:56:12,2024-04-25
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,155 €,2024-03-19 11:56:12,2024-04-25
+13:55,21:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 15m,"Vueling, easyJet",122 €,2024-03-19 11:56:12,2024-04-25
+7:35,13:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,6h 15m,"Vueling, easyJet",137 €,2024-03-19 11:56:12,2024-04-25
+7:35,14:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 20m,"Vueling, easyJet",125 €,2024-03-19 11:56:12,2024-04-25
+6:45,11:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 35m,Iberia,299 €,2024-03-19 11:56:12,2024-04-25
+14:15,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 30m,Vueling,175 €,2024-03-19 11:56:12,2024-04-25
+13:55,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 30m,"Vueling, easyJet",139 €,2024-03-19 11:56:12,2024-04-25
+15:50,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 05m,Vueling,198 €,2024-03-19 11:56:12,2024-04-25
+14:55,19:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUS,4h 10m,"Eurowings, KLM",274 €,2024-03-19 11:56:12,2024-04-25
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Vueling,295 €,2024-03-19 11:56:12,2024-04-25
+16:10,23:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUB,7h 15m,"Aer Lingus, KLM",141 €,2024-03-19 11:56:12,2024-04-25
+12:45,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Air Europa,306 €,2024-03-19 11:56:12,2024-04-25
+7:35,15:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 35m,"Vueling, easyJet",138 €,2024-03-19 11:56:12,2024-04-25
+7:35,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,6h 30m,"Vueling, KLM",155 €,2024-03-19 11:56:12,2024-04-25
+14:15,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 40m,Vueling,166 €,2024-03-19 11:56:12,2024-04-25
+15:10,21:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 15m,"Vueling, Air France",166 €,2024-03-19 11:56:12,2024-04-25
+15:10,21:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 15m,"Vueling, KLM",166 €,2024-03-19 11:56:12,2024-04-25
+19:35,1:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,IBZ,5h 55m,"Vueling, Transavia",200 €,2024-03-19 11:56:12,2024-04-25
+7:15,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 35m,"Vueling, Air France",120 €,2024-03-19 11:56:12,2024-04-25
+7:15,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 35m,"Vueling, KLM",120 €,2024-03-19 11:56:12,2024-04-25
+14:15,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 40m,Iberia,306 €,2024-03-19 11:56:12,2024-04-25
+9:15,17:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, PMI",7h 50m,"Iberia, easyJet",111 €,2024-03-19 11:56:12,2024-04-25
+11:00,18:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LIS,7h 40m,TAP AIR PORTUGAL,166 €,2024-03-19 11:56:12,2024-04-25
+6:45,13:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,7h 05m,Lufthansa,195 €,2024-03-19 11:56:12,2024-04-25
+8:55,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 45m,"Vueling, KLM",175 €,2024-03-19 11:56:12,2024-04-25
+7:10,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 25m,Vueling,151 €,2024-03-19 11:56:12,2024-04-25
+8:55,17:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,9h 00m,Vueling,98 €,2024-03-19 11:56:12,2024-04-25
+13:40,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 05m,British Airways,198 €,2024-03-19 11:56:12,2024-04-25
+13:55,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,8h 05m,"Vueling, easyJet",148 €,2024-03-19 11:56:12,2024-04-25
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,125 €,2024-03-19 11:56:12,2024-04-25
+14:05,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 35m,Lufthansa,179 €,2024-03-19 11:56:12,2024-04-25
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Vueling,144 €,2024-03-19 11:56:12,2024-04-25
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,8h 45m,"Vueling, Transavia",118 €,2024-03-19 11:56:12,2024-04-25
+6:45,15:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 00m,Iberia,118 €,2024-03-19 11:56:12,2024-04-25
+7:15,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"CDG, MAN",8h 20m,"Vueling, easyJet",134 €,2024-03-19 11:56:12,2024-04-25
+7:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,132 €,2024-03-19 11:56:12,2024-04-25
+13:40,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 05m,"Iberia, British Airways",213 €,2024-03-19 11:56:12,2024-04-25
+11:35,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, FRA",6h 55m,Lufthansa,224 €,2024-03-19 11:56:12,2024-04-25
+6:45,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",8h 15m,Lufthansa,160 €,2024-03-19 11:56:12,2024-04-25
+13:55,22:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,8h 25m,"Vueling, easyJet",152 €,2024-03-19 11:56:12,2024-04-25
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 15m,Iberia,127 €,2024-03-19 11:56:12,2024-04-25
+13:40,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 05m,"Iberia, British Airways",228 €,2024-03-19 11:56:12,2024-04-25
+17:40,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 20m,"Iberia, KLM",298 €,2024-03-19 11:56:12,2024-04-25
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,Air France,229 €,2024-03-19 11:56:12,2024-04-25
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,British Airways,221 €,2024-03-19 11:56:12,2024-04-25
+9:15,17:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, PMI",8h 40m,"Iberia, Vueling",129 €,2024-03-19 11:56:12,2024-04-25
+7:10,12:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 25m,Iberia,337 €,2024-03-19 11:56:12,2024-04-25
+8:25,14:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ZRH,5h 45m,SWISS,322 €,2024-03-19 11:56:12,2024-04-25
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,KLM,261 €,2024-03-19 11:56:12,2024-04-25
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,206 €,2024-03-19 11:56:12,2024-04-25
+13:40,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 20m,British Airways,201 €,2024-03-19 11:56:12,2024-04-25
+13:40,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 20m,British Airways,201 €,2024-03-19 11:56:12,2024-04-25
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,Air Europa,301 €,2024-03-19 11:56:12,2024-04-25
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,"Iberia, British Airways",254 €,2024-03-19 11:56:12,2024-04-25
+13:40,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 20m,"Iberia, British Airways",213 €,2024-03-19 11:56:12,2024-04-25
+13:40,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 20m,"Iberia, British Airways",213 €,2024-03-19 11:56:12,2024-04-25
+11:40,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,9h 05m,Vueling,199 €,2024-03-19 11:56:12,2024-04-25
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,KLM,338 €,2024-03-19 11:56:12,2024-04-25
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,SWISS,236 €,2024-03-19 11:56:12,2024-04-25
+13:40,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 20m,"Iberia, British Airways",228 €,2024-03-19 11:56:12,2024-04-25
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,214 €,2024-03-19 11:56:12,2024-04-25
+6:45,15:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 40m,British Airways,213 €,2024-03-19 11:56:12,2024-04-25
+6:45,15:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 40m,British Airways,213 €,2024-03-19 11:56:12,2024-04-25
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,"Iberia, British Airways",279 €,2024-03-19 11:56:12,2024-04-25
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,242 €,2024-03-19 11:56:12,2024-04-25
+13:40,22:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 20m,"Iberia, British Airways",243 €,2024-03-19 11:56:12,2024-04-25
+9:15,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 35m,British Airways,278 €,2024-03-19 11:56:12,2024-04-25
+11:40,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 00m,Iberia,365 €,2024-03-19 11:56:12,2024-04-25
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,"Air Europa, KLM",364 €,2024-03-19 11:56:12,2024-04-25
+9:15,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 35m,"Iberia, British Airways",301 €,2024-03-19 11:56:12,2024-04-25
+11:40,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 15m,Iberia,327 €,2024-03-19 11:56:12,2024-04-25
+9:15,17:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 35m,British Airways,258 €,2024-03-19 11:56:12,2024-04-25
+6:45,15:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 40m,"Iberia, British Airways",254 €,2024-03-19 11:56:12,2024-04-25
+6:45,15:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 40m,"Iberia, British Airways",254 €,2024-03-19 11:56:12,2024-04-25
+15:50,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 55m,Iberia,455 €,2024-03-19 11:56:12,2024-04-25
+9:15,17:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 35m,"Iberia, British Airways",274 €,2024-03-19 11:56:12,2024-04-25
+12:45,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, BCN",9h 10m,"Air Europa, Vueling",238 €,2024-03-19 11:56:12,2024-04-25
+7:35,13:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,5h 45m,"Lufthansa, KLM",422 €,2024-03-19 11:56:12,2024-04-25
+9:15,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 35m,"Iberia, British Airways",331 €,2024-03-19 11:56:12,2024-04-25
+15:50,23:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 55m,"Vueling, Transavia",315 €,2024-03-19 11:56:12,2024-04-25
+6:45,15:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 40m,"Iberia, British Airways",279 €,2024-03-19 11:56:12,2024-04-25
+6:45,15:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 40m,"Iberia, British Airways",279 €,2024-03-19 11:56:12,2024-04-25
+14:15,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 30m,Iberia,401 €,2024-03-19 11:56:12,2024-04-25
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,Air Europa,449 €,2024-03-19 11:56:12,2024-04-25
+7:15,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 55m,"Iberia, KLM",406 €,2024-03-19 11:56:12,2024-04-25
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,401 €,2024-03-19 11:56:12,2024-04-25
+9:15,17:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 35m,"Iberia, British Airways",304 €,2024-03-19 11:56:12,2024-04-25
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,KLM,389 €,2024-03-19 11:56:12,2024-04-25
+7:15,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 25m,"Iberia, KLM",406 €,2024-03-19 11:56:12,2024-04-25
+15:50,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 05m,Iberia,455 €,2024-03-19 11:56:12,2024-04-25
+8:30,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 05m,Air Europa,336 €,2024-03-19 11:56:12,2024-04-25
+11:35,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,322 €,2024-03-19 11:56:12,2024-04-25
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,"Air Europa, KLM",416 €,2024-03-19 11:56:12,2024-04-25
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 10m,Lufthansa,370 €,2024-03-19 11:56:12,2024-04-25
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Iberia,344 €,2024-03-19 11:56:12,2024-04-25
+14:15,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 40m,Iberia,401 €,2024-03-19 11:56:12,2024-04-25
+8:25,13:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ZRH,5h 05m,"SWISS, KLM",504 €,2024-03-19 11:56:12,2024-04-25
+7:10,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 25m,Iberia,394 €,2024-03-19 11:56:12,2024-04-25
+11:40,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,9h 05m,Iberia,437 €,2024-03-19 11:56:12,2024-04-25
+11:35,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, ZRH",7h 40m,SWISS,543 €,2024-03-19 11:56:12,2024-04-25
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, KLM",170 €,2024-03-19 11:56:12,2024-04-25
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1103 €,2024-03-19 11:56:12,2024-04-25
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1104 €,2024-03-19 11:56:12,2024-04-25
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,KLM,1103 €,2024-03-19 11:56:12,2024-04-25
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,KLM,1103 €,2024-03-19 11:56:12,2024-04-25
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,KLM,1103 €,2024-03-19 11:56:12,2024-04-25
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,KLM,1106 €,2024-03-19 11:56:12,2024-04-25
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,KLM,1106 €,2024-03-19 11:56:12,2024-04-25
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-25
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-25
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-25
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1503 €,2024-03-19 11:56:12,2024-04-25
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-25
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-25
+6:45,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 45m,"Lufthansa, KLM",1606 €,2024-03-19 11:56:12,2024-04-25
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-25
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-25
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-25
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-25
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-25
+6:45,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 50m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-25
+14:05,19:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,5h 05m,"Lufthansa, KLM",2860 €,2024-03-19 11:56:12,2024-04-25
+11:35,19:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 50m,"Lufthansa, KLM",2810 €,2024-03-19 11:56:12,2024-04-25
+7:35,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 05m,"Lufthansa, KLM",2810 €,2024-03-19 11:56:12,2024-04-25
+6:45,13:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 15m,"Lufthansa, KLM",2934 €,2024-03-19 11:56:12,2024-04-25
+14:05,20:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 25m,"Lufthansa, KLM",2934 €,2024-03-19 11:56:12,2024-04-25
+6:50,9:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 10m,KLM,115 €,2024-03-19 11:56:12,2024-04-26
+12:00,14:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,142 €,2024-03-19 11:56:12,2024-04-26
+17:15,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,163 €,2024-03-19 11:56:12,2024-04-26
+7:40,9:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 15m,Iberia,184 €,2024-03-19 11:56:12,2024-04-26
+7:10,12:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Vueling,144 €,2024-03-19 11:56:12,2024-04-26
+13:25,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Vueling,152 €,2024-03-19 11:56:12,2024-04-26
+7:05,13:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ALC,5h 55m,Vueling,132 €,2024-03-19 11:56:12,2024-04-26
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,142 €,2024-03-19 11:56:12,2024-04-26
+7:10,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 25m,Vueling,124 €,2024-03-19 11:56:12,2024-04-26
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Vueling,124 €,2024-03-19 11:56:12,2024-04-26
+13:10,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,5h 15m,"Vueling, easyJet",158 €,2024-03-19 11:56:12,2024-04-26
+6:45,11:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 35m,Iberia,262 €,2024-03-19 11:56:12,2024-04-26
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,265 €,2024-03-19 11:56:12,2024-04-26
+6:45,11:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 35m,Vueling,278 €,2024-03-19 11:56:12,2024-04-26
+13:25,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 30m,Vueling,164 €,2024-03-19 11:56:12,2024-04-26
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,Air France,211 €,2024-03-19 11:56:12,2024-04-26
+10:40,17:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAN,6h 40m,easyJet,179 €,2024-03-19 11:56:12,2024-04-26
+19:35,1:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,IBZ,5h 35m,"Vueling, Transavia",217 €,2024-03-19 11:56:12,2024-04-26
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,303 €,2024-03-19 11:56:12,2024-04-26
+7:10,13:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 20m,"Vueling, KLM",191 €,2024-03-19 11:56:12,2024-04-26
+13:25,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 20m,Vueling,196 €,2024-03-19 11:56:12,2024-04-26
+13:20,19:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ALC,6h 15m,"Volotea, Transavia",198 €,2024-03-19 11:56:12,2024-04-26
+12:25,18:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LIS,6h 15m,TAP AIR PORTUGAL,234 €,2024-03-19 11:56:12,2024-04-26
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,Air France,234 €,2024-03-19 11:56:12,2024-04-26
+8:55,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 45m,"Vueling, KLM",183 €,2024-03-19 11:56:12,2024-04-26
+14:05,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 25m,Lufthansa,310 €,2024-03-19 11:56:12,2024-04-26
+10:40,16:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAN,5h 25m,"easyJet, KLM",230 €,2024-03-19 11:56:12,2024-04-26
+7:10,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 30m,"Vueling, KLM",159 €,2024-03-19 11:56:12,2024-04-26
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Iberia,299 €,2024-03-19 11:56:12,2024-04-26
+12:45,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Air Europa,303 €,2024-03-19 11:56:12,2024-04-26
+10:40,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAN,8h 15m,easyJet,169 €,2024-03-19 11:56:12,2024-04-26
+12:45,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 45m,"Air Europa, Iberia Express",230 €,2024-03-19 11:56:12,2024-04-26
+14:15,21:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MXP,7h 10m,"Vueling, KLM",191 €,2024-03-19 11:56:12,2024-04-26
+14:15,20:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MXP,6h 05m,"Vueling, easyJet",224 €,2024-03-19 11:56:12,2024-04-26
+19:55,1:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 50m,"Vueling, Transavia",240 €,2024-03-19 11:56:12,2024-04-26
+10:40,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 00m,easyJet,212 €,2024-03-19 11:56:12,2024-04-26
+17:40,0:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,6h 55m,"Volotea, Transavia",214 €,2024-03-19 11:56:12,2024-04-26
+10:40,19:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,9h 00m,easyJet,188 €,2024-03-19 11:56:12,2024-04-26
+15:10,21:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LIS,6h 35m,Vueling,245 €,2024-03-19 11:56:12,2024-04-26
+9:15,15:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 30m,Iberia,299 €,2024-03-19 11:56:12,2024-04-26
+14:55,19:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUS,4h 10m,"Eurowings, KLM",304 €,2024-03-19 11:56:12,2024-04-26
+18:40,0:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,5h 55m,"Iberia, Transavia",270 €,2024-03-19 11:56:12,2024-04-26
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,Air France,255 €,2024-03-19 11:56:12,2024-04-26
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,Air France,328 €,2024-03-19 11:56:12,2024-04-26
+9:15,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 35m,British Airways,272 €,2024-03-19 11:56:12,2024-04-26
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Vueling,360 €,2024-03-19 11:56:12,2024-04-26
+8:30,14:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ZRH,5h 40m,SWISS,323 €,2024-03-19 11:56:12,2024-04-26
+7:10,13:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 20m,"Iberia, KLM",289 €,2024-03-19 11:56:12,2024-04-26
+9:15,17:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 05m,British Airways,264 €,2024-03-19 11:56:12,2024-04-26
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,"Air France, KLM",320 €,2024-03-19 11:56:12,2024-04-26
+9:15,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 35m,"Iberia, British Airways",279 €,2024-03-19 11:56:12,2024-04-26
+9:15,17:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 05m,"Iberia, British Airways",279 €,2024-03-19 11:56:12,2024-04-26
+8:05,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LYS,5h 35m,"Volotea, KLM",319 €,2024-03-19 11:56:12,2024-04-26
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,KLM,338 €,2024-03-19 11:56:12,2024-04-26
+8:55,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 50m,"Vueling, Transavia",267 €,2024-03-19 11:56:12,2024-04-26
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,278 €,2024-03-19 11:56:12,2024-04-26
+6:45,15:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 00m,Iberia,272 €,2024-03-19 11:56:12,2024-04-26
+6:45,13:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,7h 05m,Lufthansa,323 €,2024-03-19 11:56:12,2024-04-26
+7:10,12:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Iberia,363 €,2024-03-19 11:56:12,2024-04-26
+7:35,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 25m,Lufthansa,322 €,2024-03-19 11:56:12,2024-04-26
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,"Air Europa, KLM",358 €,2024-03-19 11:56:12,2024-04-26
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 15m,Iberia,311 €,2024-03-19 11:56:12,2024-04-26
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,365 €,2024-03-19 11:56:12,2024-04-26
+7:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,314 €,2024-03-19 11:56:12,2024-04-26
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,Air France,356 €,2024-03-19 11:56:12,2024-04-26
+13:25,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Iberia,401 €,2024-03-19 11:56:12,2024-04-26
+7:10,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 25m,Iberia,329 €,2024-03-19 11:56:12,2024-04-26
+11:35,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, FRA",6h 55m,Lufthansa,375 €,2024-03-19 11:56:12,2024-04-26
+6:45,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",8h 15m,Lufthansa,345 €,2024-03-19 11:56:12,2024-04-26
+13:40,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 15m,British Airways,353 €,2024-03-19 11:56:12,2024-04-26
+13:40,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 15m,British Airways,353 €,2024-03-19 11:56:12,2024-04-26
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Iberia,343 €,2024-03-19 11:56:12,2024-04-26
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,KLM,389 €,2024-03-19 11:56:12,2024-04-26
+11:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,4h 50m,Lufthansa,445 €,2024-03-19 11:56:12,2024-04-26
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,KLM,389 €,2024-03-19 11:56:12,2024-04-26
+6:45,14:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 15m,British Airways,388 €,2024-03-19 11:56:12,2024-04-26
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,Air Europa,448 €,2024-03-19 11:56:12,2024-04-26
+8:30,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 05m,Air Europa,379 €,2024-03-19 11:56:12,2024-04-26
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,360 €,2024-03-19 11:56:12,2024-04-26
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,"Air Europa, KLM",408 €,2024-03-19 11:56:12,2024-04-26
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, KLM",408 €,2024-03-19 11:56:12,2024-04-26
+14:05,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 35m,Lufthansa,400 €,2024-03-19 11:56:12,2024-04-26
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,Air Europa,448 €,2024-03-19 11:56:12,2024-04-26
+6:45,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 15m,British Airways,390 €,2024-03-19 11:56:12,2024-04-26
+17:40,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 20m,"Iberia, KLM",454 €,2024-03-19 11:56:12,2024-04-26
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,SWISS,402 €,2024-03-19 11:56:12,2024-04-26
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,413 €,2024-03-19 11:56:12,2024-04-26
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,413 €,2024-03-19 11:56:12,2024-04-26
+14:05,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 35m,Lufthansa,439 €,2024-03-19 11:56:12,2024-04-26
+13:25,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 30m,Iberia,423 €,2024-03-19 11:56:12,2024-04-26
+13:25,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 20m,Iberia,458 €,2024-03-19 11:56:12,2024-04-26
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 10m,Lufthansa,471 €,2024-03-19 11:56:12,2024-04-26
+11:35,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, ZRH",7h 40m,SWISS,543 €,2024-03-19 11:56:12,2024-04-26
+7:35,13:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,5h 45m,"Lufthansa, KLM",611 €,2024-03-19 11:56:12,2024-04-26
+11:35,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,540 €,2024-03-19 11:56:12,2024-04-26
+14:05,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",6h 20m,Lufthansa,607 €,2024-03-19 11:56:12,2024-04-26
+8:30,13:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ZRH,5h 00m,"SWISS, KLM",749 €,2024-03-19 11:56:12,2024-04-26
+16:50,0:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, PMI",8h 00m,KLM,872 €,2024-03-19 11:56:12,2024-04-26
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1103 €,2024-03-19 11:56:12,2024-04-26
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1104 €,2024-03-19 11:56:12,2024-04-26
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,KLM,1103 €,2024-03-19 11:56:12,2024-04-26
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,KLM,1103 €,2024-03-19 11:56:12,2024-04-26
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,KLM,1103 €,2024-03-19 11:56:12,2024-04-26
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,KLM,1106 €,2024-03-19 11:56:12,2024-04-26
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,KLM,1106 €,2024-03-19 11:56:12,2024-04-26
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-26
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-26
+16:10,23:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUB,7h 15m,"Aer Lingus, KLM",1165 €,2024-03-19 11:56:12,2024-04-26
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-26
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1503 €,2024-03-19 11:56:12,2024-04-26
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-26
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-26
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-26
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-26
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-26
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-26
+14:05,21:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, CPH",7h 00m,"Lufthansa, Scandinavian Airlines",2187 €,2024-03-19 11:56:12,2024-04-26
+6:45,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 45m,"Lufthansa, KLM",2860 €,2024-03-19 11:56:12,2024-04-26
+14:05,19:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,5h 05m,"Lufthansa, KLM",2860 €,2024-03-19 11:56:12,2024-04-26
+7:35,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 05m,"Lufthansa, KLM",2810 €,2024-03-19 11:56:12,2024-04-26
+6:45,13:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 15m,"Lufthansa, KLM",2934 €,2024-03-19 11:56:12,2024-04-26
+14:05,20:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 25m,"Lufthansa, KLM",2934 €,2024-03-19 11:56:12,2024-04-26
+6:45,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 50m,"Lufthansa, KLM",2934 €,2024-03-19 11:56:12,2024-04-26
+17:15,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,115 €,2024-03-19 11:56:12,2024-04-27
+12:00,14:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,138 €,2024-03-19 11:56:12,2024-04-27
+6:50,9:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 10m,KLM,142 €,2024-03-19 11:56:12,2024-04-27
+7:35,9:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 15m,Iberia,260 €,2024-03-19 11:56:12,2024-04-27
+6:45,12:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 55m,Vueling,138 €,2024-03-19 11:56:12,2024-04-27
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,Air Europa,147 €,2024-03-19 11:56:12,2024-04-27
+15:30,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 15m,Vueling,166 €,2024-03-19 11:56:12,2024-04-27
+12:45,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 45m,"Air Europa, Iberia Express",147 €,2024-03-19 11:56:12,2024-04-27
+12:45,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Air Europa,164 €,2024-03-19 11:56:12,2024-04-27
+12:45,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 45m,"Air Europa, Iberia",151 €,2024-03-19 11:56:12,2024-04-27
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,214 €,2024-03-19 11:56:12,2024-04-27
+8:55,16:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 05m,Vueling,157 €,2024-03-19 11:56:12,2024-04-27
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Vueling,143 €,2024-03-19 11:56:12,2024-04-27
+20:20,1:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,4h 50m,"Air Europa, Transavia",189 €,2024-03-19 11:56:12,2024-04-27
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,251 €,2024-03-19 11:56:12,2024-04-27
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, Iberia Express",155 €,2024-03-19 11:56:12,2024-04-27
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,"Air Europa, KLM",169 €,2024-03-19 11:56:12,2024-04-27
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, Iberia",159 €,2024-03-19 11:56:12,2024-04-27
+9:15,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 20m,"Iberia, Iberia Express",172 €,2024-03-19 11:56:12,2024-04-27
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,Air Europa,182 €,2024-03-19 11:56:12,2024-04-27
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,Air France,229 €,2024-03-19 11:56:12,2024-04-27
+14:05,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 25m,Lufthansa,293 €,2024-03-19 11:56:12,2024-04-27
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Iberia,278 €,2024-03-19 11:56:12,2024-04-27
+9:15,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 20m,Iberia,176 €,2024-03-19 11:56:12,2024-04-27
+14:55,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,AGP,7h 00m,Vueling,180 €,2024-03-19 11:56:12,2024-04-27
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, KLM",170 €,2024-03-19 11:56:12,2024-04-27
+12:45,20:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, ALC",8h 10m,"Air Europa, Vueling",148 €,2024-03-19 11:56:12,2024-04-27
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,KLM,232 €,2024-03-19 11:56:12,2024-04-27
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Vueling,312 €,2024-03-19 11:56:12,2024-04-27
+11:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,4h 50m,Lufthansa,322 €,2024-03-19 11:56:12,2024-04-27
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,Air France,243 €,2024-03-19 11:56:12,2024-04-27
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,Air France,234 €,2024-03-19 11:56:12,2024-04-27
+12:15,16:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BRU,3h 45m,"Brussels Airlines, KLM",363 €,2024-03-19 11:56:12,2024-04-27
+6:45,13:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 45m,"Vueling, KLM",196 €,2024-03-19 11:56:12,2024-04-27
+12:10,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,IBZ,6h 05m,"Vueling, Transavia",223 €,2024-03-19 11:56:12,2024-04-27
+16:50,0:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, OPO",7h 40m,"Air Europa, Transavia",163 €,2024-03-19 11:56:12,2024-04-27
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,KLM,232 €,2024-03-19 11:56:12,2024-04-27
+6:45,14:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,AGP,7h 25m,"Volotea, Vueling",206 €,2024-03-19 11:56:12,2024-04-27
+8:15,13:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ALC,5h 20m,"Vueling, Transavia",283 €,2024-03-19 11:56:12,2024-04-27
+14:30,20:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,5h 50m,"Vueling, easyJet",248 €,2024-03-19 11:56:12,2024-04-27
+13:40,20:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 40m,"Vueling, easyJet",233 €,2024-03-19 11:56:12,2024-04-27
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,"Air France, KLM",313 €,2024-03-19 11:56:12,2024-04-27
+14:55,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,AGP,7h 20m,"Vueling, easyJet",219 €,2024-03-19 11:56:12,2024-04-27
+8:55,18:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,9h 05m,Vueling,117 €,2024-03-19 11:56:12,2024-04-27
+6:45,16:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,9h 15m,Vueling,140 €,2024-03-19 11:56:12,2024-04-27
+9:15,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,8h 20m,"Iberia, Air Europa",157 €,2024-03-19 11:56:12,2024-04-27
+8:30,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 05m,Air Europa,140 €,2024-03-19 11:56:12,2024-04-27
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,Air France,234 €,2024-03-19 11:56:12,2024-04-27
+14:30,22:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 50m,"Vueling, easyJet",210 €,2024-03-19 11:56:12,2024-04-27
+13:40,21:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,7h 55m,"Vueling, easyJet",209 €,2024-03-19 11:56:12,2024-04-27
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,"Air France, KLM",313 €,2024-03-19 11:56:12,2024-04-27
+13:40,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",6h 55m,British Airways,282 €,2024-03-19 11:56:12,2024-04-27
+12:20,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,GVA,6h 35m,"easyJet, KLM",277 €,2024-03-19 11:56:12,2024-04-27
+13:40,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",6h 55m,"Iberia, British Airways",293 €,2024-03-19 11:56:12,2024-04-27
+6:45,12:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 55m,Iberia,366 €,2024-03-19 11:56:12,2024-04-27
+13:40,22:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LIS",8h 40m,"Iberia, TAP AIR PORTUGAL",160 €,2024-03-19 11:56:12,2024-04-27
+16:50,1:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, PMI",8h 20m,"Air Europa, Transavia",202 €,2024-03-19 11:56:12,2024-04-27
+15:30,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 15m,Iberia,420 €,2024-03-19 11:56:12,2024-04-27
+13:40,22:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,8h 40m,"Vueling, easyJet",195 €,2024-03-19 11:56:12,2024-04-27
+13:40,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",6h 55m,"Iberia, British Airways",323 €,2024-03-19 11:56:12,2024-04-27
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,238 €,2024-03-19 11:56:12,2024-04-27
+12:45,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, BCN",9h 10m,"Air Europa, KLM",234 €,2024-03-19 11:56:12,2024-04-27
+11:35,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, FRA",6h 55m,Lufthansa,374 €,2024-03-19 11:56:12,2024-04-27
+14:05,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 35m,Lufthansa,338 €,2024-03-19 11:56:12,2024-04-27
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,277 €,2024-03-19 11:56:12,2024-04-27
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 10m,Lufthansa,330 €,2024-03-19 11:56:12,2024-04-27
+8:25,13:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ALC,5h 10m,"Iberia, Transavia",469 €,2024-03-19 11:56:12,2024-04-27
+8:55,16:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 05m,Iberia,400 €,2024-03-19 11:56:12,2024-04-27
+7:35,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 25m,Lufthansa,386 €,2024-03-19 11:56:12,2024-04-27
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 15m,Iberia,311 €,2024-03-19 11:56:12,2024-04-27
+7:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,322 €,2024-03-19 11:56:12,2024-04-27
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,371 €,2024-03-19 11:56:12,2024-04-27
+7:35,13:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,5h 50m,"Lufthansa, KLM",532 €,2024-03-19 11:56:12,2024-04-27
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,386 €,2024-03-19 11:56:12,2024-04-27
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Iberia,393 €,2024-03-19 11:56:12,2024-04-27
+6:45,16:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,9h 15m,Iberia,369 €,2024-03-19 11:56:12,2024-04-27
+11:35,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, ZRH",7h 40m,SWISS,504 €,2024-03-19 11:56:12,2024-04-27
+12:15,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, ZRH",7h 00m,"Brussels Airlines, SWISS",547 €,2024-03-19 11:56:12,2024-04-27
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,"Lufthansa, Austrian Airlines",476 €,2024-03-19 11:56:12,2024-04-27
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,"Lufthansa, SWISS",517 €,2024-03-19 11:56:12,2024-04-27
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,SWISS,547 €,2024-03-19 11:56:12,2024-04-27
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1103 €,2024-03-19 11:56:12,2024-04-27
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1104 €,2024-03-19 11:56:12,2024-04-27
+16:50,1:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, PMI",8h 20m,KLM,870 €,2024-03-19 11:56:12,2024-04-27
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,KLM,1103 €,2024-03-19 11:56:12,2024-04-27
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,KLM,1103 €,2024-03-19 11:56:12,2024-04-27
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,KLM,1103 €,2024-03-19 11:56:12,2024-04-27
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,KLM,1106 €,2024-03-19 11:56:12,2024-04-27
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-27
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-27
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-27
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1503 €,2024-03-19 11:56:12,2024-04-27
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-27
+14:05,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,5h 40m,"Lufthansa, KLM",1606 €,2024-03-19 11:56:12,2024-04-27
+6:45,13:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 15m,"Lufthansa, KLM",1606 €,2024-03-19 11:56:12,2024-04-27
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,"Air France, KLM",1556 €,2024-03-19 11:56:12,2024-04-27
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1556 €,2024-03-19 11:56:12,2024-04-27
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1556 €,2024-03-19 11:56:12,2024-04-27
+6:45,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 50m,"Lufthansa, KLM",1606 €,2024-03-19 11:56:12,2024-04-27
+14:05,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, CPH",6h 30m,"Lufthansa, KLM",2119 €,2024-03-19 11:56:12,2024-04-27
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,"Lufthansa, SWISS",2324 €,2024-03-19 11:56:12,2024-04-27
+12:15,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, ZRH",7h 00m,"Brussels Airlines, SWISS",2444 €,2024-03-19 11:56:12,2024-04-27
+6:45,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 45m,"Lufthansa, KLM",2924 €,2024-03-19 11:56:12,2024-04-27
+11:35,19:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 50m,"Lufthansa, KLM",2800 €,2024-03-19 11:56:12,2024-04-27
+7:35,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 05m,"Lufthansa, KLM",2800 €,2024-03-19 11:56:12,2024-04-27
+17:15,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,115 €,2024-03-19 11:56:12,2024-04-28
+12:00,14:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,115 €,2024-03-19 11:56:12,2024-04-28
+6:50,9:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 10m,KLM,115 €,2024-03-19 11:56:12,2024-04-28
+7:40,9:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 15m,Iberia,145 €,2024-03-19 11:56:12,2024-04-28
+12:20,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,SCQ,8h 05m,Vueling,103 €,2024-03-19 11:56:12,2024-04-28
+9:30,15:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BRS,5h 40m,easyJet,132 €,2024-03-19 11:56:12,2024-04-28
+9:30,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BRS,8h 45m,easyJet,109 €,2024-03-19 11:56:12,2024-04-28
+12:15,18:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MXP,5h 45m,"Vueling, easyJet",143 €,2024-03-19 11:56:12,2024-04-28
+19:10,0:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,5h 30m,"Volotea, Transavia",148 €,2024-03-19 11:56:12,2024-04-28
+13:30,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,SCQ,6h 55m,"Iberia, Vueling",132 €,2024-03-19 11:56:12,2024-04-28
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Iberia,184 €,2024-03-19 11:56:12,2024-04-28
+7:00,13:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,6h 15m,Vueling,147 €,2024-03-19 11:56:12,2024-04-28
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,199 €,2024-03-19 11:56:12,2024-04-28
+19:10,0:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,OPO,4h 55m,"Vueling, Transavia",174 €,2024-03-19 11:56:12,2024-04-28
+7:00,14:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 20m,"Vueling, easyJet",143 €,2024-03-19 11:56:12,2024-04-28
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,210 €,2024-03-19 11:56:12,2024-04-28
+10:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 40m,Vueling,209 €,2024-03-19 11:56:12,2024-04-28
+7:00,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,7h 05m,"Vueling, easyJet",149 €,2024-03-19 11:56:12,2024-04-28
+7:00,12:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,5h 20m,"Vueling, Transavia",174 €,2024-03-19 11:56:12,2024-04-28
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,174 €,2024-03-19 11:56:12,2024-04-28
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, KLM",152 €,2024-03-19 11:56:12,2024-04-28
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,Air France,189 €,2024-03-19 11:56:12,2024-04-28
+15:15,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Vueling,211 €,2024-03-19 11:56:12,2024-04-28
+12:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 40m,"Vueling, KLM",190 €,2024-03-19 11:56:12,2024-04-28
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,Air France,196 €,2024-03-19 11:56:12,2024-04-28
+7:15,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 55m,"Vueling, Air France",188 €,2024-03-19 11:56:12,2024-04-28
+7:15,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 55m,"Vueling, KLM",188 €,2024-03-19 11:56:12,2024-04-28
+9:45,16:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VIE,6h 30m,"Wizz Air Malta, KLM",185 €,2024-03-19 11:56:12,2024-04-28
+10:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 40m,easyJet,163 €,2024-03-19 11:56:12,2024-04-28
+10:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 45m,Vueling,199 €,2024-03-19 11:56:12,2024-04-28
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,Air France,184 €,2024-03-19 11:56:12,2024-04-28
+13:40,22:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LIS",8h 40m,"Iberia, TAP AIR PORTUGAL",146 €,2024-03-19 11:56:12,2024-04-28
+8:55,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,8h 50m,"Vueling, easyJet",157 €,2024-03-19 11:56:12,2024-04-28
+10:05,16:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 15m,easyJet,193 €,2024-03-19 11:56:12,2024-04-28
+8:55,18:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,9h 05m,Vueling,156 €,2024-03-19 11:56:12,2024-04-28
+7:00,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,7h 05m,"Vueling, KLM",178 €,2024-03-19 11:56:12,2024-04-28
+10:05,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 30m,easyJet,173 €,2024-03-19 11:56:12,2024-04-28
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Vueling,174 €,2024-03-19 11:56:12,2024-04-28
+15:15,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,211 €,2024-03-19 11:56:12,2024-04-28
+12:45,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 45m,"Air Europa, Iberia Express",212 €,2024-03-19 11:56:12,2024-04-28
+7:15,14:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,"Vueling, Eurostar",187 €,2024-03-19 11:56:12,2024-04-28
+10:05,18:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,8h 10m,easyJet,180 €,2024-03-19 11:56:12,2024-04-28
+7:35,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 25m,Lufthansa,189 €,2024-03-19 11:56:12,2024-04-28
+8:30,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 05m,Air Europa,200 €,2024-03-19 11:56:12,2024-04-28
+7:15,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 25m,"Vueling, Air France",188 €,2024-03-19 11:56:12,2024-04-28
+7:15,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 25m,"Vueling, KLM",188 €,2024-03-19 11:56:12,2024-04-28
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,Air France,214 €,2024-03-19 11:56:12,2024-04-28
+8:30,15:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 15m,"Air Europa, Iberia",197 €,2024-03-19 11:56:12,2024-04-28
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,"Air Europa, KLM",200 €,2024-03-19 11:56:12,2024-04-28
+12:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 40m,"Vueling, Air France",206 €,2024-03-19 11:56:12,2024-04-28
+7:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,189 €,2024-03-19 11:56:12,2024-04-28
+9:30,16:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BRS,6h 35m,"easyJet, KLM",202 €,2024-03-19 11:56:12,2024-04-28
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,Air Europa,241 €,2024-03-19 11:56:12,2024-04-28
+13:40,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 05m,"Iberia, KLM",218 €,2024-03-19 11:56:12,2024-04-28
+9:15,15:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 30m,Iberia,222 €,2024-03-19 11:56:12,2024-04-28
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,201 €,2024-03-19 11:56:12,2024-04-28
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,Air France,229 €,2024-03-19 11:56:12,2024-04-28
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,KLM,232 €,2024-03-19 11:56:12,2024-04-28
+6:45,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",8h 15m,Lufthansa,224 €,2024-03-19 11:56:12,2024-04-28
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,"Air France, KLM",249 €,2024-03-19 11:56:12,2024-04-28
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,British Airways,223 €,2024-03-19 11:56:12,2024-04-28
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,"Air France, KLM",249 €,2024-03-19 11:56:12,2024-04-28
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",233 €,2024-03-19 11:56:12,2024-04-28
+12:45,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Air Europa,303 €,2024-03-19 11:56:12,2024-04-28
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,238 €,2024-03-19 11:56:12,2024-04-28
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,KLM,261 €,2024-03-19 11:56:12,2024-04-28
+11:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,4h 50m,Lufthansa,289 €,2024-03-19 11:56:12,2024-04-28
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 15m,Iberia,253 €,2024-03-19 11:56:12,2024-04-28
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,"Iberia, British Airways",263 €,2024-03-19 11:56:12,2024-04-28
+17:30,21:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAN,4h 20m,"easyJet, KLM",295 €,2024-03-19 11:56:12,2024-04-28
+17:40,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 20m,"Iberia, KLM",293 €,2024-03-19 11:56:12,2024-04-28
+9:30,14:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ZRH,4h 40m,SWISS,311 €,2024-03-19 11:56:12,2024-04-28
+13:40,21:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 50m,British Airways,282 €,2024-03-19 11:56:12,2024-04-28
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,British Airways,282 €,2024-03-19 11:56:12,2024-04-28
+6:45,13:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,7h 05m,Lufthansa,297 €,2024-03-19 11:56:12,2024-04-28
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Vueling,346 €,2024-03-19 11:56:12,2024-04-28
+13:40,21:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 50m,"Iberia, British Airways",293 €,2024-03-19 11:56:12,2024-04-28
+11:35,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,289 €,2024-03-19 11:56:12,2024-04-28
+13:40,21:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 50m,"Iberia, British Airways",323 €,2024-03-19 11:56:12,2024-04-28
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,371 €,2024-03-19 11:56:12,2024-04-28
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,371 €,2024-03-19 11:56:12,2024-04-28
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,422 €,2024-03-19 11:56:12,2024-04-28
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Iberia,422 €,2024-03-19 11:56:12,2024-04-28
+10:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 40m,Iberia,484 €,2024-03-19 11:56:12,2024-04-28
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,SWISS,447 €,2024-03-19 11:56:12,2024-04-28
+15:15,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,484 €,2024-03-19 11:56:12,2024-04-28
+10:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 45m,Iberia,484 €,2024-03-19 11:56:12,2024-04-28
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 10m,Lufthansa,470 €,2024-03-19 11:56:12,2024-04-28
+15:15,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Iberia,501 €,2024-03-19 11:56:12,2024-04-28
+11:35,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, ZRH",7h 40m,SWISS,504 €,2024-03-19 11:56:12,2024-04-28
+13:40,22:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 25m,British Airways,528 €,2024-03-19 11:56:12,2024-04-28
+14:05,19:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,5h 05m,"Lufthansa, KLM",549 €,2024-03-19 11:56:12,2024-04-28
+12:05,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 40m,"Iberia, KLM",566 €,2024-03-19 11:56:12,2024-04-28
+13:50,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, VIE",8h 25m,"Brussels Airlines, Austrian Airlines",601 €,2024-03-19 11:56:12,2024-04-28
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1103 €,2024-03-19 11:56:12,2024-04-28
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1104 €,2024-03-19 11:56:12,2024-04-28
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,KLM,1103 €,2024-03-19 11:56:12,2024-04-28
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,KLM,1103 €,2024-03-19 11:56:12,2024-04-28
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,KLM,1103 €,2024-03-19 11:56:12,2024-04-28
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,KLM,1103 €,2024-03-19 11:56:12,2024-04-28
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,KLM,1103 €,2024-03-19 11:56:12,2024-04-28
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1103 €,2024-03-19 11:56:12,2024-04-28
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1103 €,2024-03-19 11:56:12,2024-04-28
+16:10,23:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUB,7h 15m,"Aer Lingus, KLM",1164 €,2024-03-19 11:56:12,2024-04-28
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-28
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1503 €,2024-03-19 11:56:12,2024-04-28
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-28
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-28
+11:35,19:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,2 escalas,"MUC, CPH",8h 00m,1539 €,2024-03-19 11:56:12,2024-04-28
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,"Air France, KLM",1556 €,2024-03-19 11:56:12,2024-04-28
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1556 €,2024-03-19 11:56:12,2024-04-28
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1556 €,2024-03-19 11:56:12,2024-04-28
+6:45,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 45m,"Lufthansa, KLM",1606 €,2024-03-19 11:56:12,2024-04-28
+6:45,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 50m,"Lufthansa, KLM",1606 €,2024-03-19 11:56:12,2024-04-28
+7:35,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 05m,"Lufthansa, KLM",2737 €,2024-03-19 11:56:12,2024-04-28
+11:35,19:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 50m,"Lufthansa, KLM",2884 €,2024-03-19 11:56:12,2024-04-28
+6:45,13:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 15m,"Lufthansa, KLM",2924 €,2024-03-19 11:56:12,2024-04-28
+9:30,16:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ZRH,6h 30m,"SWISS, KLM",4257 €,2024-03-19 11:56:12,2024-04-28
+17:15,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,115 €,2024-03-19 11:56:12,2024-04-29
+12:00,14:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,115 €,2024-03-19 11:56:12,2024-04-29
+6:50,9:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 10m,KLM,127 €,2024-03-19 11:56:12,2024-04-29
+11:15,13:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 10m,Iberia,163 €,2024-03-19 11:56:12,2024-04-29
+15:50,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 55m,Vueling,109 €,2024-03-19 11:56:12,2024-04-29
+13:50,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 55m,Vueling,109 €,2024-03-19 11:56:12,2024-04-29
+13:50,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 05m,Vueling,133 €,2024-03-19 11:56:12,2024-04-29
+7:10,12:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 25m,Vueling,135 €,2024-03-19 11:56:12,2024-04-29
+15:50,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 05m,Vueling,127 €,2024-03-19 11:56:12,2024-04-29
+7:40,13:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,5h 35m,"Volotea, Vueling",122 €,2024-03-19 11:56:12,2024-04-29
+19:35,1:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,IBZ,5h 25m,"Vueling, Transavia",125 €,2024-03-19 11:56:12,2024-04-29
+7:45,13:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,5h 30m,Vueling,124 €,2024-03-19 11:56:12,2024-04-29
+19:00,0:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LIS,5h 35m,"Vueling, Transavia",141 €,2024-03-19 11:56:12,2024-04-29
+13:50,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 05m,Vueling,127 €,2024-03-19 11:56:12,2024-04-29
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,189 €,2024-03-19 11:56:12,2024-04-29
+14:10,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 20m,Lufthansa,194 €,2024-03-19 11:56:12,2024-04-29
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Iberia,184 €,2024-03-19 11:56:12,2024-04-29
+11:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,4h 50m,Lufthansa,189 €,2024-03-19 11:56:12,2024-04-29
+15:00,21:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAN,6h 05m,easyJet,145 €,2024-03-19 11:56:12,2024-04-29
+7:10,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 25m,Vueling,135 €,2024-03-19 11:56:12,2024-04-29
+12:30,18:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LIS,6h 10m,TAP AIR PORTUGAL,166 €,2024-03-19 11:56:12,2024-04-29
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,"Vueling, Iberia Express",175 €,2024-03-19 11:56:12,2024-04-29
+12:45,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Air Europa,177 €,2024-03-19 11:56:12,2024-04-29
+15:15,20:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MXP,5h 05m,easyJet,174 €,2024-03-19 11:56:12,2024-04-29
+6:45,11:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 35m,Iberia,212 €,2024-03-19 11:56:12,2024-04-29
+10:30,18:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 50m,easyJet,132 €,2024-03-19 11:56:12,2024-04-29
+15:00,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAN,7h 15m,easyJet,138 €,2024-03-19 11:56:12,2024-04-29
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,"Air Europa, KLM",152 €,2024-03-19 11:56:12,2024-04-29
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,Air France,196 €,2024-03-19 11:56:12,2024-04-29
+12:45,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 45m,"Air Europa, Iberia Express",169 €,2024-03-19 11:56:12,2024-04-29
+10:30,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,9h 15m,easyJet,139 €,2024-03-19 11:56:12,2024-04-29
+17:35,0:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,"Vueling, Transavia",155 €,2024-03-19 11:56:12,2024-04-29
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,175 €,2024-03-19 11:56:12,2024-04-29
+13:50,22:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BCN, LTN",8h 30m,"Vueling, easyJet",127 €,2024-03-19 11:56:12,2024-04-29
+15:50,0:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 25m,"Vueling, Transavia",144 €,2024-03-19 11:56:12,2024-04-29
+15:50,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 05m,"Vueling, KLM",172 €,2024-03-19 11:56:12,2024-04-29
+16:50,0:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, OPO",7h 40m,"Air Europa, Transavia",133 €,2024-03-19 11:56:12,2024-04-29
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,Air France,176 €,2024-03-19 11:56:12,2024-04-29
+10:30,17:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,7h 00m,easyJet,162 €,2024-03-19 11:56:12,2024-04-29
+8:05,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LYS,5h 35m,"Volotea, KLM",194 €,2024-03-19 11:56:12,2024-04-29
+8:05,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LYS,5h 35m,"Volotea, Air France",194 €,2024-03-19 11:56:12,2024-04-29
+9:15,15:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 30m,Iberia,196 €,2024-03-19 11:56:12,2024-04-29
+17:40,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 20m,"Iberia, KLM",205 €,2024-03-19 11:56:12,2024-04-29
+10:30,17:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,7h 20m,easyJet,178 €,2024-03-19 11:56:12,2024-04-29
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,Air Europa,241 €,2024-03-19 11:56:12,2024-04-29
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Vueling,175 €,2024-03-19 11:56:12,2024-04-29
+15:50,1:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BCN, IBZ",9h 10m,"Vueling, Transavia",153 €,2024-03-19 11:56:12,2024-04-29
+7:35,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 25m,Lufthansa,189 €,2024-03-19 11:56:12,2024-04-29
+14:10,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",6h 15m,Lufthansa,223 €,2024-03-19 11:56:12,2024-04-29
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Vueling,276 €,2024-03-19 11:56:12,2024-04-29
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,KLM,232 €,2024-03-19 11:56:12,2024-04-29
+7:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,183 €,2024-03-19 11:56:12,2024-04-29
+13:50,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 05m,"Vueling, KLM",178 €,2024-03-19 11:56:12,2024-04-29
+8:55,17:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,9h 00m,Vueling,186 €,2024-03-19 11:56:12,2024-04-29
+11:35,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, FRA",6h 55m,Lufthansa,224 €,2024-03-19 11:56:12,2024-04-29
+14:55,19:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUS,4h 10m,"Eurowings, KLM",264 €,2024-03-19 11:56:12,2024-04-29
+11:35,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,189 €,2024-03-19 11:56:12,2024-04-29
+6:45,15:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 00m,Iberia,192 €,2024-03-19 11:56:12,2024-04-29
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,205 €,2024-03-19 11:56:12,2024-04-29
+13:40,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",6h 55m,British Airways,243 €,2024-03-19 11:56:12,2024-04-29
+6:45,11:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 35m,Vueling,315 €,2024-03-19 11:56:12,2024-04-29
+12:45,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, BCN",9h 10m,"Air Europa, Vueling",204 €,2024-03-19 11:56:12,2024-04-29
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 15m,Iberia,206 €,2024-03-19 11:56:12,2024-04-29
+14:10,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 30m,Lufthansa,246 €,2024-03-19 11:56:12,2024-04-29
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,KLM,261 €,2024-03-19 11:56:12,2024-04-29
+10:20,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ZRH,8h 05m,SWISS,241 €,2024-03-19 11:56:12,2024-04-29
+15:50,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 55m,Iberia,313 €,2024-03-19 11:56:12,2024-04-29
+14:10,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 05m,Austrian Airlines,242 €,2024-03-19 11:56:12,2024-04-29
+13:40,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 15m,British Airways,241 €,2024-03-19 11:56:12,2024-04-29
+14:10,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 05m,SWISS,248 €,2024-03-19 11:56:12,2024-04-29
+13:40,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",6h 55m,"Iberia, British Airways",274 €,2024-03-19 11:56:12,2024-04-29
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,Air Europa,300 €,2024-03-19 11:56:12,2024-04-29
+14:10,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 05m,Lufthansa,255 €,2024-03-19 11:56:12,2024-04-29
+10:20,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ZRH,8h 55m,SWISS,241 €,2024-03-19 11:56:12,2024-04-29
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,British Airways,277 €,2024-03-19 11:56:12,2024-04-29
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, KLM",286 €,2024-03-19 11:56:12,2024-04-29
+13:50,18:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 05m,Iberia,335 €,2024-03-19 11:56:12,2024-04-29
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,KLM,296 €,2024-03-19 11:56:12,2024-04-29
+14:10,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 30m,Lufthansa,285 €,2024-03-19 11:56:12,2024-04-29
+13:40,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 15m,"Iberia, British Airways",274 €,2024-03-19 11:56:12,2024-04-29
+13:40,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 15m,"Iberia, British Airways",274 €,2024-03-19 11:56:12,2024-04-29
+13:40,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",6h 55m,"Iberia, British Airways",304 €,2024-03-19 11:56:12,2024-04-29
+9:15,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 10m,British Airways,259 €,2024-03-19 11:56:12,2024-04-29
+9:15,16:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 40m,British Airways,293 €,2024-03-19 11:56:12,2024-04-29
+13:50,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 55m,Iberia,313 €,2024-03-19 11:56:12,2024-04-29
+7:10,13:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 20m,"Iberia, KLM",313 €,2024-03-19 11:56:12,2024-04-29
+15:50,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 05m,Iberia,335 €,2024-03-19 11:56:12,2024-04-29
+7:10,12:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 25m,Iberia,349 €,2024-03-19 11:56:12,2024-04-29
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,"Iberia, British Airways",306 €,2024-03-19 11:56:12,2024-04-29
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,"Air Europa, KLM",321 €,2024-03-19 11:56:12,2024-04-29
+9:15,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 10m,"Iberia, British Airways",274 €,2024-03-19 11:56:12,2024-04-29
+8:30,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 05m,Air Europa,307 €,2024-03-19 11:56:12,2024-04-29
+6:45,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 05m,British Airways,302 €,2024-03-19 11:56:12,2024-04-29
+13:40,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 15m,"Iberia, British Airways",304 €,2024-03-19 11:56:12,2024-04-29
+13:40,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 15m,"Iberia, British Airways",304 €,2024-03-19 11:56:12,2024-04-29
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,"Iberia, British Airways",336 €,2024-03-19 11:56:12,2024-04-29
+9:15,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 10m,"Iberia, British Airways",304 €,2024-03-19 11:56:12,2024-04-29
+13:50,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 05m,Iberia,335 €,2024-03-19 11:56:12,2024-04-29
+9:15,18:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 10m,British Airways,319 €,2024-03-19 11:56:12,2024-04-29
+7:10,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 25m,Iberia,349 €,2024-03-19 11:56:12,2024-04-29
+7:35,13:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,5h 45m,"Lufthansa, KLM",422 €,2024-03-19 11:56:12,2024-04-29
+13:50,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, MUC",6h 35m,"Brussels Airlines, Lufthansa",419 €,2024-03-19 11:56:12,2024-04-29
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,422 €,2024-03-19 11:56:12,2024-04-29
+11:35,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, ZRH",7h 40m,SWISS,400 €,2024-03-19 11:56:12,2024-04-29
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Iberia,422 €,2024-03-19 11:56:12,2024-04-29
+6:45,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",8h 15m,Lufthansa,439 €,2024-03-19 11:56:12,2024-04-29
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,590 €,2024-03-19 11:56:12,2024-04-29
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,Air France,558 €,2024-03-19 11:56:12,2024-04-29
+6:45,13:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,7h 05m,Lufthansa,511 €,2024-03-19 11:56:12,2024-04-29
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,Air France,592 €,2024-03-19 11:56:12,2024-04-29
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,Air France,582 €,2024-03-19 11:56:12,2024-04-29
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,582 €,2024-03-19 11:56:12,2024-04-29
+7:45,13:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,VLC,5h 30m,Iberia,642 €,2024-03-19 11:56:12,2024-04-29
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1103 €,2024-03-19 11:56:12,2024-04-29
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1104 €,2024-03-19 11:56:12,2024-04-29
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,KLM,1103 €,2024-03-19 11:56:12,2024-04-29
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,KLM,1103 €,2024-03-19 11:56:12,2024-04-29
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,KLM,1103 €,2024-03-19 11:56:12,2024-04-29
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,KLM,1106 €,2024-03-19 11:56:12,2024-04-29
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,KLM,1106 €,2024-03-19 11:56:12,2024-04-29
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-29
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-29
+16:10,23:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUB,7h 15m,"Aer Lingus, KLM",1165 €,2024-03-19 11:56:12,2024-04-29
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1558 €,2024-03-19 11:56:12,2024-04-29
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-29
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,"Air France, KLM",1558 €,2024-03-19 11:56:12,2024-04-29
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-29
+7:10,13:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 30m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-29
+6:45,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 45m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-29
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,"Air France, KLM",1558 €,2024-03-19 11:56:12,2024-04-29
+14:10,19:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,5h 00m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-29
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-29
+6:45,13:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 15m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-29
+14:10,20:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 20m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-29
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-29
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-29
+6:45,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 50m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-29
+11:35,19:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,7h 50m,"Lufthansa, KLM",2812 €,2024-03-19 11:56:12,2024-04-29
+7:35,15:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 05m,"Lufthansa, KLM",2812 €,2024-03-19 11:56:12,2024-04-29
+10:20,16:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ZRH,5h 40m,"SWISS, KLM",4261 €,2024-03-19 11:56:12,2024-04-29
+12:00,14:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,176 €,2024-03-19 11:56:12,2024-04-30
+17:15,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,directo,2h 00m,KLM,194 €,2024-03-19 11:56:12,2024-04-30
+7:40,12:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 55m,Vueling,93 €,2024-03-19 11:56:12,2024-04-30
+13:55,19:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,5h 40m,"Vueling, easyJet",75 €,2024-03-19 11:56:12,2024-04-30
+13:55,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,6h 30m,"Vueling, easyJet",76 €,2024-03-19 11:56:12,2024-04-30
+15:15,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Vueling,120 €,2024-03-19 11:56:12,2024-04-30
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Vueling,114 €,2024-03-19 11:56:12,2024-04-30
+7:00,14:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LTN,7h 55m,"Vueling, easyJet",77 €,2024-03-19 11:56:12,2024-04-30
+11:35,16:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,4h 50m,Lufthansa,158 €,2024-03-19 11:56:12,2024-04-30
+7:00,13:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,6h 50m,"Vueling, easyJet",93 €,2024-03-19 11:56:12,2024-04-30
+13:55,21:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-STN,7h 40m,"Vueling, easyJet",84 €,2024-03-19 11:56:12,2024-04-30
+7:40,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 55m,Vueling,105 €,2024-03-19 11:56:12,2024-04-30
+19:35,1:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,IBZ,6h 15m,"Vueling, Transavia",116 €,2024-03-19 11:56:12,2024-04-30
+7:00,15:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW,8h 15m,"Vueling, easyJet",85 €,2024-03-19 11:56:12,2024-04-30
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Iberia,184 €,2024-03-19 11:56:12,2024-04-30
+6:45,11:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 35m,Iberia,196 €,2024-03-19 11:56:12,2024-04-30
+14:05,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 25m,Lufthansa,194 €,2024-03-19 11:56:12,2024-04-30
+13:55,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,6h 40m,"Vueling, British Airways",118 €,2024-03-19 11:56:12,2024-04-30
+14:50,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BRS,4h 55m,"easyJet, KLM",168 €,2024-03-19 11:56:12,2024-04-30
+7:05,13:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MXP,6h 15m,"Vueling, easyJet",138 €,2024-03-19 11:56:12,2024-04-30
+7:00,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,7h 05m,"Vueling, KLM",118 €,2024-03-19 11:56:12,2024-04-30
+13:55,21:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,7h 55m,"Vueling, British Airways",111 €,2024-03-19 11:56:12,2024-04-30
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Vueling,126 €,2024-03-19 11:56:12,2024-04-30
+13:55,21:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,7h 35m,"Vueling, KLM",122 €,2024-03-19 11:56:12,2024-04-30
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,277 €,2024-03-19 11:56:12,2024-04-30
+7:40,13:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 50m,"Vueling, KLM",163 €,2024-03-19 11:56:12,2024-04-30
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,Air France,290 €,2024-03-19 11:56:12,2024-04-30
+16:10,23:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,DUB,7h 15m,"Aer Lingus, KLM",144 €,2024-03-19 11:56:12,2024-04-30
+7:05,14:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MXP,7h 40m,"Vueling, KLM",138 €,2024-03-19 11:56:12,2024-04-30
+9:15,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 20m,Iberia,212 €,2024-03-19 11:56:12,2024-04-30
+18:20,0:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 55m,"Vueling, Transavia",183 €,2024-03-19 11:56:12,2024-04-30
+7:00,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,7h 05m,"Vueling, British Airways",150 €,2024-03-19 11:56:12,2024-04-30
+7:40,12:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,4h 55m,Iberia,292 €,2024-03-19 11:56:12,2024-04-30
+6:45,11:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 35m,Vueling,322 €,2024-03-19 11:56:12,2024-04-30
+12:45,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Air Europa,305 €,2024-03-19 11:56:12,2024-04-30
+15:10,22:20,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LIS,7h 10m,"Vueling, TAP AIR PORTUGAL",169 €,2024-03-19 11:56:12,2024-04-30
+8:40,13:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,ALC,5h 05m,"Vueling, Transavia",271 €,2024-03-19 11:56:12,2024-04-30
+12:45,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 45m,"Air Europa, Iberia Express",228 €,2024-03-19 11:56:12,2024-04-30
+7:10,13:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 25m,Air France,243 €,2024-03-19 11:56:12,2024-04-30
+15:15,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,"Vueling, KLM",189 €,2024-03-19 11:56:12,2024-04-30
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,Air France,277 €,2024-03-19 11:56:12,2024-04-30
+15:10,21:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LIS,6h 35m,Vueling,238 €,2024-03-19 11:56:12,2024-04-30
+11:35,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, FRA",6h 55m,Lufthansa,190 €,2024-03-19 11:56:12,2024-04-30
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,Air France,327 €,2024-03-19 11:56:12,2024-04-30
+16:10,22:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FLR,6h 20m,"Volotea, KLM",239 €,2024-03-19 11:56:12,2024-04-30
+13:40,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,4h 50m,Vueling,384 €,2024-03-19 11:56:12,2024-04-30
+6:45,15:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",8h 15m,Lufthansa,160 €,2024-03-19 11:56:12,2024-04-30
+15:15,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,5h 30m,Iberia,338 €,2024-03-19 11:56:12,2024-04-30
+11:35,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MUC,8h 50m,Lufthansa,158 €,2024-03-19 11:56:12,2024-04-30
+14:05,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 35m,Lufthansa,223 €,2024-03-19 11:56:12,2024-04-30
+14:05,21:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",7h 35m,Lufthansa,223 €,2024-03-19 11:56:12,2024-04-30
+12:05,20:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,SCQ,8h 40m,Vueling,159 €,2024-03-19 11:56:12,2024-04-30
+8:55,17:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,PMI,9h 00m,Vueling,138 €,2024-03-19 11:56:12,2024-04-30
+15:10,0:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LIS,8h 55m,"Vueling, Transavia",146 €,2024-03-19 11:56:12,2024-04-30
+13:55,23:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,LGW-LHR,9h 15m,"Vueling, KLM",113 €,2024-03-19 11:56:12,2024-04-30
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,Air France,247 €,2024-03-19 11:56:12,2024-04-30
+9:15,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 35m,British Airways,249 €,2024-03-19 11:56:12,2024-04-30
+15:15,0:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,9h 00m,"Vueling, Transavia",163 €,2024-03-19 11:56:12,2024-04-30
+6:45,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,8h 50m,Iberia,196 €,2024-03-19 11:56:12,2024-04-30
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,230 €,2024-03-19 11:56:12,2024-04-30
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, VIE",8h 10m,Austrian Airlines,230 €,2024-03-19 11:56:12,2024-04-30
+13:40,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",6h 55m,"Iberia, British Airways",334 €,2024-03-19 11:56:12,2024-04-30
+9:15,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, BCN",8h 25m,"Iberia, Vueling",208 €,2024-03-19 11:56:12,2024-04-30
+8:55,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,6h 40m,Iberia,335 €,2024-03-19 11:56:12,2024-04-30
+9:15,16:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 35m,"Iberia, British Airways",274 €,2024-03-19 11:56:12,2024-04-30
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,Air France,325 €,2024-03-19 11:56:12,2024-04-30
+13:40,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",6h 55m,"Iberia, British Airways",364 €,2024-03-19 11:56:12,2024-04-30
+17:40,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,5h 20m,"Iberia, KLM",414 €,2024-03-19 11:56:12,2024-04-30
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,"Iberia, British Airways",359 €,2024-03-19 11:56:12,2024-04-30
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 15m,Iberia,238 €,2024-03-19 11:56:12,2024-04-30
+13:40,20:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",6h 55m,British Airways,369 €,2024-03-19 11:56:12,2024-04-30
+7:40,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,7h 55m,Iberia,321 €,2024-03-19 11:56:12,2024-04-30
+13:40,21:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 10m,"Iberia, British Airways",334 €,2024-03-19 11:56:12,2024-04-30
+13:40,21:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 10m,"Iberia, British Airways",334 €,2024-03-19 11:56:12,2024-04-30
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,"Iberia, British Airways",389 €,2024-03-19 11:56:12,2024-04-30
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, ZRH",8h 10m,SWISS,318 €,2024-03-19 11:56:12,2024-04-30
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 15m,British Airways,253 €,2024-03-19 11:56:12,2024-04-30
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,KLM,389 €,2024-03-19 11:56:12,2024-04-30
+6:45,13:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,7h 05m,Lufthansa,390 €,2024-03-19 11:56:12,2024-04-30
+14:05,22:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 10m,Lufthansa,330 €,2024-03-19 11:56:12,2024-04-30
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,298 €,2024-03-19 11:56:12,2024-04-30
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,"Air Europa, KLM",408 €,2024-03-19 11:56:12,2024-04-30
+13:40,21:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 10m,"Iberia, British Airways",364 €,2024-03-19 11:56:12,2024-04-30
+13:40,21:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 10m,"Iberia, British Airways",364 €,2024-03-19 11:56:12,2024-04-30
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,Air Europa,493 €,2024-03-19 11:56:12,2024-04-30
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 15m,"Iberia, British Airways",274 €,2024-03-19 11:56:12,2024-04-30
+11:35,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MUC, ZRH",7h 40m,SWISS,367 €,2024-03-19 11:56:12,2024-04-30
+6:45,14:05,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",7h 20m,British Airways,388 €,2024-03-19 11:56:12,2024-04-30
+8:30,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 05m,Air Europa,449 €,2024-03-19 11:56:12,2024-04-30
+8:55,17:40,Bilbao,BIO,Ámsterdam-Schiphol,AMS,BCN,8h 45m,Iberia,335 €,2024-03-19 11:56:12,2024-04-30
+13:40,21:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 10m,British Airways,364 €,2024-03-19 11:56:12,2024-04-30
+13:40,21:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 10m,British Airways,364 €,2024-03-19 11:56:12,2024-04-30
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,KLM,450 €,2024-03-19 11:56:12,2024-04-30
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,Air France,347 €,2024-03-19 11:56:12,2024-04-30
+8:30,17:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,9h 05m,Air Europa,365 €,2024-03-19 11:56:12,2024-04-30
+13:50,21:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"BRU, BER",8h 05m,"Brussels Airlines, KLM",359 €,2024-03-19 11:56:12,2024-04-30
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,KLM,523 €,2024-03-19 11:56:12,2024-04-30
+13:45,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"DUS, MUC",6h 40m,"Eurowings, Lufthansa",446 €,2024-03-19 11:56:12,2024-04-30
+6:45,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",8h 05m,British Airways,408 €,2024-03-19 11:56:12,2024-04-30
+16:50,23:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,6h 10m,"Air Europa, KLM",537 €,2024-03-19 11:56:12,2024-04-30
+9:15,18:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"MAD, LHR",9h 15m,British Airways,391 €,2024-03-19 11:56:12,2024-04-30
+12:45,19:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,MAD,7h 00m,"Air Europa, KLM",537 €,2024-03-19 11:56:12,2024-04-30
+14:05,20:25,Bilbao,BIO,Ámsterdam-Schiphol,AMS,"FRA, MUC",6h 20m,Lufthansa,223 €,2024-03-19 11:56:12,2024-04-30
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1103 €,2024-03-19 11:56:12,2024-04-30
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,KLM,1104 €,2024-03-19 11:56:12,2024-04-30
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,KLM,1103 €,2024-03-19 11:56:12,2024-04-30
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,KLM,1103 €,2024-03-19 11:56:12,2024-04-30
+7:10,13:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 25m,KLM,1103 €,2024-03-19 11:56:12,2024-04-30
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,KLM,1106 €,2024-03-19 11:56:12,2024-04-30
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,KLM,1106 €,2024-03-19 11:56:12,2024-04-30
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-30
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,KLM,1106 €,2024-03-19 11:56:12,2024-04-30
+10:30,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-30
+7:10,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,4h 20m,"Air France, KLM",1503 €,2024-03-19 11:56:12,2024-04-30
+10:30,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,5h 25m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-30
+7:10,13:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 00m,"Air France, KLM",1502 €,2024-03-19 11:56:12,2024-04-30
+6:45,11:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,4h 45m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-30
+14:05,19:10,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,5h 05m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-30
+7:10,13:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,6h 25m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-30
+6:45,13:00,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 15m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-30
+14:05,20:30,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,6h 25m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-30
+10:30,17:45,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 15m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-30
+7:10,14:50,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,7h 40m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-30
+10:30,19:15,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-30
+7:10,15:55,Bilbao,BIO,Ámsterdam-Schiphol,AMS,CDG,8h 45m,"Air France, KLM",1559 €,2024-03-19 11:56:12,2024-04-30
+6:45,15:35,Bilbao,BIO,Ámsterdam-Schiphol,AMS,FRA,8h 50m,"Lufthansa, KLM",1609 €,2024-03-19 11:56:12,2024-04-30
