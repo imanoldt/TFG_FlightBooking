@@ -7,6 +7,7 @@ from selenium.common.exceptions import NoSuchElementException
 from flight_scrp import iniciar_webdriver
 from rnd_time import randomTime
 from save_csv import guardar_en_csv
+import undetected_chromedriver as uc
 
 from datetime import datetime, timedelta
 import time
@@ -28,6 +29,10 @@ def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
             end_date = datetime.strptime(flight_date_end, "%Y-%m-%d")
 
             while current_date <= end_date:
+                if current_date.date() < datetime.now().date():
+                    current_date += timedelta(days=1)
+                    continue
+
                 # Construye la URL utilizando los parámetros
                 flight_date = current_date.strftime("%Y-%m-%d")
                 url = f"https://www.kayak.es/flights/{departure_cod}-{arrival_cod}/{flight_date}?sort=bestflight_a"
@@ -37,7 +42,9 @@ def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
                 try:
                     # COOKIES
                     div_element = wait.until(ec.presence_of_element_located((By.CLASS_NAME, 'P4zO-submit-buttons')))
+                    print(div_element)
                     first_button = div_element.find_element(By.TAG_NAME, 'button')
+                    print(first_button)
                     first_button.click()
                     randomTime(4, 10)
                     # Scroll down the page to trigger loading of additional elements
@@ -168,16 +175,8 @@ with open('rutas.json', 'r') as file:
 
 # Programar la ejecución de la función para cada ruta en el JSON
 for ruta in rutas:
-    schedule.every().day.at("00:00").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-    schedule.every().day.at("10:09").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-    schedule.every().day.at("19:00").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-
-
-"""
-# Llamar manualmente a la función prueba para cada ruta en el JSON
-for ruta in rutas:
-    prueba(ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-"""
+    schedule.every().day.at("00:36").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("19:04").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
 
 # Ejecuta el planificador en bucle
 while True:
