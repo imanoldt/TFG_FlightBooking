@@ -31,7 +31,10 @@ def guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airp
     fecha_formateada = fecha_actual.strftime("%Y-%m-%d")
 
     # Nombre del archivo CSV (puedes ajustar según tus necesidades)
+
     nombre_archivo = f"datos_vuelos_{fecha_formateada}_NR.csv"
+    #nombre_archivo = f"datos_vuelos_AMS_LAX_{fecha_formateada}.csv"
+
 
     # Verificar si el archivo ya existe
     existe_archivo = False
