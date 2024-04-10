@@ -1,0 +1,1550 @@
+Departure Time,Arrival Time,Departure Airport,Departure_Cod,Arrival Airport,Arrival_Cod,Stop Airports,Duration,Airlines,Price,Info Date Save,Flight Date
+10:30,12:15,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,152 €,2024-04-10 22:58:27,2024-05-04
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,157 €,2024-04-10 22:58:27,2024-05-04
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,157 €,2024-04-10 22:58:27,2024-05-04
+6:45,11:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, easyJet",112 €,2024-04-10 22:58:27,2024-05-04
+13:40,18:40,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 00m,"Vueling, easyJet",122 €,2024-04-10 22:58:27,2024-05-04
+14:50,19:35,Bilbao,BIO,Charles de Gaulle,CDG,OPO,4h 45m,"Vueling, Air France",137 €,2024-04-10 22:58:27,2024-05-04
+13:40,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 50m,"Vueling, easyJet",99 €,2024-04-10 22:58:27,2024-05-04
+15:30,20:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 40m,"Vueling, easyJet",168 €,2024-04-10 22:58:27,2024-05-04
+8:55,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 55m,Vueling,180 €,2024-04-10 22:58:27,2024-05-04
+16:50,22:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Air Europa, easyJet",159 €,2024-04-10 22:58:27,2024-05-04
+6:45,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 05m,Vueling,149 €,2024-04-10 22:58:27,2024-05-04
+15:30,21:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Vueling,204 €,2024-04-10 22:58:27,2024-05-04
+7:00,13:45,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 45m,"Vueling, easyJet",157 €,2024-04-10 22:58:27,2024-05-04
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, Air France",179 €,2024-04-10 22:58:27,2024-05-04
+8:55,15:55,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Vueling,187 €,2024-04-10 22:58:27,2024-05-04
+14:30,21:00,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 30m,"Vueling, British Airways",164 €,2024-04-10 22:58:27,2024-05-04
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,265 €,2024-04-10 22:58:27,2024-05-04
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",229 €,2024-04-10 22:58:27,2024-05-04
+15:30,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 00m,"Vueling, Air France",205 €,2024-04-10 22:58:27,2024-05-04
+12:20,18:15,Bilbao,BIO,Charles de Gaulle,CDG,GVA,5h 55m,"easyJet, Air France",208 €,2024-04-10 22:58:27,2024-05-04
+9:25,16:40,Bilbao,BIO,Charles de Gaulle,CDG,NAP,7h 15m,"Volotea, easyJet",189 €,2024-04-10 22:58:27,2024-05-04
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",232 €,2024-04-10 22:58:27,2024-05-04
+15:30,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 30m,"Vueling, Air France",263 €,2024-04-10 22:58:27,2024-05-04
+13:40,21:00,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,7h 20m,"Vueling, British Airways",164 €,2024-04-10 22:58:27,2024-05-04
+13:40,19:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 15m,"Vueling, Air France",205 €,2024-04-10 22:58:27,2024-05-04
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,271 €,2024-04-10 22:58:27,2024-05-04
+12:10,18:40,Bilbao,BIO,Charles de Gaulle,CDG,IBZ,6h 30m,"Vueling, Air France",205 €,2024-04-10 22:58:27,2024-05-04
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,286 €,2024-04-10 22:58:27,2024-05-04
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,286 €,2024-04-10 22:58:27,2024-05-04
+12:45,20:10,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 25m,"Air Europa, easyJet",216 €,2024-04-10 22:58:27,2024-05-04
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,261 €,2024-04-10 22:58:27,2024-05-04
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",297 €,2024-04-10 22:58:27,2024-05-04
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",311 €,2024-04-10 22:58:27,2024-05-04
+15:30,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 35m,"Vueling, Air France",205 €,2024-04-10 22:58:27,2024-05-04
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,306 €,2024-04-10 22:58:27,2024-05-04
+14:30,21:00,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 30m,British Airways,258 €,2024-04-10 22:58:27,2024-05-04
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,"Air Europa, Air France",241 €,2024-04-10 22:58:27,2024-05-04
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,346 €,2024-04-10 22:58:27,2024-05-04
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,286 €,2024-04-10 22:58:27,2024-05-04
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",297 €,2024-04-10 22:58:27,2024-05-04
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",367 €,2024-04-10 22:58:27,2024-05-04
+7:35,15:30,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 55m,"Vueling, Air France",231 €,2024-04-10 22:58:27,2024-05-04
+7:35,15:30,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 55m,"Vueling, KLM",231 €,2024-04-10 22:58:27,2024-05-04
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",305 €,2024-04-10 22:58:27,2024-05-04
+13:40,21:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,British Airways,285 €,2024-04-10 22:58:27,2024-05-04
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,346 €,2024-04-10 22:58:27,2024-05-04
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,379 €,2024-04-10 22:58:27,2024-05-04
+14:50,19:35,Bilbao,BIO,Charles de Gaulle,CDG,OPO,4h 45m,"Iberia, Air France",389 €,2024-04-10 22:58:27,2024-05-04
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,445 €,2024-04-10 22:58:27,2024-05-04
+13:40,21:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,"Iberia, British Airways",367 €,2024-04-10 22:58:27,2024-05-04
+13:25,19:45,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 20m,"Volotea, Vueling",391 €,2024-04-10 22:58:27,2024-05-04
+8:55,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 55m,Iberia,451 €,2024-04-10 22:58:27,2024-05-04
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",433 €,2024-04-10 22:58:27,2024-05-04
+6:45,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 05m,Iberia,410 €,2024-04-10 22:58:27,2024-05-04
+11:35,17:15,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 40m,Lufthansa,471 €,2024-04-10 22:58:27,2024-05-04
+8:55,15:55,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Iberia,472 €,2024-04-10 22:58:27,2024-05-04
+15:30,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 30m,"Iberia, Air France",542 €,2024-04-10 22:58:27,2024-05-04
+15:30,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 00m,"Iberia, Air France",499 €,2024-04-10 22:58:27,2024-05-04
+15:30,21:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Iberia,531 €,2024-04-10 22:58:27,2024-05-04
+12:15,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, VIE",7h 05m,"Brussels Airlines, Austrian Airlines",483 €,2024-04-10 22:58:27,2024-05-04
+13:40,21:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,"Iberia, British Airways",567 €,2024-04-10 22:58:27,2024-05-04
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,631 €,2024-04-10 22:58:27,2024-05-04
+12:15,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, ZRH",7h 00m,"Brussels Airlines, SWISS",556 €,2024-04-10 22:58:27,2024-05-04
+12:15,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, VIE",7h 05m,"Brussels Airlines, Austrian Airlines",558 €,2024-04-10 22:58:27,2024-05-04
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",723 €,2024-04-10 22:58:27,2024-05-04
+12:15,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, ZRH",7h 00m,"Brussels Airlines, SWISS",893 €,2024-04-10 22:58:27,2024-05-04
+12:15,18:10,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, AMS",5h 55m,Varias aerolíneas,2167 €,2024-04-10 22:58:27,2024-05-04
+12:15,18:10,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, AMS",5h 55m,"Brussels Airlines, KLM",2260 €,2024-04-10 22:58:27,2024-05-04
+12:05,13:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Vueling,73 €,2024-04-10 22:58:27,2024-05-05
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,145 €,2024-04-10 22:58:27,2024-05-05
+7:15,9:00,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,152 €,2024-04-10 22:58:27,2024-05-05
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,170 €,2024-04-10 22:58:27,2024-05-05
+12:05,13:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,187 €,2024-04-10 22:58:27,2024-05-05
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,121 €,2024-04-10 22:58:27,2024-05-05
+9:30,16:15,Bilbao,BIO,Charles de Gaulle,CDG,BRS,6h 45m,easyJet,112 €,2024-04-10 22:58:27,2024-05-05
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,142 €,2024-04-10 22:58:27,2024-05-05
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",170 €,2024-04-10 22:58:27,2024-05-05
+8:30,16:15,Bilbao,BIO,París-Orly,ORY,MAD,7h 45m,Air Europa,151 €,2024-04-10 22:58:27,2024-05-05
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",218 €,2024-04-10 22:58:27,2024-05-05
+10:05,17:25,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 20m,easyJet,139 €,2024-04-10 22:58:27,2024-05-05
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,231 €,2024-04-10 22:58:27,2024-05-05
+10:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,Vueling,251 €,2024-04-10 22:58:27,2024-05-05
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",201 €,2024-04-10 22:58:27,2024-05-05
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,264 €,2024-04-10 22:58:27,2024-05-05
+13:55,20:15,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 20m,"Vueling, easyJet",201 €,2024-04-10 22:58:27,2024-05-05
+12:45,18:25,Bilbao,BIO,París-Orly,ORY,MAD,5h 40m,Air Europa,263 €,2024-04-10 22:58:27,2024-05-05
+10:05,17:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW-SEN,7h 50m,easyJet,160 €,2024-04-10 22:58:27,2024-05-05
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,226 €,2024-04-10 22:58:27,2024-05-05
+15:15,19:25,Bilbao,BIO,París-Orly,ORY,BCN,4h 10m,Vueling,314 €,2024-04-10 22:58:27,2024-05-05
+12:15,17:10,Bilbao,BIO,Charles de Gaulle,CDG,MXP,4h 55m,"Vueling, easyJet",283 €,2024-04-10 22:58:27,2024-05-05
+10:55,17:55,Bilbao,BIO,París-Orly,ORY,BCN,7h 00m,Vueling,233 €,2024-04-10 22:58:27,2024-05-05
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",262 €,2024-04-10 22:58:27,2024-05-05
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,239 €,2024-04-10 22:58:27,2024-05-05
+7:10,14:40,Bilbao,BIO,Charles de Gaulle,CDG,CPH,7h 30m,"Vueling, Scandinavian Airlines",187 €,2024-04-10 22:58:27,2024-05-05
+17:40,21:55,Bilbao,BIO,París-Orly,ORY,MAD,4h 15m,Iberia,329 €,2024-04-10 22:58:27,2024-05-05
+9:30,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,4h 45m,SWISS,324 €,2024-04-10 22:58:27,2024-05-05
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW,7h 35m,"Vueling, easyJet",233 €,2024-04-10 22:58:27,2024-05-05
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,321 €,2024-04-10 22:58:27,2024-05-05
+7:10,14:05,Bilbao,BIO,Charles de Gaulle,CDG,CPH,6h 55m,"Vueling, Air France",243 €,2024-04-10 22:58:27,2024-05-05
+12:15,19:00,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 45m,"Vueling, easyJet",283 €,2024-04-10 22:58:27,2024-05-05
+17:40,22:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Iberia, easyJet",326 €,2024-04-10 22:58:27,2024-05-05
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,314 €,2024-04-10 22:58:27,2024-05-05
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",349 €,2024-04-10 22:58:27,2024-05-05
+15:15,21:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 55m,Vueling,352 €,2024-04-10 22:58:27,2024-05-05
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",359 €,2024-04-10 22:58:27,2024-05-05
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,324 €,2024-04-10 22:58:27,2024-05-05
+14:05,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 30m,Lufthansa,395 €,2024-04-10 22:58:27,2024-05-05
+15:15,20:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 55m,"Vueling, easyJet",396 €,2024-04-10 22:58:27,2024-05-05
+13:40,18:10,Bilbao,BIO,París-Orly,ORY,MAD,4h 30m,Iberia,403 €,2024-04-10 22:58:27,2024-05-05
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",349 €,2024-04-10 22:58:27,2024-05-05
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,337 €,2024-04-10 22:58:27,2024-05-05
+15:15,22:35,Bilbao,BIO,París-Orly,ORY,BCN,7h 20m,Vueling,352 €,2024-04-10 22:58:27,2024-05-05
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,464 €,2024-04-10 22:58:27,2024-05-05
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",404 €,2024-04-10 22:58:27,2024-05-05
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,445 €,2024-04-10 22:58:27,2024-05-05
+14:55,21:10,Bilbao,BIO,Charles de Gaulle,CDG,AGP,6h 15m,"Volotea, Air France",411 €,2024-04-10 22:58:27,2024-05-05
+13:40,20:05,Bilbao,BIO,París-Orly,ORY,MAD,6h 25m,Iberia,426 €,2024-04-10 22:58:27,2024-05-05
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,521 €,2024-04-10 22:58:27,2024-05-05
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,395 €,2024-04-10 22:58:27,2024-05-05
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, Air France",471 €,2024-04-10 22:58:27,2024-05-05
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-05
+15:15,22:55,Bilbao,BIO,Charles de Gaulle,CDG,"BCN, NCE",7h 40m,"Vueling, easyJet",424 €,2024-04-10 22:58:27,2024-05-05
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,534 €,2024-04-10 22:58:27,2024-05-05
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-05
+15:15,21:55,Bilbao,BIO,Charles de Gaulle,CDG,"BCN, BOD",6h 40m,"Vueling, Air France",450 €,2024-04-10 22:58:27,2024-05-05
+10:55,17:55,Bilbao,BIO,París-Orly,ORY,BCN,7h 00m,Iberia,499 €,2024-04-10 22:58:27,2024-05-05
+11:35,17:15,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 40m,Lufthansa,563 €,2024-04-10 22:58:27,2024-05-05
+9:15,13:35,Bilbao,BIO,París-Orly,ORY,MAD,4h 20m,Iberia,598 €,2024-04-10 22:58:27,2024-05-05
+10:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,Iberia,591 €,2024-04-10 22:58:27,2024-05-05
+15:15,19:25,Bilbao,BIO,París-Orly,ORY,BCN,4h 10m,Iberia,679 €,2024-04-10 22:58:27,2024-05-05
+15:15,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 50m,"Vueling, Air France",534 €,2024-04-10 22:58:27,2024-05-05
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,582 €,2024-04-10 22:58:27,2024-05-05
+9:15,16:35,Bilbao,BIO,París-Orly,ORY,MAD,7h 20m,Iberia,617 €,2024-04-10 22:58:27,2024-05-05
+13:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, FRA",7h 35m,"Brussels Airlines, Lufthansa",650 €,2024-04-10 22:58:27,2024-05-05
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,790 €,2024-04-10 22:58:27,2024-05-05
+15:15,21:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 55m,Iberia,779 €,2024-04-10 22:58:27,2024-05-05
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,740 €,2024-04-10 22:58:27,2024-05-05
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,740 €,2024-04-10 22:58:27,2024-05-05
+15:15,22:35,Bilbao,BIO,París-Orly,ORY,BCN,7h 20m,Iberia,779 €,2024-04-10 22:58:27,2024-05-05
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,SWISS,774 €,2024-04-10 22:58:27,2024-05-05
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,813 €,2024-04-10 22:58:27,2024-05-05
+15:15,21:55,Bilbao,BIO,Charles de Gaulle,CDG,"BCN, BOD",6h 40m,"Iberia, Air France",1288 €,2024-04-10 22:58:27,2024-05-05
+7:35,13:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,"Lufthansa, Air France",2589 €,2024-04-10 22:58:27,2024-05-05
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2707 €,2024-04-10 22:58:27,2024-05-05
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",2794 €,2024-04-10 22:58:27,2024-05-05
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,182 €,2024-04-10 22:58:27,2024-05-06
+11:00,12:45,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,187 €,2024-04-10 22:58:27,2024-05-06
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,291 €,2024-04-10 22:58:27,2024-05-06
+15:15,20:45,Bilbao,BIO,Charles de Gaulle,CDG,MXP,5h 30m,easyJet,95 €,2024-04-10 22:58:27,2024-05-06
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,130 €,2024-04-10 22:58:27,2024-05-06
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,129 €,2024-04-10 22:58:27,2024-05-06
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,163 €,2024-04-10 22:58:27,2024-05-06
+15:15,20:45,Bilbao,BIO,Charles de Gaulle,CDG,MXP,5h 30m,"easyJet Europe, easyJet",111 €,2024-04-10 22:58:27,2024-05-06
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",132 €,2024-04-10 22:58:27,2024-05-06
+13:50,19:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,"Vueling, easyJet",135 €,2024-04-10 22:58:27,2024-05-06
+15:00,21:40,Bilbao,BIO,Charles de Gaulle,CDG,MAN,6h 40m,easyJet,107 €,2024-04-10 22:58:27,2024-05-06
+16:50,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 45m,"Air Europa, easyJet",123 €,2024-04-10 22:58:27,2024-05-06
+16:50,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 45m,"Air Europa, easyJet Europe",127 €,2024-04-10 22:58:27,2024-05-06
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Vueling,129 €,2024-04-10 22:58:27,2024-05-06
+17:40,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 55m,"Iberia, easyJet",152 €,2024-04-10 22:58:27,2024-05-06
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",159 €,2024-04-10 22:58:27,2024-05-06
+10:30,16:25,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 55m,"easyJet, easyJet Europe",146 €,2024-04-10 22:58:27,2024-05-06
+10:30,16:25,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 55m,easyJet,141 €,2024-04-10 22:58:27,2024-05-06
+13:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 45m,Vueling,146 €,2024-04-10 22:58:27,2024-05-06
+10:30,16:25,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 55m,"easyJet Europe, easyJet",146 €,2024-04-10 22:58:27,2024-05-06
+13:50,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 15m,"Vueling, easyJet",144 €,2024-04-10 22:58:27,2024-05-06
+13:50,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 15m,"Vueling, easyJet Europe",144 €,2024-04-10 22:58:27,2024-05-06
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",161 €,2024-04-10 22:58:27,2024-05-06
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",198 €,2024-04-10 22:58:27,2024-05-06
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,161 €,2024-04-10 22:58:27,2024-05-06
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,215 €,2024-04-10 22:58:27,2024-05-06
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Vueling, Air France",176 €,2024-04-10 22:58:27,2024-05-06
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, Air France",162 €,2024-04-10 22:58:27,2024-05-06
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,159 €,2024-04-10 22:58:27,2024-05-06
+16:50,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 55m,"Air Europa, Iberia",132 €,2024-04-10 22:58:27,2024-05-06
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,226 €,2024-04-10 22:58:27,2024-05-06
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",227 €,2024-04-10 22:58:27,2024-05-06
+13:55,20:05,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 10m,Vueling,208 €,2024-04-10 22:58:27,2024-05-06
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,266 €,2024-04-10 22:58:27,2024-05-06
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,302 €,2024-04-10 22:58:27,2024-05-06
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,251 €,2024-04-10 22:58:27,2024-05-06
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,"Air Europa, Air France",161 €,2024-04-10 22:58:27,2024-05-06
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,253 €,2024-04-10 22:58:27,2024-05-06
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",256 €,2024-04-10 22:58:27,2024-05-06
+8:05,15:15,Bilbao,BIO,Charles de Gaulle,CDG,LYS,7h 10m,"Volotea, Air France",156 €,2024-04-10 22:58:27,2024-05-06
+13:50,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 10m,"Vueling, Air France",203 €,2024-04-10 22:58:27,2024-05-06
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,227 €,2024-04-10 22:58:27,2024-05-06
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,253 €,2024-04-10 22:58:27,2024-05-06
+7:35,13:40,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 05m,Lufthansa,231 €,2024-04-10 22:58:27,2024-05-06
+10:20,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,3h 55m,SWISS,318 €,2024-04-10 22:58:27,2024-05-06
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,227 €,2024-04-10 22:58:27,2024-05-06
+15:50,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 15m,"Vueling, Air France",171 €,2024-04-10 22:58:27,2024-05-06
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",220 €,2024-04-10 22:58:27,2024-05-06
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",300 €,2024-04-10 22:58:27,2024-05-06
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",284 €,2024-04-10 22:58:27,2024-05-06
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",256 €,2024-04-10 22:58:27,2024-05-06
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",256 €,2024-04-10 22:58:27,2024-05-06
+14:10,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 25m,Lufthansa,337 €,2024-04-10 22:58:27,2024-05-06
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,334 €,2024-04-10 22:58:27,2024-05-06
+14:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,DUS,4h 25m,"Eurowings, Air France",329 €,2024-04-10 22:58:27,2024-05-06
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",327 €,2024-04-10 22:58:27,2024-05-06
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,261 €,2024-04-10 22:58:27,2024-05-06
+11:15,15:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 40m,"Vueling, Air France",328 €,2024-04-10 22:58:27,2024-05-06
+11:15,15:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 40m,"Vueling, KLM",328 €,2024-04-10 22:58:27,2024-05-06
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,280 €,2024-04-10 22:58:27,2024-05-06
+13:55,19:40,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,5h 45m,"Vueling, Air France",317 €,2024-04-10 22:58:27,2024-05-06
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Iberia,393 €,2024-04-10 22:58:27,2024-05-06
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",315 €,2024-04-10 22:58:27,2024-05-06
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,402 €,2024-04-10 22:58:27,2024-05-06
+14:10,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,Lufthansa,337 €,2024-04-10 22:58:27,2024-05-06
+13:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 45m,Iberia,400 €,2024-04-10 22:58:27,2024-05-06
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Iberia,402 €,2024-04-10 22:58:27,2024-05-06
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-06
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,502 €,2024-04-10 22:58:27,2024-05-06
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,453 €,2024-04-10 22:58:27,2024-05-06
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-06
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,459 €,2024-04-10 22:58:27,2024-05-06
+8:05,11:50,Bilbao,BIO,Charles de Gaulle,CDG,LYS,3h 45m,"Volotea, Air France",577 €,2024-04-10 22:58:27,2024-05-06
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",6h 55m,Lufthansa,500 €,2024-04-10 22:58:27,2024-05-06
+13:40,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 00m,British Airways,577 €,2024-04-10 22:58:27,2024-05-06
+13:40,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 00m,"Iberia, British Airways",577 €,2024-04-10 22:58:27,2024-05-06
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2591 €,2024-04-10 22:58:27,2024-05-06
+14:10,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 50m,"Lufthansa, Air France",2794 €,2024-04-10 22:58:27,2024-05-06
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,145 €,2024-04-10 22:58:27,2024-05-07
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,145 €,2024-04-10 22:58:27,2024-05-07
+13:20,15:05,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,187 €,2024-04-10 22:58:27,2024-05-07
+14:50,22:15,Bilbao,BIO,Charles de Gaulle,CDG,BRS,7h 25m,easyJet,54 €,2024-04-10 22:58:27,2024-05-07
+7:05,14:35,Bilbao,BIO,Charles de Gaulle,CDG,MXP,7h 30m,"Vueling, easyJet",66 €,2024-04-10 22:58:27,2024-05-07
+18:00,23:05,Bilbao,BIO,Charles de Gaulle,CDG,VCE,5h 05m,"Volotea, easyJet",97 €,2024-04-10 22:58:27,2024-05-07
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,116 €,2024-04-10 22:58:27,2024-05-07
+13:55,18:35,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 40m,"Vueling, easyJet",102 €,2024-04-10 22:58:27,2024-05-07
+15:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 20m,Vueling,113 €,2024-04-10 22:58:27,2024-05-07
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, easyJet",117 €,2024-04-10 22:58:27,2024-05-07
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,148 €,2024-04-10 22:58:27,2024-05-07
+11:35,17:15,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 40m,Lufthansa,116 €,2024-04-10 22:58:27,2024-05-07
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",92 €,2024-04-10 22:58:27,2024-05-07
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet",91 €,2024-04-10 22:58:27,2024-05-07
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,124 €,2024-04-10 22:58:27,2024-05-07
+17:40,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 55m,"Iberia, easyJet",150 €,2024-04-10 22:58:27,2024-05-07
+16:50,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 45m,"Air Europa, easyJet",126 €,2024-04-10 22:58:27,2024-05-07
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,174 €,2024-04-10 22:58:27,2024-05-07
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,155 €,2024-04-10 22:58:27,2024-05-07
+18:20,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, Air France",170 €,2024-04-10 22:58:27,2024-05-07
+16:50,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 45m,"Air Europa, easyJet Europe",132 €,2024-04-10 22:58:27,2024-05-07
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,188 €,2024-04-10 22:58:27,2024-05-07
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,174 €,2024-04-10 22:58:27,2024-05-07
+8:55,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 25m,Vueling,204 €,2024-04-10 22:58:27,2024-05-07
+11:05,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 55m,Iberia,125 €,2024-04-10 22:58:27,2024-05-07
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet Europe",104 €,2024-04-10 22:58:27,2024-05-07
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,199 €,2024-04-10 22:58:27,2024-05-07
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,208 €,2024-04-10 22:58:27,2024-05-07
+15:10,22:20,Bilbao,BIO,Charles de Gaulle,CDG,LIS,7h 10m,"Vueling, Air France",103 €,2024-04-10 22:58:27,2024-05-07
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",212 €,2024-04-10 22:58:27,2024-05-07
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",179 €,2024-04-10 22:58:27,2024-05-07
+15:10,23:00,Bilbao,BIO,Charles de Gaulle,CDG,LIS,7h 50m,"Vueling, easyJet",112 €,2024-04-10 22:58:27,2024-05-07
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,174 €,2024-04-10 22:58:27,2024-05-07
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",218 €,2024-04-10 22:58:27,2024-05-07
+16:50,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 55m,"Air Europa, Iberia",133 €,2024-04-10 22:58:27,2024-05-07
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,144 €,2024-04-10 22:58:27,2024-05-07
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,188 €,2024-04-10 22:58:27,2024-05-07
+7:40,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 40m,Vueling,184 €,2024-04-10 22:58:27,2024-05-07
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,139 €,2024-04-10 22:58:27,2024-05-07
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, Air France",179 €,2024-04-10 22:58:27,2024-05-07
+13:55,20:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 55m,"Vueling, British Airways",138 €,2024-04-10 22:58:27,2024-05-07
+16:10,23:40,Bilbao,BIO,Charles de Gaulle,CDG,"FLR, FCO",7h 30m,"Volotea, ITA Airways",147 €,2024-04-10 22:58:27,2024-05-07
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,234 €,2024-04-10 22:58:27,2024-05-07
+15:10,22:35,Bilbao,BIO,Charles de Gaulle,CDG,"LIS, MAD",7h 25m,Varias aerolíneas,128 €,2024-04-10 22:58:27,2024-05-07
+15:35,21:10,Bilbao,BIO,Charles de Gaulle,CDG,AGP,5h 35m,"Vueling, Air France",208 €,2024-04-10 22:58:27,2024-05-07
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,250 €,2024-04-10 22:58:27,2024-05-07
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,285 €,2024-04-10 22:58:27,2024-05-07
+12:45,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 15m,"Air Europa, easyJet",169 €,2024-04-10 22:58:27,2024-05-07
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",218 €,2024-04-10 22:58:27,2024-05-07
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",249 €,2024-04-10 22:58:27,2024-05-07
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,204 €,2024-04-10 22:58:27,2024-05-07
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,188 €,2024-04-10 22:58:27,2024-05-07
+12:45,20:35,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 50m,"Air Europa, Vueling",155 €,2024-04-10 22:58:27,2024-05-07
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,325 €,2024-04-10 22:58:27,2024-05-07
+14:05,21:05,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, LIN",7h 00m,"Lufthansa, easyJet",175 €,2024-04-10 22:58:27,2024-05-07
+15:15,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 50m,"Vueling, Air France",151 €,2024-04-10 22:58:27,2024-05-07
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",228 €,2024-04-10 22:58:27,2024-05-07
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",218 €,2024-04-10 22:58:27,2024-05-07
+14:05,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 30m,Lufthansa,325 €,2024-04-10 22:58:27,2024-05-07
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,325 €,2024-04-10 22:58:27,2024-05-07
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",327 €,2024-04-10 22:58:27,2024-05-07
+16:10,22:15,Bilbao,BIO,Charles de Gaulle,CDG,FLR,6h 05m,"Volotea, Air France",244 €,2024-04-10 22:58:27,2024-05-07
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",249 €,2024-04-10 22:58:27,2024-05-07
+11:05,18:25,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,"Iberia, British Airways",248 €,2024-04-10 22:58:27,2024-05-07
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,315 €,2024-04-10 22:58:27,2024-05-07
+16:05,22:55,Bilbao,BIO,Charles de Gaulle,CDG,"GVA, FRA",6h 50m,"easyJet, Lufthansa",250 €,2024-04-10 22:58:27,2024-05-07
+15:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 20m,Iberia,358 €,2024-04-10 22:58:27,2024-05-07
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",327 €,2024-04-10 22:58:27,2024-05-07
+13:45,19:20,Bilbao,BIO,Charles de Gaulle,CDG,DUS,5h 35m,"Eurowings, Air France",329 €,2024-04-10 22:58:27,2024-05-07
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",379 €,2024-04-10 22:58:27,2024-05-07
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,328 €,2024-04-10 22:58:27,2024-05-07
+15:15,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 50m,"Iberia, Air France",289 €,2024-04-10 22:58:27,2024-05-07
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Iberia, Air France",424 €,2024-04-10 22:58:27,2024-05-07
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,372 €,2024-04-10 22:58:27,2024-05-07
+8:55,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 25m,Iberia,507 €,2024-04-10 22:58:27,2024-05-07
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",441 €,2024-04-10 22:58:27,2024-05-07
+7:40,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 40m,Iberia,472 €,2024-04-10 22:58:27,2024-05-07
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,507 €,2024-04-10 22:58:27,2024-05-07
+13:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, FRA",7h 35m,"Brussels Airlines, Lufthansa",485 €,2024-04-10 22:58:27,2024-05-07
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,British Airways,551 €,2024-04-10 22:58:27,2024-05-07
+11:05,18:25,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,"Iberia, British Airways",545 €,2024-04-10 22:58:27,2024-05-07
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",551 €,2024-04-10 22:58:27,2024-05-07
+9:15,16:55,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 40m,British Airways,577 €,2024-04-10 22:58:27,2024-05-07
+11:05,18:20,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 15m,"Iberia, British Airways",577 €,2024-04-10 22:58:27,2024-05-07
+9:15,16:55,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 40m,"Iberia, British Airways",577 €,2024-04-10 22:58:27,2024-05-07
+14:05,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, NUE",6h 35m,"Lufthansa, Air France",975 €,2024-04-10 22:58:27,2024-05-07
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2568 €,2024-04-10 22:58:27,2024-05-07
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",2673 €,2024-04-10 22:58:27,2024-05-07
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,145 €,2024-04-10 22:58:27,2024-05-08
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,148 €,2024-04-10 22:58:27,2024-05-08
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,145 €,2024-04-10 22:58:27,2024-05-08
+15:55,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 05m,Vueling,111 €,2024-04-10 22:58:27,2024-05-08
+14:20,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,Vueling,102 €,2024-04-10 22:58:27,2024-05-08
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",100 €,2024-04-10 22:58:27,2024-05-08
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,148 €,2024-04-10 22:58:27,2024-05-08
+11:25,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 40m,Vueling,141 €,2024-04-10 22:58:27,2024-05-08
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,116 €,2024-04-10 22:58:27,2024-05-08
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,137 €,2024-04-10 22:58:27,2024-05-08
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet",88 €,2024-04-10 22:58:27,2024-05-08
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",101 €,2024-04-10 22:58:27,2024-05-08
+14:20,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, easyJet",117 €,2024-04-10 22:58:27,2024-05-08
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,183 €,2024-04-10 22:58:27,2024-05-08
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,212 €,2024-04-10 22:58:27,2024-05-08
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,137 €,2024-04-10 22:58:27,2024-05-08
+17:30,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,"Vueling, Air France",151 €,2024-04-10 22:58:27,2024-05-08
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,222 €,2024-04-10 22:58:27,2024-05-08
+7:40,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 30m,Vueling,160 €,2024-04-10 22:58:27,2024-05-08
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",179 €,2024-04-10 22:58:27,2024-05-08
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",218 €,2024-04-10 22:58:27,2024-05-08
+14:25,20:05,Bilbao,BIO,Charles de Gaulle,CDG,VLC,5h 40m,"Vueling, Air France",174 €,2024-04-10 22:58:27,2024-05-08
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",254 €,2024-04-10 22:58:27,2024-05-08
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,226 €,2024-04-10 22:58:27,2024-05-08
+11:35,17:25,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 50m,Lufthansa,208 €,2024-04-10 22:58:27,2024-05-08
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,250 €,2024-04-10 22:58:27,2024-05-08
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,216 €,2024-04-10 22:58:27,2024-05-08
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",262 €,2024-04-10 22:58:27,2024-05-08
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,172 €,2024-04-10 22:58:27,2024-05-08
+15:55,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,"Vueling, Air France",150 €,2024-04-10 22:58:27,2024-05-08
+12:45,20:05,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 20m,"Air Europa, easyJet",181 €,2024-04-10 22:58:27,2024-05-08
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,286 €,2024-04-10 22:58:27,2024-05-08
+15:55,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 05m,Iberia,345 €,2024-04-10 22:58:27,2024-05-08
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",254 €,2024-04-10 22:58:27,2024-05-08
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,306 €,2024-04-10 22:58:27,2024-05-08
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,325 €,2024-04-10 22:58:27,2024-05-08
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,321 €,2024-04-10 22:58:27,2024-05-08
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,226 €,2024-04-10 22:58:27,2024-05-08
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,250 €,2024-04-10 22:58:27,2024-05-08
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,274 €,2024-04-10 22:58:27,2024-05-08
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,285 €,2024-04-10 22:58:27,2024-05-08
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",327 €,2024-04-10 22:58:27,2024-05-08
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,271 €,2024-04-10 22:58:27,2024-05-08
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",272 €,2024-04-10 22:58:27,2024-05-08
+14:20,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,Iberia,345 €,2024-04-10 22:58:27,2024-05-08
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,357 €,2024-04-10 22:58:27,2024-05-08
+11:25,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 40m,Iberia,395 €,2024-04-10 22:58:27,2024-05-08
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,284 €,2024-04-10 22:58:27,2024-05-08
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,395 €,2024-04-10 22:58:27,2024-05-08
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",368 €,2024-04-10 22:58:27,2024-05-08
+11:35,19:25,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, LUX",7h 50m,"Lufthansa, Luxair",355 €,2024-04-10 22:58:27,2024-05-08
+7:40,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 30m,Iberia,412 €,2024-04-10 22:58:27,2024-05-08
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,395 €,2024-04-10 22:58:27,2024-05-08
+17:30,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,"Iberia, Air France",456 €,2024-04-10 22:58:27,2024-05-08
+14:25,20:05,Bilbao,BIO,Charles de Gaulle,CDG,VLC,5h 40m,"Iberia, Air France",465 €,2024-04-10 22:58:27,2024-05-08
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",472 €,2024-04-10 22:58:27,2024-05-08
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,566 €,2024-04-10 22:58:27,2024-05-08
+14:20,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,"Iberia, Air France",475 €,2024-04-10 22:58:27,2024-05-08
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",456 €,2024-04-10 22:58:27,2024-05-08
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,British Airways,577 €,2024-04-10 22:58:27,2024-05-08
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",577 €,2024-04-10 22:58:27,2024-05-08
+11:35,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 45m,SWISS,606 €,2024-04-10 22:58:27,2024-05-08
+14:05,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, NUE",6h 35m,"Lufthansa, Air France",691 €,2024-04-10 22:58:27,2024-05-08
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,SWISS,774 €,2024-04-10 22:58:27,2024-05-08
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2568 €,2024-04-10 22:58:27,2024-05-08
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2707 €,2024-04-10 22:58:27,2024-05-08
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Vueling,58 €,2024-04-10 22:58:27,2024-05-09
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,145 €,2024-04-10 22:58:27,2024-05-09
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,145 €,2024-04-10 22:58:27,2024-05-09
+7:15,9:00,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,148 €,2024-04-10 22:58:27,2024-05-09
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,173 €,2024-04-10 22:58:27,2024-05-09
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Vueling,150 €,2024-04-10 22:58:27,2024-05-09
+15:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Vueling,144 €,2024-04-10 22:58:27,2024-05-09
+11:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 25m,Vueling,185 €,2024-04-10 22:58:27,2024-05-09
+13:55,18:45,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 50m,"Vueling, easyJet",159 €,2024-04-10 22:58:27,2024-05-09
+7:10,10:55,Bilbao,BIO,París-Orly,ORY,BCN,3h 45m,Vueling,210 €,2024-04-10 22:58:27,2024-05-09
+19:35,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 10m,Iberia,218 €,2024-04-10 22:58:27,2024-05-09
+15:50,21:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 20m,Vueling,192 €,2024-04-10 22:58:27,2024-05-09
+9:15,13:35,Bilbao,BIO,París-Orly,ORY,MAD,4h 20m,Iberia,226 €,2024-04-10 22:58:27,2024-05-09
+14:15,18:15,Bilbao,BIO,París-Orly,ORY,BCN,4h 00m,Vueling,238 €,2024-04-10 22:58:27,2024-05-09
+7:10,12:15,Bilbao,BIO,París-Orly,ORY,BCN,5h 05m,Vueling,227 €,2024-04-10 22:58:27,2024-05-09
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet",176 €,2024-04-10 22:58:27,2024-05-09
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",219 €,2024-04-10 22:58:27,2024-05-09
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet Europe",180 €,2024-04-10 22:58:27,2024-05-09
+14:15,19:25,Bilbao,BIO,París-Orly,ORY,BCN,5h 10m,Vueling,237 €,2024-04-10 22:58:27,2024-05-09
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,254 €,2024-04-10 22:58:27,2024-05-09
+15:50,22:35,Bilbao,BIO,París-Orly,ORY,BCN,6h 45m,Vueling,175 €,2024-04-10 22:58:27,2024-05-09
+11:40,18:15,Bilbao,BIO,París-Orly,ORY,BCN,6h 35m,Vueling,192 €,2024-04-10 22:58:27,2024-05-09
+14:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 20m,Vueling,212 €,2024-04-10 22:58:27,2024-05-09
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, Air France",191 €,2024-04-10 22:58:27,2024-05-09
+13:40,18:10,Bilbao,BIO,París-Orly,ORY,MAD,4h 30m,Iberia,273 €,2024-04-10 22:58:27,2024-05-09
+7:35,13:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 20m,"Vueling, easyJet",203 €,2024-04-10 22:58:27,2024-05-09
+17:40,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, easyJet",233 €,2024-04-10 22:58:27,2024-05-09
+8:55,14:45,Bilbao,BIO,París-Orly,ORY,BCN,5h 50m,Vueling,247 €,2024-04-10 22:58:27,2024-05-09
+13:55,21:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 55m,"Vueling, easyJet",148 €,2024-04-10 22:58:27,2024-05-09
+6:45,11:55,Bilbao,BIO,París-Orly,ORY,MAD,5h 10m,Iberia,264 €,2024-04-10 22:58:27,2024-05-09
+14:15,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,206 €,2024-04-10 22:58:27,2024-05-09
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW,7h 35m,"Vueling, easyJet",166 €,2024-04-10 22:58:27,2024-05-09
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",230 €,2024-04-10 22:58:27,2024-05-09
+13:55,21:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 55m,"Vueling, easyJet Europe",159 €,2024-04-10 22:58:27,2024-05-09
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW,7h 35m,"Vueling, easyJet Europe",174 €,2024-04-10 22:58:27,2024-05-09
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,219 €,2024-04-10 22:58:27,2024-05-09
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,306 €,2024-04-10 22:58:27,2024-05-09
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, Air France",235 €,2024-04-10 22:58:27,2024-05-09
+12:45,18:25,Bilbao,BIO,París-Orly,ORY,MAD,5h 40m,Air Europa,296 €,2024-04-10 22:58:27,2024-05-09
+14:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, easyJet",268 €,2024-04-10 22:58:27,2024-05-09
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,"Air Europa, Air France",194 €,2024-04-10 22:58:27,2024-05-09
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",275 €,2024-04-10 22:58:27,2024-05-09
+14:15,21:10,Bilbao,BIO,París-Orly,ORY,BCN,6h 55m,Vueling,247 €,2024-04-10 22:58:27,2024-05-09
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",302 €,2024-04-10 22:58:27,2024-05-09
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,264 €,2024-04-10 22:58:27,2024-05-09
+8:30,16:15,Bilbao,BIO,París-Orly,ORY,MAD,7h 45m,Air Europa,226 €,2024-04-10 22:58:27,2024-05-09
+7:10,14:45,Bilbao,BIO,París-Orly,ORY,BCN,7h 35m,Vueling,227 €,2024-04-10 22:58:27,2024-05-09
+12:45,20:35,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 50m,"Air Europa, Vueling",192 €,2024-04-10 22:58:27,2024-05-09
+9:15,16:35,Bilbao,BIO,París-Orly,ORY,MAD,7h 20m,Iberia,226 €,2024-04-10 22:58:27,2024-05-09
+17:40,21:55,Bilbao,BIO,París-Orly,ORY,MAD,4h 15m,Iberia,353 €,2024-04-10 22:58:27,2024-05-09
+12:45,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 15m,"Air Europa, easyJet",239 €,2024-04-10 22:58:27,2024-05-09
+6:45,13:35,Bilbao,BIO,París-Orly,ORY,MAD,6h 50m,Iberia,264 €,2024-04-10 22:58:27,2024-05-09
+13:40,21:30,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, MAN",7h 50m,"Iberia, easyJet",195 €,2024-04-10 22:58:27,2024-05-09
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",275 €,2024-04-10 22:58:27,2024-05-09
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,397 €,2024-04-10 22:58:27,2024-05-09
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,274 €,2024-04-10 22:58:27,2024-05-09
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,330 €,2024-04-10 22:58:27,2024-05-09
+7:10,10:55,Bilbao,BIO,París-Orly,ORY,BCN,3h 45m,Iberia,465 €,2024-04-10 22:58:27,2024-05-09
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,397 €,2024-04-10 22:58:27,2024-05-09
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Iberia,443 €,2024-04-10 22:58:27,2024-05-09
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,430 €,2024-04-10 22:58:27,2024-05-09
+11:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 25m,Iberia,459 €,2024-04-10 22:58:27,2024-05-09
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,465 €,2024-04-10 22:58:27,2024-05-09
+13:40,20:05,Bilbao,BIO,París-Orly,ORY,MAD,6h 25m,Iberia,403 €,2024-04-10 22:58:27,2024-05-09
+15:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Iberia,443 €,2024-04-10 22:58:27,2024-05-09
+14:15,18:15,Bilbao,BIO,París-Orly,ORY,BCN,4h 00m,Iberia,508 €,2024-04-10 22:58:27,2024-05-09
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,430 €,2024-04-10 22:58:27,2024-05-09
+8:25,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,5h 50m,SWISS,444 €,2024-04-10 22:58:27,2024-05-09
+15:50,21:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 20m,Iberia,457 €,2024-04-10 22:58:27,2024-05-09
+11:00,18:55,Bilbao,BIO,París-Orly,ORY,LIS,7h 55m,TAP AIR PORTUGAL,368 €,2024-04-10 22:58:27,2024-05-09
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-09
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,416 €,2024-04-10 22:58:27,2024-05-09
+11:00,18:00,Bilbao,BIO,Charles de Gaulle,CDG,"LIS, MAD",7h 00m,"TAP AIR PORTUGAL, Iberia",393 €,2024-04-10 22:58:27,2024-05-09
+7:10,12:15,Bilbao,BIO,París-Orly,ORY,BCN,5h 05m,Iberia,490 €,2024-04-10 22:58:27,2024-05-09
+15:50,22:35,Bilbao,BIO,París-Orly,ORY,BCN,6h 45m,Iberia,432 €,2024-04-10 22:58:27,2024-05-09
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-09
+11:40,18:15,Bilbao,BIO,París-Orly,ORY,BCN,6h 35m,Iberia,448 €,2024-04-10 22:58:27,2024-05-09
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-09
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",514 €,2024-04-10 22:58:27,2024-05-09
+14:15,19:25,Bilbao,BIO,París-Orly,ORY,BCN,5h 10m,Iberia,533 €,2024-04-10 22:58:27,2024-05-09
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-09
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",525 €,2024-04-10 22:58:27,2024-05-09
+8:55,14:45,Bilbao,BIO,París-Orly,ORY,BCN,5h 50m,Iberia,533 €,2024-04-10 22:58:27,2024-05-09
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",524 €,2024-04-10 22:58:27,2024-05-09
+14:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 20m,Iberia,519 €,2024-04-10 22:58:27,2024-05-09
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",519 €,2024-04-10 22:58:27,2024-05-09
+11:40,19:25,Bilbao,BIO,París-Orly,ORY,BCN,7h 45m,Iberia,473 €,2024-04-10 22:58:27,2024-05-09
+7:10,14:45,Bilbao,BIO,París-Orly,ORY,BCN,7h 35m,Iberia,490 €,2024-04-10 22:58:27,2024-05-09
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",519 €,2024-04-10 22:58:27,2024-05-09
+14:15,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,519 €,2024-04-10 22:58:27,2024-05-09
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,519 €,2024-04-10 22:58:27,2024-05-09
+14:15,21:10,Bilbao,BIO,París-Orly,ORY,BCN,6h 55m,Iberia,533 €,2024-04-10 22:58:27,2024-05-09
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",820 €,2024-04-10 22:58:27,2024-05-09
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,826 €,2024-04-10 22:58:27,2024-05-09
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,727 €,2024-04-10 22:58:27,2024-05-09
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,826 €,2024-04-10 22:58:27,2024-05-09
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",826 €,2024-04-10 22:58:27,2024-05-09
+14:05,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, NUE",6h 35m,"Lufthansa, Air France",821 €,2024-04-10 22:58:27,2024-05-09
+8:25,15:55,Bilbao,BIO,Charles de Gaulle,CDG,"ZRH, GVA",7h 30m,SWISS,900 €,2024-04-10 22:58:27,2024-05-09
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,206 €,2024-04-10 22:58:27,2024-05-10
+18:35,20:15,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,243 €,2024-04-10 22:58:27,2024-05-10
+8:05,13:05,Bilbao,BIO,Charles de Gaulle,CDG,LYS,5h 00m,"Volotea, Air France",156 €,2024-04-10 22:58:27,2024-05-10
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,213 €,2024-04-10 22:58:27,2024-05-10
+7:35,12:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 45m,"Vueling, easyJet",196 €,2024-04-10 22:58:27,2024-05-10
+11:35,17:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,Lufthansa,213 €,2024-04-10 22:58:27,2024-05-10
+17:35,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,3h 55m,Vueling,279 €,2024-04-10 22:58:27,2024-05-10
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",199 €,2024-04-10 22:58:27,2024-05-10
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,306 €,2024-04-10 22:58:27,2024-05-10
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",243 €,2024-04-10 22:58:27,2024-05-10
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",191 €,2024-04-10 22:58:27,2024-05-10
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,199 €,2024-04-10 22:58:27,2024-05-10
+14:15,20:55,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 40m,"Vueling, easyJet",202 €,2024-04-10 22:58:27,2024-05-10
+8:05,15:15,Bilbao,BIO,Charles de Gaulle,CDG,LYS,7h 10m,"Volotea, Air France",156 €,2024-04-10 22:58:27,2024-05-10
+14:15,19:10,Bilbao,BIO,Charles de Gaulle,CDG,MXP,4h 55m,"Vueling, Air France",247 €,2024-04-10 22:58:27,2024-05-10
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Vueling,213 €,2024-04-10 22:58:27,2024-05-10
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,296 €,2024-04-10 22:58:27,2024-05-10
+14:30,19:55,Bilbao,BIO,Charles de Gaulle,CDG,HAM,5h 25m,"Eurowings, Air France",247 €,2024-04-10 22:58:27,2024-05-10
+10:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,easyJet,291 €,2024-04-10 22:58:27,2024-05-10
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet",274 €,2024-04-10 22:58:27,2024-05-10
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",288 €,2024-04-10 22:58:27,2024-05-10
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,276 €,2024-04-10 22:58:27,2024-05-10
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,306 €,2024-04-10 22:58:27,2024-05-10
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,329 €,2024-04-10 22:58:27,2024-05-10
+14:15,20:25,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 10m,"Vueling, Air France",265 €,2024-04-10 22:58:27,2024-05-10
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, Air France",278 €,2024-04-10 22:58:27,2024-05-10
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,364 €,2024-04-10 22:58:27,2024-05-10
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",345 €,2024-04-10 22:58:27,2024-05-10
+12:25,18:15,Bilbao,BIO,Charles de Gaulle,CDG,LIS,5h 50m,"TAP AIR PORTUGAL, easyJet",315 €,2024-04-10 22:58:27,2024-05-10
+14:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,DUS,4h 25m,"Eurowings, Air France",371 €,2024-04-10 22:58:27,2024-05-10
+10:40,16:25,Bilbao,BIO,Charles de Gaulle,CDG,MAN,5h 45m,easyJet,354 €,2024-04-10 22:58:27,2024-05-10
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,382 €,2024-04-10 22:58:27,2024-05-10
+10:40,15:15,Bilbao,BIO,Charles de Gaulle,CDG,MAN,4h 35m,"easyJet, Air France",385 €,2024-04-10 22:58:27,2024-05-10
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,446 €,2024-04-10 22:58:27,2024-05-10
+14:40,19:35,Bilbao,BIO,Charles de Gaulle,CDG,OPO,4h 55m,"Vueling, Air France",379 €,2024-04-10 22:58:27,2024-05-10
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",397 €,2024-04-10 22:58:27,2024-05-10
+14:00,20:00,Bilbao,BIO,Charles de Gaulle,CDG,SCQ,6h 00m,"Iberia, Vueling",341 €,2024-04-10 22:58:27,2024-05-10
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,337 €,2024-04-10 22:58:27,2024-05-10
+8:30,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,5h 45m,SWISS,385 €,2024-04-10 22:58:27,2024-05-10
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",416 €,2024-04-10 22:58:27,2024-05-10
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,439 €,2024-04-10 22:58:27,2024-05-10
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",402 €,2024-04-10 22:58:27,2024-05-10
+14:05,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 30m,Lufthansa,456 €,2024-04-10 22:58:27,2024-05-10
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",372 €,2024-04-10 22:58:27,2024-05-10
+13:10,19:55,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 45m,Vueling,383 €,2024-04-10 22:58:27,2024-05-10
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,382 €,2024-04-10 22:58:27,2024-05-10
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,384 €,2024-04-10 22:58:27,2024-05-10
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,469 €,2024-04-10 22:58:27,2024-05-10
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,416 €,2024-04-10 22:58:27,2024-05-10
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",514 €,2024-04-10 22:58:27,2024-05-10
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,466 €,2024-04-10 22:58:27,2024-05-10
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,531 €,2024-04-10 22:58:27,2024-05-10
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,513 €,2024-04-10 22:58:27,2024-05-10
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,534 €,2024-04-10 22:58:27,2024-05-10
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,534 €,2024-04-10 22:58:27,2024-05-10
+8:05,11:50,Bilbao,BIO,Charles de Gaulle,CDG,LYS,3h 45m,"Volotea, Air France",577 €,2024-04-10 22:58:27,2024-05-10
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",519 €,2024-04-10 22:58:27,2024-05-10
+12:25,19:25,Bilbao,BIO,Charles de Gaulle,CDG,LIS,7h 00m,"TAP AIR PORTUGAL, Air France",474 €,2024-04-10 22:58:27,2024-05-10
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,579 €,2024-04-10 22:58:27,2024-05-10
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,534 €,2024-04-10 22:58:27,2024-05-10
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Iberia,513 €,2024-04-10 22:58:27,2024-05-10
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,513 €,2024-04-10 22:58:27,2024-05-10
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",519 €,2024-04-10 22:58:27,2024-05-10
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",516 €,2024-04-10 22:58:27,2024-05-10
+17:35,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,3h 55m,Iberia,650 €,2024-04-10 22:58:27,2024-05-10
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,602 €,2024-04-10 22:58:27,2024-05-10
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",653 €,2024-04-10 22:58:27,2024-05-10
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",653 €,2024-04-10 22:58:27,2024-05-10
+15:10,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"STR, FRA",6h 15m,"Eurowings, Lufthansa",642 €,2024-04-10 22:58:27,2024-05-10
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Iberia, Air France",847 €,2024-04-10 22:58:27,2024-05-10
+7:35,13:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,"Lufthansa, Air France",2568 €,2024-04-10 22:58:27,2024-05-10
+10:30,12:15,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,308 €,2024-04-10 22:58:27,2024-05-11
+6:45,10:35,Bilbao,BIO,París-Orly,ORY,BCN,3h 50m,Vueling,270 €,2024-04-10 22:58:27,2024-05-11
+6:45,12:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 25m,Vueling,261 €,2024-04-10 22:58:27,2024-05-11
+6:45,11:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, easyJet",270 €,2024-04-10 22:58:27,2024-05-11
+8:55,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 55m,Vueling,289 €,2024-04-10 22:58:27,2024-05-11
+13:40,18:40,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 00m,"Vueling, easyJet",274 €,2024-04-10 22:58:27,2024-05-11
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,321 €,2024-04-10 22:58:27,2024-05-11
+17:40,22:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,"Vueling, easyJet",307 €,2024-04-10 22:58:27,2024-05-11
+16:50,22:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Air Europa, easyJet",296 €,2024-04-10 22:58:27,2024-05-11
+8:55,15:55,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Vueling,246 €,2024-04-10 22:58:27,2024-05-11
+16:50,22:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Air Europa, easyJet Europe",300 €,2024-04-10 22:58:27,2024-05-11
+7:00,13:45,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 45m,"Vueling, easyJet",244 €,2024-04-10 22:58:27,2024-05-11
+8:55,14:45,Bilbao,BIO,París-Orly,ORY,BCN,5h 50m,Vueling,317 €,2024-04-10 22:58:27,2024-05-11
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",349 €,2024-04-10 22:58:27,2024-05-11
+6:45,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 05m,Vueling,277 €,2024-04-10 22:58:27,2024-05-11
+13:40,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 50m,"Vueling, easyJet",298 €,2024-04-10 22:58:27,2024-05-11
+12:20,18:15,Bilbao,BIO,Charles de Gaulle,CDG,GVA,5h 55m,"easyJet, Air France",364 €,2024-04-10 22:58:27,2024-05-11
+7:35,13:40,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 05m,Lufthansa,386 €,2024-04-10 22:58:27,2024-05-11
+15:30,20:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 40m,"Vueling, easyJet",453 €,2024-04-10 22:58:27,2024-05-11
+9:25,16:40,Bilbao,BIO,Charles de Gaulle,CDG,NAP,7h 15m,"Volotea, easyJet",364 €,2024-04-10 22:58:27,2024-05-11
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,457 €,2024-04-10 22:58:27,2024-05-11
+15:30,21:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Vueling,466 €,2024-04-10 22:58:27,2024-05-11
+6:45,10:35,Bilbao,BIO,París-Orly,ORY,BCN,3h 50m,Iberia,516 €,2024-04-10 22:58:27,2024-05-11
+15:30,21:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 40m,Vueling,464 €,2024-04-10 22:58:27,2024-05-11
+7:35,15:30,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 55m,"Vueling, Air France",345 €,2024-04-10 22:58:27,2024-05-11
+7:35,15:30,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 55m,"Vueling, KLM",345 €,2024-04-10 22:58:27,2024-05-11
+11:35,17:15,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 40m,Lufthansa,471 €,2024-04-10 22:58:27,2024-05-11
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",504 €,2024-04-10 22:58:27,2024-05-11
+17:40,21:55,Bilbao,BIO,París-Orly,ORY,MAD,4h 15m,Iberia,579 €,2024-04-10 22:58:27,2024-05-11
+13:40,18:10,Bilbao,BIO,París-Orly,ORY,MAD,4h 30m,Iberia,579 €,2024-04-10 22:58:27,2024-05-11
+6:45,12:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 25m,Iberia,516 €,2024-04-10 22:58:27,2024-05-11
+12:45,18:25,Bilbao,BIO,París-Orly,ORY,MAD,5h 40m,Air Europa,567 €,2024-04-10 22:58:27,2024-05-11
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,591 €,2024-04-10 22:58:27,2024-05-11
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,"Air Europa, Air France",483 €,2024-04-10 22:58:27,2024-05-11
+15:30,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 30m,"Vueling, Air France",589 €,2024-04-10 22:58:27,2024-05-11
+14:50,19:35,Bilbao,BIO,Charles de Gaulle,CDG,OPO,4h 45m,"Vueling, Air France",582 €,2024-04-10 22:58:27,2024-05-11
+14:30,21:00,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 30m,"Vueling, British Airways",516 €,2024-04-10 22:58:27,2024-05-11
+13:40,19:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 15m,"Vueling, Air France",534 €,2024-04-10 22:58:27,2024-05-11
+8:55,15:55,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Iberia,528 €,2024-04-10 22:58:27,2024-05-11
+8:30,16:15,Bilbao,BIO,París-Orly,ORY,MAD,7h 45m,Air Europa,534 €,2024-04-10 22:58:27,2024-05-11
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,591 €,2024-04-10 22:58:27,2024-05-11
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,607 €,2024-04-10 22:58:27,2024-05-11
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,660 €,2024-04-10 22:58:27,2024-05-11
+9:15,13:35,Bilbao,BIO,París-Orly,ORY,MAD,4h 20m,Iberia,707 €,2024-04-10 22:58:27,2024-05-11
+14:30,21:00,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 30m,British Airways,607 €,2024-04-10 22:58:27,2024-05-11
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",672 €,2024-04-10 22:58:27,2024-05-11
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",639 €,2024-04-10 22:58:27,2024-05-11
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,689 €,2024-04-10 22:58:27,2024-05-11
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",644 €,2024-04-10 22:58:27,2024-05-11
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,682 €,2024-04-10 22:58:27,2024-05-11
+8:55,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 55m,Iberia,735 €,2024-04-10 22:58:27,2024-05-11
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",699 €,2024-04-10 22:58:27,2024-05-11
+8:55,14:45,Bilbao,BIO,París-Orly,ORY,BCN,5h 50m,Iberia,710 €,2024-04-10 22:58:27,2024-05-11
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,778 €,2024-04-10 22:58:27,2024-05-11
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,"Vueling, Iberia",685 €,2024-04-10 22:58:27,2024-05-11
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",723 €,2024-04-10 22:58:27,2024-05-11
+15:30,21:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 40m,Iberia,765 €,2024-04-10 22:58:27,2024-05-11
+6:45,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 05m,Iberia,715 €,2024-04-10 22:58:27,2024-05-11
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,860 €,2024-04-10 22:58:27,2024-05-11
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,796 €,2024-04-10 22:58:27,2024-05-11
+9:15,16:35,Bilbao,BIO,París-Orly,ORY,MAD,7h 20m,Iberia,778 €,2024-04-10 22:58:27,2024-05-11
+13:40,21:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,British Airways,815 €,2024-04-10 22:58:27,2024-05-11
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,808 €,2024-04-10 22:58:27,2024-05-11
+12:15,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, VIE",7h 05m,"Brussels Airlines, Austrian Airlines",826 €,2024-04-10 22:58:27,2024-05-11
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",6h 55m,Lufthansa,854 €,2024-04-10 22:58:27,2024-05-11
+11:35,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, VIE",7h 45m,"Lufthansa, Austrian Airlines",859 €,2024-04-10 22:58:27,2024-05-11
+7:35,15:05,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, VIE",7h 30m,"Lufthansa, Austrian Airlines",879 €,2024-04-10 22:58:27,2024-05-11
+12:10,18:40,Bilbao,BIO,Charles de Gaulle,CDG,IBZ,6h 30m,"Iberia, Air France",923 €,2024-04-10 22:58:27,2024-05-11
+12:15,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, VIE",7h 05m,"Brussels Airlines, Austrian Airlines",953 €,2024-04-10 22:58:27,2024-05-11
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,1145 €,2024-04-10 22:58:27,2024-05-11
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",1186 €,2024-04-10 22:58:27,2024-05-11
+14:55,21:10,Bilbao,BIO,Charles de Gaulle,CDG,AGP,6h 15m,"Iberia, Air France",1177 €,2024-04-10 22:58:27,2024-05-11
+12:15,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, ZRH",7h 00m,"Brussels Airlines, SWISS",1559 €,2024-04-10 22:58:27,2024-05-11
+12:15,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, ZRH",7h 00m,"Brussels Airlines, SWISS",1776 €,2024-04-10 22:58:27,2024-05-11
+12:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, VIE",7h 45m,Varias aerolíneas,2029 €,2024-04-10 22:58:27,2024-05-11
+12:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, VIE",7h 45m,"Brussels Airlines, Air France",2032 €,2024-04-10 22:58:27,2024-05-11
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2677 €,2024-04-10 22:58:27,2024-05-11
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,261 €,2024-04-10 22:58:27,2024-05-12
+7:15,9:00,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,308 €,2024-04-10 22:58:27,2024-05-12
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,503 €,2024-04-10 22:58:27,2024-05-12
+9:30,16:15,Bilbao,BIO,Charles de Gaulle,CDG,BRS,6h 45m,easyJet,253 €,2024-04-10 22:58:27,2024-05-12
+10:05,17:25,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 20m,easyJet,342 €,2024-04-10 22:58:27,2024-05-12
+10:05,17:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW-SEN,7h 50m,easyJet,319 €,2024-04-10 22:58:27,2024-05-12
+12:15,17:10,Bilbao,BIO,Charles de Gaulle,CDG,MXP,4h 55m,"Vueling, easyJet",472 €,2024-04-10 22:58:27,2024-05-12
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,526 €,2024-04-10 22:58:27,2024-05-12
+12:15,19:00,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 45m,"Vueling, easyJet",465 €,2024-04-10 22:58:27,2024-05-12
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,550 €,2024-04-10 22:58:27,2024-05-12
+15:15,19:25,Bilbao,BIO,París-Orly,ORY,BCN,4h 10m,Vueling,639 €,2024-04-10 22:58:27,2024-05-12
+17:40,22:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Iberia, easyJet",555 €,2024-04-10 22:58:27,2024-05-12
+10:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,Vueling,606 €,2024-04-10 22:58:27,2024-05-12
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,526 €,2024-04-10 22:58:27,2024-05-12
+12:45,20:10,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 25m,"Air Europa, easyJet",503 €,2024-04-10 22:58:27,2024-05-12
+7:40,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 15m,"Vueling, Air France",573 €,2024-04-10 22:58:27,2024-05-12
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,579 €,2024-04-10 22:58:27,2024-05-12
+15:15,21:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 55m,Vueling,639 €,2024-04-10 22:58:27,2024-05-12
+9:30,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,4h 45m,SWISS,666 €,2024-04-10 22:58:27,2024-05-12
+7:40,15:30,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 50m,"Vueling, Air France",497 €,2024-04-10 22:58:27,2024-05-12
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",647 €,2024-04-10 22:58:27,2024-05-12
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",641 €,2024-04-10 22:58:27,2024-05-12
+10:55,17:55,Bilbao,BIO,París-Orly,ORY,BCN,7h 00m,Vueling,606 €,2024-04-10 22:58:27,2024-05-12
+13:55,20:15,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 20m,"Vueling, easyJet",617 €,2024-04-10 22:58:27,2024-05-12
+17:40,21:55,Bilbao,BIO,París-Orly,ORY,MAD,4h 15m,Iberia,757 €,2024-04-10 22:58:27,2024-05-12
+9:15,13:35,Bilbao,BIO,París-Orly,ORY,MAD,4h 20m,Iberia,757 €,2024-04-10 22:58:27,2024-05-12
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",653 €,2024-04-10 22:58:27,2024-05-12
+15:15,22:35,Bilbao,BIO,París-Orly,ORY,BCN,7h 20m,Vueling,639 €,2024-04-10 22:58:27,2024-05-12
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW,7h 35m,"Vueling, easyJet",609 €,2024-04-10 22:58:27,2024-05-12
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,772 €,2024-04-10 22:58:27,2024-05-12
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,778 €,2024-04-10 22:58:27,2024-05-12
+8:30,16:15,Bilbao,BIO,París-Orly,ORY,MAD,7h 45m,Air Europa,673 €,2024-04-10 22:58:27,2024-05-12
+13:40,18:10,Bilbao,BIO,París-Orly,ORY,MAD,4h 30m,Iberia,778 €,2024-04-10 22:58:27,2024-05-12
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,757 €,2024-04-10 22:58:27,2024-05-12
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,798 €,2024-04-10 22:58:27,2024-05-12
+13:40,20:05,Bilbao,BIO,París-Orly,ORY,MAD,6h 25m,Iberia,757 €,2024-04-10 22:58:27,2024-05-12
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,781 €,2024-04-10 22:58:27,2024-05-12
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",814 €,2024-04-10 22:58:27,2024-05-12
+11:35,17:15,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 40m,Lufthansa,799 €,2024-04-10 22:58:27,2024-05-12
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,788 €,2024-04-10 22:58:27,2024-05-12
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, Air France",858 €,2024-04-10 22:58:27,2024-05-12
+9:15,16:35,Bilbao,BIO,París-Orly,ORY,MAD,7h 20m,Iberia,778 €,2024-04-10 22:58:27,2024-05-12
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,906 €,2024-04-10 22:58:27,2024-05-12
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",944 €,2024-04-10 22:58:27,2024-05-12
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,899 €,2024-04-10 22:58:27,2024-05-12
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,896 €,2024-04-10 22:58:27,2024-05-12
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,906 €,2024-04-10 22:58:27,2024-05-12
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,906 €,2024-04-10 22:58:27,2024-05-12
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",944 €,2024-04-10 22:58:27,2024-05-12
+10:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,Iberia,983 €,2024-04-10 22:58:27,2024-05-12
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,899 €,2024-04-10 22:58:27,2024-05-12
+10:55,17:55,Bilbao,BIO,París-Orly,ORY,BCN,7h 00m,Iberia,958 €,2024-04-10 22:58:27,2024-05-12
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,1145 €,2024-04-10 22:58:27,2024-05-12
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,1145 €,2024-04-10 22:58:27,2024-05-12
+15:15,19:25,Bilbao,BIO,París-Orly,ORY,BCN,4h 10m,Iberia,1182 €,2024-04-10 22:58:27,2024-05-12
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",1185 €,2024-04-10 22:58:27,2024-05-12
+15:15,21:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 55m,Iberia,1182 €,2024-04-10 22:58:27,2024-05-12
+15:15,22:35,Bilbao,BIO,París-Orly,ORY,BCN,7h 20m,Iberia,1182 €,2024-04-10 22:58:27,2024-05-12
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,245 €,2024-04-10 22:58:27,2024-05-13
+11:00,12:45,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,308 €,2024-04-10 22:58:27,2024-05-13
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,350 €,2024-04-10 22:58:27,2024-05-13
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Vueling,227 €,2024-04-10 22:58:27,2024-05-13
+10:30,16:25,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 55m,easyJet,177 €,2024-04-10 22:58:27,2024-05-13
+13:50,19:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,"Vueling, easyJet",218 €,2024-04-10 22:58:27,2024-05-13
+13:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 45m,Vueling,209 €,2024-04-10 22:58:27,2024-05-13
+15:00,21:40,Bilbao,BIO,Charles de Gaulle,CDG,MAN,6h 40m,easyJet,185 €,2024-04-10 22:58:27,2024-05-13
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",220 €,2024-04-10 22:58:27,2024-05-13
+17:40,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 55m,"Iberia, easyJet",244 €,2024-04-10 22:58:27,2024-05-13
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,270 €,2024-04-10 22:58:27,2024-05-13
+13:55,20:25,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 30m,"Vueling, easyJet",197 €,2024-04-10 22:58:27,2024-05-13
+16:50,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 45m,"Air Europa, easyJet",229 €,2024-04-10 22:58:27,2024-05-13
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",277 €,2024-04-10 22:58:27,2024-05-13
+13:50,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 15m,"Vueling, easyJet",226 €,2024-04-10 22:58:27,2024-05-13
+15:15,20:45,Bilbao,BIO,Charles de Gaulle,CDG,MXP,5h 30m,easyJet,267 €,2024-04-10 22:58:27,2024-05-13
+15:00,20:40,Bilbao,BIO,Charles de Gaulle,CDG,MAN,5h 40m,"easyJet, Air France",230 €,2024-04-10 22:58:27,2024-05-13
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",287 €,2024-04-10 22:58:27,2024-05-13
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,246 €,2024-04-10 22:58:27,2024-05-13
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,329 €,2024-04-10 22:58:27,2024-05-13
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Vueling,281 €,2024-04-10 22:58:27,2024-05-13
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,302 €,2024-04-10 22:58:27,2024-05-13
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,324 €,2024-04-10 22:58:27,2024-05-13
+15:15,20:25,Bilbao,BIO,Charles de Gaulle,CDG,MXP,5h 10m,"easyJet, Air France",342 €,2024-04-10 22:58:27,2024-05-13
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,423 €,2024-04-10 22:58:27,2024-05-13
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,403 €,2024-04-10 22:58:27,2024-05-13
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",349 €,2024-04-10 22:58:27,2024-05-13
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,381 €,2024-04-10 22:58:27,2024-05-13
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,321 €,2024-04-10 22:58:27,2024-05-13
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,403 €,2024-04-10 22:58:27,2024-05-13
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Vueling, Air France",375 €,2024-04-10 22:58:27,2024-05-13
+16:45,22:25,Bilbao,BIO,Charles de Gaulle,CDG,FCO,5h 40m,"Volotea, Air France",384 €,2024-04-10 22:58:27,2024-05-13
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",349 €,2024-04-10 22:58:27,2024-05-13
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,465 €,2024-04-10 22:58:27,2024-05-13
+11:15,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 50m,"Vueling, KLM",395 €,2024-04-10 22:58:27,2024-05-13
+11:15,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 50m,"Vueling, Air France",396 €,2024-04-10 22:58:27,2024-05-13
+8:05,11:50,Bilbao,BIO,Charles de Gaulle,CDG,LYS,3h 45m,"Volotea, Air France",480 €,2024-04-10 22:58:27,2024-05-13
+14:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,DUS,4h 25m,"Eurowings, Air France",457 €,2024-04-10 22:58:27,2024-05-13
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",445 €,2024-04-10 22:58:27,2024-05-13
+11:15,15:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 40m,"Vueling, Air France",457 €,2024-04-10 22:58:27,2024-05-13
+11:15,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 55m,"Vueling, KLM",371 €,2024-04-10 22:58:27,2024-05-13
+11:15,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 55m,"Vueling, Air France",372 €,2024-04-10 22:58:27,2024-05-13
+13:55,20:05,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 10m,Vueling,432 €,2024-04-10 22:58:27,2024-05-13
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",478 €,2024-04-10 22:58:27,2024-05-13
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,475 €,2024-04-10 22:58:27,2024-05-13
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",464 €,2024-04-10 22:58:27,2024-05-13
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",445 €,2024-04-10 22:58:27,2024-05-13
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Iberia,550 €,2024-04-10 22:58:27,2024-05-13
+14:10,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,Lufthansa,479 €,2024-04-10 22:58:27,2024-05-13
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,588 €,2024-04-10 22:58:27,2024-05-13
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,607 €,2024-04-10 22:58:27,2024-05-13
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,588 €,2024-04-10 22:58:27,2024-05-13
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,582 €,2024-04-10 22:58:27,2024-05-13
+13:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 45m,Iberia,528 €,2024-04-10 22:58:27,2024-05-13
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,588 €,2024-04-10 22:58:27,2024-05-13
+14:10,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 25m,Lufthansa,644 €,2024-04-10 22:58:27,2024-05-13
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",652 €,2024-04-10 22:58:27,2024-05-13
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,588 €,2024-04-10 22:58:27,2024-05-13
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Iberia,582 €,2024-04-10 22:58:27,2024-05-13
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,582 €,2024-04-10 22:58:27,2024-05-13
+13:40,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 00m,British Airways,639 €,2024-04-10 22:58:27,2024-05-13
+13:40,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 00m,"Iberia, British Airways",639 €,2024-04-10 22:58:27,2024-05-13
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,636 €,2024-04-10 22:58:27,2024-05-13
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Iberia, Air France",679 €,2024-04-10 22:58:27,2024-05-13
+13:55,20:40,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 45m,"Iberia, British Airways",699 €,2024-04-10 22:58:27,2024-05-13
+7:35,13:40,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 05m,Lufthansa,756 €,2024-04-10 22:58:27,2024-05-13
+13:55,19:40,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,5h 45m,"Iberia, Air France",778 €,2024-04-10 22:58:27,2024-05-13
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,826 €,2024-04-10 22:58:27,2024-05-13
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",826 €,2024-04-10 22:58:27,2024-05-13
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,811 €,2024-04-10 22:58:27,2024-05-13
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,1145 €,2024-04-10 22:58:27,2024-05-13
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",1186 €,2024-04-10 22:58:27,2024-05-13
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",6h 55m,Lufthansa,1432 €,2024-04-10 22:58:27,2024-05-13
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2803 €,2024-04-10 22:58:27,2024-05-13
+13:20,15:05,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,205 €,2024-04-10 22:58:27,2024-05-14
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,210 €,2024-04-10 22:58:27,2024-05-14
+14:50,22:15,Bilbao,BIO,Charles de Gaulle,CDG,BRS,7h 25m,easyJet,63 €,2024-04-10 22:58:27,2024-05-14
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,261 €,2024-04-10 22:58:27,2024-05-14
+18:00,23:05,Bilbao,BIO,Charles de Gaulle,CDG,VCE,5h 05m,"Volotea, easyJet",91 €,2024-04-10 22:58:27,2024-05-14
+13:55,18:35,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 40m,"Vueling, easyJet",107 €,2024-04-10 22:58:27,2024-05-14
+15:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 20m,Vueling,125 €,2024-04-10 22:58:27,2024-05-14
+7:05,14:35,Bilbao,BIO,Charles de Gaulle,CDG,MXP,7h 30m,"Vueling, easyJet",83 €,2024-04-10 22:58:27,2024-05-14
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, easyJet",130 €,2024-04-10 22:58:27,2024-05-14
+8:55,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 25m,Vueling,136 €,2024-04-10 22:58:27,2024-05-14
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet",88 €,2024-04-10 22:58:27,2024-05-14
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",101 €,2024-04-10 22:58:27,2024-05-14
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,164 €,2024-04-10 22:58:27,2024-05-14
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet Europe",101 €,2024-04-10 22:58:27,2024-05-14
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet Europe",116 €,2024-04-10 22:58:27,2024-05-14
+18:20,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, Air France",162 €,2024-04-10 22:58:27,2024-05-14
+7:40,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 40m,Vueling,141 €,2024-04-10 22:58:27,2024-05-14
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,136 €,2024-04-10 22:58:27,2024-05-14
+17:40,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 55m,"Iberia, easyJet",177 €,2024-04-10 22:58:27,2024-05-14
+16:50,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 45m,"Air Europa, easyJet",161 €,2024-04-10 22:58:27,2024-05-14
+13:55,20:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 55m,"Vueling, British Airways",123 €,2024-04-10 22:58:27,2024-05-14
+7:05,12:30,Bilbao,BIO,Charles de Gaulle,CDG,MXP,5h 25m,"Vueling, Air France",202 €,2024-04-10 22:58:27,2024-05-14
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,264 €,2024-04-10 22:58:27,2024-05-14
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,217 €,2024-04-10 22:58:27,2024-05-14
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,270 €,2024-04-10 22:58:27,2024-05-14
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,296 €,2024-04-10 22:58:27,2024-05-14
+15:15,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 50m,"Vueling, Air France",147 €,2024-04-10 22:58:27,2024-05-14
+12:45,20:35,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 50m,"Air Europa, Vueling",170 €,2024-04-10 22:58:27,2024-05-14
+16:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,GVA,5h 55m,"easyJet, Air France",216 €,2024-04-10 22:58:27,2024-05-14
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",228 €,2024-04-10 22:58:27,2024-05-14
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",280 €,2024-04-10 22:58:27,2024-05-14
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",263 €,2024-04-10 22:58:27,2024-05-14
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,352 €,2024-04-10 22:58:27,2024-05-14
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",280 €,2024-04-10 22:58:27,2024-05-14
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",297 €,2024-04-10 22:58:27,2024-05-14
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,239 €,2024-04-10 22:58:27,2024-05-14
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",261 €,2024-04-10 22:58:27,2024-05-14
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,312 €,2024-04-10 22:58:27,2024-05-14
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,291 €,2024-04-10 22:58:27,2024-05-14
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,291 €,2024-04-10 22:58:27,2024-05-14
+15:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 20m,Iberia,370 €,2024-04-10 22:58:27,2024-05-14
+13:45,19:20,Bilbao,BIO,Charles de Gaulle,CDG,DUS,5h 35m,"Eurowings, Air France",341 €,2024-04-10 22:58:27,2024-05-14
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,308 €,2024-04-10 22:58:27,2024-05-14
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",349 €,2024-04-10 22:58:27,2024-05-14
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,401 €,2024-04-10 22:58:27,2024-05-14
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,335 €,2024-04-10 22:58:27,2024-05-14
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",382 €,2024-04-10 22:58:27,2024-05-14
+14:05,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 30m,Lufthansa,444 €,2024-04-10 22:58:27,2024-05-14
+8:55,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 25m,Iberia,406 €,2024-04-10 22:58:27,2024-05-14
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",367 €,2024-04-10 22:58:27,2024-05-14
+7:40,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 40m,Iberia,391 €,2024-04-10 22:58:27,2024-05-14
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",382 €,2024-04-10 22:58:27,2024-05-14
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,406 €,2024-04-10 22:58:27,2024-05-14
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-14
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-14
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,534 €,2024-04-10 22:58:27,2024-05-14
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-14
+13:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, FRA",7h 35m,"Brussels Airlines, Lufthansa",485 €,2024-04-10 22:58:27,2024-05-14
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,561 €,2024-04-10 22:58:27,2024-05-14
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,SWISS,496 €,2024-04-10 22:58:27,2024-05-14
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,British Airways,551 €,2024-04-10 22:58:27,2024-05-14
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",545 €,2024-04-10 22:58:27,2024-05-14
+9:15,16:55,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 40m,British Airways,577 €,2024-04-10 22:58:27,2024-05-14
+11:35,17:15,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 40m,Lufthansa,618 €,2024-04-10 22:58:27,2024-05-14
+9:15,16:55,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 40m,"Iberia, British Airways",577 €,2024-04-10 22:58:27,2024-05-14
+16:10,22:15,Bilbao,BIO,Charles de Gaulle,CDG,FLR,6h 05m,"Volotea, Air France",621 €,2024-04-10 22:58:27,2024-05-14
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",647 €,2024-04-10 22:58:27,2024-05-14
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,826 €,2024-04-10 22:58:27,2024-05-14
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",826 €,2024-04-10 22:58:27,2024-05-14
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,817 €,2024-04-10 22:58:27,2024-05-14
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,805 €,2024-04-10 22:58:27,2024-05-14
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2698 €,2024-04-10 22:58:27,2024-05-14
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,127 €,2024-04-10 22:58:27,2024-05-15
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,155 €,2024-04-10 22:58:27,2024-05-15
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,182 €,2024-04-10 22:58:27,2024-05-15
+15:55,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 05m,Vueling,94 €,2024-04-10 22:58:27,2024-05-15
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,84 €,2024-04-10 22:58:27,2024-05-15
+11:25,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 40m,Vueling,95 €,2024-04-10 22:58:27,2024-05-15
+14:20,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,Vueling,84 €,2024-04-10 22:58:27,2024-05-15
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,116 €,2024-04-10 22:58:27,2024-05-15
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",89 €,2024-04-10 22:58:27,2024-05-15
+14:20,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, easyJet",87 €,2024-04-10 22:58:27,2024-05-15
+7:40,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 30m,Vueling,91 €,2024-04-10 22:58:27,2024-05-15
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,86 €,2024-04-10 22:58:27,2024-05-15
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",82 €,2024-04-10 22:58:27,2024-05-15
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet",80 €,2024-04-10 22:58:27,2024-05-15
+14:20,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, easyJet Europe",106 €,2024-04-10 22:58:27,2024-05-15
+17:40,22:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Iberia, easyJet",145 €,2024-04-10 22:58:27,2024-05-15
+16:50,22:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, easyJet",143 €,2024-04-10 22:58:27,2024-05-15
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,124 €,2024-04-10 22:58:27,2024-05-15
+7:15,13:20,Bilbao,BIO,Charles de Gaulle,CDG,FCO,6h 05m,"Volotea, ITA Airways",166 €,2024-04-10 22:58:27,2024-05-15
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,159 €,2024-04-10 22:58:27,2024-05-15
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,170 €,2024-04-10 22:58:27,2024-05-15
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",197 €,2024-04-10 22:58:27,2024-05-15
+9:35,15:05,Bilbao,BIO,Charles de Gaulle,CDG,VIE,5h 30m,"Wizz Air Malta, Austrian Airlines",170 €,2024-04-10 22:58:27,2024-05-15
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,212 €,2024-04-10 22:58:27,2024-05-15
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,144 €,2024-04-10 22:58:27,2024-05-15
+12:45,20:05,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 20m,"Air Europa, easyJet",141 €,2024-04-10 22:58:27,2024-05-15
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",195 €,2024-04-10 22:58:27,2024-05-15
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,264 €,2024-04-10 22:58:27,2024-05-15
+7:00,14:05,Bilbao,BIO,Charles de Gaulle,CDG,CPH,7h 05m,"Vueling, Air France",150 €,2024-04-10 22:58:27,2024-05-15
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",234 €,2024-04-10 22:58:27,2024-05-15
+15:55,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 05m,Iberia,295 €,2024-04-10 22:58:27,2024-05-15
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",256 €,2024-04-10 22:58:27,2024-05-15
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,312 €,2024-04-10 22:58:27,2024-05-15
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,300 €,2024-04-10 22:58:27,2024-05-15
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,246 €,2024-04-10 22:58:27,2024-05-15
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,280 €,2024-04-10 22:58:27,2024-05-15
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",297 €,2024-04-10 22:58:27,2024-05-15
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,321 €,2024-04-10 22:58:27,2024-05-15
+14:20,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,Iberia,289 €,2024-04-10 22:58:27,2024-05-15
+11:25,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 40m,Iberia,326 €,2024-04-10 22:58:27,2024-05-15
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,239 €,2024-04-10 22:58:27,2024-05-15
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,310 €,2024-04-10 22:58:27,2024-05-15
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",273 €,2024-04-10 22:58:27,2024-05-15
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",352 €,2024-04-10 22:58:27,2024-05-15
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",315 €,2024-04-10 22:58:27,2024-05-15
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,300 €,2024-04-10 22:58:27,2024-05-15
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,312 €,2024-04-10 22:58:27,2024-05-15
+7:40,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 30m,Iberia,351 €,2024-04-10 22:58:27,2024-05-15
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,382 €,2024-04-10 22:58:27,2024-05-15
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",367 €,2024-04-10 22:58:27,2024-05-15
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,British Airways,394 €,2024-04-10 22:58:27,2024-05-15
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",433 €,2024-04-10 22:58:27,2024-05-15
+11:35,17:25,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 50m,Lufthansa,445 €,2024-04-10 22:58:27,2024-05-15
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",442 €,2024-04-10 22:58:27,2024-05-15
+12:10,19:25,Bilbao,BIO,Charles de Gaulle,CDG,LIS,7h 15m,"TAP AIR PORTUGAL, Air France",389 €,2024-04-10 22:58:27,2024-05-15
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-15
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",419 €,2024-04-10 22:58:27,2024-05-15
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-15
+14:20,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,"Iberia, Air France",477 €,2024-04-10 22:58:27,2024-05-15
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-15
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,544 €,2024-04-10 22:58:27,2024-05-15
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",577 €,2024-04-10 22:58:27,2024-05-15
+13:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, FRA",7h 35m,"Brussels Airlines, Lufthansa",569 €,2024-04-10 22:58:27,2024-05-15
+14:05,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, NUE",6h 35m,"Lufthansa, Air France",697 €,2024-04-10 22:58:27,2024-05-15
+11:35,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 45m,SWISS,727 €,2024-04-10 22:58:27,2024-05-15
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,SWISS,774 €,2024-04-10 22:58:27,2024-05-15
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2589 €,2024-04-10 22:58:27,2024-05-15
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Vueling,45 €,2024-04-10 22:58:27,2024-05-16
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,113 €,2024-04-10 22:58:27,2024-05-16
+7:15,9:00,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,141 €,2024-04-10 22:58:27,2024-05-16
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,160 €,2024-04-10 22:58:27,2024-05-16
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,160 €,2024-04-10 22:58:27,2024-05-16
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Vueling,123 €,2024-04-10 22:58:27,2024-05-16
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",109 €,2024-04-10 22:58:27,2024-05-16
+13:55,18:45,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 50m,"Vueling, easyJet",116 €,2024-04-10 22:58:27,2024-05-16
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,141 €,2024-04-10 22:58:27,2024-05-16
+15:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Vueling,135 €,2024-04-10 22:58:27,2024-05-16
+11:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 25m,Vueling,161 €,2024-04-10 22:58:27,2024-05-16
+17:40,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, easyJet",145 €,2024-04-10 22:58:27,2024-05-16
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, Air France",125 €,2024-04-10 22:58:27,2024-05-16
+14:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 20m,Vueling,139 €,2024-04-10 22:58:27,2024-05-16
+15:50,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 15m,"Vueling, Air France",117 €,2024-04-10 22:58:27,2024-05-16
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet",138 €,2024-04-10 22:58:27,2024-05-16
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",166 €,2024-04-10 22:58:27,2024-05-16
+8:25,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,5h 50m,SWISS,158 €,2024-04-10 22:58:27,2024-05-16
+14:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, easyJet",145 €,2024-04-10 22:58:27,2024-05-16
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW,7h 35m,"Vueling, easyJet",116 €,2024-04-10 22:58:27,2024-05-16
+13:55,21:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 55m,"Vueling, easyJet",116 €,2024-04-10 22:58:27,2024-05-16
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",188 €,2024-04-10 22:58:27,2024-05-16
+14:15,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,151 €,2024-04-10 22:58:27,2024-05-16
+7:35,13:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 20m,"Vueling, easyJet",148 €,2024-04-10 22:58:27,2024-05-16
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,143 €,2024-04-10 22:58:27,2024-05-16
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,176 €,2024-04-10 22:58:27,2024-05-16
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,150 €,2024-04-10 22:58:27,2024-05-16
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",201 €,2024-04-10 22:58:27,2024-05-16
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",185 €,2024-04-10 22:58:27,2024-05-16
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,214 €,2024-04-10 22:58:27,2024-05-16
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, Air France",176 €,2024-04-10 22:58:27,2024-05-16
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,235 €,2024-04-10 22:58:27,2024-05-16
+12:45,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 15m,"Air Europa, easyJet",172 €,2024-04-10 22:58:27,2024-05-16
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,209 €,2024-04-10 22:58:27,2024-05-16
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,280 €,2024-04-10 22:58:27,2024-05-16
+12:45,20:35,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 50m,"Air Europa, Vueling",169 €,2024-04-10 22:58:27,2024-05-16
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,249 €,2024-04-10 22:58:27,2024-05-16
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,221 €,2024-04-10 22:58:27,2024-05-16
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,253 €,2024-04-10 22:58:27,2024-05-16
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,238 €,2024-04-10 22:58:27,2024-05-16
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,284 €,2024-04-10 22:58:27,2024-05-16
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,253 €,2024-04-10 22:58:27,2024-05-16
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",256 €,2024-04-10 22:58:27,2024-05-16
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,297 €,2024-04-10 22:58:27,2024-05-16
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",272 €,2024-04-10 22:58:27,2024-05-16
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",296 €,2024-04-10 22:58:27,2024-05-16
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",316 €,2024-04-10 22:58:27,2024-05-16
+11:35,17:25,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 50m,Lufthansa,326 €,2024-04-10 22:58:27,2024-05-16
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Iberia,361 €,2024-04-10 22:58:27,2024-05-16
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",368 €,2024-04-10 22:58:27,2024-05-16
+14:05,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 30m,Lufthansa,397 €,2024-04-10 22:58:27,2024-05-16
+15:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Iberia,370 €,2024-04-10 22:58:27,2024-05-16
+14:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 20m,Iberia,387 €,2024-04-10 22:58:27,2024-05-16
+11:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 25m,Iberia,438 €,2024-04-10 22:58:27,2024-05-16
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,461 €,2024-04-10 22:58:27,2024-05-16
+14:15,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,396 €,2024-04-10 22:58:27,2024-05-16
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",520 €,2024-04-10 22:58:27,2024-05-16
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",488 €,2024-04-10 22:58:27,2024-05-16
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,529 €,2024-04-10 22:58:27,2024-05-16
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,542 €,2024-04-10 22:58:27,2024-05-16
+14:15,20:20,Bilbao,BIO,Charles de Gaulle,CDG,"BCN, NTE",6h 05m,"Iberia, Air France",640 €,2024-04-10 22:58:27,2024-05-16
+14:55,22:25,Bilbao,BIO,Charles de Gaulle,CDG,"DUS, VIE",7h 30m,"Eurowings, Austrian Airlines",610 €,2024-04-10 22:58:27,2024-05-16
+11:35,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, VIE",7h 45m,"Lufthansa, Austrian Airlines",699 €,2024-04-10 22:58:27,2024-05-16
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",800 €,2024-04-10 22:58:27,2024-05-16
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,795 €,2024-04-10 22:58:27,2024-05-16
+8:25,15:55,Bilbao,BIO,Charles de Gaulle,CDG,"ZRH, GVA",7h 30m,SWISS,1004 €,2024-04-10 22:58:27,2024-05-16
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,SWISS,1442 €,2024-04-10 22:58:27,2024-05-16
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2589 €,2024-04-10 22:58:27,2024-05-16
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,114 €,2024-04-10 22:58:27,2024-05-17
+18:35,20:15,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,187 €,2024-04-10 22:58:27,2024-05-17
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,206 €,2024-04-10 22:58:27,2024-05-17
+8:30,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,5h 45m,SWISS,111 €,2024-04-10 22:58:27,2024-05-17
+17:35,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,3h 55m,Vueling,191 €,2024-04-10 22:58:27,2024-05-17
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,161 €,2024-04-10 22:58:27,2024-05-17
+14:15,20:55,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 40m,"Vueling, easyJet",126 €,2024-04-10 22:58:27,2024-05-17
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet",142 €,2024-04-10 22:58:27,2024-05-17
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",176 €,2024-04-10 22:58:27,2024-05-17
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,145 €,2024-04-10 22:58:27,2024-05-17
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",188 €,2024-04-10 22:58:27,2024-05-17
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet Europe",153 €,2024-04-10 22:58:27,2024-05-17
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,194 €,2024-04-10 22:58:27,2024-05-17
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,216 €,2024-04-10 22:58:27,2024-05-17
+7:35,12:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 45m,"Vueling, easyJet",197 €,2024-04-10 22:58:27,2024-05-17
+10:40,16:25,Bilbao,BIO,Charles de Gaulle,CDG,MAN,5h 45m,easyJet,169 €,2024-04-10 22:58:27,2024-05-17
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",175 €,2024-04-10 22:58:27,2024-05-17
+10:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,easyJet,179 €,2024-04-10 22:58:27,2024-05-17
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,231 €,2024-04-10 22:58:27,2024-05-17
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,264 €,2024-04-10 22:58:27,2024-05-17
+10:40,15:15,Bilbao,BIO,Charles de Gaulle,CDG,MAN,4h 35m,"easyJet, Air France",227 €,2024-04-10 22:58:27,2024-05-17
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",172 €,2024-04-10 22:58:27,2024-05-17
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",256 €,2024-04-10 22:58:27,2024-05-17
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",200 €,2024-04-10 22:58:27,2024-05-17
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,188 €,2024-04-10 22:58:27,2024-05-17
+14:15,19:10,Bilbao,BIO,Charles de Gaulle,CDG,MXP,4h 55m,"Vueling, Air France",228 €,2024-04-10 22:58:27,2024-05-17
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,200 €,2024-04-10 22:58:27,2024-05-17
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",234 €,2024-04-10 22:58:27,2024-05-17
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Vueling,191 €,2024-04-10 22:58:27,2024-05-17
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",215 €,2024-04-10 22:58:27,2024-05-17
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,179 €,2024-04-10 22:58:27,2024-05-17
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",279 €,2024-04-10 22:58:27,2024-05-17
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,249 €,2024-04-10 22:58:27,2024-05-17
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,357 €,2024-04-10 22:58:27,2024-05-17
+14:40,19:35,Bilbao,BIO,Charles de Gaulle,CDG,OPO,4h 55m,"Vueling, Air France",284 €,2024-04-10 22:58:27,2024-05-17
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",289 €,2024-04-10 22:58:27,2024-05-17
+14:05,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 30m,Lufthansa,337 €,2024-04-10 22:58:27,2024-05-17
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",218 €,2024-04-10 22:58:27,2024-05-17
+13:10,19:55,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 45m,Vueling,250 €,2024-04-10 22:58:27,2024-05-17
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,239 €,2024-04-10 22:58:27,2024-05-17
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,321 €,2024-04-10 22:58:27,2024-05-17
+14:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,DUS,4h 25m,"Eurowings, Air France",371 €,2024-04-10 22:58:27,2024-05-17
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",310 €,2024-04-10 22:58:27,2024-05-17
+17:35,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,3h 55m,Iberia,448 €,2024-04-10 22:58:27,2024-05-17
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Iberia, Air France",359 €,2024-04-10 22:58:27,2024-05-17
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,357 €,2024-04-10 22:58:27,2024-05-17
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,412 €,2024-04-10 22:58:27,2024-05-17
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,327 €,2024-04-10 22:58:27,2024-05-17
+14:30,20:10,Bilbao,BIO,Charles de Gaulle,CDG,HAM,5h 40m,Eurowings,464 €,2024-04-10 22:58:27,2024-05-17
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,474 €,2024-04-10 22:58:27,2024-05-17
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-17
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,391 €,2024-04-10 22:58:27,2024-05-17
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-17
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",520 €,2024-04-10 22:58:27,2024-05-17
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,534 €,2024-04-10 22:58:27,2024-05-17
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-17
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Iberia,467 €,2024-04-10 22:58:27,2024-05-17
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",520 €,2024-04-10 22:58:27,2024-05-17
+11:35,17:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,Lufthansa,553 €,2024-04-10 22:58:27,2024-05-17
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,539 €,2024-04-10 22:58:27,2024-05-17
+7:35,13:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,"Lufthansa, Air France",2589 €,2024-04-10 22:58:27,2024-05-17
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",2667 €,2024-04-10 22:58:27,2024-05-17
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2698 €,2024-04-10 22:58:27,2024-05-17
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",2698 €,2024-04-10 22:58:27,2024-05-17
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2802 €,2024-04-10 22:58:27,2024-05-17
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,114 €,2024-04-10 22:58:27,2024-05-18
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,114 €,2024-04-10 22:58:27,2024-05-18
+10:30,12:15,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,161 €,2024-04-10 22:58:27,2024-05-18
+6:45,10:35,Bilbao,BIO,París-Orly,ORY,BCN,3h 50m,Vueling,127 €,2024-04-10 22:58:27,2024-05-18
+13:40,18:40,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 00m,"Vueling, easyJet",100 €,2024-04-10 22:58:27,2024-05-18
+15:30,20:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 40m,"Vueling, easyJet",108 €,2024-04-10 22:58:27,2024-05-18
+6:45,12:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 25m,Vueling,118 €,2024-04-10 22:58:27,2024-05-18
+12:45,18:25,Bilbao,BIO,París-Orly,ORY,MAD,5h 40m,Air Europa,116 €,2024-04-10 22:58:27,2024-05-18
+15:30,21:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 40m,Vueling,119 €,2024-04-10 22:58:27,2024-05-18
+13:40,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 50m,"Vueling, easyJet",82 €,2024-04-10 22:58:27,2024-05-18
+16:50,22:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Air Europa, easyJet",114 €,2024-04-10 22:58:27,2024-05-18
+16:50,22:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Air Europa, easyJet Europe",115 €,2024-04-10 22:58:27,2024-05-18
+6:45,11:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, easyJet",127 €,2024-04-10 22:58:27,2024-05-18
+15:30,21:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Vueling,147 €,2024-04-10 22:58:27,2024-05-18
+16:50,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 55m,"Air Europa, Iberia",106 €,2024-04-10 22:58:27,2024-05-18
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,122 €,2024-04-10 22:58:27,2024-05-18
+12:10,18:40,Bilbao,BIO,Charles de Gaulle,CDG,IBZ,6h 30m,"Vueling, Air France",114 €,2024-04-10 22:58:27,2024-05-18
+14:50,19:35,Bilbao,BIO,Charles de Gaulle,CDG,OPO,4h 45m,"Vueling, Air France",159 €,2024-04-10 22:58:27,2024-05-18
+13:40,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 50m,"Vueling, easyJet Europe",98 €,2024-04-10 22:58:27,2024-05-18
+15:30,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 30m,"Vueling, Air France",189 €,2024-04-10 22:58:27,2024-05-18
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,216 €,2024-04-10 22:58:27,2024-05-18
+17:40,21:55,Bilbao,BIO,París-Orly,ORY,MAD,4h 15m,Iberia,237 €,2024-04-10 22:58:27,2024-05-18
+14:30,21:00,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 30m,"Vueling, British Airways",123 €,2024-04-10 22:58:27,2024-05-18
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,237 €,2024-04-10 22:58:27,2024-05-18
+8:55,14:45,Bilbao,BIO,París-Orly,ORY,BCN,5h 50m,Vueling,200 €,2024-04-10 22:58:27,2024-05-18
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",178 €,2024-04-10 22:58:27,2024-05-18
+13:40,18:10,Bilbao,BIO,París-Orly,ORY,MAD,4h 30m,Iberia,237 €,2024-04-10 22:58:27,2024-05-18
+13:25,19:45,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 20m,"Volotea, Vueling",172 €,2024-04-10 22:58:27,2024-05-18
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,226 €,2024-04-10 22:58:27,2024-05-18
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,214 €,2024-04-10 22:58:27,2024-05-18
+8:30,16:15,Bilbao,BIO,París-Orly,ORY,MAD,7h 45m,Air Europa,151 €,2024-04-10 22:58:27,2024-05-18
+7:00,13:45,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 45m,"Vueling, easyJet",162 €,2024-04-10 22:58:27,2024-05-18
+13:40,21:00,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,7h 20m,"Vueling, British Airways",118 €,2024-04-10 22:58:27,2024-05-18
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",256 €,2024-04-10 22:58:27,2024-05-18
+12:45,20:10,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 25m,"Air Europa, easyJet",139 €,2024-04-10 22:58:27,2024-05-18
+8:55,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 55m,Vueling,263 €,2024-04-10 22:58:27,2024-05-18
+13:40,19:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 15m,"Vueling, Air France",178 €,2024-04-10 22:58:27,2024-05-18
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",254 €,2024-04-10 22:58:27,2024-05-18
+12:20,18:15,Bilbao,BIO,Charles de Gaulle,CDG,GVA,5h 55m,"easyJet, Air France",199 €,2024-04-10 22:58:27,2024-05-18
+15:30,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 35m,"Vueling, Air France",135 €,2024-04-10 22:58:27,2024-05-18
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,262 €,2024-04-10 22:58:27,2024-05-18
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,325 €,2024-04-10 22:58:27,2024-05-18
+14:55,21:10,Bilbao,BIO,Charles de Gaulle,CDG,AGP,6h 15m,"Vueling, Air France",194 €,2024-04-10 22:58:27,2024-05-18
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,226 €,2024-04-10 22:58:27,2024-05-18
+6:45,10:35,Bilbao,BIO,París-Orly,ORY,BCN,3h 50m,Iberia,334 €,2024-04-10 22:58:27,2024-05-18
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,"Air Europa, Air France",185 €,2024-04-10 22:58:27,2024-05-18
+9:15,13:35,Bilbao,BIO,París-Orly,ORY,MAD,4h 20m,Iberia,329 €,2024-04-10 22:58:27,2024-05-18
+8:55,15:55,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Vueling,244 €,2024-04-10 22:58:27,2024-05-18
+14:30,21:00,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 30m,British Airways,238 €,2024-04-10 22:58:27,2024-05-18
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",253 €,2024-04-10 22:58:27,2024-05-18
+7:35,13:40,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 05m,Lufthansa,273 €,2024-04-10 22:58:27,2024-05-18
+7:35,15:30,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 55m,"Vueling, KLM",196 €,2024-04-10 22:58:27,2024-05-18
+6:45,12:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 25m,Iberia,334 €,2024-04-10 22:58:27,2024-05-18
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",297 €,2024-04-10 22:58:27,2024-05-18
+15:30,21:10,Bilbao,BIO,París-Orly,ORY,BCN,5h 40m,Iberia,329 €,2024-04-10 22:58:27,2024-05-18
+13:40,21:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,British Airways,288 €,2024-04-10 22:58:27,2024-05-18
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,360 €,2024-04-10 22:58:27,2024-05-18
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",6h 55m,Lufthansa,329 €,2024-04-10 22:58:27,2024-05-18
+15:30,21:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Iberia,401 €,2024-04-10 22:58:27,2024-05-18
+9:15,16:35,Bilbao,BIO,París-Orly,ORY,MAD,7h 20m,Iberia,329 €,2024-04-10 22:58:27,2024-05-18
+13:40,21:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,"Iberia, British Airways",336 €,2024-04-10 22:58:27,2024-05-18
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",433 €,2024-04-10 22:58:27,2024-05-18
+11:35,17:15,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 40m,Lufthansa,452 €,2024-04-10 22:58:27,2024-05-18
+8:55,14:45,Bilbao,BIO,París-Orly,ORY,BCN,5h 50m,Iberia,474 €,2024-04-10 22:58:27,2024-05-18
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-18
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",519 €,2024-04-10 22:58:27,2024-05-18
+6:45,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 05m,Iberia,452 €,2024-04-10 22:58:27,2024-05-18
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-18
+8:55,13:50,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 55m,Iberia,592 €,2024-04-10 22:58:27,2024-05-18
+14:55,21:10,Bilbao,BIO,Charles de Gaulle,CDG,AGP,6h 15m,"Iberia, Air France",537 €,2024-04-10 22:58:27,2024-05-18
+13:40,21:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,"Iberia, British Airways",530 €,2024-04-10 22:58:27,2024-05-18
+8:55,15:55,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Iberia,569 €,2024-04-10 22:58:27,2024-05-18
+12:15,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, ZRH",7h 00m,"Brussels Airlines, SWISS",659 €,2024-04-10 22:58:27,2024-05-18
+12:15,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, VIE",7h 05m,"Brussels Airlines, Austrian Airlines",666 €,2024-04-10 22:58:27,2024-05-18
+12:15,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, VIE",7h 05m,"Brussels Airlines, Austrian Airlines",670 €,2024-04-10 22:58:27,2024-05-18
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,717 €,2024-04-10 22:58:27,2024-05-18
+7:35,15:05,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, VIE",7h 30m,"Lufthansa, Austrian Airlines",764 €,2024-04-10 22:58:27,2024-05-18
+11:35,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, VIE",7h 45m,"Lufthansa, Austrian Airlines",859 €,2024-04-10 22:58:27,2024-05-18
+12:15,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, ZRH",7h 00m,"Brussels Airlines, SWISS",956 €,2024-04-10 22:58:27,2024-05-18
+12:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, VIE",7h 45m,Varias aerolíneas,2029 €,2024-04-10 22:58:27,2024-05-18
+12:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, VIE",7h 45m,"Brussels Airlines, Air France",2032 €,2024-04-10 22:58:27,2024-05-18
+12:15,18:10,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, AMS",5h 55m,Varias aerolíneas,2167 €,2024-04-10 22:58:27,2024-05-18
+12:15,18:10,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, AMS",5h 55m,"Brussels Airlines, KLM",2259 €,2024-04-10 22:58:27,2024-05-18
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2698 €,2024-04-10 22:58:27,2024-05-18
+12:05,13:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Vueling,46 €,2024-04-10 22:58:27,2024-05-19
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,114 €,2024-04-10 22:58:27,2024-05-19
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,114 €,2024-04-10 22:58:27,2024-05-19
+7:15,9:00,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,142 €,2024-04-10 22:58:27,2024-05-19
+12:05,13:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,161 €,2024-04-10 22:58:27,2024-05-19
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,156 €,2024-04-10 22:58:27,2024-05-19
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,164 €,2024-04-10 22:58:27,2024-05-19
+12:15,17:10,Bilbao,BIO,Charles de Gaulle,CDG,MXP,4h 55m,"Vueling, easyJet",153 €,2024-04-10 22:58:27,2024-05-19
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,172 €,2024-04-10 22:58:27,2024-05-19
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,161 €,2024-04-10 22:58:27,2024-05-19
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",188 €,2024-04-10 22:58:27,2024-05-19
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,201 €,2024-04-10 22:58:27,2024-05-19
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, Air France",167 €,2024-04-10 22:58:27,2024-05-19
+12:15,19:00,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 45m,"Vueling, easyJet",152 €,2024-04-10 22:58:27,2024-05-19
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",188 €,2024-04-10 22:58:27,2024-05-19
+11:10,17:10,Bilbao,BIO,Charles de Gaulle,CDG,AGP,6h 00m,"Vueling, easyJet",178 €,2024-04-10 22:58:27,2024-05-19
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, Air France",175 €,2024-04-10 22:58:27,2024-05-19
+10:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,Vueling,244 €,2024-04-10 22:58:27,2024-05-19
+10:05,17:25,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 20m,easyJet,145 €,2024-04-10 22:58:27,2024-05-19
+15:15,20:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 55m,"Vueling, easyJet",226 €,2024-04-10 22:58:27,2024-05-19
+9:30,16:15,Bilbao,BIO,Charles de Gaulle,CDG,BRS,6h 45m,easyJet,174 €,2024-04-10 22:58:27,2024-05-19
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,201 €,2024-04-10 22:58:27,2024-05-19
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,264 €,2024-04-10 22:58:27,2024-05-19
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",236 €,2024-04-10 22:58:27,2024-05-19
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,196 €,2024-04-10 22:58:27,2024-05-19
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",218 €,2024-04-10 22:58:27,2024-05-19
+10:05,17:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW-SEN,7h 50m,easyJet,167 €,2024-04-10 22:58:27,2024-05-19
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,"Air Europa, Air France",179 €,2024-04-10 22:58:27,2024-05-19
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",269 €,2024-04-10 22:58:27,2024-05-19
+17:40,22:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Iberia, easyJet",246 €,2024-04-10 22:58:27,2024-05-19
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",255 €,2024-04-10 22:58:27,2024-05-19
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",271 €,2024-04-10 22:58:27,2024-05-19
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,306 €,2024-04-10 22:58:27,2024-05-19
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,264 €,2024-04-10 22:58:27,2024-05-19
+7:40,15:30,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 50m,"Vueling, Air France",196 €,2024-04-10 22:58:27,2024-05-19
+9:30,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,4h 45m,SWISS,325 €,2024-04-10 22:58:27,2024-05-19
+7:40,15:30,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 50m,"Vueling, KLM",196 €,2024-04-10 22:58:27,2024-05-19
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,321 €,2024-04-10 22:58:27,2024-05-19
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",271 €,2024-04-10 22:58:27,2024-05-19
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,321 €,2024-04-10 22:58:27,2024-05-19
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",325 €,2024-04-10 22:58:27,2024-05-19
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",349 €,2024-04-10 22:58:27,2024-05-19
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, Air France",337 €,2024-04-10 22:58:27,2024-05-19
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,321 €,2024-04-10 22:58:27,2024-05-19
+15:15,22:55,Bilbao,BIO,Charles de Gaulle,CDG,"BCN, NCE",7h 40m,"Vueling, easyJet",278 €,2024-04-10 22:58:27,2024-05-19
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,419 €,2024-04-10 22:58:27,2024-05-19
+15:15,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 50m,"Vueling, Air France",254 €,2024-04-10 22:58:27,2024-05-19
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,380 €,2024-04-10 22:58:27,2024-05-19
+14:55,21:10,Bilbao,BIO,Charles de Gaulle,CDG,AGP,6h 15m,"Volotea, Air France",359 €,2024-04-10 22:58:27,2024-05-19
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,465 €,2024-04-10 22:58:27,2024-05-19
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Iberia, Air France",464 €,2024-04-10 22:58:27,2024-05-19
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,495 €,2024-04-10 22:58:27,2024-05-19
+10:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,Iberia,566 €,2024-04-10 22:58:27,2024-05-19
+7:35,15:05,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, VIE",7h 30m,"Lufthansa, Austrian Airlines",568 €,2024-04-10 22:58:27,2024-05-19
+11:35,17:15,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 40m,Lufthansa,672 €,2024-04-10 22:58:27,2024-05-19
+9:30,17:00,Bilbao,BIO,Charles de Gaulle,CDG,"ZRH, VIE",7h 30m,"SWISS, Austrian Airlines",659 €,2024-04-10 22:58:27,2024-05-19
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,728 €,2024-04-10 22:58:27,2024-05-19
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 25m,British Airways,777 €,2024-04-10 22:58:27,2024-05-19
+11:35,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, VIE",7h 45m,"Lufthansa, Austrian Airlines",860 €,2024-04-10 22:58:27,2024-05-19
+9:30,17:15,Bilbao,BIO,Charles de Gaulle,CDG,"ZRH, MUC",7h 45m,"SWISS, Lufthansa",996 €,2024-04-10 22:58:27,2024-05-19
+13:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, FRA",7h 35m,"Brussels Airlines, Lufthansa",1047 €,2024-04-10 22:58:27,2024-05-19
+11:35,19:20,Bilbao,BIO,Charles de Gaulle,CDG,2 escalas,"MUC, CPH",7h 45m,1454 €,2024-04-10 22:58:27,2024-05-19
+7:35,13:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,"Lufthansa, Air France",2562 €,2024-04-10 22:58:27,2024-05-19
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2698 €,2024-04-10 22:58:27,2024-05-19
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,191 €,2024-04-10 22:58:27,2024-05-20
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,210 €,2024-04-10 22:58:27,2024-05-20
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,139 €,2024-04-10 22:58:27,2024-05-20
+11:00,12:45,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,309 €,2024-04-10 22:58:27,2024-05-20
+8:05,15:15,Bilbao,BIO,Charles de Gaulle,CDG,LYS,7h 10m,"Volotea, Air France",121 €,2024-04-10 22:58:27,2024-05-20
+15:00,21:40,Bilbao,BIO,Charles de Gaulle,CDG,MAN,6h 40m,easyJet,150 €,2024-04-10 22:58:27,2024-05-20
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",213 €,2024-04-10 22:58:27,2024-05-20
+10:30,16:25,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 55m,easyJet,194 €,2024-04-10 22:58:27,2024-05-20
+8:05,13:05,Bilbao,BIO,Charles de Gaulle,CDG,LYS,5h 00m,"Volotea, Air France",228 €,2024-04-10 22:58:27,2024-05-20
+16:50,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 45m,"Air Europa, easyJet",227 €,2024-04-10 22:58:27,2024-05-20
+17:40,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 55m,"Iberia, easyJet",262 €,2024-04-10 22:58:27,2024-05-20
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,330 €,2024-04-10 22:58:27,2024-05-20
+13:50,19:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,"Vueling, easyJet",295 €,2024-04-10 22:58:27,2024-05-20
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",294 €,2024-04-10 22:58:27,2024-05-20
+7:35,13:40,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 05m,Lufthansa,276 €,2024-04-10 22:58:27,2024-05-20
+15:15,20:45,Bilbao,BIO,Charles de Gaulle,CDG,MXP,5h 30m,easyJet,310 €,2024-04-10 22:58:27,2024-05-20
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",306 €,2024-04-10 22:58:27,2024-05-20
+13:50,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 15m,"Vueling, easyJet",301 €,2024-04-10 22:58:27,2024-05-20
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,401 €,2024-04-10 22:58:27,2024-05-20
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Vueling,302 €,2024-04-10 22:58:27,2024-05-20
+14:10,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 25m,Lufthansa,401 €,2024-04-10 22:58:27,2024-05-20
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,403 €,2024-04-10 22:58:27,2024-05-20
+14:10,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,Lufthansa,284 €,2024-04-10 22:58:27,2024-05-20
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,382 €,2024-04-10 22:58:27,2024-05-20
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,326 €,2024-04-10 22:58:27,2024-05-20
+11:35,17:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,Lufthansa,374 €,2024-04-10 22:58:27,2024-05-20
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,382 €,2024-04-10 22:58:27,2024-05-20
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",416 €,2024-04-10 22:58:27,2024-05-20
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,337 €,2024-04-10 22:58:27,2024-05-20
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",429 €,2024-04-10 22:58:27,2024-05-20
+15:00,20:40,Bilbao,BIO,Charles de Gaulle,CDG,MAN,5h 40m,"easyJet, Air France",377 €,2024-04-10 22:58:27,2024-05-20
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",394 €,2024-04-10 22:58:27,2024-05-20
+13:55,20:05,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 10m,Vueling,389 €,2024-04-10 22:58:27,2024-05-20
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,389 €,2024-04-10 22:58:27,2024-05-20
+13:40,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 00m,"Iberia, British Airways",379 €,2024-04-10 22:58:27,2024-05-20
+11:15,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 50m,"Vueling, KLM",395 €,2024-04-10 22:58:27,2024-05-20
+11:15,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 50m,"Vueling, Air France",396 €,2024-04-10 22:58:27,2024-05-20
+11:15,15:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 40m,"Vueling, Air France",457 €,2024-04-10 22:58:27,2024-05-20
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,382 €,2024-04-10 22:58:27,2024-05-20
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Vueling,505 €,2024-04-10 22:58:27,2024-05-20
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,475 €,2024-04-10 22:58:27,2024-05-20
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",430 €,2024-04-10 22:58:27,2024-05-20
+15:15,20:25,Bilbao,BIO,Charles de Gaulle,CDG,MXP,5h 10m,"easyJet, Air France",454 €,2024-04-10 22:58:27,2024-05-20
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",432 €,2024-04-10 22:58:27,2024-05-20
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",500 €,2024-04-10 22:58:27,2024-05-20
+15:35,21:10,Bilbao,BIO,Charles de Gaulle,CDG,AGP,5h 35m,"Vueling, Air France",467 €,2024-04-10 22:58:27,2024-05-20
+15:25,21:10,Bilbao,BIO,Charles de Gaulle,CDG,AGP,5h 45m,"Volotea, Air France",463 €,2024-04-10 22:58:27,2024-05-20
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",432 €,2024-04-10 22:58:27,2024-05-20
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",507 €,2024-04-10 22:58:27,2024-05-20
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Vueling, Air France",483 €,2024-04-10 22:58:27,2024-05-20
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,534 €,2024-04-10 22:58:27,2024-05-20
+8:05,11:50,Bilbao,BIO,Charles de Gaulle,CDG,LYS,3h 45m,"Volotea, Air France",577 €,2024-04-10 22:58:27,2024-05-20
+13:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 45m,Vueling,505 €,2024-04-10 22:58:27,2024-05-20
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,590 €,2024-04-10 22:58:27,2024-05-20
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",507 €,2024-04-10 22:58:27,2024-05-20
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,588 €,2024-04-10 22:58:27,2024-05-20
+14:10,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 10m,"Lufthansa, Air France",488 €,2024-04-10 22:58:27,2024-05-20
+15:50,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 15m,"Vueling, Air France",471 €,2024-04-10 22:58:27,2024-05-20
+16:05,22:55,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,6h 50m,SWISS,519 €,2024-04-10 22:58:27,2024-05-20
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",634 €,2024-04-10 22:58:27,2024-05-20
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,524 €,2024-04-10 22:58:27,2024-05-20
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,651 €,2024-04-10 22:58:27,2024-05-20
+14:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,DUS,4h 25m,"Eurowings, Air France",625 €,2024-04-10 22:58:27,2024-05-20
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,588 €,2024-04-10 22:58:27,2024-05-20
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,660 €,2024-04-10 22:58:27,2024-05-20
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,707 €,2024-04-10 22:58:27,2024-05-20
+13:40,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 00m,"Iberia, British Airways",636 €,2024-04-10 22:58:27,2024-05-20
+13:40,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 00m,British Airways,639 €,2024-04-10 22:58:27,2024-05-20
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,727 €,2024-04-10 22:58:27,2024-05-20
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,799 €,2024-04-10 22:58:27,2024-05-20
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,778 €,2024-04-10 22:58:27,2024-05-20
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",6h 55m,Lufthansa,740 €,2024-04-10 22:58:27,2024-05-20
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Iberia,757 €,2024-04-10 22:58:27,2024-05-20
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Iberia,864 €,2024-04-10 22:58:27,2024-05-20
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,799 €,2024-04-10 22:58:27,2024-05-20
+13:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 45m,Iberia,864 €,2024-04-10 22:58:27,2024-05-20
+11:15,15:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 40m,"Iberia, Air France",948 €,2024-04-10 22:58:27,2024-05-20
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Iberia, Air France",978 €,2024-04-10 22:58:27,2024-05-20
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2698 €,2024-04-10 22:58:27,2024-05-20
+14:10,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 50m,"Lufthansa, Air France",2793 €,2024-04-10 22:58:27,2024-05-20
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,196 €,2024-04-10 22:58:27,2024-05-21
+14:50,22:15,Bilbao,BIO,Charles de Gaulle,CDG,BRS,7h 25m,easyJet,60 €,2024-04-10 22:58:27,2024-05-21
+13:20,15:05,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,243 €,2024-04-10 22:58:27,2024-05-21
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,116 €,2024-04-10 22:58:27,2024-05-21
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,311 €,2024-04-10 22:58:27,2024-05-21
+14:05,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 30m,Lufthansa,124 €,2024-04-10 22:58:27,2024-05-21
+13:55,18:35,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 40m,"Vueling, easyJet",111 €,2024-04-10 22:58:27,2024-05-21
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",108 €,2024-04-10 22:58:27,2024-05-21
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,208 €,2024-04-10 22:58:27,2024-05-21
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet",99 €,2024-04-10 22:58:27,2024-05-21
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, easyJet",158 €,2024-04-10 22:58:27,2024-05-21
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,124 €,2024-04-10 22:58:27,2024-05-21
+18:00,23:05,Bilbao,BIO,Charles de Gaulle,CDG,VCE,5h 05m,"Volotea, easyJet",169 €,2024-04-10 22:58:27,2024-05-21
+15:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 20m,Vueling,202 €,2024-04-10 22:58:27,2024-05-21
+15:10,23:00,Bilbao,BIO,Charles de Gaulle,CDG,LIS,7h 50m,"Vueling, easyJet",117 €,2024-04-10 22:58:27,2024-05-21
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",169 €,2024-04-10 22:58:27,2024-05-21
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,212 €,2024-04-10 22:58:27,2024-05-21
+8:55,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 25m,Vueling,221 €,2024-04-10 22:58:27,2024-05-21
+16:50,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 45m,"Air Europa, easyJet",181 €,2024-04-10 22:58:27,2024-05-21
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",218 €,2024-04-10 22:58:27,2024-05-21
+17:40,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 55m,"Iberia, easyJet",205 €,2024-04-10 22:58:27,2024-05-21
+12:45,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 15m,"Air Europa, easyJet",147 €,2024-04-10 22:58:27,2024-05-21
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,227 €,2024-04-10 22:58:27,2024-05-21
+7:05,14:35,Bilbao,BIO,Charles de Gaulle,CDG,MXP,7h 30m,"Vueling, easyJet",154 €,2024-04-10 22:58:27,2024-05-21
+13:55,20:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LHR,6h 55m,"Vueling, British Airways",149 €,2024-04-10 22:58:27,2024-05-21
+15:10,22:20,Bilbao,BIO,Charles de Gaulle,CDG,LIS,7h 10m,"Vueling, Air France",143 €,2024-04-10 22:58:27,2024-05-21
+18:20,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, Air France",233 €,2024-04-10 22:58:27,2024-05-21
+11:05,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 55m,Iberia,183 €,2024-04-10 22:58:27,2024-05-21
+16:10,22:15,Bilbao,BIO,Charles de Gaulle,CDG,FLR,6h 05m,"Volotea, Air France",187 €,2024-04-10 22:58:27,2024-05-21
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,198 €,2024-04-10 22:58:27,2024-05-21
+16:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,GVA,5h 55m,"easyJet, Air France",202 €,2024-04-10 22:58:27,2024-05-21
+16:50,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 55m,"Air Europa, Iberia",175 €,2024-04-10 22:58:27,2024-05-21
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, Air France",208 €,2024-04-10 22:58:27,2024-05-21
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Vueling, Iberia",232 €,2024-04-10 22:58:27,2024-05-21
+7:40,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 40m,Vueling,234 €,2024-04-10 22:58:27,2024-05-21
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,199 €,2024-04-10 22:58:27,2024-05-21
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",223 €,2024-04-10 22:58:27,2024-05-21
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,292 €,2024-04-10 22:58:27,2024-05-21
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,212 €,2024-04-10 22:58:27,2024-05-21
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,334 €,2024-04-10 22:58:27,2024-05-21
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,275 €,2024-04-10 22:58:27,2024-05-21
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,324 €,2024-04-10 22:58:27,2024-05-21
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,270 €,2024-04-10 22:58:27,2024-05-21
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",321 €,2024-04-10 22:58:27,2024-05-21
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",254 €,2024-04-10 22:58:27,2024-05-21
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",301 €,2024-04-10 22:58:27,2024-05-21
+11:05,18:25,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,"Iberia, British Airways",275 €,2024-04-10 22:58:27,2024-05-21
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",352 €,2024-04-10 22:58:27,2024-05-21
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",315 €,2024-04-10 22:58:27,2024-05-21
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,329 €,2024-04-10 22:58:27,2024-05-21
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,337 €,2024-04-10 22:58:27,2024-05-21
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",396 €,2024-04-10 22:58:27,2024-05-21
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,502 €,2024-04-10 22:58:27,2024-05-21
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-21
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-21
+15:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 20m,Iberia,505 €,2024-04-10 22:58:27,2024-05-21
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,SWISS,424 €,2024-04-10 22:58:27,2024-05-21
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,459 €,2024-04-10 22:58:27,2024-05-21
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-21
+8:55,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 25m,Iberia,565 €,2024-04-10 22:58:27,2024-05-21
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,590 €,2024-04-10 22:58:27,2024-05-21
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",521 €,2024-04-10 22:58:27,2024-05-21
+11:05,18:25,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 20m,"Iberia, British Airways",537 €,2024-04-10 22:58:27,2024-05-21
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,573 €,2024-04-10 22:58:27,2024-05-21
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,British Airways,577 €,2024-04-10 22:58:27,2024-05-21
+7:40,14:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 40m,Iberia,565 €,2024-04-10 22:58:27,2024-05-21
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",572 €,2024-04-10 22:58:27,2024-05-21
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,565 €,2024-04-10 22:58:27,2024-05-21
+9:15,16:55,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 40m,"Iberia, British Airways",577 €,2024-04-10 22:58:27,2024-05-21
+9:15,16:55,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 40m,British Airways,577 €,2024-04-10 22:58:27,2024-05-21
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",653 €,2024-04-10 22:58:27,2024-05-21
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",653 €,2024-04-10 22:58:27,2024-05-21
+7:35,13:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,"Lufthansa, Air France",2588 €,2024-04-10 22:58:27,2024-05-21
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",2667 €,2024-04-10 22:58:27,2024-05-21
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,90 €,2024-04-10 22:58:27,2024-05-22
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,114 €,2024-04-10 22:58:27,2024-05-22
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,161 €,2024-04-10 22:58:27,2024-05-22
+15:55,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 05m,Vueling,120 €,2024-04-10 22:58:27,2024-05-22
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,98 €,2024-04-10 22:58:27,2024-05-22
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,116 €,2024-04-10 22:58:27,2024-05-22
+14:20,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,Vueling,102 €,2024-04-10 22:58:27,2024-05-22
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,137 €,2024-04-10 22:58:27,2024-05-22
+14:20,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, easyJet",88 €,2024-04-10 22:58:27,2024-05-22
+7:40,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 30m,Vueling,98 €,2024-04-10 22:58:27,2024-05-22
+14:55,19:55,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,5h 00m,"Volotea, Vueling",116 €,2024-04-10 22:58:27,2024-05-22
+11:25,17:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, Air France",98 €,2024-04-10 22:58:27,2024-05-22
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,146 €,2024-04-10 22:58:27,2024-05-22
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",106 €,2024-04-10 22:58:27,2024-05-22
+17:30,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,"Vueling, Air France",116 €,2024-04-10 22:58:27,2024-05-22
+14:20,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,"Vueling, Air France",115 €,2024-04-10 22:58:27,2024-05-22
+11:35,17:25,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 50m,Lufthansa,139 €,2024-04-10 22:58:27,2024-05-22
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet Europe",121 €,2024-04-10 22:58:27,2024-05-22
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,137 €,2024-04-10 22:58:27,2024-05-22
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",139 €,2024-04-10 22:58:27,2024-05-22
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,193 €,2024-04-10 22:58:27,2024-05-22
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",118 €,2024-04-10 22:58:27,2024-05-22
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,147 €,2024-04-10 22:58:27,2024-05-22
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet Europe",127 €,2024-04-10 22:58:27,2024-05-22
+8:55,14:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,"Vueling, Air France",133 €,2024-04-10 22:58:27,2024-05-22
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet",102 €,2024-04-10 22:58:27,2024-05-22
+17:40,22:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Iberia, easyJet",157 €,2024-04-10 22:58:27,2024-05-22
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,146 €,2024-04-10 22:58:27,2024-05-22
+7:15,13:20,Bilbao,BIO,Charles de Gaulle,CDG,FCO,6h 05m,"Volotea, ITA Airways",157 €,2024-04-10 22:58:27,2024-05-22
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,123 €,2024-04-10 22:58:27,2024-05-22
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,140 €,2024-04-10 22:58:27,2024-05-22
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",188 €,2024-04-10 22:58:27,2024-05-22
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet Europe",118 €,2024-04-10 22:58:27,2024-05-22
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",157 €,2024-04-10 22:58:27,2024-05-22
+16:50,22:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, easyJet",176 €,2024-04-10 22:58:27,2024-05-22
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",220 €,2024-04-10 22:58:27,2024-05-22
+15:55,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,"Vueling, Air France",111 €,2024-04-10 22:58:27,2024-05-22
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",212 €,2024-04-10 22:58:27,2024-05-22
+12:45,20:05,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 20m,"Air Europa, easyJet",144 €,2024-04-10 22:58:27,2024-05-22
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, Air France",179 €,2024-04-10 22:58:27,2024-05-22
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",188 €,2024-04-10 22:58:27,2024-05-22
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,161 €,2024-04-10 22:58:27,2024-05-22
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,234 €,2024-04-10 22:58:27,2024-05-22
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,302 €,2024-04-10 22:58:27,2024-05-22
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",231 €,2024-04-10 22:58:27,2024-05-22
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",249 €,2024-04-10 22:58:27,2024-05-22
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,198 €,2024-04-10 22:58:27,2024-05-22
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",223 €,2024-04-10 22:58:27,2024-05-22
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,300 €,2024-04-10 22:58:27,2024-05-22
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,321 €,2024-04-10 22:58:27,2024-05-22
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,296 €,2024-04-10 22:58:27,2024-05-22
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",235 €,2024-04-10 22:58:27,2024-05-22
+15:55,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 05m,Iberia,340 €,2024-04-10 22:58:27,2024-05-22
+11:35,19:25,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, LUX",7h 50m,"Lufthansa, Luxair",239 €,2024-04-10 22:58:27,2024-05-22
+12:10,19:25,Bilbao,BIO,Charles de Gaulle,CDG,LIS,7h 15m,"TAP AIR PORTUGAL, Air France",223 €,2024-04-10 22:58:27,2024-05-22
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",277 €,2024-04-10 22:58:27,2024-05-22
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,336 €,2024-04-10 22:58:27,2024-05-22
+14:20,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,Iberia,327 €,2024-04-10 22:58:27,2024-05-22
+11:25,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 40m,Iberia,379 €,2024-04-10 22:58:27,2024-05-22
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",367 €,2024-04-10 22:58:27,2024-05-22
+7:40,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 30m,Iberia,332 €,2024-04-10 22:58:27,2024-05-22
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,401 €,2024-04-10 22:58:27,2024-05-22
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,338 €,2024-04-10 22:58:27,2024-05-22
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,400 €,2024-04-10 22:58:27,2024-05-22
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-22
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-22
+14:40,22:25,Bilbao,BIO,Charles de Gaulle,CDG,"DUS, VIE",7h 45m,"Eurowings, Austrian Airlines",424 €,2024-04-10 22:58:27,2024-05-22
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-22
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",535 €,2024-04-10 22:58:27,2024-05-22
+13:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, FRA",7h 35m,"Brussels Airlines, Lufthansa",485 €,2024-04-10 22:58:27,2024-05-22
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",519 €,2024-04-10 22:58:27,2024-05-22
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",555 €,2024-04-10 22:58:27,2024-05-22
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",577 €,2024-04-10 22:58:27,2024-05-22
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,British Airways,577 €,2024-04-10 22:58:27,2024-05-22
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,604 €,2024-04-10 22:58:27,2024-05-22
+11:35,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 45m,SWISS,728 €,2024-04-10 22:58:27,2024-05-22
+14:05,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, NUE",6h 35m,"Lufthansa, Air France",898 €,2024-04-10 22:58:27,2024-05-22
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2588 €,2024-04-10 22:58:27,2024-05-22
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Vueling,46 €,2024-04-10 22:58:27,2024-05-23
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,90 €,2024-04-10 22:58:27,2024-05-23
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,134 €,2024-04-10 22:58:27,2024-05-23
+7:15,9:00,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,142 €,2024-04-10 22:58:27,2024-05-23
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,161 €,2024-04-10 22:58:27,2024-05-23
+15:50,21:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,Vueling,70 €,2024-04-10 22:58:27,2024-05-23
+11:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 25m,Vueling,96 €,2024-04-10 22:58:27,2024-05-23
+14:15,21:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 05m,Vueling,70 €,2024-04-10 22:58:27,2024-05-23
+14:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, easyJet",72 €,2024-04-10 22:58:27,2024-05-23
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Vueling,101 €,2024-04-10 22:58:27,2024-05-23
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,116 €,2024-04-10 22:58:27,2024-05-23
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",105 €,2024-04-10 22:58:27,2024-05-23
+11:40,17:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Vueling, Air France",94 €,2024-04-10 22:58:27,2024-05-23
+14:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 20m,Vueling,99 €,2024-04-10 22:58:27,2024-05-23
+14:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, Air France",94 €,2024-04-10 22:58:27,2024-05-23
+7:10,11:45,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 35m,"Vueling, Air France",121 €,2024-04-10 22:58:27,2024-05-23
+19:35,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 10m,Iberia,163 €,2024-04-10 22:58:27,2024-05-23
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,137 €,2024-04-10 22:58:27,2024-05-23
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,116 €,2024-04-10 22:58:27,2024-05-23
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,137 €,2024-04-10 22:58:27,2024-05-23
+11:35,17:25,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 50m,Lufthansa,132 €,2024-04-10 22:58:27,2024-05-23
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",158 €,2024-04-10 22:58:27,2024-05-23
+17:40,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, easyJet",142 €,2024-04-10 22:58:27,2024-05-23
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet",147 €,2024-04-10 22:58:27,2024-05-23
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,137 €,2024-04-10 22:58:27,2024-05-23
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,194 €,2024-04-10 22:58:27,2024-05-23
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet Europe",153 €,2024-04-10 22:58:27,2024-05-23
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,208 €,2024-04-10 22:58:27,2024-05-23
+15:50,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 15m,"Vueling, Air France",94 €,2024-04-10 22:58:27,2024-05-23
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,160 €,2024-04-10 22:58:27,2024-05-23
+16:55,22:00,Bilbao,BIO,Charles de Gaulle,CDG,BRS,5h 05m,easyJet,206 €,2024-04-10 22:58:27,2024-05-23
+7:35,13:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 20m,"Vueling, easyJet",154 €,2024-04-10 22:58:27,2024-05-23
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,192 €,2024-04-10 22:58:27,2024-05-23
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",157 €,2024-04-10 22:58:27,2024-05-23
+7:35,13:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 20m,"Vueling, easyJet Europe",161 €,2024-04-10 22:58:27,2024-05-23
+12:45,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 15m,"Air Europa, easyJet",127 €,2024-04-10 22:58:27,2024-05-23
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,137 €,2024-04-10 22:58:27,2024-05-23
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",220 €,2024-04-10 22:58:27,2024-05-23
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",218 €,2024-04-10 22:58:27,2024-05-23
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,146 €,2024-04-10 22:58:27,2024-05-23
+8:25,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,5h 50m,SWISS,198 €,2024-04-10 22:58:27,2024-05-23
+8:30,15:00,Bilbao,BIO,Charles de Gaulle,CDG,AGP,6h 30m,"Vueling, Air France",159 €,2024-04-10 22:58:27,2024-05-23
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",233 €,2024-04-10 22:58:27,2024-05-23
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW,7h 35m,"Vueling, easyJet",154 €,2024-04-10 22:58:27,2024-05-23
+12:45,20:35,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 50m,"Air Europa, Vueling",140 €,2024-04-10 22:58:27,2024-05-23
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW,7h 35m,"Vueling, easyJet Europe",155 €,2024-04-10 22:58:27,2024-05-23
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,172 €,2024-04-10 22:58:27,2024-05-23
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,201 €,2024-04-10 22:58:27,2024-05-23
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,192 €,2024-04-10 22:58:27,2024-05-23
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,253 €,2024-04-10 22:58:27,2024-05-23
+15:45,22:55,Bilbao,BIO,Charles de Gaulle,CDG,"VLC, FRA",7h 10m,"Volotea, Lufthansa",164 €,2024-04-10 22:58:27,2024-05-23
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",247 €,2024-04-10 22:58:27,2024-05-23
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,334 €,2024-04-10 22:58:27,2024-05-23
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,312 €,2024-04-10 22:58:27,2024-05-23
+15:50,21:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,Iberia,295 €,2024-04-10 22:58:27,2024-05-23
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",235 €,2024-04-10 22:58:27,2024-05-23
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",295 €,2024-04-10 22:58:27,2024-05-23
+15:50,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 15m,"Iberia, Air France",225 €,2024-04-10 22:58:27,2024-05-23
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Iberia,332 €,2024-04-10 22:58:27,2024-05-23
+11:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 25m,Iberia,345 €,2024-04-10 22:58:27,2024-05-23
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",277 €,2024-04-10 22:58:27,2024-05-23
+14:15,21:20,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 05m,Iberia,295 €,2024-04-10 22:58:27,2024-05-23
+14:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 20m,Iberia,332 €,2024-04-10 22:58:27,2024-05-23
+8:25,15:55,Bilbao,BIO,Charles de Gaulle,CDG,"ZRH, GVA",7h 30m,SWISS,304 €,2024-04-10 22:58:27,2024-05-23
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",382 €,2024-04-10 22:58:27,2024-05-23
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-23
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",459 €,2024-04-10 22:58:27,2024-05-23
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-23
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-23
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,461 €,2024-04-10 22:58:27,2024-05-23
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-23
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,486 €,2024-04-10 22:58:27,2024-05-23
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,526 €,2024-04-10 22:58:27,2024-05-23
+13:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, FRA",7h 35m,"Brussels Airlines, Lufthansa",569 €,2024-04-10 22:58:27,2024-05-23
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,SWISS,574 €,2024-04-10 22:58:27,2024-05-23
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2561 €,2024-04-10 22:58:27,2024-05-23
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2698 €,2024-04-10 22:58:27,2024-05-23
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,90 €,2024-04-10 22:58:27,2024-05-24
+18:35,20:15,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,187 €,2024-04-10 22:58:27,2024-05-24
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",114 €,2024-04-10 22:58:27,2024-05-24
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,145 €,2024-04-10 22:58:27,2024-05-24
+8:05,13:05,Bilbao,BIO,Charles de Gaulle,CDG,LYS,5h 00m,"Volotea, Air France",121 €,2024-04-10 22:58:27,2024-05-24
+17:35,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,3h 55m,Vueling,193 €,2024-04-10 22:58:27,2024-05-24
+8:05,11:50,Bilbao,BIO,Charles de Gaulle,CDG,LYS,3h 45m,"Volotea, Air France",179 €,2024-04-10 22:58:27,2024-05-24
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,208 €,2024-04-10 22:58:27,2024-05-24
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",203 €,2024-04-10 22:58:27,2024-05-24
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,128 €,2024-04-10 22:58:27,2024-05-24
+17:40,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, easyJet",184 €,2024-04-10 22:58:27,2024-05-24
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Vueling,145 €,2024-04-10 22:58:27,2024-05-24
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,208 €,2024-04-10 22:58:27,2024-05-24
+13:25,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 40m,"Vueling, easyJet",141 €,2024-04-10 22:58:27,2024-05-24
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Vueling, Air France",172 €,2024-04-10 22:58:27,2024-05-24
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,164 €,2024-04-10 22:58:27,2024-05-24
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet",193 €,2024-04-10 22:58:27,2024-05-24
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet Europe",193 €,2024-04-10 22:58:27,2024-05-24
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,"Air Europa, Air France",191 €,2024-04-10 22:58:27,2024-05-24
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,190 €,2024-04-10 22:58:27,2024-05-24
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,250 €,2024-04-10 22:58:27,2024-05-24
+14:15,19:10,Bilbao,BIO,Charles de Gaulle,CDG,MXP,4h 55m,"Vueling, Air France",224 €,2024-04-10 22:58:27,2024-05-24
+8:05,15:15,Bilbao,BIO,Charles de Gaulle,CDG,LYS,7h 10m,"Volotea, Air France",121 €,2024-04-10 22:58:27,2024-05-24
+14:15,20:55,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 40m,"Vueling, easyJet",174 €,2024-04-10 22:58:27,2024-05-24
+10:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,easyJet,240 €,2024-04-10 22:58:27,2024-05-24
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",234 €,2024-04-10 22:58:27,2024-05-24
+13:10,19:55,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 45m,Vueling,191 €,2024-04-10 22:58:27,2024-05-24
+7:30,13:20,Bilbao,BIO,Charles de Gaulle,CDG,FCO,5h 50m,"Volotea, ITA Airways",232 €,2024-04-10 22:58:27,2024-05-24
+12:25,18:15,Bilbao,BIO,Charles de Gaulle,CDG,LIS,5h 50m,"TAP AIR PORTUGAL, easyJet",212 €,2024-04-10 22:58:27,2024-05-24
+14:40,19:35,Bilbao,BIO,Charles de Gaulle,CDG,OPO,4h 55m,"Vueling, Air France",262 €,2024-04-10 22:58:27,2024-05-24
+13:25,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 35m,"Vueling, Air France",188 €,2024-04-10 22:58:27,2024-05-24
+14:15,20:25,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 10m,"Vueling, Air France",218 €,2024-04-10 22:58:27,2024-05-24
+8:30,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,5h 45m,SWISS,271 €,2024-04-10 22:58:27,2024-05-24
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,275 €,2024-04-10 22:58:27,2024-05-24
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,357 €,2024-04-10 22:58:27,2024-05-24
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,306 €,2024-04-10 22:58:27,2024-05-24
+14:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,DUS,4h 25m,"Eurowings, Air France",318 €,2024-04-10 22:58:27,2024-05-24
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,312 €,2024-04-10 22:58:27,2024-05-24
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",303 €,2024-04-10 22:58:27,2024-05-24
+11:35,17:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,Lufthansa,272 €,2024-04-10 22:58:27,2024-05-24
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,352 €,2024-04-10 22:58:27,2024-05-24
+10:40,16:25,Bilbao,BIO,Charles de Gaulle,CDG,MAN,5h 45m,easyJet,312 €,2024-04-10 22:58:27,2024-05-24
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",349 €,2024-04-10 22:58:27,2024-05-24
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",364 €,2024-04-10 22:58:27,2024-05-24
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",312 €,2024-04-10 22:58:27,2024-05-24
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,300 €,2024-04-10 22:58:27,2024-05-24
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Iberia, Air France",352 €,2024-04-10 22:58:27,2024-05-24
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,353 €,2024-04-10 22:58:27,2024-05-24
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,406 €,2024-04-10 22:58:27,2024-05-24
+17:35,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,3h 55m,Iberia,482 €,2024-04-10 22:58:27,2024-05-24
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",367 €,2024-04-10 22:58:27,2024-05-24
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,380 €,2024-04-10 22:58:27,2024-05-24
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",432 €,2024-04-10 22:58:27,2024-05-24
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,448 €,2024-04-10 22:58:27,2024-05-24
+7:10,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 00m,Iberia,406 €,2024-04-10 22:58:27,2024-05-24
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,534 €,2024-04-10 22:58:27,2024-05-24
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,534 €,2024-04-10 22:58:27,2024-05-24
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,498 €,2024-04-10 22:58:27,2024-05-24
+10:40,15:15,Bilbao,BIO,Charles de Gaulle,CDG,MAN,4h 35m,"easyJet, Air France",554 €,2024-04-10 22:58:27,2024-05-24
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",520 €,2024-04-10 22:58:27,2024-05-24
+15:10,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"STR, FRA",6h 15m,"Eurowings, Lufthansa",1496 €,2024-04-10 22:58:27,2024-05-24
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2588 €,2024-04-10 22:58:27,2024-05-24
+7:35,13:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,"Lufthansa, Air France",2588 €,2024-04-10 22:58:27,2024-05-24
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",2698 €,2024-04-10 22:58:27,2024-05-24
