@@ -26302,3 +26302,189 @@ Departure Time,Arrival Time,Departure Airport,Departure_Cod,Arrival Airport,Arri
 11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,"Lufthansa, SWISS",434 €,2024-04-07 22:51:10,2024-04-29
 13:55,18:55,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 00m,Vueling,581 €,2024-04-07 22:51:10,2024-04-29
 10:20,17:00,Bilbao,BIO,Londres-Gatwick,LGW,"ZRH, FRA",7h 40m,"SWISS, Lufthansa",421 €,2024-04-07 22:51:10,2024-04-29
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,45 €,2024-04-07 22:51:10,2024-04-30
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,50 €,2024-04-07 22:51:10,2024-04-30
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,51 €,2024-04-07 22:51:10,2024-04-30
+7:05,11:25,Bilbao,BIO,Londres-Gatwick,LGW,MXP,5h 20m,"Vueling, easyJet",56 €,2024-04-07 22:51:10,2024-04-30
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,139 €,2024-04-07 22:51:10,2024-04-30
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,139 €,2024-04-07 22:51:10,2024-04-30
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,139 €,2024-04-07 22:51:10,2024-04-30
+8:55,12:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 55m,Vueling,78 €,2024-04-07 22:51:10,2024-04-30
+7:40,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Vueling,71 €,2024-04-07 22:51:10,2024-04-30
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,177 €,2024-04-07 22:51:10,2024-04-30
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,177 €,2024-04-07 22:51:10,2024-04-30
+7:40,12:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,71 €,2024-04-07 22:51:10,2024-04-30
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,189 €,2024-04-07 22:51:10,2024-04-30
+18:20,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Vueling,88 €,2024-04-07 22:51:10,2024-04-30
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,83 €,2024-04-07 22:51:10,2024-04-30
+7:40,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Vueling,75 €,2024-04-07 22:51:10,2024-04-30
+16:05,19:45,Bilbao,BIO,Londres-Gatwick,LGW,GVA,4h 40m,easyJet,102 €,2024-04-07 22:51:10,2024-04-30
+7:05,13:05,Bilbao,BIO,Londres-Gatwick,LGW,MXP,7h 00m,"Vueling, easyJet",70 €,2024-04-07 22:51:10,2024-04-30
+7:00,11:50,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 50m,"Vueling, easyJet",90 €,2024-04-07 22:51:10,2024-04-30
+7:40,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 00m,"Vueling, easyJet",101 €,2024-04-07 22:51:10,2024-04-30
+13:50,18:35,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 45m,"Volotea, easyJet",119 €,2024-04-07 22:51:10,2024-04-30
+13:50,19:00,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 10m,"Volotea, Vueling",114 €,2024-04-07 22:51:10,2024-04-30
+16:05,21:35,Bilbao,BIO,Londres-Gatwick,LGW,GVA,6h 30m,easyJet,100 €,2024-04-07 22:51:10,2024-04-30
+17:55,23:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 25m,"Vueling, easyJet",115 €,2024-04-07 22:51:10,2024-04-30
+15:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,132 €,2024-04-07 22:51:10,2024-04-30
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Vueling,127 €,2024-04-07 22:51:10,2024-04-30
+6:45,10:30,Bilbao,BIO,Londres-Gatwick,LGW,FRA,4h 45m,Lufthansa,199 €,2024-04-07 22:51:10,2024-04-30
+8:40,13:55,Bilbao,BIO,Londres-Gatwick,LGW,ALC,6h 15m,"Vueling, easyJet",140 €,2024-04-07 22:51:10,2024-04-30
+8:40,13:55,Bilbao,BIO,Londres-Gatwick,LGW,ALC,6h 15m,"Vueling, easyJet Europe",141 €,2024-04-07 22:51:10,2024-04-30
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,95 €,2024-04-07 22:51:10,2024-04-30
+19:25,23:50,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 25m,"Vueling, British Airways",192 €,2024-04-07 22:51:10,2024-04-30
+8:40,14:35,Bilbao,BIO,Londres-Gatwick,LGW,ALC,6h 55m,"Vueling, Ryanair",132 €,2024-04-07 22:51:10,2024-04-30
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Vueling,314 €,2024-04-07 22:51:10,2024-04-30
+10:20,14:25,Bilbao,BIO,Londres-Gatwick,LGW,VLC,5h 05m,"Iberia, easyJet",225 €,2024-04-07 22:51:10,2024-04-30
+15:15,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,108 €,2024-04-07 22:51:10,2024-04-30
+8:55,16:05,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, OVD",8h 10m,Vueling,103 €,2024-04-07 22:51:10,2024-04-30
+11:00,18:10,Bilbao,BIO,Londres-Gatwick,LGW,MAH,8h 10m,"Vueling, easyJet",113 €,2024-04-07 22:51:10,2024-04-30
+8:55,12:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 55m,Iberia,304 €,2024-04-07 22:51:10,2024-04-30
+7:40,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Iberia,292 €,2024-04-07 22:51:10,2024-04-30
+18:20,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Iberia,331 €,2024-04-07 22:51:10,2024-04-30
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,304 €,2024-04-07 22:51:10,2024-04-30
+7:40,12:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Iberia,292 €,2024-04-07 22:51:10,2024-04-30
+19:00,22:35,Bilbao,BIO,Londres-Gatwick,LGW,OPO,4h 35m,"Vueling, British Airways",368 €,2024-04-07 22:51:10,2024-04-30
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",340 €,2024-04-07 22:51:10,2024-04-30
+7:40,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Iberia,292 €,2024-04-07 22:51:10,2024-04-30
+15:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Iberia,394 €,2024-04-07 22:51:10,2024-04-30
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,513 €,2024-04-07 22:51:10,2024-04-30
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Iberia,407 €,2024-04-07 22:51:10,2024-04-30
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,SWISS,383 €,2024-04-07 22:51:10,2024-04-30
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,344 €,2024-04-07 22:51:10,2024-04-30
+12:00,19:35,Bilbao,BIO,Londres-Gatwick,LGW,AMS,8h 35m,"KLM, British Airways",283 €,2024-04-07 22:51:10,2024-04-30
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",572 €,2024-04-07 22:51:10,2024-04-30
+15:15,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,372 €,2024-04-07 22:51:10,2024-04-30
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,462 €,2024-04-07 22:51:10,2024-04-30
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,489 €,2024-04-07 22:51:10,2024-04-30
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,"Lufthansa, SWISS",482 €,2024-04-07 22:51:10,2024-04-30
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",572 €,2024-04-07 22:51:10,2024-04-30
+15:35,23:00,Bilbao,BIO,Londres-Gatwick,LGW,AGP,8h 25m,"Iberia, British Airways",458 €,2024-04-07 22:51:10,2024-04-30
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,"Lufthansa, SWISS",583 €,2024-04-07 22:51:10,2024-04-30
+9:15,15:35,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, LIS",7h 20m,"Iberia, TAP AIR PORTUGAL",835 €,2024-04-07 22:51:10,2024-04-30
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,46 €,2024-04-07 22:51:10,2024-05-01
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,52 €,2024-04-07 22:51:10,2024-05-01
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,52 €,2024-04-07 22:51:10,2024-05-01
+10:40,11:30,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,easyJet Europe,95 €,2024-04-07 22:51:10,2024-05-01
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,117 €,2024-04-07 22:51:10,2024-05-01
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Vueling,56 €,2024-04-07 22:51:10,2024-05-01
+7:40,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Vueling,56 €,2024-04-07 22:51:10,2024-05-01
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,141 €,2024-04-07 22:51:10,2024-05-01
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,141 €,2024-04-07 22:51:10,2024-05-01
+7:40,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 00m,Vueling,56 €,2024-04-07 22:51:10,2024-05-01
+11:25,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 25m,Vueling,62 €,2024-04-07 22:51:10,2024-05-01
+17:30,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,56 €,2024-04-07 22:51:10,2024-05-01
+15:55,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Vueling,62 €,2024-04-07 22:51:10,2024-05-01
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,169 €,2024-04-07 22:51:10,2024-05-01
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,62 €,2024-04-07 22:51:10,2024-05-01
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,192 €,2024-04-07 22:51:10,2024-05-01
+14:20,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,Vueling,73 €,2024-04-07 22:51:10,2024-05-01
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,192 €,2024-04-07 22:51:10,2024-05-01
+14:20,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 05m,Vueling,62 €,2024-04-07 22:51:10,2024-05-01
+7:40,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Vueling,62 €,2024-04-07 22:51:10,2024-05-01
+15:55,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Vueling,59 €,2024-04-07 22:51:10,2024-05-01
+17:30,21:55,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 25m,"Vueling, easyJet",85 €,2024-04-07 22:51:10,2024-05-01
+19:05,23:15,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 10m,"Vueling, British Airways",95 €,2024-04-07 22:51:10,2024-05-01
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,65 €,2024-04-07 22:51:10,2024-05-01
+7:00,12:25,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 25m,Vueling,95 €,2024-04-07 22:51:10,2024-05-01
+15:55,21:55,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 00m,"Vueling, easyJet",85 €,2024-04-07 22:51:10,2024-05-01
+17:40,23:25,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 45m,"Air Europa, easyJet",90 €,2024-04-07 22:51:10,2024-05-01
+7:40,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 00m,"Vueling, easyJet",105 €,2024-04-07 22:51:10,2024-05-01
+11:25,18:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 35m,"Vueling, easyJet",90 €,2024-04-07 22:51:10,2024-05-01
+15:55,21:55,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 00m,"Vueling, easyJet Europe",98 €,2024-04-07 22:51:10,2024-05-01
+7:40,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 00m,"Vueling, easyJet Europe",117 €,2024-04-07 22:51:10,2024-05-01
+7:00,13:45,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 45m,"Vueling, easyJet",91 €,2024-04-07 22:51:10,2024-05-01
+11:25,18:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 35m,"Vueling, easyJet Europe",103 €,2024-04-07 22:51:10,2024-05-01
+11:25,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,77 €,2024-04-07 22:51:10,2024-05-01
+14:20,21:55,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,"Vueling, easyJet",85 €,2024-04-07 22:51:10,2024-05-01
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Iberia,277 €,2024-04-07 22:51:10,2024-05-01
+14:20,21:55,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,"Vueling, easyJet Europe",98 €,2024-04-07 22:51:10,2024-05-01
+7:40,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Iberia,267 €,2024-04-07 22:51:10,2024-05-01
+11:25,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 25m,Iberia,277 €,2024-04-07 22:51:10,2024-05-01
+15:55,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Iberia,277 €,2024-04-07 22:51:10,2024-05-01
+17:30,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Iberia,267 €,2024-04-07 22:51:10,2024-05-01
+7:40,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 00m,Iberia,277 €,2024-04-07 22:51:10,2024-05-01
+14:20,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,Iberia,296 €,2024-04-07 22:51:10,2024-05-01
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,286 €,2024-04-07 22:51:10,2024-05-01
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,236 €,2024-04-07 22:51:10,2024-05-01
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,241 €,2024-04-07 22:51:10,2024-05-01
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",258 €,2024-04-07 22:51:10,2024-05-01
+14:20,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 05m,Iberia,277 €,2024-04-07 22:51:10,2024-05-01
+7:40,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Iberia,286 €,2024-04-07 22:51:10,2024-05-01
+15:55,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Iberia,267 €,2024-04-07 22:51:10,2024-05-01
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,277 €,2024-04-07 22:51:10,2024-05-01
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,367 €,2024-04-07 22:51:10,2024-05-01
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",419 €,2024-04-07 22:51:10,2024-05-01
+11:25,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,296 €,2024-04-07 22:51:10,2024-05-01
+12:00,19:30,Bilbao,BIO,Londres-Gatwick,LGW,AMS,8h 30m,"KLM, British Airways",306 €,2024-04-07 22:51:10,2024-05-01
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,SWISS,565 €,2024-04-07 22:51:10,2024-05-01
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,"Lufthansa, SWISS",655 €,2024-04-07 22:51:10,2024-05-01
+9:15,15:35,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, LIS",7h 20m,"Iberia, TAP AIR PORTUGAL",682 €,2024-04-07 22:51:10,2024-05-01
+9:15,16:00,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, PMI",7h 45m,"Iberia, British Airways",683 €,2024-04-07 22:51:10,2024-05-01
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,"Lufthansa, SWISS",775 €,2024-04-07 22:51:10,2024-05-01
+21:35,22:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,22 €,2024-04-07 22:51:10,2024-05-02
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,26 €,2024-04-07 22:51:10,2024-05-02
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,29 €,2024-04-07 22:51:10,2024-05-02
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,37 €,2024-04-07 22:51:10,2024-05-02
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,103 €,2024-04-07 22:51:10,2024-05-02
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,103 €,2024-04-07 22:51:10,2024-05-02
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,116 €,2024-04-07 22:51:10,2024-05-02
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Vueling,44 €,2024-04-07 22:51:10,2024-05-02
+7:10,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Vueling,44 €,2024-04-07 22:51:10,2024-05-02
+15:50,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Vueling,44 €,2024-04-07 22:51:10,2024-05-02
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,153 €,2024-04-07 22:51:10,2024-05-02
+8:30,13:55,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 25m,"Vueling, Wizz Air UK",45 €,2024-04-07 22:51:10,2024-05-02
+15:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Vueling,50 €,2024-04-07 22:51:10,2024-05-02
+21:35,22:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,153 €,2024-04-07 22:51:10,2024-05-02
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,158 €,2024-04-07 22:51:10,2024-05-02
+19:35,1:05,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,6h 30m,"Vueling, easyJet",45 €,2024-04-07 22:51:10,2024-05-02
+15:45,20:00,Bilbao,BIO,Londres-Gatwick,LGW,VLC,5h 15m,"Volotea, Vueling",59 €,2024-04-07 22:51:10,2024-05-02
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,170 €,2024-04-07 22:51:10,2024-05-02
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Vueling,44 €,2024-04-07 22:51:10,2024-05-02
+14:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Vueling,44 €,2024-04-07 22:51:10,2024-05-02
+14:45,20:05,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 20m,"Volotea, Vueling",51 €,2024-04-07 22:51:10,2024-05-02
+14:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Vueling,50 €,2024-04-07 22:51:10,2024-05-02
+14:15,18:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 50m,"Vueling, easyJet",71 €,2024-04-07 22:51:10,2024-05-02
+11:40,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 10m,Vueling,79 €,2024-04-07 22:51:10,2024-05-02
+8:55,13:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 25m,"Vueling, easyJet",82 €,2024-04-07 22:51:10,2024-05-02
+13:15,20:05,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 50m,Vueling,51 €,2024-04-07 22:51:10,2024-05-02
+19:20,0:45,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 25m,"Volotea, British Airways",69 €,2024-04-07 22:51:10,2024-05-02
+8:55,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 30m,Vueling,112 €,2024-04-07 22:51:10,2024-05-02
+7:10,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,"Vueling, easyJet",68 €,2024-04-07 22:51:10,2024-05-02
+15:45,22:25,Bilbao,BIO,Londres-Gatwick,LGW,VLC,7h 40m,"Volotea, easyJet",63 €,2024-04-07 22:51:10,2024-05-02
+17:30,22:55,Bilbao,BIO,Londres-Gatwick,LGW,MXP,6h 25m,easyJet,78 €,2024-04-07 22:51:10,2024-05-02
+16:30,22:40,Bilbao,BIO,Londres-Gatwick,LGW,AGP,7h 10m,"Vueling, easyJet",71 €,2024-04-07 22:51:10,2024-05-02
+15:50,22:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,"Vueling, easyJet",71 €,2024-04-07 22:51:10,2024-05-02
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,102 €,2024-04-07 22:51:10,2024-05-02
+15:10,19:35,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 25m,"Vueling, easyJet",97 €,2024-04-07 22:51:10,2024-05-02
+7:10,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,"Vueling, easyJet Europe",83 €,2024-04-07 22:51:10,2024-05-02
+8:30,12:50,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 20m,"Vueling, TUI Airways",119 €,2024-04-07 22:51:10,2024-05-02
+15:50,22:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,"Vueling, easyJet Europe",84 €,2024-04-07 22:51:10,2024-05-02
+8:40,13:00,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 20m,"Vueling, easyJet",132 €,2024-04-07 22:51:10,2024-05-02
+8:40,12:45,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 05m,"Vueling, British Airways",118 €,2024-04-07 22:51:10,2024-05-02
+8:55,14:10,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 15m,"Vueling, British Airways",111 €,2024-04-07 22:51:10,2024-05-02
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,108 €,2024-04-07 22:51:10,2024-05-02
+11:40,18:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 25m,"Vueling, easyJet",115 €,2024-04-07 22:51:10,2024-05-02
+11:40,18:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 25m,"Vueling, easyJet Europe",115 €,2024-04-07 22:51:10,2024-05-02
+6:55,14:30,Bilbao,BIO,Londres-Gatwick,LGW,RAK,8h 35m,"Vueling, easyJet",92 €,2024-04-07 22:51:10,2024-05-02
+15:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Iberia,265 €,2024-04-07 22:51:10,2024-05-02
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Iberia,265 €,2024-04-07 22:51:10,2024-05-02
+15:50,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Iberia,265 €,2024-04-07 22:51:10,2024-05-02
+7:10,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Iberia,265 €,2024-04-07 22:51:10,2024-05-02
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,235 €,2024-04-07 22:51:10,2024-05-02
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,241 €,2024-04-07 22:51:10,2024-05-02
+11:40,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 10m,Iberia,306 €,2024-04-07 22:51:10,2024-05-02
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",258 €,2024-04-07 22:51:10,2024-05-02
+14:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Iberia,265 €,2024-04-07 22:51:10,2024-05-02
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,283 €,2024-04-07 22:51:10,2024-05-02
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",309 €,2024-04-07 22:51:10,2024-05-02
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Iberia,265 €,2024-04-07 22:51:10,2024-05-02
+14:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Iberia,265 €,2024-04-07 22:51:10,2024-05-02
+8:55,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 30m,Iberia,381 €,2024-04-07 22:51:10,2024-05-02
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,381 €,2024-04-07 22:51:10,2024-05-02
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,SWISS,389 €,2024-04-07 22:51:10,2024-05-02
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,392 €,2024-04-07 22:51:10,2024-05-02
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,"Lufthansa, SWISS",482 €,2024-04-07 22:51:10,2024-05-02
+8:30,14:10,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 40m,"Iberia, British Airways",530 €,2024-04-07 22:51:10,2024-05-02
+10:30,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, ZRH",8h 25m,"Air France, SWISS",508 €,2024-04-07 22:51:10,2024-05-02
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,"Lufthansa, SWISS",583 €,2024-04-07 22:51:10,2024-05-02
