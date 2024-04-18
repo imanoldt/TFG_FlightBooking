@@ -43,13 +43,31 @@ export default function SignUpForm() {
   return (
     <div className="w-11/12 max-w-[700px] px-10 py-20 rounded-3xl bg-white border-2 border-gray-100">
       <h1 className="text-5xl text-center font-semibold">SkySculptor</h1>
-      {!! errorResponse && <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative">{errorResponse}</div>}
+      {!!errorResponse && (
+  <div className="p-4 text-center bg-red-100 border border-red-400 text-red-700 rounded relative animate-pulse">
+    {errorResponse}
+  </div>
+)}
       <p className="font-medium text-lg text-center text-gray-500 mt-4">
         Tu recomendador de rutas de vuelo
       </p>
       <form onSubmit={handleSubmit}>
+
+
         <div className="mt-8">
-          <div className="flex flex-col">
+        <div className="flex flex-col ">
+          <label className="text-lg font-medium">Nombre</label>
+      <input
+        className="w-full border-2 border-gray-100 rounded-xl p-4 mt-1 bg-transparent"
+        placeholder="Introduce tu nombre"
+        type="text"
+        value={name}
+        onChange={(e) => setName(e.target.value)}
+      />
+          </div>
+
+
+          <div className="flex flex-col mt-4">
             <label className="text-lg font-medium">Email</label>
             <input
               className="w-full border-2 border-gray-100 rounded-xl p-4 mt-1 bg-transparent"
@@ -59,6 +77,8 @@ export default function SignUpForm() {
               onChange={(e) => setEmail(e.target.value)}
             />
           </div>
+
+
           <div className="flex flex-col mt-4">
             <label className="text-lg font-medium">Contraseña</label>
             <input
@@ -69,8 +89,12 @@ export default function SignUpForm() {
               onChange={(e) => setPassword(e.target.value)}
             />
           </div>
+
+
+
+
           <div className="mt-8 flex justify-between items-center">
-            <button className="active:scale-[.98] active:duration-75 transition-all hover:scale-[1.01]  ease-in-out transform py-4 bg-red-500 rounded-xl text-white font-bold text-lg">
+            <button className="w-full active:scale-[.98] active:duration-75 transition-all hover:scale-[1.01]  ease-in-out transform py-4 bg-red-500 rounded-xl text-white font-bold text-lg">
               Registrarse
             </button>
             <button className="ml-2 font-medium text-base text-red-500">
