@@ -14,21 +14,36 @@ import time
 import json
 import logging
 
+# Variables globales para almacenar la última ruta y fecha procesada
+last_processed_route = None
+last_processed_date = None
 
-def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
+def prueba(rutas, departure_cod, arrival_cod, flight_date_start, flight_date_end):
     if __name__ == '__main__':
+
         start_time = time.time()  # Momento inicial de la tarea programada
+        global last_processed_route, last_processed_date
+
         try:
             fecha_actual = datetime.now()
             # Llama a la función iniciar_webdriver con los parámetros adecuados
             driver = iniciar_webdriver(headless=False, pos='izquierda')
             wait = WebDriverWait(driver, 30)
 
+            # Inicializar index a None
+            index = None
+
             # Recorre todas las fechas dentro del rango proporcionado
-            current_date = datetime.strptime(flight_date_start, "%Y-%m-%d")
+            current_date = datetime.strptime(flight_date_start, "%Y-%m-%d") if last_processed_date is None else last_processed_date
             end_date = datetime.strptime(flight_date_end, "%Y-%m-%d")
 
             while current_date <= end_date:
+                if last_processed_route is not None:
+                # Buscamos la última ruta procesada en el JSON
+                    index = next((i for i, ruta in enumerate(rutas) if ruta['departure_cod'] == last_processed_route['departure_cod'] and ruta['arrival_cod'] == last_processed_route['arrival_cod']), None)
+                if index is not None:
+                    rutas = rutas[index:]
+
                 if current_date.date() < datetime.now().date():
                     current_date += timedelta(days=1)
                     continue
@@ -38,6 +53,19 @@ def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
                 url = f"https://www.kayak.es/flights/{departure_cod}-{arrival_cod}/{flight_date}?sort=bestflight_a"
                 driver.get(url)
                 randomTime(10, 15)
+
+                # Verificar si se ha activado la verificación de seguridad
+                if "https://www.kayak.es/security" in driver.current_url:
+                    print("Se ha activado la verificación de seguridad. Esperando y reiniciando...")
+                    driver.quit()  # Cerrar el navegador
+                    time.sleep(60)  # Esperar un minuto
+                    last_processed_route = {'departure_cod': departure_cod, 'arrival_cod': arrival_cod}
+                    last_processed_date = current_date
+                    break  # Salir del bucle y reiniciar desde aquí
+
+
+
+
 
                 try:
                     # COOKIES
@@ -156,8 +184,8 @@ def prueba(departure_cod, arrival_cod, flight_date_start, flight_date_end):
 
                 current_date += timedelta(days=1)
 
-        except Exception as q:(
-            print(f"Error: {q}"))
+        except Exception as q:
+            print(f"Error: {q}")
         finally:
             # Cerrar el navegador al finalizar
             driver.quit()
@@ -175,8 +203,8 @@ with open('rutas.json', 'r') as file:
 
 # Programar la ejecución de la función para cada ruta en el JSON
 for ruta in rutas:
-    schedule.every().day.at("09:36").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-    schedule.every().day.at("19:05").do(prueba, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("15:00").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("00:15").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
 
 # Ejecuta el planificador en bucle
 while True:
