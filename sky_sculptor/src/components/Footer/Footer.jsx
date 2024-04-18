@@ -1,103 +1,144 @@
-import { FaGithub, FaInstagram, FaLinkedinIn, FaTwitter } from "react-icons/fa";
+import {
+  FaBehance,
+  FaClock,
+  FaFacebookF,
+  FaInstagram,
+  FaLinkedinIn,
+  FaLocationPin,
+  FaPhone,
+  FaWhatsapp,
+} from "react-icons/fa6";
 
-const Footer = () => {
-  const Year = new Date().getFullYear();
-
+export default function Footer() {
   return (
-    <footer className="relative bg-black text-white">
-      <div className="absolute top-0 left-0 w-[100%] overflow-hidden">
-        <svg
-          data-name="Layer 1"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 1200 120"
-          preserveAspectRatio="none"
-        >
-          <path
-            d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,
-                        250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,
-                        3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z"
-            className="relative block h-[600px] fill-white"
-          ></path>
-        </svg>
-        <div className="grid lg:grid-cols-3 gap-20 sm:grid-cols-1 p-20">
-          <div className="flex flex-col gap-5">
-            <h2 className="text-3xl text-purple-500">LOREM</h2>
-            <p>
-             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla illo quidem soluta fuga perspiciatis, voluptatibus, provident eius porro quia illum fugit saepe similique corporis praesentium dignissimos sint eos incidunt recusandae!
-            </p>
-          </div>
-
+    <footer>
+      <div className="bg-white py-16">
+        <div className="max-w-[1400px] mx-auto grid xl:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-8 px-3">
           <div>
-            <li className="text-[22px] list-none font-semibold text-purple-500 py-2 uppercase">
-              LOREM
-            </li>
-            <li className="my-4 list-none">Lorem-line</li>
-            <li className="my-4 list-none">Lorem-line</li>
-            <li className="my-4 list-none">Lorem-line</li>
+            <img src="/logo.png" alt="" />
+            <p className="text-gray py-4 text-lg">
+              Continually productize compelling dome packed with all Elated
+              utilize website and creating supply next-generation
+            </p>
+            <h5 className="font-semibold text-2xl py-4">Follow us on:</h5>
+            <span className="flex items-center gap-4">
+              <FaFacebookF
+                size={20}
+                className="hover:text-primary cursor-pointer"
+              />
+              <FaBehance
+                size={20}
+                className="hover:text-primary cursor-pointer"
+              />
+              <FaInstagram
+                size={20}
+                className="hover:text-primary cursor-pointer"
+              />
+              <FaWhatsapp
+                size={20}
+                className="hover:text-primary cursor-pointer"
+              />
+              <FaLinkedinIn
+                size={20}
+                className="hover:text-primary cursor-pointer"
+              />
+            </span>
           </div>
-
-          <div className="mb-4 md:mb-0">
-            <h2 className="text-[22px] font-semibold text-purple-500 py-2 uppercase">
-              LOREM
-            </h2>
-            <p className="text-[16px] my-4">Email: imanol.duran@opendeusto.es</p>
-            <p className="text-[16px] my-4">Phone: +34 603 69 05 29 </p>
-            <div className="flex space-x-4">
-              <a
-                className="text-white hover:text-purple-500 transform hover:scale-150 
-                            transition-all duration-150 ease-in-out"
-                href=""
-              >
-                <FaGithub />
-              </a>
-              <a
-                className="text-white hover:text-purple-500 transform hover:scale-150
-                             transition-all duration-150 ease-in-out"
-                href=""
-              >
-                <FaLinkedinIn />
-              </a>
-              <a
-                className="text-white hover:text-purple-500 transform hover:scale-150
-                             transition-all duration-150 ease-in-out"
-                href=""
-              >
-                <FaTwitter />
-              </a>
-              <a
-                className="text-white hover:text-purple-500 transform hover:scale-150
-                             transition-all duration-150 ease-in-out"
-                href=""
-              >
-                <FaInstagram />
-              </a>
+          <div>
+            <h5 className="font-semibold text-2xl pb-8">Tour Type</h5>
+            <ul>
+              <li className="hover:text-primary text-lg leading-10 cursor-pointer">
+                Adventure Tours
+              </li>
+              <li className="hover:text-primary text-lg leading-10 cursor-pointer">
+                Group Tours
+              </li>
+              <li className="hover:text-primary text-lg leading-10 cursor-pointer">
+                Seasonal Tours
+              </li>
+              <li className="hover:text-primary text-lg leading-10 cursor-pointer">
+                Relaxation Tours
+              </li>
+              <li className="hover:text-primary text-lg leading-10 cursor-pointer">
+                Family Friendly Tours
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h5 className="font-semibold text-2xl pb-8">Contact Info</h5>
+            <ul>
+              <span className="text-gray flex items-center pb-2 gap-2 lg:w-4/5">
+                <FaPhone size={20} />
+                <li className="leading-8">88130-589-745-6987 +1655-456-523</li>
+              </span>
+              <span className="text-gray flex items-center pb-2 gap-2 lg:w-4/5">
+                <FaClock size={20} />
+                <li className="leading-8">
+                  Mon-Fri 09:00-18:00 (except public holidays)
+                </li>
+              </span>
+              <span className="text-gray flex items-center pb-2 gap-2 lg:w-4/5">
+                <FaLocationPin size={20} />
+                <li className="leading-8">
+                  25/2 Vokte Street Building Melborn City
+                </li>
+              </span>
+            </ul>
+          </div>
+          <div>
+            <h5 className="font-semibold text-2xl pb-8">Gallery</h5>
+            <div className="grid grid-cols-3 gap-2">
+              <div className="overflow-hidden my-0 mx-auto rounded-lg w-full">
+                <img
+                  src="/img5.jpg"
+                  alt=""
+                  className="rounded-lg w-[90px] h-[90px] box-border hoverImg"
+                />
+              </div>
+              <div className="overflow-hidden my-0 mx-auto rounded-lg w-full">
+                <img
+                  src="/img2.jpg"
+                  alt=""
+                  className="rounded-lg w-[90px] h-[90px] box-border hoverImg"
+                />
+              </div>
+              <div className="overflow-hidden my-0 mx-auto rounded-lg w-full">
+                <img
+                  src="/img7.jpg"
+                  alt=""
+                  className="rounded-lg w-[90px] h-[90px] box-border hoverImg"
+                />
+              </div>
+              <div className="overflow-hidden my-0 mx-auto rounded-lg w-full">
+                <img
+                  src="/img3.jpg"
+                  alt=""
+                  className="rounded-lg w-[90px] h-[90px] box-border hoverImg"
+                />
+              </div>
+              <div className="overflow-hidden my-0 mx-auto rounded-lg w-full">
+                <img
+                  src="/img5.jpg"
+                  alt=""
+                  className="rounded-lg w-[90px] h-[90px] box-border hoverImg"
+                />
+              </div>
+              <div className="overflow-hidden my-0 mx-auto rounded-lg w-full">
+                <img
+                  src="/img6.jpg"
+                  alt=""
+                  className="rounded-lg w-[90px] h-[90px] box-border hoverImg"
+                />
+              </div>
             </div>
           </div>
         </div>
-
-        <div className="mt-20">
-          <div className="h-full flex items-center justify-center mb-5">
-            <form className="w-96 relative">
-              <input
-                type="email"
-                placeholder=""
-                className="w-full text-gray-800 p-4 h-10 rounded-full focus:outline-none 
-                            focus:border border-purple-800"
-              />
-              <button
-                type="Submit"
-                className="bg-purple-400 px-8 py-2 rounded-full text-white
-                                 absolute top-0 right-0"
-              >
-                Submit
-              </button>
-            </form>
-          </div>
-        </div>
-        <h6 className="text-center">&copy;opyright ImanolDt {Year}</h6>
+      </div>
+      <div className="bg-lightGray py-10 flex items-center text-center justify-center">
+        <p className="px-3">
+          © Copyright 2022. All Rights Reserved by Isratech
+        </p>
       </div>
     </footer>
   );
-};
-
-export default Footer;
+}
