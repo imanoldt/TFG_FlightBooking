@@ -8,9 +8,10 @@ import {
 } from "react-router-dom";
 import ProtectedRoute from "./routes/ProtectedRoute.jsx";
 import { AuthProvider } from "./auth/AuthProvider.jsx";
-import SignUp from "./routes/SignUp.jsx";
-import Login from "./routes/Login.jsx";
+
 import DefaultLayoutLogin from "./layout/DefaultLayoutLogin.jsx";
+import DefaultLayoutSignUp from "./layout/DefaultLayoutSignUp.jsx";
+
 
 const router = createBrowserRouter([
   {
@@ -20,7 +21,7 @@ const router = createBrowserRouter([
   },
   {
     path: "/signup",
-    element: <SignUp />,
+    element: <DefaultLayoutSignUp />,
   },
   {
     path: "/login",
