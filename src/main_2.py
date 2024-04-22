@@ -63,10 +63,6 @@ def prueba(rutas, departure_cod, arrival_cod, flight_date_start, flight_date_end
                     last_processed_date = current_date
                     break  # Salir del bucle y reiniciar desde aquí
 
-
-
-
-
                 try:
                     # COOKIES
                     div_element = wait.until(ec.presence_of_element_located((By.CLASS_NAME, 'P4zO-submit-buttons')))
@@ -203,8 +199,8 @@ with open('rutas.json', 'r') as file:
 
 # Programar la ejecución de la función para cada ruta en el JSON
 for ruta in rutas:
-    schedule.every().day.at("15:00").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-    schedule.every().day.at("00:15").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("20:24").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("01:07").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
 
 # Ejecuta el planificador en bucle
 while True:
