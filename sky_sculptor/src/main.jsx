@@ -11,13 +11,15 @@ import { AuthProvider } from "./auth/AuthProvider.jsx";
 
 import DefaultLayoutLogin from "./layout/DefaultLayoutLogin.jsx";
 import DefaultLayoutSignUp from "./layout/DefaultLayoutSignUp.jsx";
+import DefaultCityLayout from "./layout/DefaultCityLayout.jsx";
 
 
 const router = createBrowserRouter([
   {
     path: "/" /*RUTA PROTEGIDA*/,
     element: <ProtectedRoute />,
-    children: [{ path: "/app", element: <App /> }],
+    //DESCOMENTAR LUEGO
+    //children: [{ path: "/app", element: <App /> }],
   },
   {
     path: "/signup",
@@ -27,7 +29,15 @@ const router = createBrowserRouter([
     path: "/login",
     element: <DefaultLayoutLogin />,
   },
-  
+  //ELIMINAR LUEGO
+  {
+    path: "/app",
+    element: <App />,
+  },
+  {
+    path: "/city/:cityName",
+    element: <DefaultCityLayout />,
+  },
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(
