@@ -7,7 +7,7 @@ const authenticate = require("./auth/authenticate");
 
 require("dotenv").config();
 
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 7080;
 
 app.use(cors());
 app.use(express.json());

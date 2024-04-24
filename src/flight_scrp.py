@@ -15,7 +15,7 @@ def iniciar_webdriver(headless=False, pos='maximizada'):
     options.add_argument('--password-store=basic')
     options.add_experimental_option('prefs',
                                     {
-                                        'credentials_enable_service': False,
+                                        'credentials_enable_service': True,
                                         'profile.password_manager_enabled': False,
                                     },
                                     )

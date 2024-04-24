@@ -1,31 +1,8 @@
-/* eslint-disable react/prop-types */
-import { HiStar } from "react-icons/hi";
+
+import Card from "../Concrete/Card.jsx";
 
 export default function Packages() {
-    const Card = ({ image, text, accuracy, reviews, price }) => {
-        return (
-          <div>
-            <div className="overflow-hidden my-0 mx-auto rounded-2xl">
-              <img
-                src={image}
-                alt=""
-                className="rounded-2xl w-[300px] h-[300px] hoverImg"
-              />
-            </div>
-            <h5 className="text-2xl py-4 font-semibold">{text}</h5>
-            <span className="flex items-center justify-between">
-              <div className="bg-white text-gray shadow rounded-lg w-16 p-2 flex items-center gap-1">
-                 {accuracy}<HiStar className="text-orange" />
-              </div>
-              <p>{reviews}</p>
-              <div className="bg-primary cursor-pointer text-white text-lg text-center w-20 p-1 rounded-md transition-bg hover:bg-white hover:text-primary">
-                {price}
-              </div>
-            </span>
-          </div>
-        );
-      };
-
+  
   return (
     <div>
       <div className="bg-lightGray my-16 py-16 relative">
@@ -39,13 +16,7 @@ export default function Packages() {
             </h2>
           </span>
           <div className="grid xl:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-6 my-12 relative z-10">
-            <Card
-              image="./public/Mad.jpg"
-              text="Madrid"
-              accuracy={9.8}
-              reviews="España"
-              price="≈ 50 €"
-            />
+          <Card image="./public/Mad.jpg" text="Madrid" accuracy={9.8} reviews="España" price="≈ 50 €" />
             <Card
               image="./public/Sev.jpg"
               text="Sevilla"
