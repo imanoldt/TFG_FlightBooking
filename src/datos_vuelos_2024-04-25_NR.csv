@@ -1,0 +1,635 @@
+Departure Time,Arrival Time,Departure Airport,Departure_Cod,Arrival Airport,Arrival_Cod,Stop Airports,Duration,Airlines,Price,Info Date Save,Flight Date
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,1h 50m,Vueling,Promocionados,59 €,2024-04-24 23:59:27,2024-05-30
+7:10,12:15,,-,scala,1 e,6h 05m,Vueling,Promocionados,112 €,2024-04-24 23:59:27,2024-05-30
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,1h 50m,British Airways,Promocionados,154 €,2024-04-24 23:59:27,2024-05-30
+21:35,22:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,70 €,2024-04-24 23:59:27,2024-05-30
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,71 €,2024-04-24 23:59:27,2024-05-30
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,154 €,2024-04-24 23:59:27,2024-05-30
+21:35,22:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,192 €,2024-04-24 23:59:27,2024-05-30
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,194 €,2024-04-24 23:59:27,2024-05-30
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,205 €,2024-04-24 23:59:27,2024-05-30
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,205 €,2024-04-24 23:59:27,2024-05-30
+8:55,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 30m,Vueling,134 €,2024-04-24 23:59:27,2024-05-30
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,259 €,2024-04-24 23:59:27,2024-05-30
+17:30,22:55,Bilbao,BIO,Londres-Gatwick,LGW,MXP,6h 25m,easyJet,115 €,2024-04-24 23:59:27,2024-05-30
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,132 €,2024-04-24 23:59:27,2024-05-30
+7:10,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Vueling,128 €,2024-04-24 23:59:27,2024-05-30
+20:20,0:45,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 25m,"Vueling, British Airways",152 €,2024-04-24 23:59:27,2024-05-30
+7:10,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,"Vueling, easyJet",129 €,2024-04-24 23:59:27,2024-05-30
+15:10,19:35,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 25m,"Vueling, easyJet",143 €,2024-04-24 23:59:27,2024-05-30
+8:30,13:55,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 25m,"Vueling, Wizz Air UK",144 €,2024-04-24 23:59:27,2024-05-30
+15:10,19:35,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 25m,"Vueling, easyJet Europe",151 €,2024-04-24 23:59:27,2024-05-30
+7:10,11:00,Bilbao,BIO,Londres-Gatwick,LGW,CDG,4h 50m,"Air France, easyJet",180 €,2024-04-24 23:59:27,2024-05-30
+19:20,0:45,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 25m,"Volotea, British Airways",162 €,2024-04-24 23:59:27,2024-05-30
+11:40,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 10m,Vueling,198 €,2024-04-24 23:59:27,2024-05-30
+14:45,20:05,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 20m,"Volotea, Vueling",165 €,2024-04-24 23:59:27,2024-05-30
+7:15,11:40,Bilbao,BIO,Londres-Gatwick,LGW,VLC,5h 25m,"Vueling, easyJet",188 €,2024-04-24 23:59:27,2024-05-30
+15:50,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Vueling,197 €,2024-04-24 23:59:27,2024-05-30
+14:15,18:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 50m,"Vueling, easyJet",283 €,2024-04-24 23:59:27,2024-05-30
+8:55,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 30m,Iberia,340 €,2024-04-24 23:59:27,2024-05-30
+15:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Vueling,280 €,2024-04-24 23:59:27,2024-05-30
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",270 €,2024-04-24 23:59:27,2024-05-30
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Vueling,136 €,2024-04-24 23:59:27,2024-05-30
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,418 €,2024-04-24 23:59:27,2024-05-30
+15:10,22:20,Bilbao,BIO,Londres-Gatwick,LGW,CDG,8h 10m,"Vueling, easyJet",111 €,2024-04-24 23:59:27,2024-05-30
+15:10,22:20,Bilbao,BIO,Londres-Gatwick,LGW,CDG,8h 10m,"Vueling, easyJet Europe",118 €,2024-04-24 23:59:27,2024-05-30
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,170 €,2024-04-24 23:59:27,2024-05-30
+14:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Vueling,187 €,2024-04-24 23:59:27,2024-05-30
+13:15,20:05,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 50m,Vueling,162 €,2024-04-24 23:59:27,2024-05-30
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Iberia,339 €,2024-04-24 23:59:27,2024-05-30
+14:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Vueling,265 €,2024-04-24 23:59:27,2024-05-30
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,363 €,2024-04-24 23:59:27,2024-05-30
+15:45,22:25,Bilbao,BIO,Londres-Gatwick,LGW,VLC,7h 40m,"Volotea, easyJet",189 €,2024-04-24 23:59:27,2024-05-30
+7:05,13:55,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 50m,"Vueling, easyJet",189 €,2024-04-24 23:59:27,2024-05-30
+7:10,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Iberia,362 €,2024-04-24 23:59:27,2024-05-30
+11:40,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 10m,Iberia,467 €,2024-04-24 23:59:27,2024-05-30
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",573 €,2024-04-24 23:59:27,2024-05-30
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Vueling,566 €,2024-04-24 23:59:27,2024-05-30
+8:40,12:45,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 05m,"Iberia, British Airways",459 €,2024-04-24 23:59:27,2024-05-30
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,British Airways,566 €,2024-04-24 23:59:27,2024-05-30
+8:55,16:20,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, GVA",8h 25m,"Vueling, easyJet",171 €,2024-04-24 23:59:27,2024-05-30
+6:55,14:30,Bilbao,BIO,Londres-Gatwick,LGW,RAK,8h 35m,"Vueling, easyJet",171 €,2024-04-24 23:59:27,2024-05-30
+20:20,0:45,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 25m,"Iberia, British Airways",457 €,2024-04-24 23:59:27,2024-05-30
+15:50,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Iberia,467 €,2024-04-24 23:59:27,2024-05-30
+16:30,22:25,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 55m,"Iberia, British Airways",355 €,2024-04-24 23:59:27,2024-05-30
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,"Iberia, British Airways",448 €,2024-04-24 23:59:27,2024-05-30
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Iberia,385 €,2024-04-24 23:59:27,2024-05-30
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,414 €,2024-04-24 23:59:27,2024-05-30
+15:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Iberia,639 €,2024-04-24 23:59:27,2024-05-30
+14:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Iberia,451 €,2024-04-24 23:59:27,2024-05-30
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",573 €,2024-04-24 23:59:27,2024-05-30
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,560 €,2024-04-24 23:59:27,2024-05-30
+8:55,14:10,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 15m,"Iberia, British Airways",617 €,2024-04-24 23:59:27,2024-05-30
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,566 €,2024-04-24 23:59:27,2024-05-30
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,SWISS,565 €,2024-04-24 23:59:27,2024-05-30
+13:40,20:20,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, OPO",7h 40m,"Iberia, TAP AIR PORTUGAL",512 €,2024-04-24 23:59:27,2024-05-30
+14:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Iberia,623 €,2024-04-24 23:59:27,2024-05-30
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,633 €,2024-04-24 23:59:27,2024-05-30
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,1h 50m,Vueling,Promocionados,144 €,2024-04-24 23:59:27,2024-05-31
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,1h 50m,British Airways,Promocionados,152 €,2024-04-24 23:59:27,2024-05-31
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,1h 50m,Vueling,Promocionados,160 €,2024-04-24 23:59:27,2024-05-31
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,86 €,2024-04-24 23:59:27,2024-05-31
+10:40,11:30,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,easyJet,106 €,2024-04-24 23:59:27,2024-05-31
+10:40,11:30,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,easyJet Europe,137 €,2024-04-24 23:59:27,2024-05-31
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,196 €,2024-04-24 23:59:27,2024-05-31
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,203 €,2024-04-24 23:59:27,2024-05-31
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,215 €,2024-04-24 23:59:27,2024-05-31
+16:30,22:35,Bilbao,BIO,Londres-Gatwick,LGW,HAM,7h 05m,"Vueling, easyJet",114 €,2024-04-24 23:59:27,2024-05-31
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,228 €,2024-04-24 23:59:27,2024-05-31
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,281 €,2024-04-24 23:59:27,2024-05-31
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,299 €,2024-04-24 23:59:27,2024-05-31
+14:15,19:30,Bilbao,BIO,Londres-Gatwick,LGW,MXP,6h 15m,"Vueling, Wizz Air Malta",145 €,2024-04-24 23:59:27,2024-05-31
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,347 €,2024-04-24 23:59:27,2024-05-31
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Vueling,205 €,2024-04-24 23:59:27,2024-05-31
+17:35,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 25m,Vueling,270 €,2024-04-24 23:59:27,2024-05-31
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,253 €,2024-04-24 23:59:27,2024-05-31
+17:35,23:10,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 35m,Vueling,260 €,2024-04-24 23:59:27,2024-05-31
+8:55,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 40m,Vueling,367 €,2024-04-24 23:59:27,2024-05-31
+19:35,0:55,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,6h 20m,"Vueling, easyJet",253 €,2024-04-24 23:59:27,2024-05-31
+19:00,23:30,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 30m,"Vueling, British Airways",317 €,2024-04-24 23:59:27,2024-05-31
+10:35,16:50,Bilbao,BIO,Londres-Gatwick,LGW,ORY-CDG,7h 15m,"Volotea, easyJet",165 €,2024-04-24 23:59:27,2024-05-31
+10:35,16:50,Bilbao,BIO,Londres-Gatwick,LGW,ORY-CDG,7h 15m,"Volotea, easyJet Europe",182 €,2024-04-24 23:59:27,2024-05-31
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",573 €,2024-04-24 23:59:27,2024-05-31
+7:10,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,Vueling,340 €,2024-04-24 23:59:27,2024-05-31
+17:35,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 25m,Iberia,549 €,2024-04-24 23:59:27,2024-05-31
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,British Airways,560 €,2024-04-24 23:59:27,2024-05-31
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,555 €,2024-04-24 23:59:27,2024-05-31
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Vueling,219 €,2024-04-24 23:59:27,2024-05-31
+7:40,14:10,Bilbao,BIO,Londres-Gatwick,LGW,AMS,7h 30m,"Vueling, British Airways",179 €,2024-04-24 23:59:27,2024-05-31
+17:15,21:50,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 35m,"KLM, British Airways",416 €,2024-04-24 23:59:27,2024-05-31
+19:15,1:50,Bilbao,BIO,Londres-Gatwick,LGW,AGP,7h 35m,"Volotea, easyJet",228 €,2024-04-24 23:59:27,2024-05-31
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,253 €,2024-04-24 23:59:27,2024-05-31
+19:15,1:50,Bilbao,BIO,Londres-Gatwick,LGW,AGP,7h 35m,"Volotea, easyJet Europe",246 €,2024-04-24 23:59:27,2024-05-31
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Vueling,656 €,2024-04-24 23:59:27,2024-05-31
+10:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,ORY-CDG,8h 20m,"Volotea, easyJet",184 €,2024-04-24 23:59:27,2024-05-31
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Iberia,479 €,2024-04-24 23:59:27,2024-05-31
+10:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,ORY-CDG,8h 20m,"Volotea, easyJet Europe",200 €,2024-04-24 23:59:27,2024-05-31
+13:25,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,237 €,2024-04-24 23:59:27,2024-05-31
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,552 €,2024-04-24 23:59:27,2024-05-31
+8:55,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 40m,Iberia,691 €,2024-04-24 23:59:27,2024-05-31
+12:00,19:25,Bilbao,BIO,Londres-Gatwick,LGW,AMS,8h 25m,"KLM, easyJet",229 €,2024-04-24 23:59:27,2024-05-31
+12:00,19:25,Bilbao,BIO,Londres-Gatwick,LGW,AMS,8h 25m,"KLM, easyJet Europe",238 €,2024-04-24 23:59:27,2024-05-31
+13:10,19:40,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 30m,Vueling,406 €,2024-04-24 23:59:27,2024-05-31
+14:15,21:50,Bilbao,BIO,Londres-Gatwick,LGW,"MXP, AMS",8h 35m,Varias aerolíneas,221 €,2024-04-24 23:59:27,2024-05-31
+17:35,23:10,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 35m,Iberia,549 €,2024-04-24 23:59:27,2024-05-31
+13:25,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 00m,Vueling,425 €,2024-04-24 23:59:27,2024-05-31
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Iberia,510 €,2024-04-24 23:59:27,2024-05-31
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,560 €,2024-04-24 23:59:27,2024-05-31
+7:10,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,Iberia,649 €,2024-04-24 23:59:27,2024-05-31
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",573 €,2024-04-24 23:59:27,2024-05-31
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,555 €,2024-04-24 23:59:27,2024-05-31
+7:40,14:10,Bilbao,BIO,Londres-Gatwick,LGW,AMS,7h 30m,"Iberia, British Airways",511 €,2024-04-24 23:59:27,2024-05-31
+6:45,12:40,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, MAH",6h 55m,"Iberia, British Airways",560 €,2024-04-24 23:59:27,2024-05-31
+6:50,14:10,Bilbao,BIO,Londres-Gatwick,LGW,AMS,8h 20m,"KLM, British Airways",433 €,2024-04-24 23:59:27,2024-05-31
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,552 €,2024-04-24 23:59:27,2024-05-31
+8:30,13:00,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 30m,"Iberia, British Airways",792 €,2024-04-24 23:59:27,2024-05-31
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,656 €,2024-04-24 23:59:27,2024-05-31
+13:25,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,522 €,2024-04-24 23:59:27,2024-05-31
+9:15,16:15,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, AGP",8h 00m,"Iberia, British Airways",601 €,2024-04-24 23:59:27,2024-05-31
+13:25,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 00m,Iberia,1033 €,2024-04-24 23:59:27,2024-05-31
+7:10,14:10,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, AMS",8h 00m,"KLM, British Airways",1378 €,2024-04-24 23:59:27,2024-05-31
+8:30,10:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,directo,1h 35m,Vueling,14 €,2024-04-25 00:04:17,2024-05-30
+16:30,18:00,Bilbao,BIO,Málaga-Costa del Sol,AGP,1h 30m,Vueling,Promocionados,21 €,2024-04-25 00:04:17,2024-05-30
+7:10,14:15,,-,scala,1 e,7h 05m,Vueling,Promocionados,93 €,2024-04-25 00:04:17,2024-05-30
+20:20,21:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,directo,1h 30m,CitizenPlane,21 €,2024-04-25 00:04:17,2024-05-30
+19:20,20:55,Bilbao,BIO,Málaga-Costa del Sol,AGP,directo,1h 35m,Volotea,21 €,2024-04-25 00:04:17,2024-05-30
+20:20,21:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,directo,1h 30m,Iberia,123 €,2024-04-25 00:04:17,2024-05-30
+8:30,10:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,directo,1h 35m,Iberia,130 €,2024-04-25 00:04:17,2024-05-30
+16:30,18:00,Bilbao,BIO,Málaga-Costa del Sol,AGP,directo,1h 30m,Iberia,145 €,2024-04-25 00:04:17,2024-05-30
+19:55,23:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,3h 55m,Vueling,111 €,2024-04-25 00:04:17,2024-05-30
+8:30,11:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,3h 20m,Air Europa,133 €,2024-04-25 00:04:17,2024-05-30
+8:55,14:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,5h 20m,Vueling,94 €,2024-04-25 00:04:17,2024-05-30
+12:45,16:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,3h 30m,Air Europa,133 €,2024-04-25 00:04:17,2024-05-30
+11:40,15:25,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,3h 45m,Vueling,143 €,2024-04-25 00:04:17,2024-05-30
+8:55,15:25,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,6h 30m,Vueling,99 €,2024-04-25 00:04:17,2024-05-30
+6:45,11:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,5h 05m,"Iberia, Air Europa",124 €,2024-04-25 00:04:17,2024-05-30
+16:50,20:20,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,3h 30m,Air Europa,208 €,2024-04-25 00:04:17,2024-05-30
+11:40,17:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,5h 35m,Vueling,160 €,2024-04-25 00:04:17,2024-05-30
+12:45,17:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,4h 20m,"Air Europa, Iberia Express",171 €,2024-04-25 00:04:17,2024-05-30
+15:50,22:30,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,6h 40m,Vueling,140 €,2024-04-25 00:04:17,2024-05-30
+12:45,17:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,4h 20m,"Air Europa, Iberia",176 €,2024-04-25 00:04:17,2024-05-30
+13:40,17:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,3h 25m,Iberia,218 €,2024-04-25 00:04:17,2024-05-30
+19:55,23:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,3h 55m,Iberia,216 €,2024-04-25 00:04:17,2024-05-30
+8:55,14:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,5h 20m,Iberia,189 €,2024-04-25 00:04:17,2024-05-30
+11:40,15:25,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,3h 45m,Iberia,244 €,2024-04-25 00:04:17,2024-05-30
+8:55,15:25,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,6h 30m,Iberia,200 €,2024-04-25 00:04:17,2024-05-30
+12:00,19:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,AMS,7h 15m,KLM,242 €,2024-04-25 00:04:17,2024-05-30
+17:00,21:25,Bilbao,BIO,Málaga-Costa del Sol,AGP,SCQ,4h 25m,"Iberia, Vueling",292 €,2024-04-25 00:04:17,2024-05-30
+15:50,22:30,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,6h 40m,Iberia,259 €,2024-04-25 00:04:17,2024-05-30
+11:40,17:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,5h 35m,Iberia,291 €,2024-04-25 00:04:17,2024-05-30
+9:15,12:40,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,3h 25m,Iberia,346 €,2024-04-25 00:04:17,2024-05-30
+10:30,17:30,Bilbao,BIO,Málaga-Costa del Sol,AGP,CDG,7h 00m,Air France,315 €,2024-04-25 00:04:17,2024-05-30
+6:45,12:40,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,5h 55m,Iberia,346 €,2024-04-25 00:04:17,2024-05-30
+7:10,14:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,7h 05m,Iberia,325 €,2024-04-25 00:04:17,2024-05-30
+13:55,19:45,Bilbao,BIO,Málaga-Costa del Sol,AGP,LGW,5h 50m,British Airways,396 €,2024-04-25 00:04:17,2024-05-30
+11:35,17:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,MUC,6h 15m,Lufthansa,489 €,2024-04-25 00:04:17,2024-05-30
+17:00,21:25,Bilbao,BIO,Málaga-Costa del Sol,AGP,SCQ,4h 25m,Iberia,546 €,2024-04-25 00:04:17,2024-05-30
+13:40,20:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,"MAD, MLN",6h 35m,Iberia,692 €,2024-04-25 00:04:17,2024-05-30
+7:00,12:40,Bilbao,BIO,Málaga-Costa del Sol,AGP,"SCQ, MAD",5h 40m,Iberia,781 €,2024-04-25 00:04:17,2024-05-30
+19:55,23:50,,-,scala,1 e,3h 55m,Vueling,Promocionados,128 €,2024-04-25 00:04:17,2024-05-31
+7:10,10:50,,-,scala,1 e,3h 40m,Vueling,Promocionados,162 €,2024-04-25 00:04:17,2024-05-31
+8:30,10:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,1h 35m,Vueling,Promocionados,101 €,2024-04-25 00:04:17,2024-05-31
+22:55,0:25,,+1,,-,directo,1h 30m,CitizenPlane,24 €,2024-04-25 00:04:17,2024-05-31
+19:15,20:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,directo,1h 35m,Volotea,59 €,2024-04-25 00:04:17,2024-05-31
+17:40,19:10,Bilbao,BIO,Málaga-Costa del Sol,AGP,directo,1h 30m,Vueling,72 €,2024-04-25 00:04:17,2024-05-31
+22:55,0:25,,+1,,-,directo,1h 30m,Iberia,125 €,2024-04-25 00:04:17,2024-05-31
+17:40,19:10,Bilbao,BIO,Málaga-Costa del Sol,AGP,directo,1h 30m,Iberia,228 €,2024-04-25 00:04:17,2024-05-31
+8:30,10:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,directo,1h 35m,Iberia,270 €,2024-04-25 00:04:17,2024-05-31
+13:40,17:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,3h 25m,Iberia,151 €,2024-04-25 00:04:17,2024-05-31
+8:30,11:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,3h 20m,Air Europa,161 €,2024-04-25 00:04:17,2024-05-31
+13:25,17:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,3h 50m,Vueling,176 €,2024-04-25 00:04:17,2024-05-31
+16:50,20:20,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,3h 30m,Air Europa,188 €,2024-04-25 00:04:17,2024-05-31
+12:45,17:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,4h 20m,"Air Europa, Iberia Express",155 €,2024-04-25 00:04:17,2024-05-31
+9:15,12:40,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,3h 25m,Iberia,222 €,2024-04-25 00:04:17,2024-05-31
+12:45,17:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,4h 20m,"Air Europa, Iberia",159 €,2024-04-25 00:04:17,2024-05-31
+7:10,14:10,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,7h 00m,Vueling,132 €,2024-04-25 00:04:17,2024-05-31
+8:55,14:10,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,5h 15m,Vueling,168 €,2024-04-25 00:04:17,2024-05-31
+12:45,16:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,3h 30m,Air Europa,237 €,2024-04-25 00:04:17,2024-05-31
+6:45,11:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,5h 05m,"Iberia, Air Europa",156 €,2024-04-25 00:04:17,2024-05-31
+6:45,12:40,Bilbao,BIO,Málaga-Costa del Sol,AGP,MAD,5h 55m,Iberia,160 €,2024-04-25 00:04:17,2024-05-31
+8:55,14:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,5h 55m,Vueling,164 €,2024-04-25 00:04:17,2024-05-31
+10:35,17:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,ORY,6h 30m,"Volotea, Transavia France",141 €,2024-04-25 00:04:17,2024-05-31
+12:50,19:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,BRU,6h 15m,"Vueling, Transavia",157 €,2024-04-25 00:04:17,2024-05-31
+19:55,23:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,3h 55m,Iberia,242 €,2024-04-25 00:04:17,2024-05-31
+17:35,22:30,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,4h 55m,Vueling,212 €,2024-04-25 00:04:17,2024-05-31
+17:35,23:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,6h 15m,Vueling,179 €,2024-04-25 00:04:17,2024-05-31
+7:10,10:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,3h 40m,Iberia,280 €,2024-04-25 00:04:17,2024-05-31
+13:25,17:15,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,3h 50m,Iberia,301 €,2024-04-25 00:04:17,2024-05-31
+8:55,14:10,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,5h 15m,Iberia,290 €,2024-04-25 00:04:17,2024-05-31
+7:10,14:10,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,7h 00m,Iberia,252 €,2024-04-25 00:04:17,2024-05-31
+8:55,14:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,5h 55m,Iberia,290 €,2024-04-25 00:04:17,2024-05-31
+17:35,23:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,6h 15m,Iberia,295 €,2024-04-25 00:04:17,2024-05-31
+17:35,22:30,Bilbao,BIO,Málaga-Costa del Sol,AGP,BCN,4h 55m,Iberia,340 €,2024-04-25 00:04:17,2024-05-31
+10:30,17:30,Bilbao,BIO,Málaga-Costa del Sol,AGP,CDG,7h 00m,Air France,297 €,2024-04-25 00:04:17,2024-05-31
+7:35,13:35,Bilbao,BIO,Málaga-Costa del Sol,AGP,LGW,6h 00m,British Airways,355 €,2024-04-25 00:04:17,2024-05-31
+13:50,19:20,Bilbao,BIO,Málaga-Costa del Sol,AGP,BRU,5h 30m,Brussels Airlines,403 €,2024-04-25 00:04:17,2024-05-31
+11:35,17:50,Bilbao,BIO,Málaga-Costa del Sol,AGP,MUC,6h 15m,Lufthansa,454 €,2024-04-25 00:04:17,2024-05-31
+10:30,17:05,Bilbao,BIO,Málaga-Costa del Sol,AGP,"VGO, MAD",6h 35m,Iberia,472 €,2024-04-25 00:04:17,2024-05-31
+13:55,20:00,Bilbao,BIO,Málaga-Costa del Sol,AGP,LGW,6h 05m,British Airways,502 €,2024-04-25 00:04:17,2024-05-31
+9:15,15:55,Bilbao,BIO,Málaga-Costa del Sol,AGP,"MAD, MLN",6h 40m,Iberia,765 €,2024-04-25 00:04:17,2024-05-31
+9:15,15:55,Bilbao,BIO,Málaga-Costa del Sol,AGP,"MAD, MLN",6h 40m,Iberia,765 €,2024-04-25 00:04:17,2024-05-31
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,114 €,2024-04-25 00:07:48,2024-05-30
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,156 €,2024-04-25 00:07:48,2024-05-30
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,161 €,2024-04-25 00:07:48,2024-05-30
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",90 €,2024-04-25 00:07:48,2024-05-30
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Vueling,107 €,2024-04-25 00:07:48,2024-05-30
+14:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 20m,Vueling,97 €,2024-04-25 00:07:48,2024-05-30
+15:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Vueling,115 €,2024-04-25 00:07:48,2024-05-30
+16:55,22:00,Bilbao,BIO,Charles de Gaulle,CDG,BRS,5h 05m,easyJet,106 €,2024-04-25 00:07:48,2024-05-30
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,132 €,2024-04-25 00:07:48,2024-05-30
+14:15,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,105 €,2024-04-25 00:07:48,2024-05-30
+14:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, easyJet",108 €,2024-04-25 00:07:48,2024-05-30
+13:55,18:45,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 50m,"Vueling, easyJet",183 €,2024-04-25 00:07:48,2024-05-30
+11:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 25m,Vueling,216 €,2024-04-25 00:07:48,2024-05-30
+7:35,14:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 15m,"Vueling, easyJet",112 €,2024-04-25 00:07:48,2024-05-30
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,194 €,2024-04-25 00:07:48,2024-05-30
+7:35,13:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 20m,"Vueling, easyJet",157 €,2024-04-25 00:07:48,2024-05-30
+12:45,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 15m,"Air Europa, easyJet",130 €,2024-04-25 00:07:48,2024-05-30
+19:35,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 10m,Iberia,236 €,2024-04-25 00:07:48,2024-05-30
+12:45,20:35,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 50m,"Air Europa, Vueling",122 €,2024-04-25 00:07:48,2024-05-30
+17:40,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, easyJet",191 €,2024-04-25 00:07:48,2024-05-30
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,212 €,2024-04-25 00:07:48,2024-05-30
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,185 €,2024-04-25 00:07:48,2024-05-30
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet",211 €,2024-04-25 00:07:48,2024-05-30
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,261 €,2024-04-25 00:07:48,2024-05-30
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW,7h 35m,"Vueling, easyJet",165 €,2024-04-25 00:07:48,2024-05-30
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,236 €,2024-04-25 00:07:48,2024-05-30
+11:40,17:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Vueling, Air France",205 €,2024-04-25 00:07:48,2024-05-30
+14:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, Air France",198 €,2024-04-25 00:07:48,2024-05-30
+13:55,21:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 55m,"Vueling, easyJet",155 €,2024-04-25 00:07:48,2024-05-30
+15:50,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 15m,"Vueling, Air France",155 €,2024-04-25 00:07:48,2024-05-30
+8:25,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,5h 50m,SWISS,226 €,2024-04-25 00:07:48,2024-05-30
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,188 €,2024-04-25 00:07:48,2024-05-30
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",254 €,2024-04-25 00:07:48,2024-05-30
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",254 €,2024-04-25 00:07:48,2024-05-30
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,232 €,2024-04-25 00:07:48,2024-05-30
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,202 €,2024-04-25 00:07:48,2024-05-30
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",296 €,2024-04-25 00:07:48,2024-05-30
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,305 €,2024-04-25 00:07:48,2024-05-30
+12:45,20:35,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 50m,"Air Europa, Iberia",193 €,2024-04-25 00:07:48,2024-05-30
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,261 €,2024-04-25 00:07:48,2024-05-30
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",254 €,2024-04-25 00:07:48,2024-05-30
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,305 €,2024-04-25 00:07:48,2024-05-30
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",318 €,2024-04-25 00:07:48,2024-05-30
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",254 €,2024-04-25 00:07:48,2024-05-30
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,376 €,2024-04-25 00:07:48,2024-05-30
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,296 €,2024-04-25 00:07:48,2024-05-30
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Iberia,357 €,2024-04-25 00:07:48,2024-05-30
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",314 €,2024-04-25 00:07:48,2024-05-30
+11:35,17:25,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 50m,Lufthansa,330 €,2024-04-25 00:07:48,2024-05-30
+15:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Iberia,357 €,2024-04-25 00:07:48,2024-05-30
+15:50,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 15m,"Iberia, Air France",283 €,2024-04-25 00:07:48,2024-05-30
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",355 €,2024-04-25 00:07:48,2024-05-30
+14:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 20m,Iberia,341 €,2024-04-25 00:07:48,2024-05-30
+14:15,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,341 €,2024-04-25 00:07:48,2024-05-30
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",355 €,2024-04-25 00:07:48,2024-05-30
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,384 €,2024-04-25 00:07:48,2024-05-30
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,401 €,2024-04-25 00:07:48,2024-05-30
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",432 €,2024-04-25 00:07:48,2024-05-30
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,507 €,2024-04-25 00:07:48,2024-05-30
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,498 €,2024-04-25 00:07:48,2024-05-30
+11:35,19:25,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, LUX",7h 50m,"Lufthansa, Luxair",409 €,2024-04-25 00:07:48,2024-05-30
+11:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 25m,Iberia,505 €,2024-04-25 00:07:48,2024-05-30
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",415 €,2024-04-25 00:07:48,2024-05-30
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,452 €,2024-04-25 00:07:48,2024-05-30
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,527 €,2024-04-25 00:07:48,2024-05-30
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,527 €,2024-04-25 00:07:48,2024-05-30
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",499 €,2024-04-25 00:07:48,2024-05-30
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,527 €,2024-04-25 00:07:48,2024-05-30
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,527 €,2024-04-25 00:07:48,2024-05-30
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,SWISS,574 €,2024-04-25 00:07:48,2024-05-30
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,620 €,2024-04-25 00:07:48,2024-05-30
+13:40,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 45m,Iberia,742 €,2024-04-25 00:07:48,2024-05-30
+8:25,15:55,Bilbao,BIO,Charles de Gaulle,CDG,"ZRH, GVA",7h 30m,SWISS,900 €,2024-04-25 00:07:48,2024-05-30
+18:35,20:15,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,185 €,2024-04-25 00:07:48,2024-05-31
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,186 €,2024-04-25 00:07:48,2024-05-31
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,204 €,2024-04-25 00:07:48,2024-05-31
+8:30,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,5h 45m,SWISS,110 €,2024-04-25 00:07:48,2024-05-31
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,138 €,2024-04-25 00:07:48,2024-05-31
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,163 €,2024-04-25 00:07:48,2024-05-31
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",154 €,2024-04-25 00:07:48,2024-05-31
+7:35,12:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 45m,"Vueling, easyJet",157 €,2024-04-25 00:07:48,2024-05-31
+14:40,19:35,Bilbao,BIO,Charles de Gaulle,CDG,OPO,4h 55m,"Vueling, Air France",164 €,2024-04-25 00:07:48,2024-05-31
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",185 €,2024-04-25 00:07:48,2024-05-31
+17:35,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,3h 55m,Vueling,231 €,2024-04-25 00:07:48,2024-05-31
+10:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,easyJet,181 €,2024-04-25 00:07:48,2024-05-31
+10:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,easyJet Europe,179 €,2024-04-25 00:07:48,2024-05-31
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,221 €,2024-04-25 00:07:48,2024-05-31
+10:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"easyJet, easyJet Europe",179 €,2024-04-25 00:07:48,2024-05-31
+14:15,20:55,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 40m,"Vueling, easyJet",159 €,2024-04-25 00:07:48,2024-05-31
+10:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"easyJet Europe, easyJet",197 €,2024-04-25 00:07:48,2024-05-31
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet",189 €,2024-04-25 00:07:48,2024-05-31
+10:40,16:25,Bilbao,BIO,Charles de Gaulle,CDG,MAN,5h 45m,easyJet,215 €,2024-04-25 00:07:48,2024-05-31
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,191 €,2024-04-25 00:07:48,2024-05-31
+14:15,19:10,Bilbao,BIO,Charles de Gaulle,CDG,MXP,4h 55m,"Vueling, Air France",221 €,2024-04-25 00:07:48,2024-05-31
+13:25,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 40m,"Vueling, easyJet",181 €,2024-04-25 00:07:48,2024-05-31
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",241 €,2024-04-25 00:07:48,2024-05-31
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",217 €,2024-04-25 00:07:48,2024-05-31
+11:35,17:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,Lufthansa,227 €,2024-04-25 00:07:48,2024-05-31
+14:30,20:10,Bilbao,BIO,Charles de Gaulle,CDG,HAM,5h 40m,Eurowings,269 €,2024-04-25 00:07:48,2024-05-31
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,295 €,2024-04-25 00:07:48,2024-05-31
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Vueling, Air France",231 €,2024-04-25 00:07:48,2024-05-31
+13:25,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 35m,"Vueling, Air France",196 €,2024-04-25 00:07:48,2024-05-31
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,297 €,2024-04-25 00:07:48,2024-05-31
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Iberia,244 €,2024-04-25 00:07:48,2024-05-31
+14:15,20:25,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 10m,"Vueling, Air France",213 €,2024-04-25 00:07:48,2024-05-31
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",256 €,2024-04-25 00:07:48,2024-05-31
+10:40,15:15,Bilbao,BIO,Charles de Gaulle,CDG,MAN,4h 35m,"easyJet, Air France",300 €,2024-04-25 00:07:48,2024-05-31
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,311 €,2024-04-25 00:07:48,2024-05-31
+12:25,18:15,Bilbao,BIO,Charles de Gaulle,CDG,LIS,5h 50m,"TAP AIR PORTUGAL, easyJet",254 €,2024-04-25 00:07:48,2024-05-31
+14:55,19:55,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,5h 00m,"Volotea, Vueling",336 €,2024-04-25 00:07:48,2024-05-31
+17:40,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 05m,Vueling,324 €,2024-04-25 00:07:48,2024-05-31
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,399 €,2024-04-25 00:07:48,2024-05-31
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",365 €,2024-04-25 00:07:48,2024-05-31
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,350 €,2024-04-25 00:07:48,2024-05-31
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",291 €,2024-04-25 00:07:48,2024-05-31
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",366 €,2024-04-25 00:07:48,2024-05-31
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,399 €,2024-04-25 00:07:48,2024-05-31
+17:40,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 40m,"Iberia, Air France",403 €,2024-04-25 00:07:48,2024-05-31
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",401 €,2024-04-25 00:07:48,2024-05-31
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,412 €,2024-04-25 00:07:48,2024-05-31
+13:10,19:55,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 45m,Vueling,388 €,2024-04-25 00:07:48,2024-05-31
+17:35,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,3h 55m,Iberia,514 €,2024-04-25 00:07:48,2024-05-31
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,525 €,2024-04-25 00:07:48,2024-05-31
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,514 €,2024-04-25 00:07:48,2024-05-31
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,525 €,2024-04-25 00:07:48,2024-05-31
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",513 €,2024-04-25 00:07:48,2024-05-31
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Iberia, Air France",548 €,2024-04-25 00:07:48,2024-05-31
+15:10,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"STR, FRA",6h 15m,"Eurowings, Lufthansa",598 €,2024-04-25 00:07:48,2024-05-31
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,672 €,2024-04-25 00:07:48,2024-05-31
+11:35,17:05,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 30m,"Lufthansa, Air France",2456 €,2024-04-25 00:07:48,2024-05-31
+7:35,13:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,"Lufthansa, Air France",2456 €,2024-04-25 00:07:48,2024-05-31
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",2781 €,2024-04-25 00:07:48,2024-05-31
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,36 €,2024-04-25 00:12:59,2024-05-30
+14:15,15:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,52 €,2024-04-25 00:12:59,2024-05-30
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,63 €,2024-04-25 00:12:59,2024-05-30
+11:40,12:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,69 €,2024-04-25 00:12:59,2024-05-30
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,74 €,2024-04-25 00:12:59,2024-05-30
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,114 €,2024-04-25 00:12:59,2024-05-30
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,134 €,2024-04-25 00:12:59,2024-05-30
+14:15,15:25,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,148 €,2024-04-25 00:12:59,2024-05-30
+15:50,17:00,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,163 €,2024-04-25 00:12:59,2024-05-30
+11:40,12:50,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,163 €,2024-04-25 00:12:59,2024-05-30
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,46 €,2024-04-25 00:12:59,2024-05-30
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,179 €,2024-04-25 00:12:59,2024-05-30
+20:20,0:45,Bilbao,BIO,Barcelona-El Prat,BCN,AGP,4h 25m,Vueling,40 €,2024-04-25 00:12:59,2024-05-30
+19:20,0:45,Bilbao,BIO,Barcelona-El Prat,BCN,AGP,5h 25m,"Volotea, Vueling",49 €,2024-04-25 00:12:59,2024-05-30
+19:35,22:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 15m,Iberia,218 €,2024-04-25 00:12:59,2024-05-30
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,248 €,2024-04-25 00:12:59,2024-05-30
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,264 €,2024-04-25 00:12:59,2024-05-30
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,248 €,2024-04-25 00:12:59,2024-05-30
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,248 €,2024-04-25 00:12:59,2024-05-30
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,193 €,2024-04-25 00:12:59,2024-05-30
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,314 €,2024-04-25 00:12:59,2024-05-30
+6:45,10:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 00m,Iberia,567 €,2024-04-25 00:12:59,2024-05-30
+23:00,0:10,,+1,,-,directo,1h 10m,CitizenPlane,36 €,2024-04-25 00:12:59,2024-05-31
+21:20,22:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,36 €,2024-04-25 00:12:59,2024-05-31
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,75 €,2024-04-25 00:12:59,2024-05-31
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,81 €,2024-04-25 00:12:59,2024-05-31
+13:25,14:35,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,95 €,2024-04-25 00:12:59,2024-05-31
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,111 €,2024-04-25 00:12:59,2024-05-31
+23:00,0:10,,+1,,-,directo,1h 10m,Iberia,116 €,2024-04-25 00:12:59,2024-05-31
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Vueling,131 €,2024-04-25 00:12:59,2024-05-31
+21:20,22:30,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,151 €,2024-04-25 00:12:59,2024-05-31
+19:55,21:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,183 €,2024-04-25 00:12:59,2024-05-31
+7:10,8:20,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,183 €,2024-04-25 00:12:59,2024-05-31
+13:25,14:35,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,225 €,2024-04-25 00:12:59,2024-05-31
+8:55,10:05,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,225 €,2024-04-25 00:12:59,2024-05-31
+17:35,18:45,Bilbao,BIO,Barcelona-El Prat,BCN,directo,1h 10m,Iberia,252 €,2024-04-25 00:12:59,2024-05-31
+19:15,0:45,Bilbao,BIO,Barcelona-El Prat,BCN,AGP,5h 30m,"Volotea, Vueling",98 €,2024-04-25 00:12:59,2024-05-31
+19:35,23:30,Bilbao,BIO,Barcelona-El Prat,BCN,IBZ,3h 55m,Vueling,137 €,2024-04-25 00:12:59,2024-05-31
+6:45,10:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 05m,"Iberia, Vueling",144 €,2024-04-25 00:12:59,2024-05-31
+12:45,16:35,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 50m,Air Europa,168 €,2024-04-25 00:12:59,2024-05-31
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,217 €,2024-04-25 00:12:59,2024-05-31
+13:40,18:40,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,"Iberia, Vueling",146 €,2024-04-25 00:12:59,2024-05-31
+10:35,15:15,Bilbao,BIO,Barcelona-El Prat,BCN,ORY,4h 40m,"Volotea, Transavia France",152 €,2024-04-25 00:12:59,2024-05-31
+9:15,12:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 30m,Iberia,253 €,2024-04-25 00:12:59,2024-05-31
+14:40,19:30,Bilbao,BIO,Barcelona-El Prat,BCN,OPO,4h 50m,Vueling,163 €,2024-04-25 00:12:59,2024-05-31
+19:00,0:35,Bilbao,BIO,Barcelona-El Prat,BCN,SVQ,5h 35m,Vueling,175 €,2024-04-25 00:12:59,2024-05-31
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,216 €,2024-04-25 00:12:59,2024-05-31
+18:35,0:05,Bilbao,BIO,Barcelona-El Prat,BCN,CDG,5h 30m,Vueling,200 €,2024-04-25 00:12:59,2024-05-31
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Iberia,176 €,2024-04-25 00:12:59,2024-05-31
+6:45,11:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,Iberia,196 €,2024-04-25 00:12:59,2024-05-31
+9:15,13:45,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Iberia,253 €,2024-04-25 00:12:59,2024-05-31
+13:05,18:20,Bilbao,BIO,Barcelona-El Prat,BCN,PMI,5h 15m,Vueling,230 €,2024-04-25 00:12:59,2024-05-31
+13:10,18:35,Bilbao,BIO,Barcelona-El Prat,BCN,SVQ,5h 25m,Vueling,244 €,2024-04-25 00:12:59,2024-05-31
+17:40,21:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Vueling,327 €,2024-04-25 00:12:59,2024-05-31
+13:40,17:20,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,3h 40m,Iberia,330 €,2024-04-25 00:12:59,2024-05-31
+13:40,18:10,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 30m,Vueling,322 €,2024-04-25 00:12:59,2024-05-31
+13:40,19:15,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 35m,Vueling,286 €,2024-04-25 00:12:59,2024-05-31
+12:25,16:55,Bilbao,BIO,Barcelona-El Prat,BCN,LIS,4h 30m,TAP AIR PORTUGAL,348 €,2024-04-25 00:12:59,2024-05-31
+17:15,22:45,Bilbao,BIO,Barcelona-El Prat,BCN,AMS,5h 30m,KLM,335 €,2024-04-25 00:12:59,2024-05-31
+8:30,14:05,Bilbao,BIO,Barcelona-El Prat,BCN,ZRH,5h 35m,SWISS,343 €,2024-04-25 00:12:59,2024-05-31
+15:10,20:05,Bilbao,BIO,Barcelona-El Prat,BCN,STR,4h 55m,Eurowings,461 €,2024-04-25 00:12:59,2024-05-31
+14:05,19:35,Bilbao,BIO,Barcelona-El Prat,BCN,FRA,5h 30m,Lufthansa,432 €,2024-04-25 00:12:59,2024-05-31
+6:45,10:50,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,4h 05m,Iberia,582 €,2024-04-25 00:12:59,2024-05-31
+13:40,18:40,Bilbao,BIO,Barcelona-El Prat,BCN,MAD,5h 00m,Iberia,582 €,2024-04-25 00:12:59,2024-05-31
+7:00,9:15,Bilbao,BIO,Gran Canaria,LPA,directo,3h 15m,Iberia,155 €,2024-04-25 00:16:10,2024-05-30
+8:30,12:55,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 25m,Vueling,72 €,2024-04-25 00:16:10,2024-05-30
+19:20,23:35,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 15m,"Volotea, Vueling",82 €,2024-04-25 00:16:10,2024-05-30
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,129 €,2024-04-25 00:16:10,2024-05-30
+16:30,23:35,Bilbao,BIO,Gran Canaria,LPA,AGP,8h 05m,Vueling,76 €,2024-04-25 00:16:10,2024-05-30
+13:40,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 40m,Iberia,134 €,2024-04-25 00:16:10,2024-05-30
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Vueling,120 €,2024-04-25 00:16:10,2024-05-30
+15:35,21:50,Bilbao,BIO,Gran Canaria,LPA,FUE,7h 15m,"Vueling, Binter Canarias",104 €,2024-04-25 00:16:10,2024-05-30
+16:50,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Air Europa,132 €,2024-04-25 00:16:10,2024-05-30
+15:35,20:50,Bilbao,BIO,Gran Canaria,LPA,FUE,6h 15m,"Vueling, Binter Canarias",133 €,2024-04-25 00:16:10,2024-05-30
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,87 €,2024-04-25 00:16:10,2024-05-30
+14:15,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,7h 00m,Vueling,146 €,2024-04-25 00:16:10,2024-05-30
+12:45,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 35m,"Air Europa, Iberia Express",142 €,2024-04-25 00:16:10,2024-05-30
+15:50,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 35m,Vueling,121 €,2024-04-25 00:16:10,2024-05-30
+7:10,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Vueling,122 €,2024-04-25 00:16:10,2024-05-30
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,"AGP, MAD",9h 30m,"Vueling, Air Europa",88 €,2024-04-25 00:16:10,2024-05-30
+14:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 10m,Vueling,112 €,2024-04-25 00:16:10,2024-05-30
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,111 €,2024-04-25 00:16:10,2024-05-30
+8:40,17:00,Bilbao,BIO,Gran Canaria,LPA,"ALC, MAD",9h 20m,"Vueling, Air Europa",99 €,2024-04-25 00:16:10,2024-05-30
+7:15,17:00,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",10h 45m,"Vueling, Air Europa",96 €,2024-04-25 00:16:10,2024-05-30
+8:55,17:00,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",9h 05m,"Vueling, Air Europa",122 €,2024-04-25 00:16:10,2024-05-30
+20:00,7:30,Bilbao,BIO,Gran Canaria,LPA,TFN,12h 30m,"Vueling, Binter Canarias",110 €,2024-04-25 00:16:10,2024-05-30
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,134 €,2024-04-25 00:16:10,2024-05-30
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Iberia Express",107 €,2024-04-25 00:16:10,2024-05-30
+20:00,7:35,Bilbao,BIO,Gran Canaria,LPA,TFN-TFS,12h 35m,"Vueling, Binter Canarias",118 €,2024-04-25 00:16:10,2024-05-30
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,154 €,2024-04-25 00:16:10,2024-05-30
+12:45,23:25,Bilbao,BIO,Gran Canaria,LPA,"MAD, BCN",11h 40m,"Air Europa, Vueling",129 €,2024-04-25 00:16:10,2024-05-30
+8:55,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 20m,Vueling,133 €,2024-04-25 00:16:10,2024-05-30
+7:10,17:00,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",10h 50m,"Vueling, Air Europa",138 €,2024-04-25 00:16:10,2024-05-30
+11:40,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 45m,Vueling,130 €,2024-04-25 00:16:10,2024-05-30
+11:40,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 35m,Vueling,161 €,2024-04-25 00:16:10,2024-05-30
+9:15,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 05m,Iberia,134 €,2024-04-25 00:16:10,2024-05-30
+21:35,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 25m,"Iberia, Air Europa",102 €,2024-04-25 00:16:10,2024-05-30
+12:45,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 35m,"Air Europa, Iberia",153 €,2024-04-25 00:16:10,2024-05-30
+6:45,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 35m,Iberia,134 €,2024-04-25 00:16:10,2024-05-30
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",201 €,2024-04-25 00:16:10,2024-05-30
+9:15,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 45m,"Iberia, Air Europa",152 €,2024-04-25 00:16:10,2024-05-30
+6:45,10:40,Bilbao,BIO,Gran Canaria,LPA,MAD,4h 55m,Iberia,191 €,2024-04-25 00:16:10,2024-05-30
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,"Iberia, Iberia Express",119 €,2024-04-25 00:16:10,2024-05-30
+19:35,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 10m,Iberia,191 €,2024-04-25 00:16:10,2024-05-30
+13:40,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 40m,"Iberia, Iberia Express",177 €,2024-04-25 00:16:10,2024-05-30
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,191 €,2024-04-25 00:16:10,2024-05-30
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,131 €,2024-04-25 00:16:10,2024-05-30
+17:40,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 05m,"Iberia, Iberia Express",170 €,2024-04-25 00:16:10,2024-05-30
+17:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 40m,Iberia,191 €,2024-04-25 00:16:10,2024-05-30
+17:40,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 05m,Iberia,182 €,2024-04-25 00:16:10,2024-05-30
+6:45,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 35m,Iberia,144 €,2024-04-25 00:16:10,2024-05-30
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Iberia,191 €,2024-04-25 00:16:10,2024-05-30
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,191 €,2024-04-25 00:16:10,2024-05-30
+13:40,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 05m,Iberia,173 €,2024-04-25 00:16:10,2024-05-30
+13:40,18:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 10m,"Iberia, Binter Canarias",210 €,2024-04-25 00:16:10,2024-05-30
+13:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 40m,Iberia,191 €,2024-04-25 00:16:10,2024-05-30
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,"Iberia, Iberia Express",215 €,2024-04-25 00:16:10,2024-05-30
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,203 €,2024-04-25 00:16:10,2024-05-30
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,252 €,2024-04-25 00:16:10,2024-05-30
+6:45,10:40,Bilbao,BIO,Gran Canaria,LPA,MAD,4h 55m,Vueling,308 €,2024-04-25 00:16:10,2024-05-30
+14:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 10m,Iberia,248 €,2024-04-25 00:16:10,2024-05-30
+15:50,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 35m,Iberia,261 €,2024-04-25 00:16:10,2024-05-30
+7:10,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Iberia,269 €,2024-04-25 00:16:10,2024-05-30
+14:15,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,7h 00m,Iberia,305 €,2024-04-25 00:16:10,2024-05-30
+11:40,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 35m,Iberia,319 €,2024-04-25 00:16:10,2024-05-30
+8:30,14:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 50m,"Air Europa, Binter Canarias",375 €,2024-04-25 00:16:10,2024-05-30
+13:40,22:20,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",9h 40m,Iberia,348 €,2024-04-25 00:16:10,2024-05-30
+9:15,14:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 05m,"Iberia, Binter Canarias",373 €,2024-04-25 00:16:10,2024-05-30
+8:25,16:45,Bilbao,BIO,Gran Canaria,LPA,ZRH,9h 20m,SWISS,367 €,2024-04-25 00:16:10,2024-05-30
+22:40,10:40,Bilbao,BIO,Gran Canaria,LPA,"PMI, MAD",13h 00m,"Vueling, Iberia Express",358 €,2024-04-25 00:16:10,2024-05-30
+22:40,10:40,Bilbao,BIO,Gran Canaria,LPA,"PMI, MAD",13h 00m,"Vueling, Iberia",355 €,2024-04-25 00:16:10,2024-05-30
+7:00,13:20,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",7h 20m,Iberia,413 €,2024-04-25 00:16:10,2024-05-30
+11:40,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 45m,Iberia,379 €,2024-04-25 00:16:10,2024-05-30
+8:55,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 20m,Iberia,394 €,2024-04-25 00:16:10,2024-05-30
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,401 €,2024-04-25 00:16:10,2024-05-30
+6:45,16:45,Bilbao,BIO,Gran Canaria,LPA,"FRA, ZRH",11h 00m,Lufthansa,430 €,2024-04-25 00:16:10,2024-05-30
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,467 €,2024-04-25 00:16:10,2024-05-30
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",471 €,2024-04-25 00:16:10,2024-05-30
+7:35,16:45,Bilbao,BIO,Gran Canaria,LPA,"MUC, ZRH",10h 10m,Lufthansa,514 €,2024-04-25 00:16:10,2024-05-30
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,KLM,541 €,2024-04-25 00:16:10,2024-05-30
+6:45,13:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Iberia,585 €,2024-04-25 00:16:10,2024-05-30
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,KLM,542 €,2024-04-25 00:16:10,2024-05-30
+6:50,18:10,Bilbao,BIO,Gran Canaria,LPA,AMS,12h 20m,KLM,542 €,2024-04-25 00:16:10,2024-05-30
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,"Air France, KLM",580 €,2024-04-25 00:16:10,2024-05-30
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,"Air France, KLM",581 €,2024-04-25 00:16:10,2024-05-30
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,671 €,2024-04-25 00:16:10,2024-05-30
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,671 €,2024-04-25 00:16:10,2024-05-30
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,671 €,2024-04-25 00:16:10,2024-05-30
+10:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",11h 00m,"Air France, Bulgaria Air",1281 €,2024-04-25 00:16:10,2024-05-30
+7:10,19:35,Bilbao,BIO,Gran Canaria,LPA,"CDG, DUB",13h 25m,"Air France, Aer Lingus",1413 €,2024-04-25 00:16:10,2024-05-30
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,Iberia,84 €,2024-04-25 00:16:10,2024-05-31
+7:05,9:20,Bilbao,BIO,Gran Canaria,LPA,directo,3h 15m,Iberia,198 €,2024-04-25 00:16:10,2024-05-31
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,"Iberia, Iberia Express",104 €,2024-04-25 00:16:10,2024-05-31
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,"Vueling, Iberia Express",109 €,2024-04-25 00:16:10,2024-05-31
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia Express",102 €,2024-04-25 00:16:10,2024-05-31
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia",108 €,2024-04-25 00:16:10,2024-05-31
+6:55,11:30,Bilbao,BIO,Gran Canaria,LPA,ACE,5h 35m,"Vueling, Binter Canarias",121 €,2024-04-25 00:16:10,2024-05-31
+13:40,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 35m,Iberia,149 €,2024-04-25 00:16:10,2024-05-31
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,165 €,2024-04-25 00:16:10,2024-05-31
+15:45,23:20,Bilbao,BIO,Gran Canaria,LPA,VLC,8h 35m,"Volotea, Vueling",91 €,2024-04-25 00:16:10,2024-05-31
+11:55,16:30,Bilbao,BIO,Gran Canaria,LPA,TFN,5h 35m,"Vueling, Binter Canarias",126 €,2024-04-25 00:16:10,2024-05-31
+6:55,12:30,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 35m,"Vueling, Canaryfly",111 €,2024-04-25 00:16:10,2024-05-31
+8:30,13:00,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 30m,Vueling,152 €,2024-04-25 00:16:10,2024-05-31
+6:55,12:45,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 50m,"Vueling, Binter Canarias",121 €,2024-04-25 00:16:10,2024-05-31
+6:45,10:40,Bilbao,BIO,Gran Canaria,LPA,MAD,4h 55m,Iberia,203 €,2024-04-25 00:16:10,2024-05-31
+11:55,17:30,Bilbao,BIO,Gran Canaria,LPA,TFN,6h 35m,"Vueling, Binter Canarias",126 €,2024-04-25 00:16:10,2024-05-31
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Canaryfly",111 €,2024-04-25 00:16:10,2024-05-31
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,215 €,2024-04-25 00:16:10,2024-05-31
+6:55,12:30,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 35m,"Vueling, Air Europa",138 €,2024-04-25 00:16:10,2024-05-31
+13:40,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 35m,"Iberia, Iberia Express",179 €,2024-04-25 00:16:10,2024-05-31
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Iberia,145 €,2024-04-25 00:16:10,2024-05-31
+16:50,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 09m,"Air Europa, Iberia Express",120 €,2024-04-25 00:16:10,2024-05-31
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,141 €,2024-04-25 00:16:10,2024-05-31
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Air Europa",117 €,2024-04-25 00:16:10,2024-05-31
+11:55,18:30,Bilbao,BIO,Gran Canaria,LPA,TFN,7h 35m,"Vueling, Binter Canarias",126 €,2024-04-25 00:16:10,2024-05-31
+18:40,23:20,Bilbao,BIO,Gran Canaria,LPA,VLC,5h 40m,"Iberia, Vueling",188 €,2024-04-25 00:16:10,2024-05-31
+12:45,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia Express",170 €,2024-04-25 00:16:10,2024-05-31
+16:50,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Air Europa,180 €,2024-04-25 00:16:10,2024-05-31
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",186 €,2024-04-25 00:16:10,2024-05-31
+12:45,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia",194 €,2024-04-25 00:16:10,2024-05-31
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Air Europa",138 €,2024-04-25 00:16:10,2024-05-31
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Vueling,206 €,2024-04-25 00:16:10,2024-05-31
+17:35,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 50m,Vueling,210 €,2024-04-25 00:16:10,2024-05-31
+8:30,14:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 50m,"Air Europa, Binter Canarias",193 €,2024-04-25 00:16:10,2024-05-31
+16:50,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 09m,"Air Europa, Iberia",127 €,2024-04-25 00:16:10,2024-05-31
+7:10,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Vueling,172 €,2024-04-25 00:16:10,2024-05-31
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Binter Canarias",146 €,2024-04-25 00:16:10,2024-05-31
+17:40,22:25,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,Iberia,244 €,2024-04-25 00:16:10,2024-05-31
+17:40,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 19m,Iberia,195 €,2024-04-25 00:16:10,2024-05-31
+6:55,15:15,Bilbao,BIO,Gran Canaria,LPA,ACE,9h 20m,"Vueling, Binter Canarias",121 €,2024-04-25 00:16:10,2024-05-31
+17:40,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 20m,Iberia,145 €,2024-04-25 00:16:10,2024-05-31
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Vueling,83 €,2024-04-25 00:16:10,2024-05-31
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,190 €,2024-04-25 00:16:10,2024-05-31
+14:40,22:05,Bilbao,BIO,Gran Canaria,LPA,"OPO, MAD",8h 25m,"Vueling, Air Europa",162 €,2024-04-25 00:16:10,2024-05-31
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,Vueling,287 €,2024-04-25 00:16:10,2024-05-31
+16:50,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 10m,"Air Europa, Iberia Express",116 €,2024-04-25 00:16:10,2024-05-31
+17:40,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 19m,"Iberia, Iberia Express",189 €,2024-04-25 00:16:10,2024-05-31
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,186 €,2024-04-25 00:16:10,2024-05-31
+8:30,16:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",9h 00m,"Air Europa, Binter Canarias",186 €,2024-04-25 00:16:10,2024-05-31
+11:55,20:30,Bilbao,BIO,Gran Canaria,LPA,TFN,9h 35m,"Vueling, Binter Canarias",146 €,2024-04-25 00:16:10,2024-05-31
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, FUE",7h 50m,"Iberia, Binter Canarias",179 €,2024-04-25 00:16:10,2024-05-31
+8:30,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 50m,"Air Europa, Iberia Express",175 €,2024-04-25 00:16:10,2024-05-31
+6:45,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 35m,Iberia,124 €,2024-04-25 00:16:10,2024-05-31
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,165 €,2024-04-25 00:16:10,2024-05-31
+14:40,21:50,Bilbao,BIO,Gran Canaria,LPA,"OPO, MAD",8h 10m,Varias aerolíneas,190 €,2024-04-25 00:16:10,2024-05-31
+16:50,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 10m,"Air Europa, Iberia",149 €,2024-04-25 00:16:10,2024-05-31
+13:40,21:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, FUE",8h 20m,"Iberia, Binter Canarias",176 €,2024-04-25 00:16:10,2024-05-31
+8:30,17:20,Bilbao,BIO,Gran Canaria,LPA,AGP,9h 50m,Vueling,157 €,2024-04-25 00:16:10,2024-05-31
+8:30,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 50m,"Air Europa, Iberia",194 €,2024-04-25 00:16:10,2024-05-31
+13:40,21:50,Bilbao,BIO,Gran Canaria,LPA,"MAD, FUE",9h 10m,"Iberia, Binter Canarias",151 €,2024-04-25 00:16:10,2024-05-31
+12:45,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 05m,"Air Europa, Binter Canarias",188 €,2024-04-25 00:16:10,2024-05-31
+6:45,17:00,Bilbao,BIO,Gran Canaria,LPA,"ALC, MAD",11h 15m,"Volotea, Air Europa",109 €,2024-04-25 00:16:10,2024-05-31
+13:40,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 35m,Vueling,331 €,2024-04-25 00:16:10,2024-05-31
+8:30,17:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",10h 00m,"Air Europa, Binter Canarias",186 €,2024-04-25 00:16:10,2024-05-31
+11:55,21:30,Bilbao,BIO,Gran Canaria,LPA,TFN,10h 35m,"Vueling, Binter Canarias",146 €,2024-04-25 00:16:10,2024-05-31
+13:40,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 19m,Iberia,136 €,2024-04-25 00:16:10,2024-05-31
+13:25,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 00m,Vueling,180 €,2024-04-25 00:16:10,2024-05-31
+13:40,22:25,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 45m,Iberia,203 €,2024-04-25 00:16:10,2024-05-31
+21:20,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 05m,Vueling,100 €,2024-04-25 00:16:10,2024-05-31
+9:15,14:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 05m,"Iberia, Binter Canarias",301 €,2024-04-25 00:16:10,2024-05-31
+18:10,2:00,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",8h 50m,Iberia,234 €,2024-04-25 00:16:10,2024-05-31
+11:00,23:20,Bilbao,BIO,Gran Canaria,LPA,VLC,13h 20m,Vueling,83 €,2024-04-25 00:16:10,2024-05-31
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,"Vueling, Iberia Express",109 €,2024-04-25 00:16:10,2024-05-31
+20:00,7:30,Bilbao,BIO,Gran Canaria,LPA,TFN,12h 30m,"Vueling, Binter Canarias",118 €,2024-04-25 00:16:10,2024-05-31
+12:45,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 14m,"Air Europa, Iberia",135 €,2024-04-25 00:16:10,2024-05-31
+12:45,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 14m,"Air Europa, Iberia Express",132 €,2024-04-25 00:16:10,2024-05-31
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Iberia Express",102 €,2024-04-25 00:16:10,2024-05-31
+13:40,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 10m,"Iberia, Binter Canarias",216 €,2024-04-25 00:16:10,2024-05-31
+8:30,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 45m,"Air Europa, Iberia Express",182 €,2024-04-25 00:16:10,2024-05-31
+8:30,18:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",11h 00m,"Air Europa, Binter Canarias",199 €,2024-04-25 00:16:10,2024-05-31
+13:40,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,"Iberia, Air Europa",211 €,2024-04-25 00:16:10,2024-05-31
+13:40,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 20m,Iberia,112 €,2024-04-25 00:16:10,2024-05-31
+8:55,17:20,Bilbao,BIO,Gran Canaria,LPA,"BCN, AGP",9h 25m,Vueling,228 €,2024-04-25 00:16:10,2024-05-31
+13:40,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 19m,"Iberia, Iberia Express",165 €,2024-04-25 00:16:10,2024-05-31
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,110 €,2024-04-25 00:16:10,2024-05-31
+8:30,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 45m,"Air Europa, Iberia",194 €,2024-04-25 00:16:10,2024-05-31
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Iberia",117 €,2024-04-25 00:16:10,2024-05-31
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,"Iberia, Iberia Express",104 €,2024-04-25 00:16:10,2024-05-31
+10:40,19:35,Bilbao,BIO,Gran Canaria,LPA,LGW,9h 55m,easyJet,226 €,2024-04-25 00:16:10,2024-05-31
+14:40,23:59,Bilbao,BIO,Gran Canaria,LPA,"OPO, MAD",10h 19m,"Vueling, Iberia",179 €,2024-04-25 00:16:10,2024-05-31
+13:25,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,7h 45m,Vueling,329 €,2024-04-25 00:16:10,2024-05-31
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,"Vueling, Iberia",112 €,2024-04-25 00:16:10,2024-05-31
+15:45,2:00,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",11h 15m,Varias aerolíneas,158 €,2024-04-25 00:16:10,2024-05-31
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Binter Canarias",167 €,2024-04-25 00:16:10,2024-05-31
+9:15,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 00m,Iberia,244 €,2024-04-25 00:16:10,2024-05-31
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,165 €,2024-04-25 00:16:10,2024-05-31
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,"Iberia, Iberia Express",274 €,2024-04-25 00:16:10,2024-05-31
+6:45,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 30m,Iberia,194 €,2024-04-25 00:16:10,2024-05-31
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,"Air Europa, Binter Canarias",199 €,2024-04-25 00:16:10,2024-05-31
+14:40,2:00,Bilbao,BIO,Gran Canaria,LPA,"OPO, MAD",12h 20m,"Vueling, Iberia",128 €,2024-04-25 00:16:10,2024-05-31
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,"Iberia, Binter Canarias",176 €,2024-04-25 00:16:10,2024-05-31
+21:35,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 25m,"Iberia, Air Europa",174 €,2024-04-25 00:16:10,2024-05-31
+17:35,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 50m,Iberia,378 €,2024-04-25 00:16:10,2024-05-31
+7:35,18:20,Bilbao,BIO,Gran Canaria,LPA,LGW,11h 45m,Vueling,213 €,2024-04-25 00:16:10,2024-05-31
+8:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",13h 00m,"Air Europa, Binter Canarias",199 €,2024-04-25 00:16:10,2024-05-31
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,378 €,2024-04-25 00:16:10,2024-05-31
+6:45,10:40,Bilbao,BIO,Gran Canaria,LPA,MAD,4h 55m,Vueling,476 €,2024-04-25 00:16:10,2024-05-31
+7:10,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Iberia,341 €,2024-04-25 00:16:10,2024-05-31
+9:15,17:20,Bilbao,BIO,Gran Canaria,LPA,"MAD, AGP",9h 05m,"Iberia, Vueling",303 €,2024-04-25 00:16:10,2024-05-31
+9:15,15:50,Bilbao,BIO,Gran Canaria,LPA,"MAD, FUE",7h 35m,"Iberia, Binter Canarias",375 €,2024-04-25 00:16:10,2024-05-31
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,271 €,2024-04-25 00:16:10,2024-05-31
+14:40,22:25,Bilbao,BIO,Gran Canaria,LPA,"OPO, MAD",8h 45m,"Vueling, Iberia",349 €,2024-04-25 00:16:10,2024-05-31
+14:00,2:00,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",13h 00m,Iberia,243 €,2024-04-25 00:16:10,2024-05-31
+18:40,23:20,Bilbao,BIO,Gran Canaria,LPA,VLC,5h 40m,Iberia,480 €,2024-04-25 00:16:10,2024-05-31
+7:35,15:55,Bilbao,BIO,Gran Canaria,LPA,MUC,9h 20m,Lufthansa,399 €,2024-04-25 00:16:10,2024-05-31
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,346 €,2024-04-25 00:16:10,2024-05-31
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Iberia,338 €,2024-04-25 00:16:10,2024-05-31
+8:30,15:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 00m,"Air Europa, Canaryfly",564 €,2024-04-25 00:16:10,2024-05-31
+21:20,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 05m,Iberia,375 €,2024-04-25 00:16:10,2024-05-31
+12:45,20:10,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",8h 25m,Air Europa,570 €,2024-04-25 00:16:10,2024-05-31
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,"Air Europa, Canaryfly",588 €,2024-04-25 00:16:10,2024-05-31
+13:25,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,7h 45m,Iberia,575 €,2024-04-25 00:16:10,2024-05-31
+13:25,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 00m,Iberia,478 €,2024-04-25 00:16:10,2024-05-31
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,428 €,2024-04-25 00:16:10,2024-05-31
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",431 €,2024-04-25 00:16:10,2024-05-31
+8:30,15:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 00m,Air Europa,671 €,2024-04-25 00:16:10,2024-05-31
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,496 €,2024-04-25 00:16:10,2024-05-31
+6:50,18:20,Bilbao,BIO,Gran Canaria,LPA,AMS,12h 30m,KLM,512 €,2024-04-25 00:16:10,2024-05-31
+12:45,18:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",6h 45m,"Air Europa, Binter Canarias",715 €,2024-04-25 00:16:10,2024-05-31
+7:10,18:20,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 10m,KLM,532 €,2024-04-25 00:16:10,2024-05-31
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,"Air Europa, Binter Canarias",715 €,2024-04-25 00:16:10,2024-05-31
+12:45,21:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",9h 45m,Air Europa,655 €,2024-04-25 00:16:10,2024-05-31
+7:10,18:20,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 10m,"Air France, KLM",572 €,2024-04-25 00:16:10,2024-05-31
+7:10,18:20,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 10m,KLM,578 €,2024-04-25 00:16:10,2024-05-31
+12:45,23:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",11h 15m,Air Europa,671 €,2024-04-25 00:16:10,2024-05-31
+7:10,18:20,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 10m,"Air France, KLM",634 €,2024-04-25 00:16:10,2024-05-31
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,822 €,2024-04-25 00:16:10,2024-05-31
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,697 €,2024-04-25 00:16:10,2024-05-31
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,822 €,2024-04-25 00:16:10,2024-05-31
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,822 €,2024-04-25 00:16:10,2024-05-31
+8:30,20:10,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",12h 40m,Air Europa,822 €,2024-04-25 00:16:10,2024-05-31
+10:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",11h 00m,"Air France, Bulgaria Air",1311 €,2024-04-25 00:16:10,2024-05-31
+7:10,19:35,Bilbao,BIO,Gran Canaria,LPA,"CDG, DUB",13h 25m,"Air France, Aer Lingus",1413 €,2024-04-25 00:16:10,2024-05-31
