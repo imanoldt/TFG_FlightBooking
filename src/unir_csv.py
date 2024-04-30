@@ -11,6 +11,6 @@ primer_csv = pd.read_csv(archivos_csv[0])
 datos_unidos = pd.concat([pd.read_csv(f) for f in archivos_csv])
 
 # Escribir los datos unidos en un nuevo archivo CSV en el directorio actual
-datos_unidos.to_csv("datos_unidos.csv", index=False)
+datos_unidos.to_csv("datos_unidos_N.csv", index=False)
 
 print("Los archivos CSV se han unido exitosamente en 'datos_unidos.csv'")

@@ -1,7 +1,7 @@
 [
   {
     "departure_cod": "BIO",
-    "arrival_cod": "SVQ",
+    "arrival_cod": "LPA",
     "date_start": "2024-04-01",
     "date_end": "2024-05-31"
   },
@@ -43,7 +43,7 @@
   },
   {
     "departure_cod": "BIO",
-    "arrival_cod": "LPA",
+    "arrival_cod": "SVQ",
     "date_start": "2024-04-01",
     "date_end": "2024-05-31"
   }
