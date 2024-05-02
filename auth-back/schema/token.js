@@ -1,4 +1,4 @@
-const mongoose = require("mongoose"); // Importa mongoose
+const mongoose = require("mongoose"); 
 
 const TokenSchema = new mongoose.Schema({
     id: { type: Object },

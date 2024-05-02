@@ -1,54 +1,52 @@
-const mongoose = require("mongoose"); // Importa mongoose
-const bcrypt = require("bcrypt"); // Importa bcrypt
-const getUserInfo = require("../lib/getUserInfo"); // Importa getUserInfo
-const Token = require("./token"); // Importa Token
-const {generateAccessToken, generateRefreshToken} = require("../auth/generateTokens")
+const Mongoose = require("mongoose");
+const bcrypt = require('bcrypt');
+const { generateAccessToken, generateRefreshToken } = require("../auth/generateTokens");
+const getUserInfo = require("../lib/getUserInfo");
+const Token = require("../schema/token");
 
-///METODOS PARA MANEJAR USUARIOS
-
-const UserSchema = new mongoose.Schema({
-  id: { type: Object },
-  userEmail: { type: String, required: true, unique: true },
-  password: { type: String, required: true },
+const UserSchema = new Mongoose.Schema({
+    username: {type: String, required: true, unique: true},
+    name: {type: String, required: true},
+    password: {type: String, required: true}
 });
 
-UserSchema.pre("save", function (next) {
-  if (this.isModified("password") || this.isNew) {
-    const document = this;
-    bcrypt.hash(document.password, 10, (err, hash) => {
-      if (err) {
-        next(err);
-      } else {
-        document.password = hash;
+UserSchema.pre('save', function(next) {
+    if (this.isModified('password') || this.isNew) {
+        const document = this;
+        bcrypt.hash(document.password, 10, (err, hash) => {
+            if (err) {
+                next(err);
+            } else {
+                document.password = hash;
+                next();
+            }
+        });
+    } else {
         next();
-      }
-    });
-  } else {
-    next();
-  }
+    }
 });
 
-UserSchema.methods.usernameExists = async function (username) {
-  const result = await mongoose.model("User").find({ username: username });
-  return result.length > 0;
-};
-UserSchema.methods.comparePassword = async function (password, callbackHash) {
-  return await bcrypt.compare(password, callbackHash);
+UserSchema.statics.usernameExists = async function(username) {
+    const result = await this.findOne({ username });
+    return !!result;
 };
 
-UserSchema.methods.createAccessToken = function () {
-  return generateAccessToken(getUserInfo(this));
-};
-UserSchema.methods.createRefreshToken = async function () {
-  const refreshToken = generateRefreshToken(getUserInfo(this));
-
-  try {
-    await new Token({ token: refreshToken }).save();
-
-    return refreshToken;
-  } catch (err) {
-    console.log(err);
-  }
+UserSchema.methods.comparePassword = async function(password) {
+    return await bcrypt.compare(password, this.password);
 };
 
-module.exports = mongoose.model("User", UserSchema);
+UserSchema.methods.createRefreshToken = async function() {
+    const refreshToken = generateRefreshToken(getUserInfo(this));
+    try {
+        await new Token({ token: refreshToken }).save();
+        return refreshToken;
+    } catch (error) {
+        console.log(error);
+    }
+};
+
+UserSchema.methods.createAccessToken = function() {
+    return generateAccessToken(getUserInfo(this));
+};
+
+module.exports = Mongoose.model("User", UserSchema);

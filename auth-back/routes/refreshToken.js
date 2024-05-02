@@ -1,35 +1,44 @@
 const getTokenFromHeader = require('../auth/getTokenFromHeader');
-const { validateRefreshToken } = require('../auth/validateToken');
+const { verifyRefreshToken } = require('../auth/verifyTokens');
 const { jsonResponse } = require('../lib/jsonResponse');
-
+const Token = require('../schema/token');
 const router = require('express').Router();
+const { generateAccessToken } = require('../auth/generateTokens');
 
 router.post('/', async (req, res) => {
+
     const refreshToken = getTokenFromHeader(req.headers);
 
-    if (refreshToken) {
+    if(refreshToken){
+        try{
 
-        try {
-            const foundToken = await Token.findOne({ token: refreshToken });
-            if (!foundToken) {
-                return res.status(401).send(jsonResponse(401, { error: 'Unauthorized' }));
+
+            const found = await Token.findOne({ token: refreshToken });
+            if(!found){
+                return res.status(401).send(jsonResponse(401, { error: 'Unauthorized'}));
             }
-
-            const payload = validateRefreshToken(foundToken);
-            if (payload) {
+            const payload = verifyRefreshToken(found.token);
+            if(payload){
                 const accessToken = generateAccessToken(payload.user);
-                return res.status(200).send(jsonResponse(200, { accessToken }));
-            } else {
-                return res.status(401).send(jsonResponse(401, { error: 'Unauthorized' }));
+                return res.status(200).json(jsonResponse(200, { accessToken }));
+            }else{
+                return res.status(401).send(jsonResponse(401, { error: 'Unauthorized'}));
             }
 
-        } catch (error) {
-            return res.status(401).send(jsonResponse(401, { error: 'Unauthorized' }));
+        }catch(error){
+            return res.status(401).send(jsonResponse(401, { error: 'Unauthorized'}));
         }
 
-    } else {
-        return res.status(401).send(jsonResponse(401, { error: 'Unauthorized' }));
+    }else{
+        res.status(401).send(jsonResponse(401, { error: 'Unauthorized'}));
     }
+
+
+
+
+
+
+    res.send('refresh-token');
 });
 
 module.exports = router;

@@ -1,0 +1,76 @@
+{
+    "las palmas": {
+      "images": [
+        "/images/palmas/p1.jpg",
+        "/images/palmas/p2.jpg",
+        "/images/palmas/p3.jpg",
+        "/images/palmas/p4.jpg"
+      ],
+      "description": "Descripción genérica para Las Palmas. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "madrid": {
+      "images": [
+        "/images/madrid/m1.jpg",
+        "/images/madrid/m2.jpg",
+        "/images/madrid/m3.jpg",
+        "/images/madrid/m4.jpg",
+        "/images/madrid/m5.jpg"
+      ],
+      "description": "Descripción genérica para Madrid. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "ibiza": {
+      "images": [
+        "/images/ibiza/i1.jpg",
+        "/images/ibiza/i2.jpg",
+        "/images/ibiza/i3.jpg",
+        "/images/ibiza/i4.jpg"
+      ],
+      "description": "Descripción genérica para Ibiza. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "londres": {
+      "images": [
+        "/images/londres/l1.jpg",
+        "/images/londres/l2.jpg",
+        "/images/londres/l3.jpg",
+        "/images/londres/l4.jpg"
+      ],
+      "description": "Descripción genérica para Londres Gatwick. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "malaga": {
+      "images": [
+        "/images/malaga/m1.jpg",
+        "/images/malaga/m2.jpg",
+        "/images/malaga/m3.jpg",
+        "/images/malaga/m4.jpg"
+      ],
+      "description": "Descripción genérica para Málaga. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "paris": {
+      "images": [
+        "/images/paris/p1.jpg",
+        "/images/paris/p2.jpg",
+        "/images/paris/p3.jpg",
+        "/images/paris/p4.jpg"
+      ],
+      "description": "Descripción genérica para París Charles de Gaulle. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "barcelona": {
+      "images": [
+        "/images/barcelona/b1.jpg",
+        "/images/barcelona/b2.jpg",
+        "/images/barcelona/b3.jpg",
+        "/images/barcelona/b4.jpg"
+      ],
+      "description": "Descripción genérica para Barcelona. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "sevilla": {
+      "images": [
+        "/images/sevilla/s1.jpg",
+        "/images/sevilla/s2.jpg",
+        "/images/sevilla/s3.jpg",
+        "/images/sevilla/s4.jpg"
+      ],
+      "description": "Descripción genérica para Sevilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  }
+  

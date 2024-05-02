@@ -1,43 +1,35 @@
-const router = require("express").Router();
 const { jsonResponse } = require("../lib/jsonResponse");
 const User = require("../schema/user");
+const router = require("express").Router();
 
-router.post("/", async (req, res) => { // Marca la función como async
-  const { username, password } = req.body;
+router.post("/", async (req, res) => {
+  const { username, name, password } = req.body;
 
-  if (!!!username && !!!password) {
+  if (!username || !name || !password) {
     return res
       .status(400)
-      .json(jsonResponse(400, { error: "Invalid username or password" }));
-  }
-
-
-  const user =new User();
-  const userExist = await user.usernameExists(username);
-
-  if (userExist){
-    return res
-      .status(400)
-      .json(jsonResponse(400, { error: "User already exists" }));
+      .json(jsonResponse(400, { error: "Fields are required" }));
   }
 
   try {
-    // Crear un nuevo usuario
-    const newUser = new User({ userEmail: username, password });
+    const exists = await User.findOne({ username });
+
+    if (exists) {
+      return res
+        .status(400)
+        .json(jsonResponse(400, { error: "User already exists" }));
+    }
+
+    const newUser = new User({ username, name, password });
+
     await newUser.save();
 
-    return res.status(200).json(jsonResponse(200, { message: "User created" }));
-  
-    // Validar la seguridad de la contraseña
-    if (password.length < 8) {
-        return res.status(400).json(jsonResponse(400, { error: "Password must be at least 8 characters long" }));
-      }
-
-
-} catch (error) {
-    console.error("Error creating user:", error);
-    return res.status(500).json(jsonResponse(500, { error: "Internal server error" }));
+    res
+      .status(200)
+      .json(jsonResponse(200, { message: "User created successfully" }));
+  } catch (error) {
+    res.status(500).json(jsonResponse(500, { error: "Error creating user" }));
   }
 });
-  
+
 module.exports = router;
