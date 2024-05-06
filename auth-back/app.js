@@ -8,7 +8,11 @@ const GoogleStrategy = require("passport-google-oauth20").Strategy;
 const passportLocalMongoose = require("passport-local-mongoose");
 const session = require('express-session')
 
+const influxDBHandler = require('./routes/handleInfluxdb');
+
 const authenticate = require("./auth/authenticate");
+
+const { queryAvailableDates, queryUniqueAirlines, queryFlightPrices } = require('./routes/handleInfluxdb');
 
 require("dotenv").config();
 const port = process.env.PORT || 7903;
@@ -89,6 +93,65 @@ app.use("/api/todos", authenticate, require("./routes/todos"));
 app.use("/api/refresh-token", require("./routes/refreshToken"));
 app.use("/api/city-images", require("./routes/cities"));
 app.use("/api/rutas", require("./routes/rutas"));
+
+
+
+// ----------------------------
+
+// Endpoint para obtener precios de vuelos
+app.get('/api/flight-prices', async (req, res) => {
+  const { departure, arrival, airline } = req.query; // Asegúrate que los parámetros son enviados en la query
+  try {
+      const prices = await influxDBHandler.queryFlightPrices(departure, arrival, airline);
+      res.json(prices);
+  } catch (error) {
+      res.status(500).send(error.toString());
+  }
+});
+
+// Endpoint para obtener fechas disponibles para vuelos
+app.get('/api/available-dates/:cityName', async (req, res) => {
+  console.log(`Fetching available dates for airport: ${req.params.cityName}`);  // Imprime el aeropuerto recibido
+  try {
+      const dates = await queryAvailableDates(req.params.cityName);
+      res.json(dates);
+  } catch (error) {
+      console.error(`Failed to fetch dates for ${req.params.cityName}:`, error);
+      res.status(500).send(error.toString());
+  }
+});
+
+// Endpoint para obtener aerolíneas únicas para un aeropuerto
+app.get('/api/unique-airlines/:cityName', async (req, res) => {
+  try {
+      const airlines = await queryUniqueAirlines(req.params.cityName);
+      res.json(airlines);
+  } catch (error) {
+      console.error(`Failed to fetch airlines for ${req.params.cityName}:`, error);
+      res.status(500).send(error.toString());
+  }
+});
+
+app.get('/api/flight-price-history', async (req, res) => {
+  const { city, airline, startDate, endDate } = req.query;
+  try {
+      const prices = await influxDBHandler.queryFlightPrices(city, airline, startDate, endDate);
+      res.json(prices);
+  } catch (error) {
+      console.error(`Failed to fetch flight prices: ${error}`);
+      res.status(400).send(error.message);
+  }
+});
+
+
+
+
+// --------------------------------
+
+
+
+
+
 
 // Google Oauth
 app.get(
