@@ -7,6 +7,7 @@ import axios from "axios";
 import Map from "../components/Map/Map";
 import { addDays } from "date-fns";
 import Graph_2 from "../components/Chart/Graph_2";
+import Graph from "../components/Chart/Graph";
 
 const CityPage = () => {
     const { cityName } = useParams(); // Obtiene el nombre de la ciudad de los parámetros de la URL
@@ -36,38 +37,15 @@ const CityPage = () => {
         }
     }, [cityName]);
 
-    useEffect(() => {
-        if (cityName && selectedAirline && dateRange.startDate && dateRange.endDate) {
-            const formattedStartDate = dateRange.startDate.toISOString().split('T')[0];
-            const formattedEndDate = dateRange.endDate.toISOString().split('T')[0];
+    
 
-            const fetchPriceData = async () => {
-                try {
-                    const { data } = await axios.get(`http://localhost:7903/api/flight-price-history`, {
-                        params: {
-                            city: cityName,
-                            airline: selectedAirline,
-                            startDate: formattedStartDate,
-                            endDate: formattedEndDate
-                        }
-                    });
-                    setGraphData(data);
-                } catch (error) {
-                    console.error("Error fetching flight prices:", error);
-                    setGraphData([]); // Consider resetting or handling empty data state
-                }
-            };
-
-            fetchPriceData();
-        }
-    }, [cityName, selectedAirline, dateRange]);
 
     return (
         <DefaultLayoutTemplate>
             <Collage images={cityDetails.images} cityName={cityName} />
             <div className="container mx-auto px-4 lg:px-0">
 
-                
+
                 <div className="flex flex-col lg:flex-row justify-between gap-10 mt-10">
                     <div className="lg:w-1/2">
                         <Text quote={cityDetails.description} />
@@ -77,6 +55,7 @@ const CityPage = () => {
                     </div>
                 </div>
                 <Graph_2 city={cityName} />
+                
 
             </div>
         </DefaultLayoutTemplate>
