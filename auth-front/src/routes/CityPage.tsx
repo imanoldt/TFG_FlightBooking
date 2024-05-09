@@ -1,4 +1,3 @@
-// CityPage.tsx
 import DefaultLayoutTemplate from "../layout/DefaultLayoutTemplate";
 import Collage from "../components/Collage/Collage";
 import Text from "../components/Text/Text";
@@ -6,12 +5,11 @@ import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import axios from "axios";
 import Map from "../components/Map/Map";
-import Calendar from "../components/Calendar/Calendar";
-import Graph from "../components/Chart/Graph";
 import { addDays } from "date-fns";
+import Graph_2 from "../components/Chart/Graph_2";
 
 const CityPage = () => {
-    const { cityName } = useParams();
+    const { cityName } = useParams(); // Obtiene el nombre de la ciudad de los parámetros de la URL
     const [cityDetails, setCityDetails] = useState({ images: [], description: "" });
     const [selectedAirline, setSelectedAirline] = useState('');
     const [dateRange, setDateRange] = useState({
@@ -26,7 +24,6 @@ const CityPage = () => {
         setDateRange({ startDate, endDate });
     };
 
-    // Fetch city details and graph data
     useEffect(() => {
         if (cityName) {
             axios.get(`http://localhost:7903/api/city-images/${cityName}`)
@@ -46,11 +43,6 @@ const CityPage = () => {
 
             const fetchPriceData = async () => {
                 try {
-                    if (!cityName || !selectedAirline || !dateRange.startDate || !dateRange.endDate) {
-                        console.error("Missing data for API request:", { cityName, selectedAirline, dateRange });
-                        return;
-                    }
-
                     const { data } = await axios.get(`http://localhost:7903/api/flight-price-history`, {
                         params: {
                             city: cityName,
@@ -74,6 +66,8 @@ const CityPage = () => {
         <DefaultLayoutTemplate>
             <Collage images={cityDetails.images} cityName={cityName} />
             <div className="container mx-auto px-4 lg:px-0">
+
+                
                 <div className="flex flex-col lg:flex-row justify-between gap-10 mt-10">
                     <div className="lg:w-1/2">
                         <Text quote={cityDetails.description} />
@@ -82,15 +76,8 @@ const CityPage = () => {
                         <Map cityName={cityName} />
                     </div>
                 </div>
+                <Graph_2 city={cityName} />
 
-                <div className="flex flex-col lg:flex-row justify-between gap-10 mt-10">
-                    <div className="lg:w-1/2">
-                        <Calendar cityName={cityName} setSelection={handleDateSelection} />
-                    </div>
-                    <div className="lg:w-1/2">
-                        <Graph city={cityName} airline={selectedAirline} startDate={dateRange.startDate} endDate={dateRange.endDate} />
-                    </div>
-                </div>
             </div>
         </DefaultLayoutTemplate>
     );
