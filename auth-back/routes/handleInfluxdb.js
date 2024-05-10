@@ -91,43 +91,103 @@ function parseDate(input) {
 }
 
 
-async function queryFlightPrices(city, airline, startDate, endDate) {
-    const queryApi = client.getQueryApi(org);
-    try {
-        const formattedStart = parseDate(startDate);
-        const formattedEnd = parseDate(endDate);
 
-        const fluxQuery = `
-        from(bucket: "${bucket}")
-        |> range(start: time(v: "${formattedStart}"), stop: time(v: "${formattedEnd}"))
-        |> filter(fn: (r) => r["_measurement"] == "flight" and r["_field"] == "price")
-        |> filter(fn: (r) => r["arrival_airport"] == ${JSON.stringify(city)} and r["airline"] == ${JSON.stringify(airline)})
-        |> aggregateWindow(every: 1d, fn: mean, createEmpty: false)
-        |> yield(name: "mean")
+// handleInfluxDB.js
+async function queryFlightPrices(city, airlinesArray, startDate, endDate) {
+  const queryApi = client.getQueryApi(org);
+  try {
+    const formattedStart = parseDate(startDate);
+    const formattedEnd = parseDate(endDate);
+
+    const airlineCondition = airlinesArray.map(airline => `r["airline"] == ${JSON.stringify(airline)}`).join(" or ");
+
+    const fluxQuery = `
+      from(bucket: "${bucket}")
+      |> range(start: time(v: "${formattedStart}"), stop: time(v: "${formattedEnd}"))
+      |> filter(fn: (r) => r["_measurement"] == "flight" and r["_field"] == "price")
+      |> filter(fn: (r) => r["arrival_airport"] == ${JSON.stringify(city)} and (${airlineCondition}))
+      |> aggregateWindow(every: 1d, fn: mean, createEmpty: false)
+      |> yield(name: "mean")
     `;
-        console.log("Executing query with:", fluxQuery);
 
-        const results = [];
-        return new Promise((resolve, reject) => {
-            queryApi.queryRows(fluxQuery, {
-                next(row, tableMeta) {
-                    const o = tableMeta.toObject(row);
-                    results.push({ time: o._time, price: o._value });
-                },
-                error(error) {
-                    console.error(`Query error: ${error}`);
-                    reject(error);
-                },
-                complete() {
-                    resolve(results);
-                },
-            });
-        });
-    } catch (error) {
-        console.error("Date parsing error:", error);
-        throw error; // Re-throw the error to be caught by the endpoint handler.
-    }
+    console.log("Executing query with:", fluxQuery);
+
+    const results = [];
+    return new Promise((resolve, reject) => {
+      queryApi.queryRows(fluxQuery, {
+        next(row, tableMeta) {
+          const o = tableMeta.toObject(row);
+          results.push({
+            time: o._time,
+            price: o._value,
+            airline: o.airline // Asumiendo que 'airline' es un campo en los datos almacenados
+          });
+        },
+        error(error) {
+          console.error(`Query error: ${error}`);
+          reject(error);
+        },
+        complete() {
+          console.log("Query completed with results:", results);
+          resolve(results);
+        },
+      });
+    });
+  } catch (error) {
+    console.error("Date parsing error:", error);
+    throw error;
+  }
 }
+
+async function queryFlightPriceTrends(city, airlinesArray, startDate, endDate) {
+  const queryApi = client.getQueryApi(org);
+  try {
+    const formattedStart = parseDate(startDate);
+    const formattedEnd = parseDate(endDate);
+
+    const airlineCondition = airlinesArray.map(airline => `r["airline"] == ${JSON.stringify(airline)}`).join(" or ");
+
+    const fluxQuery = `
+      from(bucket: "${bucket}")
+      |> range(start: time(v: "${formattedStart}"), stop: time(v: "${formattedEnd}"))
+      |> filter(fn: (r) => r["_measurement"] == "flight" and r["_field"] == "price")
+      |> filter(fn: (r) => r["arrival_airport"] == ${JSON.stringify(city)} and (${airlineCondition}))
+      |> aggregateWindow(every: 1h, fn: mean, createEmpty: false)
+      |> yield(name: "mean")
+    `;
+
+    console.log("Executing detailed query for flight price trends:", fluxQuery);
+
+    const results = [];
+    return new Promise((resolve, reject) => {
+      queryApi.queryRows(fluxQuery, {
+        next(row, tableMeta) {
+          const o = tableMeta.toObject(row);
+          results.push({
+            time: o._time,
+            price: o._value,
+            airline: o.airline
+          });
+        },
+        error(error) {
+          console.error(`Query error: ${error}`);
+          reject(error);
+        },
+        complete() {
+          console.log("Query completed with detailed results:", results);
+          resolve(results);
+        },
+      });
+    });
+  } catch (error) {
+    console.error("Date parsing error:", error);
+    throw error;
+  }
+}
+
+
+
+
 
 
 
@@ -139,4 +199,5 @@ module.exports = {
   queryAvailableDates,
   queryUniqueAirlines,
   queryFlightPrices,
+  queryFlightPriceTrends
 };

@@ -133,15 +133,36 @@ app.get('/api/unique-airlines/:cityName', async (req, res) => {
 });
 
 app.get('/api/flight-price-history', async (req, res) => {
-  const { city, airline, startDate, endDate } = req.query;
+  const { city, airlines, startDate, endDate } = req.query;
+
+  // Agregar console.log para depuración
+  console.log("Querying flight prices for:", city, airlines, startDate, endDate);
+
+  // Verificar si airlines es un array o convertirlo a array si es una cadena separada por comas
+  const airlinesArray = Array.isArray(airlines) ? airlines : (airlines ? airlines.split(',') : []);
+
+  // Verificar si airlinesArray es un array
+  if (!Array.isArray(airlinesArray)) {
+      console.error("Airlines is not an array");
+      return res.status(400).send("Airlines must be an array");
+  }
+
   try {
-      const prices = await influxDBHandler.queryFlightPrices(city, airline, startDate, endDate);
+      const prices = await influxDBHandler.queryFlightPrices(city, airlinesArray, startDate, endDate);
+      console.log("Flight prices:", prices);
       res.json(prices);
   } catch (error) {
       console.error(`Failed to fetch flight prices: ${error}`);
       res.status(400).send(error.message);
   }
 });
+
+
+
+
+
+
+
 
 
 

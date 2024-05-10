@@ -1,71 +1,95 @@
-import React, { useEffect, useRef, useState } from 'react';
-import { createChart } from 'lightweight-charts';
+import React, { useEffect, useState } from 'react';
+import axios from 'axios';
+import { Line } from 'react-chartjs-2';
+import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend } from 'chart.js';
+import airportMapping from '../../utils/airportMappings';
 
-const Graph_2 = () => {
-  const chartContainerRef = useRef(null);
-  const [fromDate, setFromDate] = useState('2022-01-01');
-  const [toDate, setToDate] = useState('2022-06-15');
-  const [selectedAirlines, setSelectedAirlines] = useState([]);
-  const airlines = ['Delta', 'American Airlines', 'United', 'Southwest']; // Ejemplo de aerolíneas
+ChartJS.register(
+  CategoryScale,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Title,
+  Tooltip,
+  Legend
+);
 
-  const [data, setData] = useState([
-    { time: '2022-01-01', value: 100 },
-    // Añade más datos como los que ya tienes
-    { time: '2022-06-15', value: 200 }
-  ]);
+interface FlightPriceData {
+  time: string;
+  price: number;
+  airline: string;
+}
+
+interface Props {
+  city: string;
+}
+
+const Graph_2: React.FC<Props> = ({ city }) => {
+  const [fromDate, setFromDate] = useState('');
+  const [toDate, setToDate] = useState('');
+  const [selectedAirlines, setSelectedAirlines] = useState<string[]>([]);
+  const [airlines, setAirlines] = useState<string[]>([]);
+  const [availableDates, setAvailableDates] = useState<string[]>([]);
+  const [chartData, setChartData] = useState({ datasets: [] });
 
   useEffect(() => {
-    if (chartContainerRef.current) {
-      const filteredData = data.filter(
-        d => d.time >= fromDate && d.time <= toDate
-      );
+    const fetchData = async () => {
+      const airportName = airportMapping[city.toLowerCase()] || city;
+      const datesResponse = await axios.get(`http://localhost:7903/api/available-dates/${airportName}`);
+      const airlinesResponse = await axios.get(`http://localhost:7903/api/unique-airlines/${airportName}`);
+      const uniqueDates = [...new Set(datesResponse.data.map(date => date.split('T')[0]))].sort();
 
-      const chartOptions = {
-        layout: {
-          textColor: 'black',
-          background: { type: 'solid', color: 'white' },
-        },
-      };
-
-      const chart = createChart(chartContainerRef.current, chartOptions);
-      const series = chart.addLineSeries({
-        color: '#2962FF',
-        lineWidth: 2,
-        lastValueVisible: false,
-        priceLineVisible: false,
-      });
-      series.setData(filteredData);
-
-      return () => {
-        chart.remove();
-      };
-    }
-  }, [fromDate, toDate, data]);
-
-  const handleFromDateChange = (event) => {
-    setFromDate(event.target.value);
-  };
-
-  const handleToDateChange = (event) => {
-    setToDate(event.target.value);
-  };
-
-  const handleAirlineChange = (airline) => {
-    setSelectedAirlines(prev => {
-      if (prev.includes(airline)) {
-        return prev.filter(a => a !== airline);
-      } else {
-        return [...prev, airline];
+      setAvailableDates(uniqueDates);
+      setAirlines(airlinesResponse.data);
+      if (uniqueDates.length) {
+        setFromDate(uniqueDates[0]);
+        setToDate(uniqueDates[uniqueDates.length - 1]);
       }
-    });
+    };
+
+    fetchData();
+  }, [city]);
+
+  useEffect(() => {
+    const fetchFlightData = async () => {
+      if (fromDate && toDate && selectedAirlines.length > 0 && city) {
+        const airportName = airportMapping[city.toLowerCase()] || city;
+        const response = await axios.get(`http://localhost:7903/api/flight-price-history`, {
+          params: {
+            city: airportName,
+            airlines: selectedAirlines.join(','),
+            startDate: fromDate,
+            endDate: toDate,
+          },
+        });
+
+        const newChartData = {
+          labels: response.data.map(d => new Date(d.time).toLocaleDateString()),
+          datasets: selectedAirlines.map(airline => ({
+            label: airline,
+            data: response.data.filter(d => d.airline === airline).map(d => d.price),
+            borderColor: `#${Math.floor(Math.random() * 16777215).toString(16)}`,
+            backgroundColor: `#${Math.floor(Math.random() * 16777215).toString(16)}`,
+            fill: false,
+          })),
+        };
+        setChartData(newChartData);
+      }
+    };
+
+    fetchFlightData();
+  }, [fromDate, toDate, selectedAirlines, city]);
+
+  const handleAirlineChange = (airline: string) => {
+    setSelectedAirlines(prev => prev.includes(airline) ? prev.filter(a => a !== airline) : [...prev, airline]);
   };
 
   return (
-    <div className="flex">
-      <div className="w-72 p-4 space-y-6 bg-white shadow-xl rounded-lg">
-        <h3 className="text-lg font-bold text-gray-700">Filtros</h3>
-        <div className="space-y-2">
-          <label className="block text-sm font-medium text-gray-700">Aerolíneas:</label>
+    <div className="flex p-4 "> {/* Usa h-screen o h-full para que tome toda la altura de la pantalla */}
+      <div className="flex flex-col w-1/4 p-4 bg-white shadow-2xl rounded-lg overflow-y-auto "> {/* Sección de filtros */}
+        <h2 className="text-lg font-bold text-gray-700 text-center">Filtros</h2>
+        <div className='p-2'>
+          <label className="block text-sm font-medium text-gray-700 mb-2">Aerolíneas:</label>
           {airlines.map(airline => (
             <div key={airline} className="flex items-center">
               <input
@@ -75,39 +99,48 @@ const Graph_2 = () => {
                 onChange={() => handleAirlineChange(airline)}
                 className="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
               />
-              <label htmlFor={airline} className="ml-2 block text-sm text-gray-900">
-                {airline}
-              </label>
+              <label htmlFor={airline} className="ml-2 block text-sm text-gray-900">{airline}</label>
             </div>
           ))}
         </div>
-        <div className="space-y-2">
+        <div className='p-2'>
           <label htmlFor="from-date" className="block text-sm font-medium text-gray-700">Desde:</label>
-          <select id="from-date" value={fromDate} onChange={handleFromDateChange} className="block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 text-sm">
-            {data.map(d => (
-              <option key={d.time} value={d.time}>{d.time}</option>
+          <select
+            id="from-date"
+            value={fromDate}
+            onChange={e => setFromDate(e.target.value)}
+            className="block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 text-sm"
+          >
+            {availableDates.map(date => (
+              <option key={date} value={date}>{date}</option>
             ))}
           </select>
         </div>
-        <div className="space-y-2">
+        <div className='p-2'>
           <label htmlFor="to-date" className="block text-sm font-medium text-gray-700">Hasta:</label>
-          <select id="to-date" value={toDate} onChange={handleToDateChange} className="block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 text-sm">
-            {data.map(d => (
-              <option key={d.time} value={d.time}>{d.time}</option>
+          <select
+            id="to-date"
+            value={toDate}
+            onChange={e => setToDate(e.target.value)}
+            className="block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 text-sm"
+          >
+            {availableDates.map(date => (
+              <option key={date} value={date}>{date}</option>
             ))}
           </select>
         </div>
       </div>
-      <div className="flex-grow p-4">
+  
+      <div className="flex-grow p-4 ml-4 flex flex-col shadow-2xl rounded-lg"> {/* Sección del gráfico */}
         <h2 className="text-lg font-bold text-gray-700 mb-4 text-center">Historial de Precio</h2>
-        <div
-          ref={chartContainerRef}
-          className="shadow-xl rounded-xl overflow-hidden transition-opacity duration-1000 ease-out opacity-0 animate-fade-in"
-          style={{ height: '300px', width: '100%' }}
-        />
+        <div className="flex-grow"> {/* Asegura que el contenedor del gráfico ocupa el espacio restante */}
+          <Line data={chartData} options={{ responsive: true, maintainAspectRatio: false }} />
+        </div>
       </div>
     </div>
   );
+  
 };
 
 export default Graph_2;
+
