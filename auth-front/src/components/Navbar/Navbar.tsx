@@ -65,7 +65,7 @@ export default function Navbar() {
           aria-expanded="true"
           aria-haspopup="true"
         >
-          Mi Perfil {auth.getUser()?.username}
+          Mi Perfil {auth.getUser()?.username} {auth.getUser()?._id}
           <MdClose className="ml-2" />
         </button>
         {profileMenuOpen && (

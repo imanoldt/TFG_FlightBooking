@@ -10,9 +10,10 @@ import ProtectedRoute from "./routes/ProtectedRoute.tsx";
 import { AuthProvider } from "./auth/AuthProvider.tsx";
 import DefaultLayoutLogin from "./layout/DefaultLayoutLogin.tsx";
 import DefaultLayoutSignUp from "./layout/DefaultLayoutSignUp.tsx";
-import DefaultLayoutTemplate from "./layout/DefaultLayoutTemplate.tsx";
 import CityPage from "./routes/CityPage";
 import Rutas from "./routes/Rutas";
+import Profile from "./routes/Profile.tsx";
+import { SettingsProvider } from "./utils/SettingsContext.tsx";
 
 const router = createBrowserRouter([
   { path: "/", element: <DefaultLayoutLogin /> },
@@ -27,12 +28,18 @@ const router = createBrowserRouter([
     path: "/city/:cityName",
     element: <CityPage />,
   },
+  {
+    path: "/perfil",
+    element: <Profile />,
+  },
 ]);
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
     <AuthProvider>
-      <RouterProvider router={router} />
+      <SettingsProvider>
+        <RouterProvider router={router} />
+      </SettingsProvider>
     </AuthProvider>
   </React.StrictMode>
 );

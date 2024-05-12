@@ -77,3 +77,15 @@
 .animate-fade-in {
   animation: fade-in 1s forwards;
 }
+
+
+
+
+@keyframes beat {
+  0%, 100% {
+    transform: scale(9);
+  }
+  50% {
+    transform: scale(5.25);
+  }
+}
