@@ -37,24 +37,16 @@ export default function Navbar() {
               <h1 className="text-3xl font-bold text-black">SkySculptor</h1>
               <img
                 className="h-12 w-12 object-cover"
-                src="../public/sky_logo.webp"
-                alt=""
+                src="logo_sky.webp"
+                alt="logo"
               />
             </div>
           </div>
           <ul className="flex items-center xl:gap-12 gap-x-4 max-lg:hidden">
             <Link to="/dashboard" className="leading-normal no-underline text-black font-bold text-lg hover:text-primary">Inicio</Link>
             <Link to="/rutas" className="leading-normal no-underline text-black font-bold text-lg hover:text-primary">Rutas</Link>
-            <Link to="" className="leading-normal no-underline text-black font-bold text-lg hover:text-primary">About</Link>
-            <Link to="" className="leading-normal no-underline text-black font-bold text-lg hover:text-primary">Contacto</Link>
-{/*
-            {auth && (
-              <button className="flex items-center bg-primary rounded border shadow h-16 px-12 outline-none text-white hover:bg-white hover:text-primary cursor-pointer text-base transition-bg hover:border hover:border-primary">
-                Mi Perfil {auth.getUser()?.username}
-              </button>
-            )}*/}
-            
-          
+            <Link to="/buscador" className="leading-normal no-underline text-black font-bold text-lg hover:text-primary">Buscador</Link>
+            <Link to="/contacto" className="leading-normal no-underline text-black font-bold text-lg hover:text-primary">Contacto</Link>
           
             {auth && (
       <div className="relative">

@@ -1,0 +1,432 @@
+[
+    {
+        "city": "Las Palmas",
+        "airport": "Gran Canaria",
+        "code": "LPA"
+    },
+    {
+        "city": "Madrid",
+        "airport": "Adolfo Suárez Madrid-Barajas",
+        "code": "MAD"
+    },
+    {
+        "city": "Ibiza",
+        "airport": "Ibiza",
+        "code": "IBZ"
+    },
+    {
+        "city": "Londres",
+        "airport": "London Gatwick",
+        "code": "LGW"
+    },
+    {
+        "city": "Málaga",
+        "airport": "Málaga-Costa del Sol",
+        "code": "AGP"
+    },
+    {
+        "city": "París",
+        "airport": "Charles de Gaulle",
+        "code": "CDG"
+    },
+    {
+        "city": "Barcelona",
+        "airport": "Josep Tarradellas Barcelona-El Prat",
+        "code": "BCN"
+    },
+    {
+        "city": "Sevilla",
+        "airport": "Sevilla",
+        "code": "SVQ"
+    },
+    {
+        "city": "Ámsterdam",
+        "airport": "Schiphol",
+        "code": "AMS"
+    },
+    {
+        "city": "Los Ángeles",
+        "airport": "Los Angeles International",
+        "code": "LAX"
+    },
+    {
+        "city": "Nueva York",
+        "airport": "John F. Kennedy International",
+        "code": "JFK"
+    },
+    {
+        "city": "Tokio",
+        "airport": "Haneda",
+        "code": "HND"
+    },
+    {
+        "city": "Sídney",
+        "airport": "Sydney Kingsford Smith",
+        "code": "SYD"
+    },
+    {
+        "city": "Hong Kong",
+        "airport": "Hong Kong International",
+        "code": "HKG"
+    },
+    {
+        "city": "Toronto",
+        "airport": "Toronto Pearson International",
+        "code": "YYZ"
+    },
+    {
+        "city": "Sao Paulo",
+        "airport": "Guarulhos International",
+        "code": "GRU"
+    },
+    {
+        "city": "Dubai",
+        "airport": "Dubai International",
+        "code": "DXB"
+    },
+    {
+        "city": "Fráncfort",
+        "airport": "Frankfurt am Main",
+        "code": "FRA"
+    },
+    {
+        "city": "Bangkok",
+        "airport": "Suvarnabhumi",
+        "code": "BKK"
+    },
+    {
+        "city": "Buenos Aires",
+        "airport": "Ministro Pistarini",
+        "code": "EZE"
+    },
+    {
+        "city": "Roma",
+        "airport": "Leonardo da Vinci-Fiumicino",
+        "code": "FCO"
+    },
+    {
+        "city": "Milán",
+        "airport": "Malpensa",
+        "code": "MXP"
+    },
+    {
+        "city": "Chicago",
+        "airport": "O'Hare International",
+        "code": "ORD"
+    },
+    {
+        "city": "San Francisco",
+        "airport": "San Francisco International",
+        "code": "SFO"
+    },
+    {
+        "city": "Estambul",
+        "airport": "Istanbul",
+        "code": "IST"
+    },
+    {
+        "city": "Miami",
+        "airport": "Miami International",
+        "code": "MIA"
+    },
+    {
+        "city": "Moscú",
+        "airport": "Sheremetyevo",
+        "code": "SVO"
+    },
+    {
+        "city": "Delhi",
+        "airport": "Indira Gandhi International",
+        "code": "DEL"
+    },
+    {
+        "city": "Singapur",
+        "airport": "Changi",
+        "code": "SIN"
+    },
+    {
+        "city": "México D.F.",
+        "airport": "Benito Juárez International",
+        "code": "MEX"
+    },
+    {
+        "city": "Seúl",
+        "airport": "Incheon International",
+        "code": "ICN"
+    },
+    {
+        "city": "Doha",
+        "airport": "Hamad International",
+        "code": "DOH"
+    },
+    {
+        "city": "Viena",
+        "airport": "Vienna International",
+        "code": "VIE"
+    },
+    {
+        "city": "Lisboa",
+        "airport": "Humberto Delgado",
+        "code": "LIS"
+    },
+    {
+        "city": "Copenhague",
+        "airport": "Copenhagen",
+        "code": "CPH"
+    },
+    {
+        "city": "Estocolmo",
+        "airport": "Arlanda",
+        "code": "ARN"
+    },
+    {
+        "city": "Atenas",
+        "airport": "Athens International",
+        "code": "ATH"
+    },
+    {
+        "city": "Oslo",
+        "airport": "Gardermoen",
+        "code": "OSL"
+    },
+    {
+        "city": "Helsinki",
+        "airport": "Helsinki-Vantaa",
+        "code": "HEL"
+    },
+    {
+        "city": "Varsovia",
+        "airport": "Warsaw Chopin",
+        "code": "WAW"
+    },
+    {
+        "city": "Bruselas",
+        "airport": "Brussels",
+        "code": "BRU"
+    },
+    {
+        "city": "Dublín",
+        "airport": "Dublin",
+        "code": "DUB"
+    },
+    {
+        "city": "Praga",
+        "airport": "Václav Havel",
+        "code": "PRG"
+    },
+    {
+        "city": "Budapest",
+        "airport": "Budapest Ferenc Liszt",
+        "code": "BUD"
+    },
+    {
+        "city": "Bratislava",
+        "airport": "Bratislava",
+        "code": "BTS"
+    },
+    {
+        "city": "Sofía",
+        "airport": "Sofia",
+        "code": "SOF"
+    },
+    {
+        "city": "Bucarest",
+        "airport": "Henri Coandă",
+        "code": "OTP"
+    },
+    {
+        "city": "Vilna",
+        "airport": "Vilnius",
+        "code": "VNO"
+    },
+    {
+        "city": "Riga",
+        "airport": "Riga",
+        "code": "RIX"
+    },
+    {
+        "city": "Tallin",
+        "airport": "Tallinn",
+        "code": "TLL"
+    },
+    {
+        "city": "Liubliana",
+        "airport": "Ljubljana Jože Pučnik",
+        "code": "LJU"
+    },
+    {
+        "city": "Zagreb",
+        "airport": "Franjo Tuđman",
+        "code": "ZAG"
+    },
+    {
+        "city": "Sarajevo",
+        "airport": "Sarajevo",
+        "code": "SJJ"
+    },
+    {
+        "city": "Belgrado",
+        "airport": "Nikola Tesla",
+        "code": "BEG"
+    },
+    {
+        "city": "Podgorica",
+        "airport": "Podgorica",
+        "code": "TGD"
+    },
+    {
+        "city": "Tirana",
+        "airport": "Tirana International",
+        "code": "TIA"
+    },
+    {
+        "city": "Kiev",
+        "airport": "Boryspil",
+        "code": "KBP"
+    },
+    {
+        "city": "San Petersburgo",
+        "airport": "Pulkovo",
+        "code": "LED"
+    },
+    {
+        "city": "Vancouver",
+        "airport": "Vancouver International",
+        "code": "YVR"
+    },
+    {
+        "city": "Montreal",
+        "airport": "Pierre Elliott Trudeau",
+        "code": "YUL"
+    },
+    {
+        "city": "Calgary",
+        "airport": "Calgary International",
+        "code": "YYC"
+    },
+    {
+        "city": "Ottawa",
+        "airport": "Ottawa Macdonald-Cartier",
+        "code": "YOW"
+    },
+    {
+        "city": "Winnipeg",
+        "airport": "Winnipeg James Armstrong Richardson",
+        "code": "YWG"
+    },
+    {
+        "city": "Edmonton",
+        "airport": "Edmonton International",
+        "code": "YEG"
+    },
+    {
+        "city": "Ciudad de México",
+        "airport": "Benito Juárez International",
+        "code": "MEX"
+    },
+    {
+        "city": "Cancún",
+        "airport": "Cancún International",
+        "code": "CUN"
+    },
+    {
+        "city": "Guadalajara",
+        "airport": "Miguel Hidalgo y Costilla",
+        "code": "GDL"
+    },
+    {
+        "city": "Monterrey",
+        "airport": "General Mariano Escobedo",
+        "code": "MTY"
+    },
+    {
+        "city": "Lima",
+        "airport": "Jorge Chávez International",
+        "code": "LIM"
+    },
+    {
+        "city": "Bogotá",
+        "airport": "El Dorado",
+        "code": "BOG"
+    },
+    {
+        "city": "Santiago",
+        "airport": "Arturo Merino Benítez",
+        "code": "SCL"
+    },
+    {
+        "city": "Caracas",
+        "airport": "Simón Bolívar",
+        "code": "CCS"
+    },
+    {
+        "city": "Brasilia",
+        "airport": "Presidente Juscelino Kubitschek",
+        "code": "BSB"
+    },
+    {
+        "city": "Rio de Janeiro",
+        "airport": "Galeão International",
+        "code": "GIG"
+    },
+    {
+        "city": "Buenos Aires",
+        "airport": "Jorge Newbery",
+        "code": "AEP"
+    },
+    {
+        "city": "Sao Paulo",
+        "airport": "Congonhas",
+        "code": "CGH"
+    },
+    {
+        "city": "Montevideo",
+        "airport": "Carrasco International",
+        "code": "MVD"
+    },
+    {
+        "city": "Ciudad de Panamá",
+        "airport": "Tocumen International",
+        "code": "PTY"
+    },
+    {
+        "city": "San José",
+        "airport": "Juan Santamaría International",
+        "code": "SJO"
+    },
+    {
+        "city": "La Habana",
+        "airport": "José Martí International",
+        "code": "HAV"
+    },
+    {
+        "city": "Punta Cana",
+        "airport": "Punta Cana International",
+        "code": "PUJ"
+    },
+    {
+        "city": "San Juan",
+        "airport": "Luis Muñoz Marín International",
+        "code": "SJU"
+    },
+    {
+        "city": "Nassau",
+        "airport": "Lynden Pindling International",
+        "code": "NAS"
+    },
+    {
+        "city": "Kingston",
+        "airport": "Norman Manley International",
+        "code": "KIN"
+    },
+    {
+        "city": "San Salvador",
+        "airport": "Monseñor Óscar Arnulfo Romero",
+        "code": "SAL"
+    },
+    {
+        "city": "Guatemala City",
+        "airport": "La Aurora International",
+        "code": "GUA"
+    }
+]

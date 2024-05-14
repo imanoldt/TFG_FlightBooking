@@ -134,6 +134,7 @@ export function AuthProvider({ children }: AuthproviderProps) {
   function getAccessToken() {
     return accessToken;
   }
+  
 
   function getRefreshToken(): string | null {
     const tokenData = localStorage.getItem("token");

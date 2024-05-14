@@ -13,9 +13,6 @@ type CardProps = {
 const Card: React.FC<CardProps> = ({ image, text, accuracy, reviews, price }) => {
   const navigate = useNavigate();
 
-
-
-
   const handleCardClick = () => {
     navigate(`/city/${text.toLowerCase()}`);
     console.log('Navigating to:', `/city/${text.toLowerCase()}`);

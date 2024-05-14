@@ -1,12 +1,10 @@
-
+import { motion } from 'framer-motion';
 import Card from "../Concrete/Card";
 import { useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-
 export default function Packages() {
-
   const [images, setImages] = useState<string[]>([]);
   const { cityName } = useParams();
 
@@ -25,7 +23,12 @@ export default function Packages() {
         setImages([]);
       });
   }, [cityName]);
-  
+
+  const cardVariants = {
+    hidden: { opacity: 0, y: 50 },
+    visible: { opacity: 1, y: 0, transition: { duration: 0.6, ease: "easeOut" } }
+  };
+
   return (
     <div>
       <div className="bg-lightGray my-16 py-16 relative">
@@ -38,44 +41,40 @@ export default function Packages() {
               Nuestras Rutas
             </h2>
           </span>
-          <div className="grid xl:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-6 my-12 relative z-10">
-          <Card image="./public/images/madrid/mM.jpg" text="Madrid" accuracy={9.8} reviews="España" price="≈ 50 €" />
-            <Card
-              image="./public/Sev.jpg"
-              text="Sevilla"
-              accuracy={8.8}
-              reviews="España"
-              price="≈ 80 €"
-            />
-            <Card
-              image="./public/images/paris/pM.jpg"
-              text="Paris"
-              accuracy={9.5}
-              reviews="España"
-              price="≈ 160 €"
-            />
-            <Card
-              image="./public/images/paris/lM.jpg"
-              text="Las Palmas"
-              accuracy={2.8}
-              reviews="España"
-              price="≈ 200 €"
-            />
-          </div>
+          <motion.div 
+            className="grid xl:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-6 my-12 relative z-10"
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true, amount: 0.2 }}
+            variants={cardVariants}
+          >
+            <motion.div variants={cardVariants}>
+              <Card image="images/madrid/mM.jpg" text="Madrid" accuracy={9.8} reviews="España" price="≈ 50 €" />
+            </motion.div>
+            <motion.div variants={cardVariants}>
+              <Card image="Sev.jpg" text="Sevilla" accuracy={8.8} reviews="España" price="≈ 80 €" />
+            </motion.div>
+            <motion.div variants={cardVariants}>
+              <Card image="images/paris/pM.jpg" text="Paris" accuracy={9.5} reviews="España" price="≈ 160 €" />
+            </motion.div>
+            <motion.div variants={cardVariants}>
+              <Card image="images/palmas/lM.jpg" text="Las Palmas" accuracy={2.8} reviews="España" price="≈ 200 €" />
+            </motion.div>
+          </motion.div>
         </div>
         <img
-          src="../public/star.png"
+          src="star.png"
           alt=""
           className="lg:block hidden absolute -top-16 left-0"
         />
         <img
-          src="../public/doughnut_3.png"
-          alt=""
+          src="doughnut_3.png"
+          alt="flotador"
           className="lg:block hidden absolute -bottom-16 left-0"
         />
         <img
-          src="../public/flower.png"
-          alt=""
+          src="flower.png"
+          alt="flor"
           className="lg:block hidden absolute bottom-0 right-0"
         />
       </div>

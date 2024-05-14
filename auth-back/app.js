@@ -12,7 +12,9 @@ const influxDBHandler = require('./routes/handleInfluxdb');
 
 const authenticate = require("./auth/authenticate");
 
-const { queryAvailableDates, queryUniqueAirlines, queryFlightPrices } = require('./routes/handleInfluxdb');
+const { queryAvailableDates, queryUniqueAirlines, queryFlightPrices, queryFlightPriceTrends } = require('./routes/handleInfluxdb');
+
+const UserGoogle = require('./schema/userGoogle'); 
 
 require("dotenv").config();
 const port = process.env.PORT || 7903;
@@ -47,35 +49,73 @@ usuarioSechema.plugin(findOrCreate);
 const Usuario = new mongoose.model("User_Outh", usuarioSechema);
 passport.use(Usuario.createStrategy());
 
-passport.serializeUser(function (user, cb) {
-  process.nextTick(function () {
-    cb(null, { id: user.id });
+passport.serializeUser(function(user, done) {
+  done(null, user.id);
+});
+
+passport.deserializeUser(function(id, done) {
+  UserGoogle.findById(id, function(err, user) {
+    done(err, user);
   });
 });
 
-passport.deserializeUser(function (user, cb) {
-  process.nextTick(function () {
-    return cb(null, user);
-  });
-});
 
-passport.use(
-  new GoogleStrategy(
-    {
-      clientID: process.env.GOOGLE_CLIENT_ID,
-      clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-      callbackURL: "http://localhost:7903/api/auth/google/callback",
-    },
-    function (accessToken, refreshToken, profile, cb) {
-      console.log(profile);
-      Usuario.findOrCreate({ googleId: profile.id }, {username: profile.displayName}, function (err, user) {
-        return cb(err, user);
-      });
-    }
-  )
-);
+// passport.use(
+//   new GoogleStrategy(
+//     {
+//       clientID: process.env.GOOGLE_CLIENT_ID,
+//       clientSecret: process.env.GOOGLE_CLIENT_SECRET,
+//       callbackURL: "http://localhost:7903/api/auth/google/callback",
+//     },
+//     function (accessToken, refreshToken, profile, cb) {
+//       console.log(profile);
+//       Usuario.findOrCreate({ googleId: profile.id }, {username: profile.displayName}, function (err, user) {
+//         return cb(err, user);
+//       });
+//     }
+//   )
+// );
 
-app.use(cors());
+
+passport.use(new GoogleStrategy({
+  clientID: process.env.GOOGLE_CLIENT_ID,
+  clientSecret: process.env.GOOGLE_CLIENT_SECRET,
+  callbackURL: "http://localhost:7903/api/auth/google/callback"
+}, async (accessToken, refreshToken, profile, done) => {
+  try {
+      console.log("Profile:", profile);  // Esto te ayudará a entender qué datos estás recibiendo
+      const email = profile.emails && profile.emails.length > 0 ? profile.emails[0].value : null;
+      if (!email) {
+          return done(new Error('No email found'), null);
+      }
+      const existingUser = await UserGoogle.findOne({ email: email });
+      if (existingUser) {
+          return done(null, existingUser);
+      } else {
+          const newUser = await UserGoogle.create({
+              googleId: profile.id,
+              email: email,
+              name: profile.displayName,
+          });
+          return done(null, newUser);
+      }
+  } catch (error) {
+      return done(error);
+  }
+}));
+
+
+
+app.use(cors({
+  origin: 'http://localhost:5173',  // Asegúrate de ajustar esto según donde esté alojado tu frontend
+  credentials: true  // Permite el envío de cookies y credenciales de autenticación
+}));
+
+// --------------------------------
+
+
+
+//app.use(cors());
 app.use(express.json());
 
 async function main() {
@@ -92,6 +132,7 @@ app.use("/api/signout", require("./routes/signout"));
 app.use("/api/todos", authenticate, require("./routes/todos"));
 app.use("/api/refresh-token", require("./routes/refreshToken"));
 app.use("/api/city-images", require("./routes/cities"));
+app.use("/api/cities", require("./routes/findCities"));
 app.use("/api/rutas", require("./routes/rutas"));
 
 
@@ -158,41 +199,45 @@ app.get('/api/flight-price-history', async (req, res) => {
 });
 
 
+app.get('/api/flight-price-trends', async (req, res) => {
+  const { city, airlines, startDate, endDate } = req.query;
+  const airlinesArray = Array.isArray(airlines) ? airlines : (airlines ? airlines.split(',') : []);
 
-
-
-
-
-
-
-
+  try {
+      const priceTrends = await queryFlightPriceTrends(city, airlinesArray, startDate, endDate);
+      res.json(priceTrends);
+  } catch (error) {
+      console.error(`Failed to fetch flight price trends: ${error}`);
+      res.status(400).send(error.message);
+  }
+});
 
 // --------------------------------
 
 
 
+// GOOGLE OAUTH
+
+// --------------------------------
 
 
 
 // Google Oauth
-app.get(
-  "/api/auth/google",
-  passport.authenticate("google", { scope: ["profile"] })
-);
+app.get("/api/auth/google", passport.authenticate("google", {
+  scope: ["profile", "email"]  // Asegúrate de incluir "email" en el scope
+}));
 
 // Luego en tu endpoint de callback, puedes redirigir al dashboard del frontend
-app.get(
-    "/api/auth/google/callback",
-    passport.authenticate("google", { failureRedirect: "/api/login" }),
-    function (req, res) {
-      // Redirigir al frontend una vez que se ha autenticado con éxito
-      res.redirect("http://localhost:7903/api/auth/google/dashboard");
-    }
-  );
+app.get("/api/auth/google/callback",
+  passport.authenticate("google", { failureRedirect: "/api/login" }),
+  function(req, res) {
+    // Aquí podrías implementar lógica para crear tokens o simplemente redirigir
+    res.redirect("http://localhost:5173/dashboard"); // Asegúrate de que esta URL es correcta
+  }
+);
++
+// --------------------------------
 
-app.get("/", (req, res) => {
-  res.send("Hello World!");
-});
 
 app.listen(port, () => {
   console.log(`Server is running on port: ${port}`);

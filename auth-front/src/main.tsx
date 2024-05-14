@@ -14,6 +14,8 @@ import CityPage from "./routes/CityPage";
 import Rutas from "./routes/Rutas";
 import Profile from "./routes/Profile.tsx";
 import { SettingsProvider } from "./utils/SettingsContext.tsx";
+import Buscador from "./routes/Buscador.tsx";
+import Contacto from "./routes/Contacto.tsx";
 
 const router = createBrowserRouter([
   { path: "/", element: <DefaultLayoutLogin /> },
@@ -21,7 +23,10 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <ProtectedRoute />,
-    children: [{ path: "dashboard", element: <Dashboard /> }],
+    children: [
+      { path: "dashboard", element: <Dashboard /> },
+      { path: "buscador", element: <Buscador /> },
+    ],
   },
   { path: "/rutas", element: <Rutas /> },
   {
@@ -31,6 +36,10 @@ const router = createBrowserRouter([
   {
     path: "/perfil",
     element: <Profile />,
+  },
+  {
+    path: "/contacto",
+    element: <Contacto />,
   },
 ]);
 
