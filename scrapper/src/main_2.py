@@ -196,7 +196,7 @@ with open('rutas.json', 'r') as file:
 
 # Programar la ejecución de la función para cada ruta en el JSON
 for ruta in rutas:
-    schedule.every().day.at("04:21").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("02:21").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
     schedule.every().day.at("19:05").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
 
 # Ejecuta el planificador en bucle
