@@ -1,0 +1,1781 @@
+Departure Time,Arrival Time,Departure Airport,Departure_Cod,Arrival Airport,Arrival_Cod,Stop Airports,Duration,Airlines,Price,Info Date Save,Flight Date
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,79 €,2024-05-18 22:25:09,2024-08-03
+6:50,8:15,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,198 €,2024-05-18 22:25:09,2024-08-03
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,218 €,2024-05-18 22:25:09,2024-08-03
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,105 €,2024-05-18 22:25:09,2024-08-03
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,180 €,2024-05-18 22:25:09,2024-08-03
+17:05,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 05m,"Air Europa, Iberia Express",78 €,2024-05-18 22:25:09,2024-08-03
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",121 €,2024-05-18 22:25:09,2024-08-03
+17:05,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 05m,"Air Europa, Iberia",84 €,2024-05-18 22:25:09,2024-08-03
+6:45,10:50,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,147 €,2024-05-18 22:25:09,2024-08-03
+19:35,23:55,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 20m,Vueling,80 €,2024-05-18 22:25:09,2024-08-03
+17:40,21:25,Bilbao,BIO,Sevilla,SVQ,PMI,3h 45m,Air Europa,215 €,2024-05-18 22:25:09,2024-08-03
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,277 €,2024-05-18 22:25:09,2024-08-03
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",166 €,2024-05-18 22:25:09,2024-08-03
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",170 €,2024-05-18 22:25:09,2024-08-03
+12:45,18:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Vueling,102 €,2024-05-18 22:25:09,2024-08-03
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,393 €,2024-05-18 22:25:09,2024-08-03
+6:45,10:50,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,348 €,2024-05-18 22:25:09,2024-08-03
+8:55,15:20,Bilbao,BIO,Sevilla,SVQ,BCN,6h 25m,Vueling,161 €,2024-05-18 22:25:09,2024-08-03
+18:45,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,5h 45m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-03
+17:35,23:55,Bilbao,BIO,Sevilla,SVQ,"MAD, IBZ",6h 20m,"Iberia, Vueling",164 €,2024-05-18 22:25:09,2024-08-03
+10:15,16:10,Bilbao,BIO,Sevilla,SVQ,ACE,5h 55m,"Air Europa, Vueling",424 €,2024-05-18 22:25:09,2024-08-03
+8:55,15:20,Bilbao,BIO,Sevilla,SVQ,BCN,6h 25m,Iberia,391 €,2024-05-18 22:25:09,2024-08-03
+10:20,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 10m,Air France,442 €,2024-05-18 22:25:09,2024-08-03
+11:10,12:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,125 €,2024-05-18 22:25:09,2024-08-04
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,218 €,2024-05-18 22:25:09,2024-08-04
+11:10,12:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,256 €,2024-05-18 22:25:09,2024-08-04
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,122 €,2024-05-18 22:25:09,2024-08-04
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",97 €,2024-05-18 22:25:09,2024-08-04
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,198 €,2024-05-18 22:25:09,2024-08-04
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",102 €,2024-05-18 22:25:09,2024-08-04
+19:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Vueling,114 €,2024-05-18 22:25:09,2024-08-04
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Vueling",111 €,2024-05-18 22:25:09,2024-08-04
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",105 €,2024-05-18 22:25:09,2024-08-04
+19:35,0:10,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 35m,Vueling,146 €,2024-05-18 22:25:09,2024-08-04
+20:30,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,4h 00m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-04
+19:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,314 €,2024-05-18 22:25:09,2024-08-04
+17:35,0:10,Bilbao,BIO,Sevilla,SVQ,"MAD, IBZ",6h 35m,"Iberia, Vueling",142 €,2024-05-18 22:25:09,2024-08-04
+13:20,19:20,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Vueling,232 €,2024-05-18 22:25:09,2024-08-04
+8:55,14:40,Bilbao,BIO,Sevilla,SVQ,BCN,5h 45m,Iberia,410 €,2024-05-18 22:25:09,2024-08-04
+10:35,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,5h 55m,Air France,414 €,2024-05-18 22:25:09,2024-08-04
+18:30,19:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,64 €,2024-05-18 22:25:09,2024-08-05
+14:30,15:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,92 €,2024-05-18 22:25:09,2024-08-05
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,98 €,2024-05-18 22:25:09,2024-08-05
+18:30,19:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,191 €,2024-05-18 22:25:09,2024-08-05
+14:30,15:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,234 €,2024-05-18 22:25:09,2024-08-05
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,234 €,2024-05-18 22:25:09,2024-08-05
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,97 €,2024-05-18 22:25:09,2024-08-05
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Vueling, Iberia Express",89 €,2024-05-18 22:25:09,2024-08-05
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,98 €,2024-05-18 22:25:09,2024-08-05
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",86 €,2024-05-18 22:25:09,2024-08-05
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,148 €,2024-05-18 22:25:09,2024-08-05
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,172 €,2024-05-18 22:25:09,2024-08-05
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia Express",86 €,2024-05-18 22:25:09,2024-08-05
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,130 €,2024-05-18 22:25:09,2024-08-05
+8:55,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Vueling,153 €,2024-05-18 22:25:09,2024-08-05
+13:55,19:20,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Vueling,112 €,2024-05-18 22:25:09,2024-08-05
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,291 €,2024-05-18 22:25:09,2024-08-05
+7:40,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,5h 50m,Vueling,119 €,2024-05-18 22:25:09,2024-08-05
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,BCN,3h 35m,Iberia,308 €,2024-05-18 22:25:09,2024-08-05
+17:35,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Vueling,107 €,2024-05-18 22:25:09,2024-08-05
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Iberia,287 €,2024-05-18 22:25:09,2024-08-05
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Iberia,148 €,2024-05-18 22:25:09,2024-08-05
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,326 €,2024-05-18 22:25:09,2024-08-05
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Vueling,224 €,2024-05-18 22:25:09,2024-08-05
+13:55,19:20,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Iberia,308 €,2024-05-18 22:25:09,2024-08-05
+8:55,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,377 €,2024-05-18 22:25:09,2024-08-05
+7:40,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,5h 50m,Iberia,326 €,2024-05-18 22:25:09,2024-08-05
+17:35,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Iberia,308 €,2024-05-18 22:25:09,2024-08-05
+19:25,20:50,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,92 €,2024-05-18 22:25:09,2024-08-06
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,191 €,2024-05-18 22:25:09,2024-08-06
+19:25,20:50,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,218 €,2024-05-18 22:25:09,2024-08-06
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,122 €,2024-05-18 22:25:09,2024-08-06
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,129 €,2024-05-18 22:25:09,2024-08-06
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",84 €,2024-05-18 22:25:09,2024-08-06
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,93 €,2024-05-18 22:25:09,2024-08-06
+17:55,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 20m,Vueling,75 €,2024-05-18 22:25:09,2024-08-06
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,178 €,2024-05-18 22:25:09,2024-08-06
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,231 €,2024-05-18 22:25:09,2024-08-06
+8:55,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Vueling,75 €,2024-05-18 22:25:09,2024-08-06
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",159 €,2024-05-18 22:25:09,2024-08-06
+12:05,16:45,Bilbao,BIO,Sevilla,SVQ,SCQ,4h 40m,Vueling,132 €,2024-05-18 22:25:09,2024-08-06
+16:20,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Vueling,70 €,2024-05-18 22:25:09,2024-08-06
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,278 €,2024-05-18 22:25:09,2024-08-06
+17:55,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 20m,Iberia,258 €,2024-05-18 22:25:09,2024-08-06
+11:25,17:30,Bilbao,BIO,Sevilla,SVQ,BCN,6h 05m,Vueling,74 €,2024-05-18 22:25:09,2024-08-06
+19:35,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,4h 55m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-06
+7:40,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Vueling,88 €,2024-05-18 22:25:09,2024-08-06
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,CDG,5h 55m,Vueling,117 €,2024-05-18 22:25:09,2024-08-06
+16:20,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Iberia,258 €,2024-05-18 22:25:09,2024-08-06
+7:40,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Iberia,269 €,2024-05-18 22:25:09,2024-08-06
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,191 €,2024-05-18 22:25:09,2024-08-07
+19:05,20:30,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,218 €,2024-05-18 22:25:09,2024-08-07
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Vueling, Iberia Express",81 €,2024-05-18 22:25:09,2024-08-07
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,122 €,2024-05-18 22:25:09,2024-08-07
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,70 €,2024-05-18 22:25:09,2024-08-07
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",77 €,2024-05-18 22:25:09,2024-08-07
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,129 €,2024-05-18 22:25:09,2024-08-07
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,93 €,2024-05-18 22:25:09,2024-08-07
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,161 €,2024-05-18 22:25:09,2024-08-07
+8:55,13:25,Bilbao,BIO,Sevilla,SVQ,BCN,4h 30m,Vueling,83 €,2024-05-18 22:25:09,2024-08-07
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia Express",73 €,2024-05-18 22:25:09,2024-08-07
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia",76 €,2024-05-18 22:25:09,2024-08-07
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,243 €,2024-05-18 22:25:09,2024-08-07
+11:45,16:40,Bilbao,BIO,Sevilla,SVQ,BCN,4h 55m,Vueling,79 €,2024-05-18 22:25:09,2024-08-07
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",126 €,2024-05-18 22:25:09,2024-08-07
+12:10,15:45,Bilbao,BIO,Sevilla,SVQ,LIS,3h 35m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-07
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Vueling",133 €,2024-05-18 22:25:09,2024-08-07
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",130 €,2024-05-18 22:25:09,2024-08-07
+11:45,17:05,Bilbao,BIO,Sevilla,SVQ,BCN,5h 20m,Vueling,79 €,2024-05-18 22:25:09,2024-08-07
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,250 €,2024-05-18 22:25:09,2024-08-07
+7:40,13:25,Bilbao,BIO,Sevilla,SVQ,BCN,5h 45m,Vueling,74 €,2024-05-18 22:25:09,2024-08-07
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Iberia,288 €,2024-05-18 22:25:09,2024-08-07
+17:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Vueling,88 €,2024-05-18 22:25:09,2024-08-07
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,320 €,2024-05-18 22:25:09,2024-08-07
+17:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Iberia,282 €,2024-05-18 22:25:09,2024-08-07
+13:15,14:40,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,99 €,2024-05-18 22:25:09,2024-08-08
+9:00,10:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,198 €,2024-05-18 22:25:09,2024-08-08
+13:15,14:40,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,234 €,2024-05-18 22:25:09,2024-08-08
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,105 €,2024-05-18 22:25:09,2024-08-08
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,122 €,2024-05-18 22:25:09,2024-08-08
+13:25,17:20,Bilbao,BIO,Sevilla,SVQ,BCN,3h 55m,Vueling,107 €,2024-05-18 22:25:09,2024-08-08
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",153 €,2024-05-18 22:25:09,2024-08-08
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,241 €,2024-05-18 22:25:09,2024-08-08
+7:10,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Vueling,103 €,2024-05-18 22:25:09,2024-08-08
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,283 €,2024-05-18 22:25:09,2024-08-08
+8:55,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 50m,Vueling,122 €,2024-05-18 22:25:09,2024-08-08
+16:45,21:30,Bilbao,BIO,Sevilla,SVQ,PMI,4h 45m,"Air Europa, Vueling",146 €,2024-05-18 22:25:09,2024-08-08
+16:45,21:55,Bilbao,BIO,Sevilla,SVQ,PMI,5h 10m,Air Europa,114 €,2024-05-18 22:25:09,2024-08-08
+13:25,17:20,Bilbao,BIO,Sevilla,SVQ,BCN,3h 55m,Iberia,301 €,2024-05-18 22:25:09,2024-08-08
+7:10,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,287 €,2024-05-18 22:25:09,2024-08-08
+7:10,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Vueling,107 €,2024-05-18 22:25:09,2024-08-08
+8:55,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 50m,Iberia,322 €,2024-05-18 22:25:09,2024-08-08
+15:50,21:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 20m,Iberia,316 €,2024-05-18 22:25:09,2024-08-08
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,350 €,2024-05-18 22:25:09,2024-08-08
+7:10,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Iberia,301 €,2024-05-18 22:25:09,2024-08-08
+13:40,20:15,Bilbao,BIO,Sevilla,SVQ,"MAD, SCQ",6h 35m,"Iberia, Vueling",351 €,2024-05-18 22:25:09,2024-08-08
+21:35,8:20,Bilbao,BIO,Sevilla,SVQ,MAD,10h 45m,"Iberia, Iberia Express",71 €,2024-05-18 22:25:09,2024-08-08
+15:25,16:50,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Volotea,58 €,2024-05-18 22:25:09,2024-08-09
+19:00,20:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,64 €,2024-05-18 22:25:09,2024-08-09
+13:10,14:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,85 €,2024-05-18 22:25:09,2024-08-09
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,172 €,2024-05-18 22:25:09,2024-08-09
+19:00,20:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,191 €,2024-05-18 22:25:09,2024-08-09
+13:10,14:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,218 €,2024-05-18 22:25:09,2024-08-09
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,107 €,2024-05-18 22:25:09,2024-08-09
+18:00,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 15m,Vueling,93 €,2024-05-18 22:25:09,2024-08-09
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,146 €,2024-05-18 22:25:09,2024-08-09
+19:35,0:30,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 55m,Vueling,75 €,2024-05-18 22:25:09,2024-08-09
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",158 €,2024-05-18 22:25:09,2024-08-09
+8:55,14:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 15m,Vueling,107 €,2024-05-18 22:25:09,2024-08-09
+11:10,16:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Vueling,122 €,2024-05-18 22:25:09,2024-08-09
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,246 €,2024-05-18 22:25:09,2024-08-09
+11:10,16:45,Bilbao,BIO,Sevilla,SVQ,BCN,5h 35m,Vueling,93 €,2024-05-18 22:25:09,2024-08-09
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Vueling,112 €,2024-05-18 22:25:09,2024-08-09
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Iberia,294 €,2024-05-18 22:25:09,2024-08-09
+18:00,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 15m,Iberia,285 €,2024-05-18 22:25:09,2024-08-09
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",335 €,2024-05-18 22:25:09,2024-08-09
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,425 €,2024-05-18 22:25:09,2024-08-09
+8:55,14:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 15m,Iberia,301 €,2024-05-18 22:25:09,2024-08-09
+11:10,16:45,Bilbao,BIO,Sevilla,SVQ,BCN,5h 35m,Iberia,278 €,2024-05-18 22:25:09,2024-08-09
+11:10,16:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Iberia,321 €,2024-05-18 22:25:09,2024-08-09
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,293 €,2024-05-18 22:25:09,2024-08-09
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Iberia,308 €,2024-05-18 22:25:09,2024-08-09
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Iberia,329 €,2024-05-18 22:25:09,2024-08-09
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,533 €,2024-05-18 22:25:09,2024-08-09
+9:15,15:40,Bilbao,BIO,Sevilla,SVQ,"MAD, LIS",6h 25m,"Iberia, TAP AIR PORTUGAL",455 €,2024-05-18 22:25:09,2024-08-09
+6:50,8:15,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,191 €,2024-05-18 22:25:09,2024-08-10
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,234 €,2024-05-18 22:25:09,2024-08-10
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Vueling, Iberia Express",108 €,2024-05-18 22:25:09,2024-08-10
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,157 €,2024-05-18 22:25:09,2024-08-10
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",103 €,2024-05-18 22:25:09,2024-08-10
+17:05,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 05m,"Air Europa, Iberia Express",78 €,2024-05-18 22:25:09,2024-08-10
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,189 €,2024-05-18 22:25:09,2024-08-10
+6:45,10:50,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,132 €,2024-05-18 22:25:09,2024-08-10
+17:05,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 05m,"Air Europa, Iberia",84 €,2024-05-18 22:25:09,2024-08-10
+19:35,23:55,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 20m,Vueling,76 €,2024-05-18 22:25:09,2024-08-10
+17:40,21:25,Bilbao,BIO,Sevilla,SVQ,PMI,3h 45m,Air Europa,241 €,2024-05-18 22:25:09,2024-08-10
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,"British Airways, Iberia Express",189 €,2024-05-18 22:25:09,2024-08-10
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",129 €,2024-05-18 22:25:09,2024-08-10
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",131 €,2024-05-18 22:25:09,2024-08-10
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,291 €,2024-05-18 22:25:09,2024-08-10
+6:45,10:50,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,347 €,2024-05-18 22:25:09,2024-08-10
+18:45,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,5h 45m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-10
+17:35,23:55,Bilbao,BIO,Sevilla,SVQ,"MAD, IBZ",6h 20m,"Iberia, Vueling",106 €,2024-05-18 22:25:09,2024-08-10
+8:55,15:20,Bilbao,BIO,Sevilla,SVQ,BCN,6h 25m,Vueling,185 €,2024-05-18 22:25:09,2024-08-10
+12:45,18:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Iberia,374 €,2024-05-18 22:25:09,2024-08-10
+10:15,16:10,Bilbao,BIO,Sevilla,SVQ,ACE,5h 55m,"Air Europa, Vueling",351 €,2024-05-18 22:25:09,2024-08-10
+8:55,15:20,Bilbao,BIO,Sevilla,SVQ,BCN,6h 25m,Iberia,411 €,2024-05-18 22:25:09,2024-08-10
+10:20,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 10m,Air France,466 €,2024-05-18 22:25:09,2024-08-10
+11:10,12:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,101 €,2024-05-18 22:25:09,2024-08-11
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,223 €,2024-05-18 22:25:09,2024-08-11
+11:10,12:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,240 €,2024-05-18 22:25:09,2024-08-11
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",152 €,2024-05-18 22:25:09,2024-08-11
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,242 €,2024-05-18 22:25:09,2024-08-11
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",111 €,2024-05-18 22:25:09,2024-08-11
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Vueling",125 €,2024-05-18 22:25:09,2024-08-11
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",113 €,2024-05-18 22:25:09,2024-08-11
+20:30,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,4h 00m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-11
+19:35,0:10,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 35m,Vueling,147 €,2024-05-18 22:25:09,2024-08-11
+8:55,14:40,Bilbao,BIO,Sevilla,SVQ,BCN,5h 45m,Vueling,129 €,2024-05-18 22:25:09,2024-08-11
+19:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,417 €,2024-05-18 22:25:09,2024-08-11
+8:55,14:40,Bilbao,BIO,Sevilla,SVQ,BCN,5h 45m,Iberia,330 €,2024-05-18 22:25:09,2024-08-11
+10:35,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,5h 55m,Air France,344 €,2024-05-18 22:25:09,2024-08-11
+17:35,0:10,Bilbao,BIO,Sevilla,SVQ,"MAD, IBZ",6h 35m,Iberia,486 €,2024-05-18 22:25:09,2024-08-11
+14:30,15:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,40 €,2024-05-18 22:25:09,2024-08-12
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,40 €,2024-05-18 22:25:09,2024-08-12
+18:30,19:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,54 €,2024-05-18 22:25:09,2024-08-12
+14:30,15:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,160 €,2024-05-18 22:25:09,2024-08-12
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,160 €,2024-05-18 22:25:09,2024-08-12
+18:30,19:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,183 €,2024-05-18 22:25:09,2024-08-12
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,88 €,2024-05-18 22:25:09,2024-08-12
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,105 €,2024-05-18 22:25:09,2024-08-12
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Vueling, Iberia Express",113 €,2024-05-18 22:25:09,2024-08-12
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,121 €,2024-05-18 22:25:09,2024-08-12
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",112 €,2024-05-18 22:25:09,2024-08-12
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia Express",113 €,2024-05-18 22:25:09,2024-08-12
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,157 €,2024-05-18 22:25:09,2024-08-12
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia",112 €,2024-05-18 22:25:09,2024-08-12
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,186 €,2024-05-18 22:25:09,2024-08-12
+8:55,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Vueling,147 €,2024-05-18 22:25:09,2024-08-12
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",156 €,2024-05-18 22:25:09,2024-08-12
+17:35,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Vueling,88 €,2024-05-18 22:25:09,2024-08-12
+13:55,19:20,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Vueling,136 €,2024-05-18 22:25:09,2024-08-12
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",160 €,2024-05-18 22:25:09,2024-08-12
+7:40,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,5h 50m,Vueling,135 €,2024-05-18 22:25:09,2024-08-12
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,254 €,2024-05-18 22:25:09,2024-08-12
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Iberia,146 €,2024-05-18 22:25:09,2024-08-12
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,BCN,3h 35m,Iberia,301 €,2024-05-18 22:25:09,2024-08-12
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Iberia,282 €,2024-05-18 22:25:09,2024-08-12
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Vueling,231 €,2024-05-18 22:25:09,2024-08-12
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,322 €,2024-05-18 22:25:09,2024-08-12
+8:55,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,352 €,2024-05-18 22:25:09,2024-08-12
+17:35,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Iberia,288 €,2024-05-18 22:25:09,2024-08-12
+13:55,19:20,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Iberia,352 €,2024-05-18 22:25:09,2024-08-12
+7:40,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,5h 50m,Iberia,337 €,2024-05-18 22:25:09,2024-08-12
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,466 €,2024-05-18 22:25:09,2024-08-12
+19:25,20:50,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,85 €,2024-05-18 22:25:09,2024-08-13
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,183 €,2024-05-18 22:25:09,2024-08-13
+19:25,20:50,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,218 €,2024-05-18 22:25:09,2024-08-13
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,122 €,2024-05-18 22:25:09,2024-08-13
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,148 €,2024-05-18 22:25:09,2024-08-13
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",117 €,2024-05-18 22:25:09,2024-08-13
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,204 €,2024-05-18 22:25:09,2024-08-13
+17:55,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 20m,Vueling,118 €,2024-05-18 22:25:09,2024-08-13
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,254 €,2024-05-18 22:25:09,2024-08-13
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",159 €,2024-05-18 22:25:09,2024-08-13
+8:55,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Vueling,112 €,2024-05-18 22:25:09,2024-08-13
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",164 €,2024-05-18 22:25:09,2024-08-13
+12:05,16:45,Bilbao,BIO,Sevilla,SVQ,SCQ,4h 40m,Vueling,155 €,2024-05-18 22:25:09,2024-08-13
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,301 €,2024-05-18 22:25:09,2024-08-13
+16:20,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Vueling,115 €,2024-05-18 22:25:09,2024-08-13
+19:35,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,4h 55m,TAP AIR PORTUGAL,236 €,2024-05-18 22:25:09,2024-08-13
+17:55,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 20m,Iberia,307 €,2024-05-18 22:25:09,2024-08-13
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,CDG,5h 55m,Vueling,153 €,2024-05-18 22:25:09,2024-08-13
+11:25,18:15,Bilbao,BIO,Sevilla,SVQ,BCN,6h 50m,Vueling,97 €,2024-05-18 22:25:09,2024-08-13
+8:55,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Iberia,309 €,2024-05-18 22:25:09,2024-08-13
+16:20,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Iberia,302 €,2024-05-18 22:25:09,2024-08-13
+7:40,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Iberia,301 €,2024-05-18 22:25:09,2024-08-13
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,98 €,2024-05-18 22:25:09,2024-08-14
+19:05,20:30,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,183 €,2024-05-18 22:25:09,2024-08-14
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,234 €,2024-05-18 22:25:09,2024-08-14
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,137 €,2024-05-18 22:25:09,2024-08-14
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,148 €,2024-05-18 22:25:09,2024-08-14
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,102 €,2024-05-18 22:25:09,2024-08-14
+8:55,13:25,Bilbao,BIO,Sevilla,SVQ,BCN,4h 30m,Vueling,97 €,2024-05-18 22:25:09,2024-08-14
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",176 €,2024-05-18 22:25:09,2024-08-14
+12:10,15:45,Bilbao,BIO,Sevilla,SVQ,LIS,3h 35m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-14
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,263 €,2024-05-18 22:25:09,2024-08-14
+11:45,16:40,Bilbao,BIO,Sevilla,SVQ,BCN,4h 55m,Vueling,112 €,2024-05-18 22:25:09,2024-08-14
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia Express",169 €,2024-05-18 22:25:09,2024-08-14
+11:45,17:05,Bilbao,BIO,Sevilla,SVQ,BCN,5h 20m,Vueling,102 €,2024-05-18 22:25:09,2024-08-14
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia",175 €,2024-05-18 22:25:09,2024-08-14
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",214 €,2024-05-18 22:25:09,2024-08-14
+7:40,13:25,Bilbao,BIO,Sevilla,SVQ,BCN,5h 45m,Vueling,88 €,2024-05-18 22:25:09,2024-08-14
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Iberia,285 €,2024-05-18 22:25:09,2024-08-14
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,294 €,2024-05-18 22:25:09,2024-08-14
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,382 €,2024-05-18 22:25:09,2024-08-14
+17:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Vueling,83 €,2024-05-18 22:25:09,2024-08-14
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,293 €,2024-05-18 22:25:09,2024-08-14
+17:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Iberia,264 €,2024-05-18 22:25:09,2024-08-14
+13:55,20:45,Bilbao,BIO,Sevilla,SVQ,LGW,6h 50m,British Airways,264 €,2024-05-18 22:25:09,2024-08-14
+13:15,14:40,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,187 €,2024-05-18 22:25:09,2024-08-15
+9:00,10:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,187 €,2024-05-18 22:25:09,2024-08-15
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,72 €,2024-05-18 22:25:09,2024-08-15
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,115 €,2024-05-18 22:25:09,2024-08-15
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,124 €,2024-05-18 22:25:09,2024-08-15
+13:25,17:20,Bilbao,BIO,Sevilla,SVQ,BCN,3h 55m,Vueling,145 €,2024-05-18 22:25:09,2024-08-15
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",153 €,2024-05-18 22:25:09,2024-08-15
+8:55,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 50m,Vueling,118 €,2024-05-18 22:25:09,2024-08-15
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,241 €,2024-05-18 22:25:09,2024-08-15
+7:10,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Vueling,161 €,2024-05-18 22:25:09,2024-08-15
+15:50,21:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 20m,Vueling,123 €,2024-05-18 22:25:09,2024-08-15
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,382 €,2024-05-18 22:25:09,2024-08-15
+16:45,21:55,Bilbao,BIO,Sevilla,SVQ,PMI,5h 10m,Air Europa,278 €,2024-05-18 22:25:09,2024-08-15
+13:25,17:20,Bilbao,BIO,Sevilla,SVQ,BCN,3h 55m,Iberia,360 €,2024-05-18 22:25:09,2024-08-15
+7:10,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Vueling,149 €,2024-05-18 22:25:09,2024-08-15
+18:05,0:30,Bilbao,BIO,Sevilla,SVQ,LGW,6h 25m,Vueling,154 €,2024-05-18 22:25:09,2024-08-15
+8:55,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 50m,Iberia,328 €,2024-05-18 22:25:09,2024-08-15
+7:10,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,381 €,2024-05-18 22:25:09,2024-08-15
+15:50,21:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 20m,Iberia,328 €,2024-05-18 22:25:09,2024-08-15
+7:10,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Iberia,375 €,2024-05-18 22:25:09,2024-08-15
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,467 €,2024-05-18 22:25:09,2024-08-15
+13:40,20:15,Bilbao,BIO,Sevilla,SVQ,"MAD, SCQ",6h 35m,"Iberia, Vueling",398 €,2024-05-18 22:25:09,2024-08-15
+13:10,14:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,79 €,2024-05-18 22:25:09,2024-08-16
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,79 €,2024-05-18 22:25:09,2024-08-16
+19:00,20:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,191 €,2024-05-18 22:25:09,2024-08-16
+13:10,14:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,218 €,2024-05-18 22:25:09,2024-08-16
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,218 €,2024-05-18 22:25:09,2024-08-16
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,93 €,2024-05-18 22:25:09,2024-08-16
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,129 €,2024-05-18 22:25:09,2024-08-16
+18:00,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 15m,Vueling,107 €,2024-05-18 22:25:09,2024-08-16
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",161 €,2024-05-18 22:25:09,2024-08-16
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,241 €,2024-05-18 22:25:09,2024-08-16
+19:35,0:30,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 55m,Vueling,74 €,2024-05-18 22:25:09,2024-08-16
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",159 €,2024-05-18 22:25:09,2024-08-16
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,286 €,2024-05-18 22:25:09,2024-08-16
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Vueling",171 €,2024-05-18 22:25:09,2024-08-16
+11:10,16:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Vueling,122 €,2024-05-18 22:25:09,2024-08-16
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",163 €,2024-05-18 22:25:09,2024-08-16
+8:55,14:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 15m,Vueling,117 €,2024-05-18 22:25:09,2024-08-16
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Iberia,278 €,2024-05-18 22:25:09,2024-08-16
+11:10,16:45,Bilbao,BIO,Sevilla,SVQ,BCN,5h 35m,Vueling,127 €,2024-05-18 22:25:09,2024-08-16
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Vueling,98 €,2024-05-18 22:25:09,2024-08-16
+18:00,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 15m,Iberia,295 €,2024-05-18 22:25:09,2024-08-16
+8:55,14:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 15m,Iberia,316 €,2024-05-18 22:25:09,2024-08-16
+11:10,16:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Iberia,338 €,2024-05-18 22:25:09,2024-08-16
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Vueling,264 €,2024-05-18 22:25:09,2024-08-16
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Iberia,285 €,2024-05-18 22:25:09,2024-08-16
+11:10,16:45,Bilbao,BIO,Sevilla,SVQ,BCN,5h 35m,Iberia,338 €,2024-05-18 22:25:09,2024-08-16
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,350 €,2024-05-18 22:25:09,2024-08-16
+9:15,16:00,Bilbao,BIO,Sevilla,SVQ,"MAD, MLN",6h 45m,Iberia,467 €,2024-05-18 22:25:09,2024-08-16
+6:50,8:15,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,78 €,2024-05-18 22:25:09,2024-08-17
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,192 €,2024-05-18 22:25:09,2024-08-17
+6:50,8:15,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,207 €,2024-05-18 22:25:09,2024-08-17
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,87 €,2024-05-18 22:25:09,2024-08-17
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,110 €,2024-05-18 22:25:09,2024-08-17
+17:40,21:25,Bilbao,BIO,Sevilla,SVQ,PMI,3h 45m,Air Europa,170 €,2024-05-18 22:25:09,2024-08-17
+17:05,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 05m,"Air Europa, Iberia Express",88 €,2024-05-18 22:25:09,2024-08-17
+19:35,23:55,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 20m,Vueling,76 €,2024-05-18 22:25:09,2024-08-17
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",139 €,2024-05-18 22:25:09,2024-08-17
+17:05,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 05m,"Air Europa, Iberia",97 €,2024-05-18 22:25:09,2024-08-17
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,246 €,2024-05-18 22:25:09,2024-08-17
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",188 €,2024-05-18 22:25:09,2024-08-17
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",193 €,2024-05-18 22:25:09,2024-08-17
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,350 €,2024-05-18 22:25:09,2024-08-17
+12:45,18:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Vueling,145 €,2024-05-18 22:25:09,2024-08-17
+18:45,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,5h 45m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-17
+12:45,18:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Iberia,389 €,2024-05-18 22:25:09,2024-08-17
+10:15,16:10,Bilbao,BIO,Sevilla,SVQ,ACE,5h 55m,"Air Europa, Vueling",352 €,2024-05-18 22:25:09,2024-08-17
+10:20,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 10m,Air France,350 €,2024-05-18 22:25:09,2024-08-17
+8:55,15:20,Bilbao,BIO,Sevilla,SVQ,BCN,6h 25m,Iberia,368 €,2024-05-18 22:25:09,2024-08-17
+11:10,12:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,112 €,2024-05-18 22:25:09,2024-08-18
+11:10,12:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,256 €,2024-05-18 22:25:09,2024-08-18
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,314 €,2024-05-18 22:25:09,2024-08-18
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",115 €,2024-05-18 22:25:09,2024-08-18
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",117 €,2024-05-18 22:25:09,2024-08-18
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Vueling",129 €,2024-05-18 22:25:09,2024-08-18
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",175 €,2024-05-18 22:25:09,2024-08-18
+19:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Vueling,180 €,2024-05-18 22:25:09,2024-08-18
+19:35,0:10,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 35m,Vueling,147 €,2024-05-18 22:25:09,2024-08-18
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,286 €,2024-05-18 22:25:09,2024-08-18
+20:30,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,4h 00m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-18
+8:55,14:40,Bilbao,BIO,Sevilla,SVQ,BCN,5h 45m,Vueling,138 €,2024-05-18 22:25:09,2024-08-18
+19:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,409 €,2024-05-18 22:25:09,2024-08-18
+14:55,21:30,Bilbao,BIO,Sevilla,SVQ,"IBZ, PMI",6h 35m,Varias aerolíneas,184 €,2024-05-18 22:25:09,2024-08-18
+10:35,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,5h 55m,Air France,320 €,2024-05-18 22:25:09,2024-08-18
+13:20,19:20,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Vueling,298 €,2024-05-18 22:25:09,2024-08-18
+8:55,14:40,Bilbao,BIO,Sevilla,SVQ,BCN,5h 45m,Iberia,354 €,2024-05-18 22:25:09,2024-08-18
+18:30,19:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,40 €,2024-05-18 22:25:09,2024-08-19
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,55 €,2024-05-18 22:25:09,2024-08-19
+18:30,19:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,160 €,2024-05-18 22:25:09,2024-08-19
+14:30,15:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,172 €,2024-05-18 22:25:09,2024-08-19
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,183 €,2024-05-18 22:25:09,2024-08-19
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,98 €,2024-05-18 22:25:09,2024-08-19
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",90 €,2024-05-18 22:25:09,2024-08-19
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia Express",77 €,2024-05-18 22:25:09,2024-08-19
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,117 €,2024-05-18 22:25:09,2024-08-19
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia",80 €,2024-05-18 22:25:09,2024-08-19
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,178 €,2024-05-18 22:25:09,2024-08-19
+8:55,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Vueling,113 €,2024-05-18 22:25:09,2024-08-19
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,189 €,2024-05-18 22:25:09,2024-08-19
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",170 €,2024-05-18 22:25:09,2024-08-19
+13:55,19:20,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Vueling,127 €,2024-05-18 22:25:09,2024-08-19
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Vueling",186 €,2024-05-18 22:25:09,2024-08-19
+7:40,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,5h 50m,Vueling,108 €,2024-05-18 22:25:09,2024-08-19
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Iberia,258 €,2024-05-18 22:25:09,2024-08-19
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,BCN,3h 35m,Iberia,295 €,2024-05-18 22:25:09,2024-08-19
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Iberia,172 €,2024-05-18 22:25:09,2024-08-19
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,322 €,2024-05-18 22:25:09,2024-08-19
+8:55,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,322 €,2024-05-18 22:25:09,2024-08-19
+17:35,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Iberia,265 €,2024-05-18 22:25:09,2024-08-19
+7:40,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,5h 50m,Iberia,308 €,2024-05-18 22:25:09,2024-08-19
+13:55,19:20,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Iberia,338 €,2024-05-18 22:25:09,2024-08-19
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,32 €,2024-05-18 22:25:09,2024-08-20
+19:25,20:50,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,147 €,2024-05-18 22:25:09,2024-08-20
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,147 €,2024-05-18 22:25:09,2024-08-20
+17:55,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 20m,Vueling,69 €,2024-05-18 22:25:09,2024-08-20
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,88 €,2024-05-18 22:25:09,2024-08-20
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,98 €,2024-05-18 22:25:09,2024-08-20
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",84 €,2024-05-18 22:25:09,2024-08-20
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,122 €,2024-05-18 22:25:09,2024-08-20
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,178 €,2024-05-18 22:25:09,2024-08-20
+16:20,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Vueling,64 €,2024-05-18 22:25:09,2024-08-20
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",138 €,2024-05-18 22:25:09,2024-08-20
+8:55,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Vueling,117 €,2024-05-18 22:25:09,2024-08-20
+12:05,16:45,Bilbao,BIO,Sevilla,SVQ,SCQ,4h 40m,Vueling,136 €,2024-05-18 22:25:09,2024-08-20
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",143 €,2024-05-18 22:25:09,2024-08-20
+11:25,17:30,Bilbao,BIO,Sevilla,SVQ,BCN,6h 05m,Vueling,112 €,2024-05-18 22:25:09,2024-08-20
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,254 €,2024-05-18 22:25:09,2024-08-20
+7:40,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Vueling,108 €,2024-05-18 22:25:09,2024-08-20
+11:25,18:15,Bilbao,BIO,Sevilla,SVQ,BCN,6h 50m,Vueling,88 €,2024-05-18 22:25:09,2024-08-20
+15:15,21:25,Bilbao,BIO,Sevilla,SVQ,"BCN, PMI",6h 10m,Vueling,134 €,2024-05-18 22:25:09,2024-08-20
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,CDG,5h 55m,Vueling,157 €,2024-05-18 22:25:09,2024-08-20
+17:55,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 20m,Iberia,246 €,2024-05-18 22:25:09,2024-08-20
+19:35,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,4h 55m,TAP AIR PORTUGAL,223 €,2024-05-18 22:25:09,2024-08-20
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,282 €,2024-05-18 22:25:09,2024-08-20
+16:20,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Iberia,238 €,2024-05-18 22:25:09,2024-08-20
+8:55,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Iberia,308 €,2024-05-18 22:25:09,2024-08-20
+7:40,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Iberia,294 €,2024-05-18 22:25:09,2024-08-20
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,50 €,2024-05-18 22:25:09,2024-08-21
+19:05,20:30,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,172 €,2024-05-18 22:25:09,2024-08-21
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,172 €,2024-05-18 22:25:09,2024-08-21
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,98 €,2024-05-18 22:25:09,2024-08-21
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,84 €,2024-05-18 22:25:09,2024-08-21
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,84 €,2024-05-18 22:25:09,2024-08-21
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",84 €,2024-05-18 22:25:09,2024-08-21
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,129 €,2024-05-18 22:25:09,2024-08-21
+8:55,13:25,Bilbao,BIO,Sevilla,SVQ,BCN,4h 30m,Vueling,78 €,2024-05-18 22:25:09,2024-08-21
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,178 €,2024-05-18 22:25:09,2024-08-21
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia Express",77 €,2024-05-18 22:25:09,2024-08-21
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,"Iberia, Iberia Express",131 €,2024-05-18 22:25:09,2024-08-21
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia",80 €,2024-05-18 22:25:09,2024-08-21
+11:45,16:40,Bilbao,BIO,Sevilla,SVQ,BCN,4h 55m,Vueling,79 €,2024-05-18 22:25:09,2024-08-21
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",130 €,2024-05-18 22:25:09,2024-08-21
+11:45,17:05,Bilbao,BIO,Sevilla,SVQ,BCN,5h 20m,Vueling,75 €,2024-05-18 22:25:09,2024-08-21
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",135 €,2024-05-18 22:25:09,2024-08-21
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,254 €,2024-05-18 22:25:09,2024-08-21
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Vueling",152 €,2024-05-18 22:25:09,2024-08-21
+12:10,15:45,Bilbao,BIO,Sevilla,SVQ,LIS,3h 35m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-21
+7:40,13:25,Bilbao,BIO,Sevilla,SVQ,BCN,5h 45m,Vueling,68 €,2024-05-18 22:25:09,2024-08-21
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Iberia,274 €,2024-05-18 22:25:09,2024-08-21
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,264 €,2024-05-18 22:25:09,2024-08-21
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,320 €,2024-05-18 22:25:09,2024-08-21
+17:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Iberia,310 €,2024-05-18 22:25:09,2024-08-21
+13:55,20:45,Bilbao,BIO,Sevilla,SVQ,LGW,6h 50m,British Airways,405 €,2024-05-18 22:25:09,2024-08-21
+14:25,21:10,Bilbao,BIO,Sevilla,SVQ,"VLC, MAD",6h 45m,Iberia,424 €,2024-05-18 22:25:09,2024-08-21
+13:15,14:40,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,79 €,2024-05-18 22:25:09,2024-08-22
+9:00,10:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,172 €,2024-05-18 22:25:09,2024-08-22
+13:15,14:40,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,218 €,2024-05-18 22:25:09,2024-08-22
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,98 €,2024-05-18 22:25:09,2024-08-22
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,102 €,2024-05-18 22:25:09,2024-08-22
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,98 €,2024-05-18 22:25:09,2024-08-22
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",85 €,2024-05-18 22:25:09,2024-08-22
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,178 €,2024-05-18 22:25:09,2024-08-22
+8:55,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 50m,Vueling,79 €,2024-05-18 22:25:09,2024-08-22
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,"Iberia, Iberia Express",144 €,2024-05-18 22:25:09,2024-08-22
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",129 €,2024-05-18 22:25:09,2024-08-22
+15:50,21:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 20m,Vueling,75 €,2024-05-18 22:25:09,2024-08-22
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",131 €,2024-05-18 22:25:09,2024-08-22
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,246 €,2024-05-18 22:25:09,2024-08-22
+16:45,21:55,Bilbao,BIO,Sevilla,SVQ,PMI,5h 10m,Air Europa,138 €,2024-05-18 22:25:09,2024-08-22
+16:45,21:30,Bilbao,BIO,Sevilla,SVQ,PMI,4h 45m,"Air Europa, Vueling",165 €,2024-05-18 22:25:09,2024-08-22
+8:55,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 50m,Iberia,257 €,2024-05-18 22:25:09,2024-08-22
+7:10,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,322 €,2024-05-18 22:25:09,2024-08-22
+13:40,20:15,Bilbao,BIO,Sevilla,SVQ,"MAD, SCQ",6h 35m,"Iberia, Vueling",162 €,2024-05-18 22:25:09,2024-08-22
+7:10,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Iberia,270 €,2024-05-18 22:25:09,2024-08-22
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,350 €,2024-05-18 22:25:09,2024-08-22
+9:15,15:05,Bilbao,BIO,Sevilla,SVQ,"MAD, LIS",5h 50m,"Iberia, TAP AIR PORTUGAL",382 €,2024-05-18 22:25:09,2024-08-22
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,62 €,2024-05-18 22:25:09,2024-08-23
+19:00,20:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,97 €,2024-05-18 22:25:09,2024-08-23
+13:10,14:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,103 €,2024-05-18 22:25:09,2024-08-23
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,190 €,2024-05-18 22:25:09,2024-08-23
+19:00,20:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,243 €,2024-05-18 22:25:09,2024-08-23
+13:10,14:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,243 €,2024-05-18 22:25:09,2024-08-23
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,86 €,2024-05-18 22:25:09,2024-08-23
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,88 €,2024-05-18 22:25:09,2024-08-23
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,105 €,2024-05-18 22:25:09,2024-08-23
+18:00,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 15m,Vueling,93 €,2024-05-18 22:25:09,2024-08-23
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",94 €,2024-05-18 22:25:09,2024-08-23
+19:35,0:30,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 55m,Vueling,49 €,2024-05-18 22:25:09,2024-08-23
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Vueling",117 €,2024-05-18 22:25:09,2024-08-23
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,189 €,2024-05-18 22:25:09,2024-08-23
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",129 €,2024-05-18 22:25:09,2024-08-23
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",131 €,2024-05-18 22:25:09,2024-08-23
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,246 €,2024-05-18 22:25:09,2024-08-23
+8:55,14:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 15m,Vueling,119 €,2024-05-18 22:25:09,2024-08-23
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Vueling,93 €,2024-05-18 22:25:09,2024-08-23
+18:00,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 15m,Iberia,280 €,2024-05-18 22:25:09,2024-08-23
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Vueling,224 €,2024-05-18 22:25:09,2024-08-23
+11:10,16:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Iberia,310 €,2024-05-18 22:25:09,2024-08-23
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Iberia,280 €,2024-05-18 22:25:09,2024-08-23
+11:10,16:45,Bilbao,BIO,Sevilla,SVQ,BCN,5h 35m,Iberia,310 €,2024-05-18 22:25:09,2024-08-23
+8:55,14:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 15m,Iberia,336 €,2024-05-18 22:25:09,2024-08-23
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,350 €,2024-05-18 22:25:09,2024-08-23
+9:15,16:00,Bilbao,BIO,Sevilla,SVQ,"MAD, MLN",6h 45m,Iberia,438 €,2024-05-18 22:25:09,2024-08-23
+9:15,15:00,Bilbao,BIO,Sevilla,SVQ,"MAD, LIS",5h 45m,"Iberia, TAP AIR PORTUGAL",493 €,2024-05-18 22:25:09,2024-08-23
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,64 €,2024-05-18 22:25:09,2024-08-24
+6:50,8:15,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,172 €,2024-05-18 22:25:09,2024-08-24
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,191 €,2024-05-18 22:25:09,2024-08-24
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,83 €,2024-05-18 22:25:09,2024-08-24
+6:45,10:50,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,79 €,2024-05-18 22:25:09,2024-08-24
+17:05,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 05m,"Air Europa, Iberia Express",71 €,2024-05-18 22:25:09,2024-08-24
+17:40,21:25,Bilbao,BIO,Sevilla,SVQ,PMI,3h 45m,Air Europa,138 €,2024-05-18 22:25:09,2024-08-24
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,129 €,2024-05-18 22:25:09,2024-08-24
+19:35,23:55,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 20m,Vueling,62 €,2024-05-18 22:25:09,2024-08-24
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",98 €,2024-05-18 22:25:09,2024-08-24
+17:05,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 05m,"Air Europa, Iberia",74 €,2024-05-18 22:25:09,2024-08-24
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",88 €,2024-05-18 22:25:09,2024-08-24
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",90 €,2024-05-18 22:25:09,2024-08-24
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,231 €,2024-05-18 22:25:09,2024-08-24
+12:45,18:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Vueling,98 €,2024-05-18 22:25:09,2024-08-24
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,277 €,2024-05-18 22:25:09,2024-08-24
+6:45,10:50,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,256 €,2024-05-18 22:25:09,2024-08-24
+17:35,23:55,Bilbao,BIO,Sevilla,SVQ,"MAD, IBZ",6h 20m,"Iberia, Vueling",110 €,2024-05-18 22:25:09,2024-08-24
+18:45,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,5h 45m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-24
+10:15,16:10,Bilbao,BIO,Sevilla,SVQ,ACE,5h 55m,"Air Europa, Vueling",354 €,2024-05-18 22:25:09,2024-08-24
+8:55,15:20,Bilbao,BIO,Sevilla,SVQ,BCN,6h 25m,Iberia,362 €,2024-05-18 22:25:09,2024-08-24
+10:20,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 10m,Air France,456 €,2024-05-18 22:25:09,2024-08-24
+18:05,0:10,Bilbao,BIO,Sevilla,SVQ,LGW,6h 05m,Iberia,979 €,2024-05-18 22:25:09,2024-08-24
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,234 €,2024-05-18 22:25:09,2024-08-25
+11:10,12:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,348 €,2024-05-18 22:25:09,2024-08-25
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,129 €,2024-05-18 22:25:09,2024-08-25
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",97 €,2024-05-18 22:25:09,2024-08-25
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,198 €,2024-05-18 22:25:09,2024-08-25
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",111 €,2024-05-18 22:25:09,2024-08-25
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",113 €,2024-05-18 22:25:09,2024-08-25
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Vueling",125 €,2024-05-18 22:25:09,2024-08-25
+19:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Vueling,154 €,2024-05-18 22:25:09,2024-08-25
+13:20,19:20,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Vueling,212 €,2024-05-18 22:25:09,2024-08-25
+19:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,388 €,2024-05-18 22:25:09,2024-08-25
+11:10,17:10,Bilbao,BIO,Sevilla,SVQ,"MAH, BCN",6h 00m,Vueling,227 €,2024-05-18 22:25:09,2024-08-25
+17:35,0:10,Bilbao,BIO,Sevilla,SVQ,"MAD, IBZ",6h 35m,"Iberia, Vueling",186 €,2024-05-18 22:25:09,2024-08-25
+10:35,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,5h 55m,Air France,350 €,2024-05-18 22:25:09,2024-08-25
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,40 €,2024-05-18 22:25:09,2024-08-26
+18:30,19:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,55 €,2024-05-18 22:25:09,2024-08-26
+6:45,8:10,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Volotea,58 €,2024-05-18 22:25:09,2024-08-26
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,160 €,2024-05-18 22:25:09,2024-08-26
+18:30,19:55,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,183 €,2024-05-18 22:25:09,2024-08-26
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,98 €,2024-05-18 22:25:09,2024-08-26
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,127 €,2024-05-18 22:25:09,2024-08-26
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Vueling, Iberia Express",172 €,2024-05-18 22:25:09,2024-08-26
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,180 €,2024-05-18 22:25:09,2024-08-26
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",168 €,2024-05-18 22:25:09,2024-08-26
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,246 €,2024-05-18 22:25:09,2024-08-26
+13:55,19:20,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Vueling,119 €,2024-05-18 22:25:09,2024-08-26
+7:40,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,5h 50m,Vueling,113 €,2024-05-18 22:25:09,2024-08-26
+17:35,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Vueling,103 €,2024-05-18 22:25:09,2024-08-26
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,BCN,3h 35m,Iberia,290 €,2024-05-18 22:25:09,2024-08-26
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Iberia,285 €,2024-05-18 22:25:09,2024-08-26
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,338 €,2024-05-18 22:25:09,2024-08-26
+8:55,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,314 €,2024-05-18 22:25:09,2024-08-26
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,447 €,2024-05-18 22:25:09,2024-08-26
+13:55,19:20,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Iberia,314 €,2024-05-18 22:25:09,2024-08-26
+12:00,18:15,Bilbao,BIO,Sevilla,SVQ,AMS,6h 15m,KLM,254 €,2024-05-18 22:25:09,2024-08-26
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",392 €,2024-05-18 22:25:09,2024-08-26
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Iberia,313 €,2024-05-18 22:25:09,2024-08-26
+7:40,13:30,Bilbao,BIO,Sevilla,SVQ,BCN,5h 50m,Iberia,314 €,2024-05-18 22:25:09,2024-08-26
+17:35,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Iberia,299 €,2024-05-18 22:25:09,2024-08-26
+9:15,15:40,Bilbao,BIO,Sevilla,SVQ,"MAD, LIS",6h 25m,"Iberia, TAP AIR PORTUGAL",380 €,2024-05-18 22:25:09,2024-08-26
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,598 €,2024-05-18 22:25:09,2024-08-26
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,57 €,2024-05-18 22:25:09,2024-08-27
+19:25,20:50,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,183 €,2024-05-18 22:25:09,2024-08-27
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,183 €,2024-05-18 22:25:09,2024-08-27
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Vueling, Iberia Express",93 €,2024-05-18 22:25:09,2024-08-27
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",89 €,2024-05-18 22:25:09,2024-08-27
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,93 €,2024-05-18 22:25:09,2024-08-27
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,148 €,2024-05-18 22:25:09,2024-08-27
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,172 €,2024-05-18 22:25:09,2024-08-27
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,"Iberia, Iberia Express",124 €,2024-05-18 22:25:09,2024-08-27
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,209 €,2024-05-18 22:25:09,2024-08-27
+12:05,16:45,Bilbao,BIO,Sevilla,SVQ,SCQ,4h 40m,Vueling,101 €,2024-05-18 22:25:09,2024-08-27
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",138 €,2024-05-18 22:25:09,2024-08-27
+8:55,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Vueling,104 €,2024-05-18 22:25:09,2024-08-27
+11:25,17:30,Bilbao,BIO,Sevilla,SVQ,BCN,6h 05m,Vueling,62 €,2024-05-18 22:25:09,2024-08-27
+7:40,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Vueling,84 €,2024-05-18 22:25:09,2024-08-27
+17:55,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 20m,Iberia,251 €,2024-05-18 22:25:09,2024-08-27
+7:40,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,278 €,2024-05-18 22:25:09,2024-08-27
+11:25,18:15,Bilbao,BIO,Sevilla,SVQ,BCN,6h 50m,Vueling,68 €,2024-05-18 22:25:09,2024-08-27
+19:35,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,4h 55m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-27
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,CDG,5h 55m,Vueling,157 €,2024-05-18 22:25:09,2024-08-27
+8:55,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Iberia,300 €,2024-05-18 22:25:09,2024-08-27
+16:20,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Iberia,256 €,2024-05-18 22:25:09,2024-08-27
+7:40,14:00,Bilbao,BIO,Sevilla,SVQ,BCN,6h 20m,Iberia,264 €,2024-05-18 22:25:09,2024-08-27
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,85 €,2024-05-18 22:25:09,2024-08-28
+19:05,20:30,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,183 €,2024-05-18 22:25:09,2024-08-28
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,218 €,2024-05-18 22:25:09,2024-08-28
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,102 €,2024-05-18 22:25:09,2024-08-28
+8:55,13:25,Bilbao,BIO,Sevilla,SVQ,BCN,4h 30m,Vueling,73 €,2024-05-18 22:25:09,2024-08-28
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",103 €,2024-05-18 22:25:09,2024-08-28
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia Express",96 €,2024-05-18 22:25:09,2024-08-28
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,168 €,2024-05-18 22:25:09,2024-08-28
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,189 €,2024-05-18 22:25:09,2024-08-28
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,"Vueling, Iberia Express",171 €,2024-05-18 22:25:09,2024-08-28
+16:50,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 20m,"Air Europa, Iberia",102 €,2024-05-18 22:25:09,2024-08-28
+11:45,17:05,Bilbao,BIO,Sevilla,SVQ,BCN,5h 20m,Vueling,75 €,2024-05-18 22:25:09,2024-08-28
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,"Iberia, Iberia Express",166 €,2024-05-18 22:25:09,2024-08-28
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,241 €,2024-05-18 22:25:09,2024-08-28
+12:10,15:45,Bilbao,BIO,Sevilla,SVQ,LIS,3h 35m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-28
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",188 €,2024-05-18 22:25:09,2024-08-28
+17:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Vueling,63 €,2024-05-18 22:25:09,2024-08-28
+17:20,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Iberia,253 €,2024-05-18 22:25:09,2024-08-28
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,349 €,2024-05-18 22:25:09,2024-08-28
+13:55,20:45,Bilbao,BIO,Sevilla,SVQ,LGW,6h 50m,British Airways,373 €,2024-05-18 22:25:09,2024-08-28
+13:15,14:40,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,153 €,2024-05-18 22:25:09,2024-08-29
+9:00,10:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,160 €,2024-05-18 22:25:09,2024-08-29
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,83 €,2024-05-18 22:25:09,2024-08-29
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Vueling,79 €,2024-05-18 22:25:09,2024-08-29
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,102 €,2024-05-18 22:25:09,2024-08-29
+13:25,17:20,Bilbao,BIO,Sevilla,SVQ,BCN,3h 55m,Vueling,98 €,2024-05-18 22:25:09,2024-08-29
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,"Vueling, Iberia Express",117 €,2024-05-18 22:25:09,2024-08-29
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",97 €,2024-05-18 22:25:09,2024-08-29
+8:55,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 50m,Vueling,84 €,2024-05-18 22:25:09,2024-08-29
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",112 €,2024-05-18 22:25:09,2024-08-29
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,189 €,2024-05-18 22:25:09,2024-08-29
+16:45,21:55,Bilbao,BIO,Sevilla,SVQ,PMI,5h 10m,Air Europa,91 €,2024-05-18 22:25:09,2024-08-29
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,189 €,2024-05-18 22:25:09,2024-08-29
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",117 €,2024-05-18 22:25:09,2024-08-29
+16:45,21:30,Bilbao,BIO,Sevilla,SVQ,PMI,4h 45m,"Air Europa, Vueling",146 €,2024-05-18 22:25:09,2024-08-29
+7:10,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Vueling,76 €,2024-05-18 22:25:09,2024-08-29
+11:00,15:05,Bilbao,BIO,Sevilla,SVQ,LIS,4h 05m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-29
+13:25,17:20,Bilbao,BIO,Sevilla,SVQ,BCN,3h 55m,Iberia,288 €,2024-05-18 22:25:09,2024-08-29
+7:10,11:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 35m,Iberia,258 €,2024-05-18 22:25:09,2024-08-29
+8:55,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,4h 50m,Iberia,264 €,2024-05-18 22:25:09,2024-08-29
+13:50,19:35,Bilbao,BIO,Sevilla,SVQ,BRU,5h 45m,"Brussels Airlines, Transavia",226 €,2024-05-18 22:25:09,2024-08-29
+15:50,21:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 20m,Iberia,287 €,2024-05-18 22:25:09,2024-08-29
+13:40,20:15,Bilbao,BIO,Sevilla,SVQ,"MAD, SCQ",6h 35m,"Iberia, Vueling",194 €,2024-05-18 22:25:09,2024-08-29
+12:00,18:15,Bilbao,BIO,Sevilla,SVQ,AMS,6h 15m,KLM,254 €,2024-05-18 22:25:09,2024-08-29
+7:10,13:45,Bilbao,BIO,Sevilla,SVQ,BCN,6h 35m,Iberia,258 €,2024-05-18 22:25:09,2024-08-29
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,418 €,2024-05-18 22:25:09,2024-08-29
+18:05,0:30,Bilbao,BIO,Sevilla,SVQ,LGW,6h 25m,"Iberia, British Airways",610 €,2024-05-18 22:25:09,2024-08-29
+15:25,16:50,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Volotea,38 €,2024-05-18 22:25:09,2024-08-30
+13:10,14:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,45 €,2024-05-18 22:25:09,2024-08-30
+19:00,20:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Vueling,69 €,2024-05-18 22:25:09,2024-08-30
+7:00,8:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,153 €,2024-05-18 22:25:09,2024-08-30
+13:10,14:35,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,172 €,2024-05-18 22:25:09,2024-08-30
+19:00,20:25,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,198 €,2024-05-18 22:25:09,2024-08-30
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,101 €,2024-05-18 22:25:09,2024-08-30
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,113 €,2024-05-18 22:25:09,2024-08-30
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",98 €,2024-05-18 22:25:09,2024-08-30
+18:00,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 15m,Vueling,112 €,2024-05-18 22:25:09,2024-08-30
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,"Vueling, Iberia Express",139 €,2024-05-18 22:25:09,2024-08-30
+19:35,0:30,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 55m,Vueling,73 €,2024-05-18 22:25:09,2024-08-30
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,189 €,2024-05-18 22:25:09,2024-08-30
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,204 €,2024-05-18 22:25:09,2024-08-30
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",134 €,2024-05-18 22:25:09,2024-08-30
+8:55,14:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 15m,Vueling,94 €,2024-05-18 22:25:09,2024-08-30
+11:10,16:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Vueling,108 €,2024-05-18 22:25:09,2024-08-30
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",136 €,2024-05-18 22:25:09,2024-08-30
+16:45,21:25,Bilbao,BIO,Sevilla,SVQ,PMI,4h 40m,"Air Europa, Vueling",137 €,2024-05-18 22:25:09,2024-08-30
+11:10,16:45,Bilbao,BIO,Sevilla,SVQ,BCN,5h 35m,Vueling,112 €,2024-05-18 22:25:09,2024-08-30
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Iberia,98 €,2024-05-18 22:25:09,2024-08-30
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,"Vueling, Iberia Express",118 €,2024-05-18 22:25:09,2024-08-30
+19:55,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,4h 00m,Iberia,271 €,2024-05-18 22:25:09,2024-08-30
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,"Iberia, Iberia Express",115 €,2024-05-18 22:25:09,2024-08-30
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,"Vueling, Iberia",121 €,2024-05-18 22:25:09,2024-08-30
+6:45,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,6h 00m,Vueling,186 €,2024-05-18 22:25:09,2024-08-30
+18:00,22:15,Bilbao,BIO,Sevilla,SVQ,BCN,4h 15m,Iberia,322 €,2024-05-18 22:25:09,2024-08-30
+8:55,14:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 15m,Iberia,282 €,2024-05-18 22:25:09,2024-08-30
+11:10,16:15,Bilbao,BIO,Sevilla,SVQ,BCN,5h 05m,Iberia,301 €,2024-05-18 22:25:09,2024-08-30
+11:10,16:45,Bilbao,BIO,Sevilla,SVQ,BCN,5h 35m,Iberia,301 €,2024-05-18 22:25:09,2024-08-30
+18:00,23:55,Bilbao,BIO,Sevilla,SVQ,BCN,5h 55m,Iberia,299 €,2024-05-18 22:25:09,2024-08-30
+10:30,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 00m,Air France,467 €,2024-05-18 22:25:09,2024-08-30
+9:15,16:00,Bilbao,BIO,Sevilla,SVQ,"MAD, MLN",6h 45m,Iberia,466 €,2024-05-18 22:25:09,2024-08-30
+6:50,8:15,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,172 €,2024-05-18 22:25:09,2024-08-31
+19:35,21:00,Bilbao,BIO,Sevilla,SVQ,directo,1h 25m,Iberia,183 €,2024-05-18 22:25:09,2024-08-31
+17:40,21:25,Bilbao,BIO,Sevilla,SVQ,PMI,3h 45m,Air Europa,114 €,2024-05-18 22:25:09,2024-08-31
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Iberia,129 €,2024-05-18 22:25:09,2024-08-31
+6:45,10:50,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Vueling,97 €,2024-05-18 22:25:09,2024-08-31
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Iberia,148 €,2024-05-18 22:25:09,2024-08-31
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Vueling, Iberia Express",150 €,2024-05-18 22:25:09,2024-08-31
+19:35,23:55,Bilbao,BIO,Sevilla,SVQ,IBZ,4h 20m,Vueling,94 €,2024-05-18 22:25:09,2024-08-31
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia Express",92 €,2024-05-18 22:25:09,2024-08-31
+8:30,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,4h 15m,"Air Europa, Iberia",94 €,2024-05-18 22:25:09,2024-08-31
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,"Iberia, Iberia Express",146 €,2024-05-18 22:25:09,2024-08-31
+17:05,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 05m,"Air Europa, Iberia Express",141 €,2024-05-18 22:25:09,2024-08-31
+17:35,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,3h 35m,Vueling,224 €,2024-05-18 22:25:09,2024-08-31
+17:05,21:10,Bilbao,BIO,Sevilla,SVQ,MAD,4h 05m,"Air Europa, Iberia",146 €,2024-05-18 22:25:09,2024-08-31
+12:45,18:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Vueling,127 €,2024-05-18 22:25:09,2024-08-31
+9:15,12:45,Bilbao,BIO,Sevilla,SVQ,MAD,3h 30m,Vueling,308 €,2024-05-18 22:25:09,2024-08-31
+8:55,15:20,Bilbao,BIO,Sevilla,SVQ,BCN,6h 25m,Vueling,88 €,2024-05-18 22:25:09,2024-08-31
+6:45,10:50,Bilbao,BIO,Sevilla,SVQ,BCN,4h 05m,Iberia,287 €,2024-05-18 22:25:09,2024-08-31
+18:45,0:30,Bilbao,BIO,Sevilla,SVQ,LIS,5h 45m,TAP AIR PORTUGAL,243 €,2024-05-18 22:25:09,2024-08-31
+12:45,18:10,Bilbao,BIO,Sevilla,SVQ,BCN,5h 25m,Iberia,338 €,2024-05-18 22:25:09,2024-08-31
+10:15,16:10,Bilbao,BIO,Sevilla,SVQ,ACE,5h 55m,"Air Europa, Vueling",427 €,2024-05-18 22:25:09,2024-08-31
+10:20,16:30,Bilbao,BIO,Sevilla,SVQ,CDG,6h 10m,Air France,456 €,2024-05-18 22:25:09,2024-08-31
+21:30,23:45,Bilbao,BIO,Gran Canaria,LPA,3h 15m,Iberia,Promocionados,226 €,2024-05-19 00:45:09,2024-06-09
+17:35,23:45,,-,scala,1 e,7h 10m,Iberia,Promocionados,203 €,2024-05-19 00:45:09,2024-06-09
+8:00,12:15,Bilbao,BIO,Gran Canaria,LPA,TFS,5h 15m,"Volotea, Binter Canarias",230 €,2024-05-19 00:45:09,2024-06-09
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia Express",217 €,2024-05-19 00:45:09,2024-06-09
+7:00,12:55,Bilbao,BIO,Gran Canaria,LPA,VLC,6h 55m,Vueling,220 €,2024-05-19 00:45:09,2024-06-09
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,312 €,2024-05-19 00:45:09,2024-06-09
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia",224 €,2024-05-19 00:45:09,2024-06-09
+8:30,15:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 00m,Air Europa,196 €,2024-05-19 00:45:09,2024-06-09
+20:10,2:00,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",6h 50m,Iberia,251 €,2024-05-19 00:45:09,2024-06-09
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,"Iberia, Iberia Express",243 €,2024-05-19 00:45:09,2024-06-09
+8:00,15:30,Bilbao,BIO,Gran Canaria,LPA,TFS-TFN,8h 30m,"Volotea, Air Europa",194 €,2024-05-19 00:45:09,2024-06-09
+8:00,14:50,Bilbao,BIO,Gran Canaria,LPA,TFS,7h 50m,"Volotea, Binter Canarias",226 €,2024-05-19 00:45:09,2024-06-09
+19:25,23:30,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 05m,"Volotea, Vueling",335 €,2024-05-19 00:45:09,2024-06-09
+17:35,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,Iberia,336 €,2024-05-19 00:45:09,2024-06-09
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,Vueling,329 €,2024-05-19 00:45:09,2024-06-09
+7:15,16:00,Bilbao,BIO,Gran Canaria,LPA,CDG,9h 45m,Vueling,166 €,2024-05-19 00:45:09,2024-06-09
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,229 €,2024-05-19 00:45:09,2024-06-09
+8:00,15:30,Bilbao,BIO,Gran Canaria,LPA,TFS-TFN,8h 30m,"Volotea, Canaryfly",214 €,2024-05-19 00:45:09,2024-06-09
+8:00,15:30,Bilbao,BIO,Gran Canaria,LPA,TFS-TFN,8h 30m,"Volotea, Binter Canarias",218 €,2024-05-19 00:45:09,2024-06-09
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,Iberia,216 €,2024-05-19 00:45:09,2024-06-09
+8:00,15:30,Bilbao,BIO,Gran Canaria,LPA,TFS,8h 30m,"Volotea, Binter Canarias",226 €,2024-05-19 00:45:09,2024-06-09
+13:40,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 50m,Iberia,354 €,2024-05-19 00:45:09,2024-06-09
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,403 €,2024-05-19 00:45:09,2024-06-09
+10:05,18:00,Bilbao,BIO,Gran Canaria,LPA,LGW,8h 55m,"easyJet, Vueling",216 €,2024-05-19 00:45:09,2024-06-09
+20:45,8:00,Bilbao,BIO,Gran Canaria,LPA,AGP,12h 15m,Vueling,98 €,2024-05-19 00:45:09,2024-06-09
+8:30,16:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",9h 00m,"Air Europa, Binter Canarias",228 €,2024-05-19 00:45:09,2024-06-09
+8:55,16:30,Bilbao,BIO,Gran Canaria,LPA,"BCN, ACE",8h 35m,"Vueling, Canaryfly",229 €,2024-05-19 00:45:09,2024-06-09
+10:05,18:20,Bilbao,BIO,Gran Canaria,LPA,LGW,9h 15m,easyJet,216 €,2024-05-19 00:45:09,2024-06-09
+11:35,18:20,Bilbao,BIO,Gran Canaria,LPA,BRS,7h 45m,"easyJet, Jet2",279 €,2024-05-19 00:45:09,2024-06-09
+15:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 10m,Vueling,291 €,2024-05-19 00:45:09,2024-06-09
+8:30,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 50m,"Air Europa, Iberia Express",271 €,2024-05-19 00:45:09,2024-06-09
+10:00,17:00,Bilbao,BIO,Gran Canaria,LPA,"VGO, MAD",8h 00m,"Iberia, Air Europa",287 €,2024-05-19 00:45:09,2024-06-09
+8:00,17:05,Bilbao,BIO,Gran Canaria,LPA,TFS,10h 05m,"Volotea, Binter Canarias",226 €,2024-05-19 00:45:09,2024-06-09
+7:00,18:00,Bilbao,BIO,Gran Canaria,LPA,LGW,12h 00m,Vueling,156 €,2024-05-19 00:45:09,2024-06-09
+19:45,8:00,Bilbao,BIO,Gran Canaria,LPA,AGP,13h 15m,Vueling,117 €,2024-05-19 00:45:09,2024-06-09
+7:00,18:20,Bilbao,BIO,Gran Canaria,LPA,LGW,12h 20m,"Vueling, easyJet",148 €,2024-05-19 00:45:09,2024-06-09
+19:25,8:00,Bilbao,BIO,Gran Canaria,LPA,AGP,13h 35m,"Volotea, Vueling",116 €,2024-05-19 00:45:09,2024-06-09
+13:40,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 05m,Iberia,230 €,2024-05-19 00:45:09,2024-06-09
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Vueling,200 €,2024-05-19 00:45:09,2024-06-09
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,359 €,2024-05-19 00:45:09,2024-06-09
+8:30,14:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 00m,"Air Europa, Binter Canarias",390 €,2024-05-19 00:45:09,2024-06-09
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,204 €,2024-05-19 00:45:09,2024-06-09
+8:55,17:00,Bilbao,BIO,Gran Canaria,LPA,"BCN, TFN",9h 05m,"Vueling, Binter Canarias",316 €,2024-05-19 00:45:09,2024-06-09
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,172 €,2024-05-19 00:45:09,2024-06-09
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,Vueling,352 €,2024-05-19 00:45:09,2024-06-09
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Iberia Express",169 €,2024-05-19 00:45:09,2024-06-09
+13:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 40m,Iberia,336 €,2024-05-19 00:45:09,2024-06-09
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Binter Canarias",203 €,2024-05-19 00:45:09,2024-06-09
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,410 €,2024-05-19 00:45:09,2024-06-09
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Iberia",181 €,2024-05-19 00:45:09,2024-06-09
+12:45,21:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",9h 15m,Varias aerolíneas,342 €,2024-05-19 00:45:09,2024-06-09
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,334 €,2024-05-19 00:45:09,2024-06-09
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,"Iberia, Iberia Express",194 €,2024-05-19 00:45:09,2024-06-09
+12:45,23:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",11h 15m,"Air Europa, Canaryfly",300 €,2024-05-19 00:45:09,2024-06-09
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS-TFN",12h 55m,"Air Europa, Iberia Express",201 €,2024-05-19 00:45:09,2024-06-09
+10:55,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Vueling,258 €,2024-05-19 00:45:09,2024-06-09
+12:45,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 05m,"Air Europa, Binter Canarias",370 €,2024-05-19 00:45:09,2024-06-09
+21:35,7:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS-TFN",10h 55m,"Iberia, Binter Canarias",277 €,2024-05-19 00:45:09,2024-06-09
+11:10,22:05,Bilbao,BIO,Gran Canaria,LPA,"AGP, MAD",11h 55m,"Vueling, Air Europa",283 €,2024-05-19 00:45:09,2024-06-09
+13:40,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,"Iberia, Air Europa",375 €,2024-05-19 00:45:09,2024-06-09
+13:40,21:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",8h 50m,Varias aerolíneas,391 €,2024-05-19 00:45:09,2024-06-09
+20:10,8:50,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",13h 40m,Iberia,278 €,2024-05-19 00:45:09,2024-06-09
+13:40,23:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",10h 20m,Varias aerolíneas,337 €,2024-05-19 00:45:09,2024-06-09
+21:35,7:35,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS",11h 00m,"Iberia, Binter Canarias",285 €,2024-05-19 00:45:09,2024-06-09
+23:00,11:10,Bilbao,BIO,Gran Canaria,LPA,"BCN, FUE",13h 10m,"Vueling, Air Europa",217 €,2024-05-19 00:45:09,2024-06-09
+13:40,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 20m,Iberia,314 €,2024-05-19 00:45:09,2024-06-09
+11:35,23:00,Bilbao,BIO,Gran Canaria,LPA,"BRS, ACE",12h 25m,Varias aerolíneas,289 €,2024-05-19 00:45:09,2024-06-09
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,336 €,2024-05-19 00:45:09,2024-06-09
+12:45,23:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",11h 15m,Air Europa,387 €,2024-05-19 00:45:09,2024-06-09
+9:15,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 15m,Iberia,408 €,2024-05-19 00:45:09,2024-06-09
+13:30,2:00,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",13h 30m,Iberia,323 €,2024-05-19 00:45:09,2024-06-09
+17:35,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,Vueling,632 €,2024-05-19 00:45:09,2024-06-09
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,589 €,2024-05-19 00:45:09,2024-06-09
+11:10,23:30,Bilbao,BIO,Gran Canaria,LPA,AGP,13h 20m,Vueling,325 €,2024-05-19 00:45:09,2024-06-09
+13:40,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 50m,Vueling,664 €,2024-05-19 00:45:09,2024-06-09
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 50m,Iberia,587 €,2024-05-19 00:45:09,2024-06-09
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 50m,Iberia,587 €,2024-05-19 00:45:09,2024-06-09
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,453 €,2024-05-19 00:45:09,2024-06-09
+6:45,16:20,Bilbao,BIO,Gran Canaria,LPA,SVQ,10h 35m,Vueling,498 €,2024-05-19 00:45:09,2024-06-09
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Iberia,490 €,2024-05-19 00:45:09,2024-06-09
+17:35,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 10m,Vueling,703 €,2024-05-19 00:45:09,2024-06-09
+15:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 10m,Iberia,624 €,2024-05-19 00:45:09,2024-06-09
+6:45,16:15,Bilbao,BIO,Gran Canaria,LPA,FRA,10h 30m,Lufthansa,611 €,2024-05-19 00:45:09,2024-06-09
+12:45,18:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",6h 45m,"Air Europa, Binter Canarias",780 €,2024-05-19 00:45:09,2024-06-09
+13:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 40m,Vueling,664 €,2024-05-19 00:45:09,2024-06-09
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Vueling,734 €,2024-05-19 00:45:09,2024-06-09
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,568 €,2024-05-19 00:45:09,2024-06-09
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,568 €,2024-05-19 00:45:09,2024-06-09
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",571 €,2024-05-19 00:45:09,2024-06-09
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,"Air Europa, Binter Canarias",780 €,2024-05-19 00:45:09,2024-06-09
+21:35,7:35,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS",11h 00m,Iberia,613 €,2024-05-19 00:45:09,2024-06-09
+10:55,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Iberia,598 €,2024-05-19 00:45:09,2024-06-09
+12:45,21:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",9h 45m,Air Europa,805 €,2024-05-19 00:45:09,2024-06-09
+7:35,16:15,Bilbao,BIO,Gran Canaria,LPA,"MUC, FRA",9h 40m,Lufthansa,794 €,2024-05-19 00:45:09,2024-06-09
+15:15,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,5h 55m,Iberia,1120 €,2024-05-19 00:45:09,2024-06-09
+10:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 15m,Iberia,1016 €,2024-05-19 00:45:09,2024-06-09
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,999 €,2024-05-19 00:45:09,2024-06-09
+21:30,23:45,Bilbao,BIO,Gran Canaria,LPA,3h 15m,Iberia,Promocionados,172 €,2024-05-19 00:45:09,2024-06-10
+13:40,18:20,,-,scala,1 e,5h 40m,Iberia,Promocionados,126 €,2024-05-19 00:45:09,2024-06-10
+10:15,14:00,,-,scala,1 e,4h 45m,Air Europa,Promocionados,203 €,2024-05-19 00:45:09,2024-06-10
+16:50,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Air Europa,114 €,2024-05-19 00:45:09,2024-06-10
+17:35,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,Iberia,150 €,2024-05-19 00:45:09,2024-06-10
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,206 €,2024-05-19 00:45:09,2024-06-10
+6:45,10:40,Bilbao,BIO,Gran Canaria,LPA,MAD,4h 55m,Iberia,192 €,2024-05-19 00:45:09,2024-06-10
+10:15,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,4h 45m,"Air Europa, Canaryfly",214 €,2024-05-19 00:45:09,2024-06-10
+16:50,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia Express",132 €,2024-05-19 00:45:09,2024-06-10
+17:35,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 24m,Iberia,111 €,2024-05-19 00:45:09,2024-06-10
+6:55,12:00,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 05m,"Vueling, Binter Canarias",156 €,2024-05-19 00:45:09,2024-06-10
+6:55,11:30,Bilbao,BIO,Gran Canaria,LPA,ACE,5h 35m,"Vueling, Binter Canarias",182 €,2024-05-19 00:45:09,2024-06-10
+6:55,12:30,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 35m,"Vueling, Canaryfly",142 €,2024-05-19 00:45:09,2024-06-10
+16:50,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia",136 €,2024-05-19 00:45:09,2024-06-10
+16:50,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 09m,"Air Europa, Iberia Express",86 €,2024-05-19 00:45:09,2024-06-10
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,246 €,2024-05-19 00:45:09,2024-06-10
+17:35,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,"Iberia, Iberia Express",178 €,2024-05-19 00:45:09,2024-06-10
+7:40,12:20,Bilbao,BIO,Gran Canaria,LPA,FUE,5h 40m,"Vueling, Binter Canarias",205 €,2024-05-19 00:45:09,2024-06-10
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,126 €,2024-05-19 00:45:09,2024-06-10
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",217 €,2024-05-19 00:45:09,2024-06-10
+16:50,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 09m,"Air Europa, Iberia",92 €,2024-05-19 00:45:09,2024-06-10
+6:55,12:30,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 35m,"Vueling, Air Europa",179 €,2024-05-19 00:45:09,2024-06-10
+6:55,12:45,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 50m,"Vueling, Binter Canarias",170 €,2024-05-19 00:45:09,2024-06-10
+17:35,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 24m,"Iberia, Iberia Express",129 €,2024-05-19 00:45:09,2024-06-10
+10:15,16:30,Bilbao,BIO,Gran Canaria,LPA,ACE,7h 15m,Air Europa,203 €,2024-05-19 00:45:09,2024-06-10
+17:35,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,Vueling,284 €,2024-05-19 00:45:09,2024-06-10
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Canaryfly",142 €,2024-05-19 00:45:09,2024-06-10
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,161 €,2024-05-19 00:45:09,2024-06-10
+9:10,15:15,Bilbao,BIO,Gran Canaria,LPA,AGP,7h 05m,Vueling,192 €,2024-05-19 00:45:09,2024-06-10
+6:45,10:40,Bilbao,BIO,Gran Canaria,LPA,MAD,4h 55m,Vueling,329 €,2024-05-19 00:45:09,2024-06-10
+13:40,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 40m,Vueling,306 €,2024-05-19 00:45:09,2024-06-10
+7:40,13:50,Bilbao,BIO,Gran Canaria,LPA,FUE,7h 10m,"Vueling, Binter Canarias",202 €,2024-05-19 00:45:09,2024-06-10
+10:15,16:30,Bilbao,BIO,Gran Canaria,LPA,ACE,7h 15m,"Air Europa, Canaryfly",214 €,2024-05-19 00:45:09,2024-06-10
+7:40,14:50,Bilbao,BIO,Gran Canaria,LPA,FUE,8h 10m,"Vueling, Binter Canarias",171 €,2024-05-19 00:45:09,2024-06-10
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Air Europa",179 €,2024-05-19 00:45:09,2024-06-10
+13:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 40m,Iberia,126 €,2024-05-19 00:45:09,2024-06-10
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Binter Canarias",194 €,2024-05-19 00:45:09,2024-06-10
+9:10,17:00,Bilbao,BIO,Gran Canaria,LPA,"AGP, MAD",8h 50m,"Vueling, Air Europa",161 €,2024-05-19 00:45:09,2024-06-10
+13:50,22:05,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",9h 15m,"Vueling, Air Europa",145 €,2024-05-19 00:45:09,2024-06-10
+17:35,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 24m,Vueling,284 €,2024-05-19 00:45:09,2024-06-10
+15:50,23:59,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",9h 09m,Varias aerolíneas,128 €,2024-05-19 00:45:09,2024-06-10
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Vueling,81 €,2024-05-19 00:45:09,2024-06-10
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,158 €,2024-05-19 00:45:09,2024-06-10
+13:55,21:00,Bilbao,BIO,Gran Canaria,LPA,LGW,8h 05m,"Vueling, TUI Airways",221 €,2024-05-19 00:45:09,2024-06-10
+15:50,23:59,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",9h 09m,"Vueling, Iberia",134 €,2024-05-19 00:45:09,2024-06-10
+6:55,15:15,Bilbao,BIO,Gran Canaria,LPA,ACE,9h 20m,"Vueling, Binter Canarias",164 €,2024-05-19 00:45:09,2024-06-10
+13:40,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 19m,Iberia,104 €,2024-05-19 00:45:09,2024-06-10
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Iberia,278 €,2024-05-19 00:45:09,2024-06-10
+7:00,13:45,Bilbao,BIO,Gran Canaria,LPA,SVQ,7h 45m,Vueling,257 €,2024-05-19 00:45:09,2024-06-10
+9:15,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 05m,Iberia,170 €,2024-05-19 00:45:09,2024-06-10
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Vueling,306 €,2024-05-19 00:45:09,2024-06-10
+6:55,16:00,Bilbao,BIO,Gran Canaria,LPA,ACE,10h 05m,"Vueling, Binter Canarias",170 €,2024-05-19 00:45:09,2024-06-10
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,72 €,2024-05-19 00:45:09,2024-06-10
+8:15,17:00,Bilbao,BIO,Gran Canaria,LPA,"AGP, MAD",9h 45m,"Volotea, Air Europa",177 €,2024-05-19 00:45:09,2024-06-10
+13:50,23:59,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",11h 09m,"Vueling, Iberia Express",114 €,2024-05-19 00:45:09,2024-06-10
+13:50,22:20,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",9h 30m,"Vueling, Iberia",167 €,2024-05-19 00:45:09,2024-06-10
+10:30,19:20,Bilbao,BIO,Gran Canaria,LPA,LGW,9h 50m,easyJet,203 €,2024-05-19 00:45:09,2024-06-10
+6:45,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 35m,Iberia,192 €,2024-05-19 00:45:09,2024-06-10
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Vueling,474 €,2024-05-19 00:45:09,2024-06-10
+10:15,20:10,Bilbao,BIO,Gran Canaria,LPA,ACE,10h 55m,Air Europa,212 €,2024-05-19 00:45:09,2024-06-10
+13:50,23:59,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",11h 09m,"Vueling, Iberia",120 €,2024-05-19 00:45:09,2024-06-10
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Iberia Express",73 €,2024-05-19 00:45:09,2024-06-10
+7:45,17:00,Bilbao,BIO,Gran Canaria,LPA,"VLC, PMI, ...",10h 15m,Varias aerolíneas,149 €,2024-05-19 00:45:09,2024-06-10
+12:45,20:10,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",8h 25m,Air Europa,322 €,2024-05-19 00:45:09,2024-06-10
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,90 €,2024-05-19 00:45:09,2024-06-10
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Vueling,357 €,2024-05-19 00:45:09,2024-06-10
+21:35,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 25m,"Iberia, Air Europa",93 €,2024-05-19 00:45:09,2024-06-10
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,"Iberia, Iberia Express",94 €,2024-05-19 00:45:09,2024-06-10
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Iberia",82 €,2024-05-19 00:45:09,2024-06-10
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Binter Canarias",113 €,2024-05-19 00:45:09,2024-06-10
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,192 €,2024-05-19 00:45:09,2024-06-10
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,331 €,2024-05-19 00:45:09,2024-06-10
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,183 €,2024-05-19 00:45:09,2024-06-10
+10:15,21:30,Bilbao,BIO,Gran Canaria,LPA,ACE,12h 15m,Air Europa,212 €,2024-05-19 00:45:09,2024-06-10
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Iberia,239 €,2024-05-19 00:45:09,2024-06-10
+12:45,21:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",9h 45m,Air Europa,322 €,2024-05-19 00:45:09,2024-06-10
+7:00,19:20,Bilbao,BIO,Gran Canaria,LPA,LGW,13h 20m,"Vueling, easyJet",130 €,2024-05-19 00:45:09,2024-06-10
+13:55,23:10,Bilbao,BIO,Gran Canaria,LPA,SVQ,10h 15m,Vueling,279 €,2024-05-19 00:45:09,2024-06-10
+17:40,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,486 €,2024-05-19 00:45:09,2024-06-10
+13:50,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,7h 20m,Iberia,465 €,2024-05-19 00:45:09,2024-06-10
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Vueling,474 €,2024-05-19 00:45:09,2024-06-10
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,502 €,2024-05-19 00:45:09,2024-06-10
+10:15,23:00,Bilbao,BIO,Gran Canaria,LPA,ACE,13h 45m,Air Europa,212 €,2024-05-19 00:45:09,2024-06-10
+6:45,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 35m,Iberia,266 €,2024-05-19 00:45:09,2024-06-10
+12:45,23:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",11h 15m,Air Europa,322 €,2024-05-19 00:45:09,2024-06-10
+15:50,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 35m,Iberia,458 €,2024-05-19 00:45:09,2024-06-10
+7:35,15:05,Bilbao,BIO,Gran Canaria,LPA,MUC,8h 30m,Lufthansa,474 €,2024-05-19 00:45:09,2024-06-10
+7:10,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Iberia,519 €,2024-05-19 00:45:09,2024-06-10
+13:50,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 35m,Iberia,503 €,2024-05-19 00:45:09,2024-06-10
+6:45,15:45,Bilbao,BIO,Gran Canaria,LPA,FRA,10h 00m,Lufthansa,536 €,2024-05-19 00:45:09,2024-06-10
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,541 €,2024-05-19 00:45:09,2024-06-10
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,612 €,2024-05-19 00:45:09,2024-06-10
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,600 €,2024-05-19 00:45:09,2024-06-10
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,857 €,2024-05-19 00:45:09,2024-06-10
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",604 €,2024-05-19 00:45:09,2024-06-10
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,696 €,2024-05-19 00:45:09,2024-06-10
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,956 €,2024-05-19 00:45:09,2024-06-10
+6:50,18:05,Bilbao,BIO,Gran Canaria,LPA,AMS,12h 15m,KLM,1048 €,2024-05-19 00:45:09,2024-06-10
+7:10,18:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",11h 55m,KLM,1158 €,2024-05-19 00:45:09,2024-06-10
+7:10,18:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",11h 55m,"Air France, KLM",1193 €,2024-05-19 00:45:09,2024-06-10
+7:10,18:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",11h 55m,"Air France, KLM",1194 €,2024-05-19 00:45:09,2024-06-10
+7:10,18:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",11h 55m,KLM,1215 €,2024-05-19 00:45:09,2024-06-10
+10:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",11h 00m,"Air France, Bulgaria Air",1375 €,2024-05-19 00:45:09,2024-06-10
+6:45,8:55,Bilbao,BIO,Gran Canaria,LPA,3h 10m,Volotea,Promocionados,26 €,2024-05-19 00:45:09,2024-06-11
+15:25,17:40,Bilbao,BIO,Gran Canaria,LPA,3h 15m,Vueling,Promocionados,34 €,2024-05-19 00:45:09,2024-06-11
+12:45,17:00,,-,scala,1 e,5h 15m,Air Europa,Promocionados,64 €,2024-05-19 00:45:09,2024-06-11
+6:45,8:55,Bilbao,BIO,Gran Canaria,LPA,directo,3h 10m,CitizenPlane,41 €,2024-05-19 00:45:09,2024-06-11
+18:20,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 05m,Vueling,74 €,2024-05-19 00:45:09,2024-06-11
+18:40,23:05,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 25m,"Volotea, Vueling",74 €,2024-05-19 00:45:09,2024-06-11
+16:50,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Air Europa,101 €,2024-05-19 00:45:09,2024-06-11
+15:35,23:05,Bilbao,BIO,Gran Canaria,LPA,AGP,8h 30m,Vueling,62 €,2024-05-19 00:45:09,2024-06-11
+11:05,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Iberia,92 €,2024-05-19 00:45:09,2024-06-11
+16:50,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia Express",101 €,2024-05-19 00:45:09,2024-06-11
+6:55,11:30,Bilbao,BIO,Gran Canaria,LPA,ACE,5h 35m,"Vueling, Binter Canarias",115 €,2024-05-19 00:45:09,2024-06-11
+7:35,9:50,Bilbao,BIO,Gran Canaria,LPA,directo,3h 15m,Iberia,151 €,2024-05-19 00:45:09,2024-06-11
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,60 €,2024-05-19 00:45:09,2024-06-11
+15:25,17:40,Bilbao,BIO,Gran Canaria,LPA,directo,3h 15m,Iberia,159 €,2024-05-19 00:45:09,2024-06-11
+6:55,12:30,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 35m,"Vueling, Air Europa",109 €,2024-05-19 00:45:09,2024-06-11
+11:05,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,"Iberia, Iberia Express",91 €,2024-05-19 00:45:09,2024-06-11
+6:55,12:30,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 35m,"Vueling, Canaryfly",113 €,2024-05-19 00:45:09,2024-06-11
+15:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 10m,Vueling,86 €,2024-05-19 00:45:09,2024-06-11
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Vueling,126 €,2024-05-19 00:45:09,2024-06-11
+6:55,12:45,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 50m,"Vueling, Binter Canarias",113 €,2024-05-19 00:45:09,2024-06-11
+7:40,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 00m,Vueling,109 €,2024-05-19 00:45:09,2024-06-11
+11:05,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 55m,"Iberia, Air Europa",92 €,2024-05-19 00:45:09,2024-06-11
+16:50,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 09m,"Air Europa, Iberia Express",97 €,2024-05-19 00:45:09,2024-06-11
+6:55,12:00,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 05m,"Vueling, Binter Canarias",133 €,2024-05-19 00:45:09,2024-06-11
+16:50,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia",106 €,2024-05-19 00:45:09,2024-06-11
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,98 €,2024-05-19 00:45:09,2024-06-11
+13:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 40m,Iberia,69 €,2024-05-19 00:45:09,2024-06-11
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,145 €,2024-05-19 00:45:09,2024-06-11
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Air Europa",109 €,2024-05-19 00:45:09,2024-06-11
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Binter Canarias",113 €,2024-05-19 00:45:09,2024-06-11
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Canaryfly",113 €,2024-05-19 00:45:09,2024-06-11
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Vueling,70 €,2024-05-19 00:45:09,2024-06-11
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",163 €,2024-05-19 00:45:09,2024-06-11
+7:00,12:25,Bilbao,BIO,Gran Canaria,LPA,SVQ,6h 25m,Vueling,152 €,2024-05-19 00:45:09,2024-06-11
+16:50,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 09m,"Air Europa, Iberia",106 €,2024-05-19 00:45:09,2024-06-11
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,121 €,2024-05-19 00:45:09,2024-06-11
+17:35,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,Iberia,164 €,2024-05-19 00:45:09,2024-06-11
+13:40,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 19m,Iberia,73 €,2024-05-19 00:45:09,2024-06-11
+17:35,23:59,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 24m,Iberia,145 €,2024-05-19 00:45:09,2024-06-11
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,"AGP, MAD",9h 30m,"Vueling, Air Europa",116 €,2024-05-19 00:45:09,2024-06-11
+6:55,16:30,Bilbao,BIO,Gran Canaria,LPA,ACE,10h 35m,"Vueling, Air Europa",109 €,2024-05-19 00:45:09,2024-06-11
+11:05,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,73 €,2024-05-19 00:45:09,2024-06-11
+6:45,10:45,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 00m,Iberia,195 €,2024-05-19 00:45:09,2024-06-11
+21:05,8:55,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 50m,"Air Europa, Iberia Express",73 €,2024-05-19 00:45:09,2024-06-11
+17:35,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,"Iberia, Iberia Express",183 €,2024-05-19 00:45:09,2024-06-11
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,165 €,2024-05-19 00:45:09,2024-06-11
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,120 €,2024-05-19 00:45:09,2024-06-11
+20:15,7:30,Bilbao,BIO,Gran Canaria,LPA,TFN,12h 15m,"Vueling, Binter Canarias",112 €,2024-05-19 00:45:09,2024-06-11
+21:05,8:55,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 50m,"Air Europa, Iberia",73 €,2024-05-19 00:45:09,2024-06-11
+7:00,14:30,Bilbao,BIO,Gran Canaria,LPA,SVQ,8h 30m,Vueling,179 €,2024-05-19 00:45:09,2024-06-11
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Binter Canarias",111 €,2024-05-19 00:45:09,2024-06-11
+21:35,8:55,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 20m,Iberia,95 €,2024-05-19 00:45:09,2024-06-11
+7:40,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Vueling,120 €,2024-05-19 00:45:09,2024-06-11
+21:35,8:55,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 20m,"Iberia, Iberia Express",94 €,2024-05-19 00:45:09,2024-06-11
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Iberia,195 €,2024-05-19 00:45:09,2024-06-11
+19:55,8:10,Bilbao,BIO,Gran Canaria,LPA,"BCN, SVQ",13h 15m,Vueling,114 €,2024-05-19 00:45:09,2024-06-11
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,134 €,2024-05-19 00:45:09,2024-06-11
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,146 €,2024-05-19 00:45:09,2024-06-11
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,"Iberia, Binter Canarias",132 €,2024-05-19 00:45:09,2024-06-11
+6:45,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 35m,Iberia,183 €,2024-05-19 00:45:09,2024-06-11
+6:45,10:45,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 00m,Vueling,329 €,2024-05-19 00:45:09,2024-06-11
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Iberia,239 €,2024-05-19 00:45:09,2024-06-11
+7:00,12:25,Bilbao,BIO,Gran Canaria,LPA,SVQ,6h 25m,"Vueling, Iberia",328 €,2024-05-19 00:45:09,2024-06-11
+15:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 10m,Iberia,307 €,2024-05-19 00:45:09,2024-06-11
+7:40,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 00m,Iberia,343 €,2024-05-19 00:45:09,2024-06-11
+15:15,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,5h 55m,Iberia,385 €,2024-05-19 00:45:09,2024-06-11
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,372 €,2024-05-19 00:45:09,2024-06-11
+7:00,14:30,Bilbao,BIO,Gran Canaria,LPA,SVQ,8h 30m,"Vueling, Iberia",350 €,2024-05-19 00:45:09,2024-06-11
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,340 €,2024-05-19 00:45:09,2024-06-11
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,340 €,2024-05-19 00:45:09,2024-06-11
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",344 €,2024-05-19 00:45:09,2024-06-11
+7:40,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Iberia,402 €,2024-05-19 00:45:09,2024-06-11
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,455 €,2024-05-19 00:45:09,2024-06-11
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,431 €,2024-05-19 00:45:09,2024-06-11
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,559 €,2024-05-19 00:45:09,2024-06-11
+6:45,17:25,Bilbao,BIO,Gran Canaria,LPA,"FRA, BRU",11h 40m,"Lufthansa, Brussels Airlines",581 €,2024-05-19 00:45:09,2024-06-11
+6:45,17:25,Bilbao,BIO,Gran Canaria,LPA,"FRA, BRU",11h 40m,"Lufthansa, Brussels Airlines",581 €,2024-05-19 00:45:09,2024-06-11
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,714 €,2024-05-19 00:45:09,2024-06-11
+6:50,17:55,Bilbao,BIO,Gran Canaria,LPA,AMS,12h 05m,KLM,856 €,2024-05-19 00:45:09,2024-06-11
+7:10,17:55,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",11h 45m,KLM,930 €,2024-05-19 00:45:09,2024-06-11
+7:10,17:55,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",11h 45m,"Air France, KLM",970 €,2024-05-19 00:45:09,2024-06-11
+10:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",11h 00m,"Air France, Bulgaria Air",1280 €,2024-05-19 00:45:09,2024-06-11
+15:35,17:50,Bilbao,BIO,Gran Canaria,LPA,3h 15m,Iberia,Promocionados,171 €,2024-05-19 00:45:09,2024-06-12
+6:45,10:40,,-,scala,1 e,4h 55m,Iberia,Promocionados,134 €,2024-05-19 00:45:09,2024-06-12
+10:15,14:00,,-,scala,1 e,4h 45m,Air Europa,Promocionados,173 €,2024-05-19 00:45:09,2024-06-12
+19:20,23:30,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 10m,"Volotea, Vueling",59 €,2024-05-19 00:45:09,2024-06-12
+8:50,12:55,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 05m,Vueling,80 €,2024-05-19 00:45:09,2024-06-12
+6:55,11:30,Bilbao,BIO,Gran Canaria,LPA,ACE,5h 35m,"Vueling, Binter Canarias",99 €,2024-05-19 00:45:09,2024-06-12
+6:55,12:00,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 05m,"Vueling, Binter Canarias",98 €,2024-05-19 00:45:09,2024-06-12
+14:20,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 50m,Vueling,103 €,2024-05-19 00:45:09,2024-06-12
+6:55,12:30,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 35m,"Vueling, Canaryfly",97 €,2024-05-19 00:45:09,2024-06-12
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,154 €,2024-05-19 00:45:09,2024-06-12
+17:30,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 55m,Vueling,120 €,2024-05-19 00:45:09,2024-06-12
+16:50,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Air Europa,125 €,2024-05-19 00:45:09,2024-06-12
+11:55,16:30,Bilbao,BIO,Gran Canaria,LPA,TFN,5h 35m,"Vueling, Binter Canarias",143 €,2024-05-19 00:45:09,2024-06-12
+10:15,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,4h 45m,"Air Europa, Canaryfly",179 €,2024-05-19 00:45:09,2024-06-12
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Vueling,140 €,2024-05-19 00:45:09,2024-06-12
+11:55,17:00,Bilbao,BIO,Gran Canaria,LPA,TFN,6h 05m,"Vueling, Binter Canarias",143 €,2024-05-19 00:45:09,2024-06-12
+6:55,12:45,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 50m,"Vueling, Binter Canarias",118 €,2024-05-19 00:45:09,2024-06-12
+16:50,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia Express",140 €,2024-05-19 00:45:09,2024-06-12
+6:55,12:30,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 35m,"Vueling, Air Europa",137 €,2024-05-19 00:45:09,2024-06-12
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,96 €,2024-05-19 00:45:09,2024-06-12
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Canaryfly",97 €,2024-05-19 00:45:09,2024-06-12
+13:40,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 50m,Iberia,180 €,2024-05-19 00:45:09,2024-06-12
+11:55,17:30,Bilbao,BIO,Gran Canaria,LPA,TFN,6h 35m,"Vueling, Binter Canarias",154 €,2024-05-19 00:45:09,2024-06-12
+16:50,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 55m,"Air Europa, Iberia Express",115 €,2024-05-19 00:45:09,2024-06-12
+15:55,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Vueling,120 €,2024-05-19 00:45:09,2024-06-12
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",192 €,2024-05-19 00:45:09,2024-06-12
+7:40,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 00m,Vueling,140 €,2024-05-19 00:45:09,2024-06-12
+10:15,16:30,Bilbao,BIO,Gran Canaria,LPA,ACE,7h 15m,Air Europa,173 €,2024-05-19 00:45:09,2024-06-12
+17:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 40m,Iberia,203 €,2024-05-19 00:45:09,2024-06-12
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Air Europa",101 €,2024-05-19 00:45:09,2024-06-12
+11:55,18:00,Bilbao,BIO,Gran Canaria,LPA,TFN,7h 05m,"Vueling, Binter Canarias",154 €,2024-05-19 00:45:09,2024-06-12
+8:55,16:20,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",8h 25m,"Vueling, Iberia Express",103 €,2024-05-19 00:45:09,2024-06-12
+10:15,15:15,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 00m,"Air Europa, Binter Canarias",203 €,2024-05-19 00:45:09,2024-06-12
+14:25,23:25,Bilbao,BIO,Gran Canaria,LPA,VLC,10h 00m,Vueling,71 €,2024-05-19 00:45:09,2024-06-12
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Air Europa",134 €,2024-05-19 00:45:09,2024-06-12
+17:40,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 05m,Iberia,180 €,2024-05-19 00:45:09,2024-06-12
+16:50,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 55m,"Air Europa, Iberia",128 €,2024-05-19 00:45:09,2024-06-12
+11:25,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 45m,Vueling,111 €,2024-05-19 00:45:09,2024-06-12
+9:15,14:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 05m,"Iberia, Binter Canarias",189 €,2024-05-19 00:45:09,2024-06-12
+8:50,17:00,Bilbao,BIO,Gran Canaria,LPA,"AGP, MAD",9h 10m,"Vueling, Air Europa",103 €,2024-05-19 00:45:09,2024-06-12
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,"Iberia, Iberia Express",126 €,2024-05-19 00:45:09,2024-06-12
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,260 €,2024-05-19 00:45:09,2024-06-12
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,170 €,2024-05-19 00:45:09,2024-06-12
+6:55,15:15,Bilbao,BIO,Gran Canaria,LPA,ACE,9h 20m,"Vueling, Binter Canarias",118 €,2024-05-19 00:45:09,2024-06-12
+14:20,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 05m,Vueling,120 €,2024-05-19 00:45:09,2024-06-12
+7:40,16:20,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",9h 40m,"Vueling, Iberia Express",103 €,2024-05-19 00:45:09,2024-06-12
+6:45,10:40,Bilbao,BIO,Gran Canaria,LPA,MAD,4h 55m,Vueling,306 €,2024-05-19 00:45:09,2024-06-12
+6:55,16:30,Bilbao,BIO,Gran Canaria,LPA,ACE,10h 35m,"Vueling, Canaryfly",97 €,2024-05-19 00:45:09,2024-06-12
+9:15,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 15m,Iberia,117 €,2024-05-19 00:45:09,2024-06-12
+11:00,18:50,Bilbao,BIO,Gran Canaria,LPA,SVQ,8h 50m,Vueling,168 €,2024-05-19 00:45:09,2024-06-12
+14:20,23:30,Bilbao,BIO,Gran Canaria,LPA,"BCN, AGP",10h 10m,Vueling,117 €,2024-05-19 00:45:09,2024-06-12
+9:15,16:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,"Iberia, Binter Canarias",180 €,2024-05-19 00:45:09,2024-06-12
+8:55,18:30,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",10h 35m,"Vueling, Iberia Express",109 €,2024-05-19 00:45:09,2024-06-12
+7:00,15:30,Bilbao,BIO,Gran Canaria,LPA,"SVQ, TFN",9h 30m,"Vueling, Binter Canarias",153 €,2024-05-19 00:45:09,2024-06-12
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,73 €,2024-05-19 00:45:09,2024-06-12
+13:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 40m,Iberia,170 €,2024-05-19 00:45:09,2024-06-12
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,110 €,2024-05-19 00:45:09,2024-06-12
+8:40,19:30,Bilbao,BIO,Gran Canaria,LPA,"ALC, TFN",11h 50m,"Vueling, Air Europa",97 €,2024-05-19 00:45:09,2024-06-12
+6:45,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 35m,Iberia,153 €,2024-05-19 00:45:09,2024-06-12
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,193 €,2024-05-19 00:45:09,2024-06-12
+8:40,19:15,Bilbao,BIO,Gran Canaria,LPA,ALC,11h 35m,Vueling,120 €,2024-05-19 00:45:09,2024-06-12
+10:40,19:20,Bilbao,BIO,Gran Canaria,LPA,LGW,9h 40m,easyJet,187 €,2024-05-19 00:45:09,2024-06-12
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Iberia,263 €,2024-05-19 00:45:09,2024-06-12
+10:15,20:10,Bilbao,BIO,Gran Canaria,LPA,ACE,10h 55m,Air Europa,183 €,2024-05-19 00:45:09,2024-06-12
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,117 €,2024-05-19 00:45:09,2024-06-12
+14:25,23:25,Bilbao,BIO,Gran Canaria,LPA,VLC,10h 00m,"Iberia, Vueling",190 €,2024-05-19 00:45:09,2024-06-12
+13:40,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 05m,Iberia,161 €,2024-05-19 00:45:09,2024-06-12
+7:40,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Vueling,110 €,2024-05-19 00:45:09,2024-06-12
+11:25,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 00m,Vueling,130 €,2024-05-19 00:45:09,2024-06-12
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,"Iberia, Iberia Express",98 €,2024-05-19 00:45:09,2024-06-12
+14:20,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 50m,Iberia,323 €,2024-05-19 00:45:09,2024-06-12
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,146 €,2024-05-19 00:45:09,2024-06-12
+10:15,21:30,Bilbao,BIO,Gran Canaria,LPA,ACE,12h 15m,Air Europa,183 €,2024-05-19 00:45:09,2024-06-12
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,277 €,2024-05-19 00:45:09,2024-06-12
+7:00,18:50,Bilbao,BIO,Gran Canaria,LPA,SVQ,12h 50m,Vueling,146 €,2024-05-19 00:45:09,2024-06-12
+17:30,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 55m,Iberia,351 €,2024-05-19 00:45:09,2024-06-12
+12:45,20:10,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",8h 25m,Air Europa,322 €,2024-05-19 00:45:09,2024-06-12
+6:45,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,Iberia,194 €,2024-05-19 00:45:09,2024-06-12
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,378 €,2024-05-19 00:45:09,2024-06-12
+10:15,23:00,Bilbao,BIO,Gran Canaria,LPA,ACE,13h 45m,Air Europa,183 €,2024-05-19 00:45:09,2024-06-12
+12:45,21:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",9h 45m,Air Europa,322 €,2024-05-19 00:45:09,2024-06-12
+15:55,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Iberia,351 €,2024-05-19 00:45:09,2024-06-12
+22:45,10:45,Bilbao,BIO,Gran Canaria,LPA,"PMI, MAD",13h 00m,"Vueling, Iberia Express",186 €,2024-05-19 00:45:09,2024-06-12
+12:45,23:25,Bilbao,BIO,Gran Canaria,LPA,"MAD, VLC",11h 40m,"Air Europa, Vueling",242 €,2024-05-19 00:45:09,2024-06-12
+7:40,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 00m,Iberia,378 €,2024-05-19 00:45:09,2024-06-12
+14:25,23:45,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",10h 20m,Iberia,313 €,2024-05-19 00:45:09,2024-06-12
+14:25,23:25,Bilbao,BIO,Gran Canaria,LPA,VLC,10h 00m,Iberia,340 €,2024-05-19 00:45:09,2024-06-12
+14:25,23:45,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",10h 20m,"Vueling, Iberia",313 €,2024-05-19 00:45:09,2024-06-12
+14:25,22:20,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",8h 55m,Iberia,371 €,2024-05-19 00:45:09,2024-06-12
+14:25,23:25,Bilbao,BIO,Gran Canaria,LPA,VLC,10h 00m,"Vueling, Iberia",340 €,2024-05-19 00:45:09,2024-06-12
+11:25,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 45m,Iberia,357 €,2024-05-19 00:45:09,2024-06-12
+14:25,22:20,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",8h 55m,"Vueling, Iberia",371 €,2024-05-19 00:45:09,2024-06-12
+22:05,10:45,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",13h 40m,Iberia,183 €,2024-05-19 00:45:09,2024-06-12
+22:05,10:45,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",13h 40m,"Iberia, Iberia Express",179 €,2024-05-19 00:45:09,2024-06-12
+12:45,23:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",11h 15m,Air Europa,332 €,2024-05-19 00:45:09,2024-06-12
+22:05,10:45,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",13h 40m,Varias aerolíneas,183 €,2024-05-19 00:45:09,2024-06-12
+13:40,23:25,Bilbao,BIO,Gran Canaria,LPA,"MAD, VLC",10h 45m,"Iberia, Vueling",352 €,2024-05-19 00:45:09,2024-06-12
+7:00,19:20,Bilbao,BIO,Gran Canaria,LPA,LGW,13h 20m,British Airways,285 €,2024-05-19 00:45:09,2024-06-12
+14:20,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 05m,Iberia,389 €,2024-05-19 00:45:09,2024-06-12
+6:45,15:45,Bilbao,BIO,Gran Canaria,LPA,FRA,10h 00m,Lufthansa,401 €,2024-05-19 00:45:09,2024-06-12
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,361 €,2024-05-19 00:45:09,2024-06-12
+7:35,16:55,Bilbao,BIO,Gran Canaria,LPA,"MUC, ZRH",10h 20m,Lufthansa,422 €,2024-05-19 00:45:09,2024-06-12
+12:45,23:25,Bilbao,BIO,Gran Canaria,LPA,"MAD, VLC",11h 40m,"Air Europa, Iberia",392 €,2024-05-19 00:45:09,2024-06-12
+7:40,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Iberia,361 €,2024-05-19 00:45:09,2024-06-12
+11:25,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 00m,Iberia,402 €,2024-05-19 00:45:09,2024-06-12
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,455 €,2024-05-19 00:45:09,2024-06-12
+6:45,16:55,Bilbao,BIO,Gran Canaria,LPA,"FRA, ZRH",11h 10m,Lufthansa,478 €,2024-05-19 00:45:09,2024-06-12
+13:40,23:25,Bilbao,BIO,Gran Canaria,LPA,"MAD, VLC",10h 45m,Iberia,502 €,2024-05-19 00:45:09,2024-06-12
+6:45,19:20,Bilbao,BIO,Gran Canaria,LPA,"MAD, LGW",13h 35m,British Airways,485 €,2024-05-19 00:45:09,2024-06-12
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,557 €,2024-05-19 00:45:09,2024-06-12
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",561 €,2024-05-19 00:45:09,2024-06-12
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,762 €,2024-05-19 00:45:09,2024-06-12
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,664 €,2024-05-19 00:45:09,2024-06-12
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,763 €,2024-05-19 00:45:09,2024-06-12
+10:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",11h 00m,"Air France, Bulgaria Air",1280 €,2024-05-19 00:45:09,2024-06-12
+12:45,17:00,,-,scala,1 e,5h 15m,Air Europa,Promocionados,66 €,2024-05-19 00:45:09,2024-06-13
+19:35,23:45,,-,scala,1 e,5h 10m,Iberia,Promocionados,81 €,2024-05-19 00:45:09,2024-06-13
+6:45,10:45,,-,scala,1 e,5h 00m,Iberia,Promocionados,141 €,2024-05-19 00:45:09,2024-06-13
+7:00,9:15,Bilbao,BIO,Gran Canaria,LPA,directo,3h 15m,Iberia,207 €,2024-05-19 00:45:09,2024-06-13
+19:25,23:35,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 10m,"Volotea, Vueling",89 €,2024-05-19 00:45:09,2024-06-13
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,151 €,2024-05-19 00:45:09,2024-06-13
+13:40,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 50m,Iberia,125 €,2024-05-19 00:45:09,2024-06-13
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Vueling,102 €,2024-05-19 00:45:09,2024-06-13
+14:15,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,7h 00m,Vueling,93 €,2024-05-19 00:45:09,2024-06-13
+8:30,12:55,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 25m,Vueling,140 €,2024-05-19 00:45:09,2024-06-13
+16:50,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Air Europa,157 €,2024-05-19 00:45:09,2024-06-13
+17:35,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,Iberia,181 €,2024-05-19 00:45:09,2024-06-13
+12:45,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 45m,"Air Europa, Iberia Express",128 €,2024-05-19 00:45:09,2024-06-13
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,89 €,2024-05-19 00:45:09,2024-06-13
+12:45,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 45m,"Air Europa, Iberia",131 €,2024-05-19 00:45:09,2024-06-13
+13:15,19:55,Bilbao,BIO,Gran Canaria,LPA,SVQ,7h 40m,Vueling,105 €,2024-05-19 00:45:09,2024-06-13
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,125 €,2024-05-19 00:45:09,2024-06-13
+7:10,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Vueling,102 €,2024-05-19 00:45:09,2024-06-13
+17:35,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 10m,Iberia,169 €,2024-05-19 00:45:09,2024-06-13
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",221 €,2024-05-19 00:45:09,2024-06-13
+6:45,10:45,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 00m,Vueling,306 €,2024-05-19 00:45:09,2024-06-13
+16:30,23:35,Bilbao,BIO,Gran Canaria,LPA,AGP,8h 05m,Vueling,97 €,2024-05-19 00:45:09,2024-06-13
+15:50,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 35m,Vueling,110 €,2024-05-19 00:45:09,2024-06-13
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Iberia,179 €,2024-05-19 00:45:09,2024-06-13
+15:35,20:50,Bilbao,BIO,Gran Canaria,LPA,FUE,6h 15m,"Vueling, Binter Canarias",238 €,2024-05-19 00:45:09,2024-06-13
+15:35,20:30,Bilbao,BIO,Gran Canaria,LPA,FUE,5h 55m,"Vueling, Binter Canarias",260 €,2024-05-19 00:45:09,2024-06-13
+13:55,21:10,Bilbao,BIO,Gran Canaria,LPA,LGW,8h 15m,"Vueling, TUI Airways",134 €,2024-05-19 00:45:09,2024-06-13
+11:40,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 35m,Vueling,107 €,2024-05-19 00:45:09,2024-06-13
+8:55,16:40,Bilbao,BIO,Gran Canaria,LPA,"BCN, SVQ",8h 45m,Vueling,143 €,2024-05-19 00:45:09,2024-06-13
+12:45,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 45m,"Air Europa, Iberia Express",128 €,2024-05-19 00:45:09,2024-06-13
+14:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 10m,Vueling,102 €,2024-05-19 00:45:09,2024-06-13
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,104 €,2024-05-19 00:45:09,2024-06-13
+12:45,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 45m,"Air Europa, Iberia",131 €,2024-05-19 00:45:09,2024-06-13
+9:15,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 45m,"Iberia, Air Europa",131 €,2024-05-19 00:45:09,2024-06-13
+13:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 40m,Iberia,125 €,2024-05-19 00:45:09,2024-06-13
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,"AGP, MAD",9h 30m,"Vueling, Air Europa",99 €,2024-05-19 00:45:09,2024-06-13
+9:15,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 15m,Iberia,101 €,2024-05-19 00:45:09,2024-06-13
+7:05,16:40,Bilbao,BIO,Gran Canaria,LPA,SVQ,10h 35m,Vueling,57 €,2024-05-19 00:45:09,2024-06-13
+7:00,13:20,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",7h 20m,Iberia,264 €,2024-05-19 00:45:09,2024-06-13
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,151 €,2024-05-19 00:45:09,2024-06-13
+8:40,17:00,Bilbao,BIO,Gran Canaria,LPA,"ALC, MAD",9h 20m,"Vueling, Air Europa",136 €,2024-05-19 00:45:09,2024-06-13
+21:35,7:35,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 00m,Iberia,73 €,2024-05-19 00:45:09,2024-06-13
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,342 €,2024-05-19 00:45:09,2024-06-13
+6:45,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 35m,Iberia,125 €,2024-05-19 00:45:09,2024-06-13
+13:15,19:55,Bilbao,BIO,Gran Canaria,LPA,SVQ,7h 40m,"Iberia, Vueling",283 €,2024-05-19 00:45:09,2024-06-13
+7:10,16:40,Bilbao,BIO,Gran Canaria,LPA,"BCN, SVQ",10h 30m,Vueling,137 €,2024-05-19 00:45:09,2024-06-13
+13:40,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 05m,Iberia,110 €,2024-05-19 00:45:09,2024-06-13
+7:10,16:40,Bilbao,BIO,Gran Canaria,LPA,"BCN, SVQ",10h 30m,Vueling,132 €,2024-05-19 00:45:09,2024-06-13
+21:35,7:35,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 00m,"Iberia, Iberia Express",90 €,2024-05-19 00:45:09,2024-06-13
+7:10,16:40,Bilbao,BIO,Gran Canaria,LPA,"BCN, SVQ",10h 30m,Vueling,148 €,2024-05-19 00:45:09,2024-06-13
+21:05,7:35,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 30m,"Air Europa, Iberia Express",95 €,2024-05-19 00:45:09,2024-06-13
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,68 €,2024-05-19 00:45:09,2024-06-13
+8:55,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 20m,Vueling,109 €,2024-05-19 00:45:09,2024-06-13
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,120 €,2024-05-19 00:45:09,2024-06-13
+19:35,7:35,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 00m,Iberia,73 €,2024-05-19 00:45:09,2024-06-13
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,110 €,2024-05-19 00:45:09,2024-06-13
+7:10,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Iberia,327 €,2024-05-19 00:45:09,2024-06-13
+7:05,16:40,Bilbao,BIO,Gran Canaria,LPA,SVQ,10h 35m,"Iberia, Vueling",212 €,2024-05-19 00:45:09,2024-06-13
+15:50,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 35m,Iberia,342 €,2024-05-19 00:45:09,2024-06-13
+7:35,18:45,Bilbao,BIO,Gran Canaria,LPA,LGW-LTN,12h 10m,"Vueling, easyJet",111 €,2024-05-19 00:45:09,2024-06-13
+11:40,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 45m,Vueling,124 €,2024-05-19 00:45:09,2024-06-13
+8:55,19:55,Bilbao,BIO,Gran Canaria,LPA,"BCN, SVQ",12h 00m,Vueling,170 €,2024-05-19 00:45:09,2024-06-13
+20:00,7:35,Bilbao,BIO,Gran Canaria,LPA,TFN-TFS,12h 35m,"Vueling, Binter Canarias",124 €,2024-05-19 00:45:09,2024-06-13
+20:00,7:30,Bilbao,BIO,Gran Canaria,LPA,TFN,12h 30m,"Vueling, Binter Canarias",143 €,2024-05-19 00:45:09,2024-06-13
+11:40,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 35m,Iberia,346 €,2024-05-19 00:45:09,2024-06-13
+6:45,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,Iberia,194 €,2024-05-19 00:45:09,2024-06-13
+14:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 10m,Iberia,327 €,2024-05-19 00:45:09,2024-06-13
+8:25,16:45,Bilbao,BIO,Gran Canaria,LPA,ZRH,9h 20m,SWISS,397 €,2024-05-19 00:45:09,2024-06-13
+7:10,19:55,Bilbao,BIO,Gran Canaria,LPA,"BCN, SVQ",13h 45m,Vueling,164 €,2024-05-19 00:45:09,2024-06-13
+7:10,19:55,Bilbao,BIO,Gran Canaria,LPA,"BCN, SVQ",13h 45m,Vueling,164 €,2024-05-19 00:45:09,2024-06-13
+7:10,19:55,Bilbao,BIO,Gran Canaria,LPA,"BCN, SVQ",13h 45m,Vueling,181 €,2024-05-19 00:45:09,2024-06-13
+11:00,19:55,Bilbao,BIO,Gran Canaria,LPA,"LIS, SVQ",9h 55m,"TAP AIR PORTUGAL, Vueling",347 €,2024-05-19 00:45:09,2024-06-13
+13:15,23:25,Bilbao,BIO,Gran Canaria,LPA,"SVQ, BCN",11h 10m,Vueling,349 €,2024-05-19 00:45:09,2024-06-13
+13:15,23:25,Bilbao,BIO,Gran Canaria,LPA,"SVQ, BCN",11h 10m,"Iberia, Vueling",362 €,2024-05-19 00:45:09,2024-06-13
+8:55,20:15,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 20m,Iberia,372 €,2024-05-19 00:45:09,2024-06-13
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,358 €,2024-05-19 00:45:09,2024-06-13
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",361 €,2024-05-19 00:45:09,2024-06-13
+11:40,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 45m,Iberia,376 €,2024-05-19 00:45:09,2024-06-13
+6:45,16:45,Bilbao,BIO,Gran Canaria,LPA,"FRA, ZRH",11h 00m,Lufthansa,517 €,2024-05-19 00:45:09,2024-06-13
+22:40,10:45,Bilbao,BIO,Gran Canaria,LPA,"PMI, MAD",13h 05m,"Vueling, Iberia",353 €,2024-05-19 00:45:09,2024-06-13
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,470 €,2024-05-19 00:45:09,2024-06-13
+22:40,10:45,Bilbao,BIO,Gran Canaria,LPA,"PMI, MAD",13h 05m,"Vueling, Iberia Express",398 €,2024-05-19 00:45:09,2024-06-13
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,820 €,2024-05-19 00:45:09,2024-06-13
+7:35,16:45,Bilbao,BIO,Gran Canaria,LPA,"MUC, ZRH",10h 10m,Lufthansa,670 €,2024-05-19 00:45:09,2024-06-13
+11:00,23:25,Bilbao,BIO,Gran Canaria,LPA,"LIS, SVQ, ...",13h 25m,"TAP AIR PORTUGAL, Vueling",427 €,2024-05-19 00:45:09,2024-06-13
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,KLM,598 €,2024-05-19 00:45:09,2024-06-13
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,KLM,600 €,2024-05-19 00:45:09,2024-06-13
+6:50,18:10,Bilbao,BIO,Gran Canaria,LPA,AMS,12h 20m,KLM,602 €,2024-05-19 00:45:09,2024-06-13
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,"Air France, KLM",638 €,2024-05-19 00:45:09,2024-06-13
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,"Air France, KLM",639 €,2024-05-19 00:45:09,2024-06-13
+22:40,10:45,Bilbao,BIO,Gran Canaria,LPA,"PMI, MAD",13h 05m,Iberia,606 €,2024-05-19 00:45:09,2024-06-13
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,822 €,2024-05-19 00:45:09,2024-06-13
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,822 €,2024-05-19 00:45:09,2024-06-13
+10:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",11h 00m,"Air France, Bulgaria Air",1280 €,2024-05-19 00:45:09,2024-06-13
+7:05,9:20,Bilbao,BIO,Gran Canaria,LPA,3h 15m,Iberia,Promocionados,155 €,2024-05-19 00:45:09,2024-06-14
+6:45,10:45,,-,scala,1 e,5h 00m,Iberia,Promocionados,125 €,2024-05-19 00:45:09,2024-06-14
+11:55,16:30,Bilbao,BIO,Gran Canaria,LPA,TFN,5h 35m,"Vueling, Binter Canarias",128 €,2024-05-19 00:45:09,2024-06-14
+16:50,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Air Europa,141 €,2024-05-19 00:45:09,2024-06-14
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia Express",118 €,2024-05-19 00:45:09,2024-06-14
+8:30,13:00,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 30m,Vueling,139 €,2024-05-19 00:45:09,2024-06-14
+11:55,17:00,Bilbao,BIO,Gran Canaria,LPA,TFN,6h 05m,"Vueling, Binter Canarias",128 €,2024-05-19 00:45:09,2024-06-14
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,180 €,2024-05-19 00:45:09,2024-06-14
+8:30,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 50m,"Air Europa, Iberia Express",146 €,2024-05-19 00:45:09,2024-06-14
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Air Europa",75 €,2024-05-19 00:45:09,2024-06-14
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,"Iberia, Iberia Express",123 €,2024-05-19 00:45:09,2024-06-14
+11:55,17:30,Bilbao,BIO,Gran Canaria,LPA,TFN,6h 35m,"Vueling, Binter Canarias",128 €,2024-05-19 00:45:09,2024-06-14
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Vueling,151 €,2024-05-19 00:45:09,2024-06-14
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia",125 €,2024-05-19 00:45:09,2024-06-14
+11:55,18:00,Bilbao,BIO,Gran Canaria,LPA,TFN,7h 05m,"Vueling, Binter Canarias",128 €,2024-05-19 00:45:09,2024-06-14
+11:55,18:30,Bilbao,BIO,Gran Canaria,LPA,TFN,7h 35m,"Vueling, Binter Canarias",128 €,2024-05-19 00:45:09,2024-06-14
+12:45,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia Express",157 €,2024-05-19 00:45:09,2024-06-14
+8:30,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 50m,"Air Europa, Iberia",152 €,2024-05-19 00:45:09,2024-06-14
+13:40,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 35m,Iberia,179 €,2024-05-19 00:45:09,2024-06-14
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,201 €,2024-05-19 00:45:09,2024-06-14
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",197 €,2024-05-19 00:45:09,2024-06-14
+12:45,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia",161 €,2024-05-19 00:45:09,2024-06-14
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Canaryfly",128 €,2024-05-19 00:45:09,2024-06-14
+8:30,14:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 50m,"Air Europa, Binter Canarias",183 €,2024-05-19 00:45:09,2024-06-14
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Binter Canarias",132 €,2024-05-19 00:45:09,2024-06-14
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,133 €,2024-05-19 00:45:09,2024-06-14
+13:25,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,7h 45m,Vueling,178 €,2024-05-19 00:45:09,2024-06-14
+8:30,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 50m,"Air Europa, Iberia Express",133 €,2024-05-19 00:45:09,2024-06-14
+11:55,20:00,Bilbao,BIO,Gran Canaria,LPA,TFN,9h 05m,"Vueling, Binter Canarias",128 €,2024-05-19 00:45:09,2024-06-14
+13:40,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 35m,"Iberia, Iberia Express",194 €,2024-05-19 00:45:09,2024-06-14
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Vueling,79 €,2024-05-19 00:45:09,2024-06-14
+11:55,20:30,Bilbao,BIO,Gran Canaria,LPA,TFN,9h 35m,"Vueling, Binter Canarias",128 €,2024-05-19 00:45:09,2024-06-14
+17:35,23:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,Iberia,213 €,2024-05-19 00:45:09,2024-06-14
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,179 €,2024-05-19 00:45:09,2024-06-14
+11:55,21:30,Bilbao,BIO,Gran Canaria,LPA,TFN,10h 35m,"Vueling, Binter Canarias",110 €,2024-05-19 00:45:09,2024-06-14
+8:30,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 50m,"Air Europa, Iberia",137 €,2024-05-19 00:45:09,2024-06-14
+8:30,17:20,Bilbao,BIO,Gran Canaria,LPA,AGP,9h 50m,Vueling,133 €,2024-05-19 00:45:09,2024-06-14
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Iberia,190 €,2024-05-19 00:45:09,2024-06-14
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,179 €,2024-05-19 00:45:09,2024-06-14
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,Iberia,149 €,2024-05-19 00:45:09,2024-06-14
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,153 €,2024-05-19 00:45:09,2024-06-14
+18:40,23:25,Bilbao,BIO,Gran Canaria,LPA,VLC,5h 45m,"Iberia, Vueling",225 €,2024-05-19 00:45:09,2024-06-14
+15:45,23:25,Bilbao,BIO,Gran Canaria,LPA,VLC,8h 40m,"Volotea, Vueling",182 €,2024-05-19 00:45:09,2024-06-14
+8:30,16:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 30m,"Air Europa, Binter Canarias",185 €,2024-05-19 00:45:09,2024-06-14
+11:55,21:45,Bilbao,BIO,Gran Canaria,LPA,TFN-TFS,10h 50m,"Vueling, Binter Canarias",140 €,2024-05-19 00:45:09,2024-06-14
+21:20,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 05m,Vueling,92 €,2024-05-19 00:45:09,2024-06-14
+6:45,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 35m,Iberia,143 €,2024-05-19 00:45:09,2024-06-14
+17:35,0:45,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 10m,Iberia,213 €,2024-05-19 00:45:09,2024-06-14
+13:25,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 00m,Vueling,162 €,2024-05-19 00:45:09,2024-06-14
+17:35,23:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Iberia, Iberia Express",237 €,2024-05-19 00:45:09,2024-06-14
+14:40,23:25,Bilbao,BIO,Gran Canaria,LPA,"OPO, BCN",9h 45m,Vueling,178 €,2024-05-19 00:45:09,2024-06-14
+13:40,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 20m,Iberia,97 €,2024-05-19 00:45:09,2024-06-14
+6:45,10:45,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 00m,Vueling,352 €,2024-05-19 00:45:09,2024-06-14
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,161 €,2024-05-19 00:45:09,2024-06-14
+10:40,19:35,Bilbao,BIO,Gran Canaria,LPA,LGW,9h 55m,easyJet,206 €,2024-05-19 00:45:09,2024-06-14
+17:45,0:45,Bilbao,BIO,Gran Canaria,LPA,"LIS, MAD",8h 00m,"TAP AIR PORTUGAL, Iberia",238 €,2024-05-19 00:45:09,2024-06-14
+9:15,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 00m,Iberia,213 €,2024-05-19 00:45:09,2024-06-14
+11:00,23:25,Bilbao,BIO,Gran Canaria,LPA,VLC,13h 25m,Vueling,139 €,2024-05-19 00:45:09,2024-06-14
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,163 €,2024-05-19 00:45:09,2024-06-14
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Iberia,216 €,2024-05-19 00:45:09,2024-06-14
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,179 €,2024-05-19 00:45:09,2024-06-14
+14:40,23:05,Bilbao,BIO,Gran Canaria,LPA,"OPO, MAD",9h 25m,"Vueling, Iberia",224 €,2024-05-19 00:45:09,2024-06-14
+13:40,0:45,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 05m,Iberia,194 €,2024-05-19 00:45:09,2024-06-14
+18:10,2:00,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",8h 50m,Iberia,278 €,2024-05-19 00:45:09,2024-06-14
+7:35,18:20,Bilbao,BIO,Gran Canaria,LPA,LGW,11h 45m,Vueling,213 €,2024-05-19 00:45:09,2024-06-14
+14:10,2:00,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",12h 50m,Iberia,209 €,2024-05-19 00:45:09,2024-06-14
+6:45,18:15,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 30m,Iberia,227 €,2024-05-19 00:45:09,2024-06-14
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,220 €,2024-05-19 00:45:09,2024-06-14
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,425 €,2024-05-19 00:45:09,2024-06-14
+7:10,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Iberia,425 €,2024-05-19 00:45:09,2024-06-14
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,362 €,2024-05-19 00:45:09,2024-06-14
+7:40,18:15,Bilbao,BIO,Gran Canaria,LPA,"AMS, MAD",11h 35m,"Vueling, Iberia",350 €,2024-05-19 00:45:09,2024-06-14
+21:20,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 05m,Iberia,329 €,2024-05-19 00:45:09,2024-06-14
+13:25,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,7h 45m,Iberia,482 €,2024-05-19 00:45:09,2024-06-14
+13:25,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 00m,Iberia,449 €,2024-05-19 00:45:09,2024-06-14
+17:35,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 50m,Iberia,567 €,2024-05-19 00:45:09,2024-06-14
+7:35,15:55,Bilbao,BIO,Gran Canaria,LPA,MUC,9h 20m,Lufthansa,504 €,2024-05-19 00:45:09,2024-06-14
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,445 €,2024-05-19 00:45:09,2024-06-14
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,431 €,2024-05-19 00:45:09,2024-06-14
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,498 €,2024-05-19 00:45:09,2024-06-14
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",502 €,2024-05-19 00:45:09,2024-06-14
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,713 €,2024-05-19 00:45:09,2024-06-14
+21:35,7:35,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS",11h 00m,Iberia,613 €,2024-05-19 00:45:09,2024-06-14
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,671 €,2024-05-19 00:45:09,2024-06-14
+8:30,15:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 00m,Air Europa,820 €,2024-05-19 00:45:09,2024-06-14
+8:30,16:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",9h 00m,Air Europa,805 €,2024-05-19 00:45:09,2024-06-14
+6:45,15:55,Bilbao,BIO,Gran Canaria,LPA,"FRA, MUC",10h 10m,Lufthansa,794 €,2024-05-19 00:45:09,2024-06-14
+8:30,20:10,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",12h 40m,Air Europa,805 €,2024-05-19 00:45:09,2024-06-14
+6:50,18:20,Bilbao,BIO,Gran Canaria,LPA,AMS,12h 30m,KLM,936 €,2024-05-19 00:45:09,2024-06-14
+7:10,18:20,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 10m,KLM,1010 €,2024-05-19 00:45:09,2024-06-14
+7:10,18:20,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 10m,KLM,1042 €,2024-05-19 00:45:09,2024-06-14
+7:10,18:20,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 10m,"Air France, KLM",1056 €,2024-05-19 00:45:09,2024-06-14
+7:10,18:20,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 10m,"Air France, KLM",1087 €,2024-05-19 00:45:09,2024-06-14
+10:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",11h 00m,"Air France, Bulgaria Air",1310 €,2024-05-19 00:45:09,2024-06-14
+7:05,9:20,Bilbao,BIO,Gran Canaria,LPA,3h 15m,Vueling,Promocionados,53 €,2024-05-19 00:45:09,2024-06-15
+15:10,17:20,Bilbao,BIO,Gran Canaria,LPA,3h 10m,Volotea,Promocionados,58 €,2024-05-19 00:45:09,2024-06-15
+16:50,22:05,,-,scala,1 e,6h 15m,Air Europa,Promocionados,56 €,2024-05-19 00:45:09,2024-06-15
+16:05,18:20,Bilbao,BIO,Gran Canaria,LPA,directo,3h 15m,Iberia,180 €,2024-05-19 00:45:09,2024-06-15
+7:05,9:20,Bilbao,BIO,Gran Canaria,LPA,directo,3h 15m,Iberia,188 €,2024-05-19 00:45:09,2024-06-15
+9:15,13:25,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 10m,Iberia,125 €,2024-05-19 00:45:09,2024-06-15
+17:35,23:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 45m,Iberia,79 €,2024-05-19 00:45:09,2024-06-15
+15:00,19:40,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 40m,Vueling,116 €,2024-05-19 00:45:09,2024-06-15
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Vueling,102 €,2024-05-19 00:45:09,2024-06-15
+15:30,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,5h 40m,Vueling,146 €,2024-05-19 00:45:09,2024-06-15
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia Express",93 €,2024-05-19 00:45:09,2024-06-15
+11:55,16:30,Bilbao,BIO,Gran Canaria,LPA,TFN,5h 35m,"Vueling, Binter Canarias",136 €,2024-05-19 00:45:09,2024-06-15
+13:40,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 50m,Iberia,143 €,2024-05-19 00:45:09,2024-06-15
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia",99 €,2024-05-19 00:45:09,2024-06-15
+16:50,23:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 30m,"Air Europa, Iberia Express",82 €,2024-05-19 00:45:09,2024-06-15
+11:55,17:00,Bilbao,BIO,Gran Canaria,LPA,TFN,6h 05m,"Vueling, Binter Canarias",136 €,2024-05-19 00:45:09,2024-06-15
+17:35,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 15m,Iberia,71 €,2024-05-19 00:45:09,2024-06-15
+11:55,17:30,Bilbao,BIO,Gran Canaria,LPA,TFN,6h 35m,"Vueling, Binter Canarias",132 €,2024-05-19 00:45:09,2024-06-15
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",170 €,2024-05-19 00:45:09,2024-06-15
+16:50,23:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 30m,"Air Europa, Iberia",87 €,2024-05-19 00:45:09,2024-06-15
+9:15,16:30,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 15m,Iberia,91 €,2024-05-19 00:45:09,2024-06-15
+13:40,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 50m,"Iberia, Iberia Express",146 €,2024-05-19 00:45:09,2024-06-15
+6:45,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 55m,Vueling,94 €,2024-05-19 00:45:09,2024-06-15
+17:35,23:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 45m,"Iberia, Iberia Express",126 €,2024-05-19 00:45:09,2024-06-15
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,Iberia,71 €,2024-05-19 00:45:09,2024-06-15
+16:50,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 00m,"Air Europa, Iberia Express",79 €,2024-05-19 00:45:09,2024-06-15
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,143 €,2024-05-19 00:45:09,2024-06-15
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Air Europa",107 €,2024-05-19 00:45:09,2024-06-15
+16:50,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 00m,"Air Europa, Iberia",94 €,2024-05-19 00:45:09,2024-06-15
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Canaryfly",128 €,2024-05-19 00:45:09,2024-06-15
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,104 €,2024-05-19 00:45:09,2024-06-15
+17:35,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 15m,"Iberia, Iberia Express",123 €,2024-05-19 00:45:09,2024-06-15
+9:15,16:30,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 15m,"Iberia, Iberia Express",121 €,2024-05-19 00:45:09,2024-06-15
+11:15,19:40,Bilbao,BIO,Gran Canaria,LPA,AGP,9h 25m,"Volotea, Vueling",110 €,2024-05-19 00:45:09,2024-06-15
+8:30,16:30,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 00m,"Air Europa, Iberia Express",126 €,2024-05-19 00:45:09,2024-06-15
+13:40,23:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 40m,Iberia,79 €,2024-05-19 00:45:09,2024-06-15
+16:50,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 10m,"Air Europa, Iberia Express",89 €,2024-05-19 00:45:09,2024-06-15
+9:15,13:25,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 10m,Vueling,306 €,2024-05-19 00:45:09,2024-06-15
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Binter Canarias",156 €,2024-05-19 00:45:09,2024-06-15
+16:50,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 10m,"Air Europa, Iberia",94 €,2024-05-19 00:45:09,2024-06-15
+11:55,20:30,Bilbao,BIO,Gran Canaria,LPA,TFN,9h 35m,"Vueling, Binter Canarias",132 €,2024-05-19 00:45:09,2024-06-15
+9:15,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 15m,Iberia,125 €,2024-05-19 00:45:09,2024-06-15
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,351 €,2024-05-19 00:45:09,2024-06-15
+12:55,20:10,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 15m,Air Europa,239 €,2024-05-19 00:45:09,2024-06-15
+13:40,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 10m,Iberia,73 €,2024-05-19 00:45:09,2024-06-15
+11:55,21:30,Bilbao,BIO,Gran Canaria,LPA,TFN,10h 35m,"Vueling, Binter Canarias",132 €,2024-05-19 00:45:09,2024-06-15
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,79 €,2024-05-19 00:45:09,2024-06-15
+8:15,19:15,Bilbao,BIO,Gran Canaria,LPA,ALC,12h 00m,Vueling,105 €,2024-05-19 00:45:09,2024-06-15
+12:55,21:30,Bilbao,BIO,Gran Canaria,LPA,ACE,9h 35m,Air Europa,239 €,2024-05-19 00:45:09,2024-06-15
+11:15,22:05,Bilbao,BIO,Gran Canaria,LPA,"AGP, MAD",11h 50m,"Volotea, Air Europa",110 €,2024-05-19 00:45:09,2024-06-15
+11:55,22:30,Bilbao,BIO,Gran Canaria,LPA,TFN,11h 35m,"Vueling, Binter Canarias",132 €,2024-05-19 00:45:09,2024-06-15
+9:00,19:40,Bilbao,BIO,Gran Canaria,LPA,AGP,11h 40m,Vueling,132 €,2024-05-19 00:45:09,2024-06-15
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,141 €,2024-05-19 00:45:09,2024-06-15
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,332 €,2024-05-19 00:45:09,2024-06-15
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,127 €,2024-05-19 00:45:09,2024-06-15
+6:50,17:20,Bilbao,BIO,Gran Canaria,LPA,SVQ,11h 30m,Vueling,147 €,2024-05-19 00:45:09,2024-06-15
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Iberia Express",88 €,2024-05-19 00:45:09,2024-06-15
+13:40,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 20m,Iberia,105 €,2024-05-19 00:45:09,2024-06-15
+15:30,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,5h 40m,Iberia,410 €,2024-05-19 00:45:09,2024-06-15
+12:55,23:00,Bilbao,BIO,Gran Canaria,LPA,ACE,11h 05m,Air Europa,239 €,2024-05-19 00:45:09,2024-06-15
+6:45,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 55m,Iberia,310 €,2024-05-19 00:45:09,2024-06-15
+21:05,7:35,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS",11h 30m,Varias aerolíneas,184 €,2024-05-19 00:45:09,2024-06-15
+12:55,19:30,Bilbao,BIO,Gran Canaria,LPA,"ACE, TFN",7h 35m,Air Europa,390 €,2024-05-19 00:45:09,2024-06-15
+21:05,7:35,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS",11h 30m,Varias aerolíneas,194 €,2024-05-19 00:45:09,2024-06-15
+12:15,18:55,Bilbao,BIO,Gran Canaria,LPA,BRU,7h 40m,Brussels Airlines,378 €,2024-05-19 00:45:09,2024-06-15
+21:05,7:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS-TFN",11h 25m,Varias aerolíneas,203 €,2024-05-19 00:45:09,2024-06-15
+21:05,7:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS-TFN",11h 25m,Varias aerolíneas,211 €,2024-05-19 00:45:09,2024-06-15
+21:05,8:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS-TFN",12h 25m,Varias aerolíneas,176 €,2024-05-19 00:45:09,2024-06-15
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,351 €,2024-05-19 00:45:09,2024-06-15
+21:05,8:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS-TFN",12h 25m,Varias aerolíneas,187 €,2024-05-19 00:45:09,2024-06-15
+15:30,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 55m,Iberia,410 €,2024-05-19 00:45:09,2024-06-15
+16:50,22:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",6h 40m,"Air Europa, Binter Canarias",620 €,2024-05-19 00:45:09,2024-06-15
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,414 €,2024-05-19 00:45:09,2024-06-15
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 50m,Iberia,604 €,2024-05-19 00:45:09,2024-06-15
+8:30,15:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 00m,"Air Europa, Binter Canarias",636 €,2024-05-19 00:45:09,2024-06-15
+8:30,16:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 30m,"Air Europa, Binter Canarias",636 €,2024-05-19 00:45:09,2024-06-15
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,461 €,2024-05-19 00:45:09,2024-06-15
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",464 €,2024-05-19 00:45:09,2024-06-15
+12:45,18:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",6h 45m,"Air Europa, Binter Canarias",794 €,2024-05-19 00:45:09,2024-06-15
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,811 €,2024-05-19 00:45:09,2024-06-15
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,671 €,2024-05-19 00:45:09,2024-06-15
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,KLM,653 €,2024-05-19 00:45:09,2024-06-15
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,KLM,687 €,2024-05-19 00:45:09,2024-06-15
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,"Air France, KLM",695 €,2024-05-19 00:45:09,2024-06-15
+7:10,18:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",12h 00m,"Air France, KLM",727 €,2024-05-19 00:45:09,2024-06-15
+6:50,18:10,Bilbao,BIO,Gran Canaria,LPA,AMS,12h 20m,KLM,764 €,2024-05-19 00:45:09,2024-06-15
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,822 €,2024-05-19 00:45:09,2024-06-15
+9:15,13:20,,-,scala,1 e,5h 05m,Iberia,Promocionados,292 €,2024-05-19 00:45:09,2024-06-16
+8:55,14:40,,-,scala,1 e,6h 45m,Vueling,Promocionados,236 €,2024-05-19 00:45:09,2024-06-16
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,229 €,2024-05-19 00:45:09,2024-06-16
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,Iberia,181 €,2024-05-19 00:45:09,2024-06-16
+21:30,23:45,Bilbao,BIO,Gran Canaria,LPA,directo,3h 15m,Iberia,335 €,2024-05-19 00:45:09,2024-06-16
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia Express",153 €,2024-05-19 00:45:09,2024-06-16
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,"Iberia, Iberia Express",162 €,2024-05-19 00:45:09,2024-06-16
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia",157 €,2024-05-19 00:45:09,2024-06-16
+8:00,12:15,Bilbao,BIO,Gran Canaria,LPA,TFS,5h 15m,"Volotea, Binter Canarias",229 €,2024-05-19 00:45:09,2024-06-16
+19:25,23:30,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 05m,"Volotea, Vueling",251 €,2024-05-19 00:45:09,2024-06-16
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,Vueling,306 €,2024-05-19 00:45:09,2024-06-16
+8:30,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 50m,"Air Europa, Iberia Express",262 €,2024-05-19 00:45:09,2024-06-16
+17:35,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,Iberia,310 €,2024-05-19 00:45:09,2024-06-16
+8:00,15:30,Bilbao,BIO,Gran Canaria,LPA,TFS-TFN,8h 30m,"Volotea, Air Europa",155 €,2024-05-19 00:45:09,2024-06-16
+17:35,0:45,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 10m,Iberia,213 €,2024-05-19 00:45:09,2024-06-16
+13:40,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 50m,Iberia,354 €,2024-05-19 00:45:09,2024-06-16
+8:00,14:30,Bilbao,BIO,Gran Canaria,LPA,TFS-TFN,7h 30m,"Volotea, Binter Canarias",238 €,2024-05-19 00:45:09,2024-06-16
+8:00,15:30,Bilbao,BIO,Gran Canaria,LPA,TFS-TFN,8h 30m,"Volotea, Canaryfly",186 €,2024-05-19 00:45:09,2024-06-16
+8:00,14:50,Bilbao,BIO,Gran Canaria,LPA,TFS,7h 50m,"Volotea, Binter Canarias",225 €,2024-05-19 00:45:09,2024-06-16
+8:00,15:30,Bilbao,BIO,Gran Canaria,LPA,TFS-TFN,8h 30m,"Volotea, Binter Canarias",192 €,2024-05-19 00:45:09,2024-06-16
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,Iberia,179 €,2024-05-19 00:45:09,2024-06-16
+7:00,12:55,Bilbao,BIO,Gran Canaria,LPA,VLC,6h 55m,Vueling,280 €,2024-05-19 00:45:09,2024-06-16
+8:30,14:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 00m,"Air Europa, Binter Canarias",297 €,2024-05-19 00:45:09,2024-06-16
+8:30,15:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 00m,Air Europa,234 €,2024-05-19 00:45:09,2024-06-16
+8:00,15:30,Bilbao,BIO,Gran Canaria,LPA,TFS,8h 30m,"Volotea, Binter Canarias",225 €,2024-05-19 00:45:09,2024-06-16
+8:00,16:30,Bilbao,BIO,Gran Canaria,LPA,TFS-TFN,9h 30m,"Volotea, Binter Canarias",192 €,2024-05-19 00:45:09,2024-06-16
+12:45,18:50,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 05m,"Air Europa, Binter Canarias",347 €,2024-05-19 00:45:09,2024-06-16
+21:05,6:15,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 10m,"Air Europa, Iberia Express",138 €,2024-05-19 00:45:09,2024-06-16
+20:10,6:15,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",11h 05m,Iberia,134 €,2024-05-19 00:45:09,2024-06-16
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,223 €,2024-05-19 00:45:09,2024-06-16
+21:35,6:15,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 40m,"Iberia, Iberia Express",148 €,2024-05-19 00:45:09,2024-06-16
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,"Iberia, Iberia Express",206 €,2024-05-19 00:45:09,2024-06-16
+9:15,14:30,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,"Iberia, Binter Canarias",438 €,2024-05-19 00:45:09,2024-06-16
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,353 €,2024-05-19 00:45:09,2024-06-16
+8:00,17:00,Bilbao,BIO,Gran Canaria,LPA,TFS-TFN,10h 00m,"Volotea, Binter Canarias",199 €,2024-05-19 00:45:09,2024-06-16
+21:05,6:15,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 10m,"Air Europa, Iberia",157 €,2024-05-19 00:45:09,2024-06-16
+13:40,18:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 10m,"Iberia, Binter Canarias",462 €,2024-05-19 00:45:09,2024-06-16
+12:45,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 45m,"Air Europa, Binter Canarias",299 €,2024-05-19 00:45:09,2024-06-16
+10:00,17:00,Bilbao,BIO,Gran Canaria,LPA,"VGO, MAD",8h 00m,"Iberia, Air Europa",317 €,2024-05-19 00:45:09,2024-06-16
+8:30,16:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",9h 00m,Varias aerolíneas,274 €,2024-05-19 00:45:09,2024-06-16
+13:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 40m,Iberia,310 €,2024-05-19 00:45:09,2024-06-16
+13:40,0:45,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 05m,Iberia,181 €,2024-05-19 00:45:09,2024-06-16
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Vueling,206 €,2024-05-19 00:45:09,2024-06-16
+9:15,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 45m,"Iberia, Air Europa",328 €,2024-05-19 00:45:09,2024-06-16
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 50m,"Iberia, Binter Canarias",369 €,2024-05-19 00:45:09,2024-06-16
+20:45,8:00,Bilbao,BIO,Gran Canaria,LPA,AGP,12h 15m,Vueling,165 €,2024-05-19 00:45:09,2024-06-16
+7:00,17:00,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",11h 00m,"Vueling, Air Europa",217 €,2024-05-19 00:45:09,2024-06-16
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,428 €,2024-05-19 00:45:09,2024-06-16
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,289 €,2024-05-19 00:45:09,2024-06-16
+7:00,18:00,Bilbao,BIO,Gran Canaria,LPA,LGW,12h 00m,Vueling,184 €,2024-05-19 00:45:09,2024-06-16
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,518 €,2024-05-19 00:45:09,2024-06-16
+13:40,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 20m,Iberia,161 €,2024-05-19 00:45:09,2024-06-16
+19:45,8:00,Bilbao,BIO,Gran Canaria,LPA,AGP,13h 15m,Vueling,139 €,2024-05-19 00:45:09,2024-06-16
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Iberia Express",149 €,2024-05-19 00:45:09,2024-06-16
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,166 €,2024-05-19 00:45:09,2024-06-16
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,200 €,2024-05-19 00:45:09,2024-06-16
+17:35,6:15,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 40m,Iberia,163 €,2024-05-19 00:45:09,2024-06-16
+21:35,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,"Iberia, Iberia Express",159 €,2024-05-19 00:45:09,2024-06-16
+20:10,8:50,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",13h 40m,Iberia,183 €,2024-05-19 00:45:09,2024-06-16
+13:40,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,"Iberia, Air Europa",360 €,2024-05-19 00:45:09,2024-06-16
+19:25,8:00,Bilbao,BIO,Gran Canaria,LPA,AGP,13h 35m,"Volotea, Vueling",151 €,2024-05-19 00:45:09,2024-06-16
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Iberia",157 €,2024-05-19 00:45:09,2024-06-16
+12:45,23:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, AGP",11h 45m,"Air Europa, Vueling",264 €,2024-05-19 00:45:09,2024-06-16
+13:40,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 20m,"Iberia, Iberia Express",179 €,2024-05-19 00:45:09,2024-06-16
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,320 €,2024-05-19 00:45:09,2024-06-16
+9:15,18:30,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 15m,Iberia,428 €,2024-05-19 00:45:09,2024-06-16
+8:30,15:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 00m,"Air Europa, Binter Canarias",591 €,2024-05-19 00:45:09,2024-06-16
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 50m,Iberia,605 €,2024-05-19 00:45:09,2024-06-16
+11:10,23:30,Bilbao,BIO,Gran Canaria,LPA,AGP,13h 20m,Vueling,273 €,2024-05-19 00:45:09,2024-06-16
+10:55,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Vueling,364 €,2024-05-19 00:45:09,2024-06-16
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,428 €,2024-05-19 00:45:09,2024-06-16
+6:45,16:20,Bilbao,BIO,Gran Canaria,LPA,SVQ,10h 35m,Vueling,492 €,2024-05-19 00:45:09,2024-06-16
+8:30,16:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",9h 00m,"Air Europa, Binter Canarias",627 €,2024-05-19 00:45:09,2024-06-16
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",9h 30m,"Air Europa, Binter Canarias",627 €,2024-05-19 00:45:09,2024-06-16
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Iberia,490 €,2024-05-19 00:45:09,2024-06-16
+6:45,16:15,Bilbao,BIO,Gran Canaria,LPA,FRA,10h 30m,Lufthansa,611 €,2024-05-19 00:45:09,2024-06-16
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,820 €,2024-05-19 00:45:09,2024-06-16
+21:35,7:35,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS",11h 00m,Iberia,613 €,2024-05-19 00:45:09,2024-06-16
+8:30,16:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",9h 00m,Air Europa,805 €,2024-05-19 00:45:09,2024-06-16
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,600 €,2024-05-19 00:45:09,2024-06-16
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,600 €,2024-05-19 00:45:09,2024-06-16
+7:00,12:55,Bilbao,BIO,Gran Canaria,LPA,VLC,6h 55m,Iberia,890 €,2024-05-19 00:45:09,2024-06-16
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",604 €,2024-05-19 00:45:09,2024-06-16
+7:35,16:15,Bilbao,BIO,Gran Canaria,LPA,"MUC, FRA",9h 40m,Lufthansa,794 €,2024-05-19 00:45:09,2024-06-16
+15:15,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,5h 55m,Iberia,1059 €,2024-05-19 00:45:09,2024-06-16
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,822 €,2024-05-19 00:45:09,2024-06-16
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,822 €,2024-05-19 00:45:09,2024-06-16
+15:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 10m,Iberia,1059 €,2024-05-19 00:45:09,2024-06-16
+10:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 15m,Iberia,1025 €,2024-05-19 00:45:09,2024-06-16
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,999 €,2024-05-19 00:45:09,2024-06-16
+10:55,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Iberia,1076 €,2024-05-19 00:45:09,2024-06-16
+21:30,23:45,Bilbao,BIO,Gran Canaria,LPA,3h 15m,Iberia,Promocionados,155 €,2024-05-19 00:45:09,2024-06-17
+17:35,23:45,,-,scala,1 e,7h 10m,Iberia,Promocionados,87 €,2024-05-19 00:45:09,2024-06-17
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia Express",87 €,2024-05-19 00:45:09,2024-06-17
+17:35,22:55,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 20m,"Vueling, Iberia Express",104 €,2024-05-19 00:45:09,2024-06-17
+17:35,22:55,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 20m,Iberia,96 €,2024-05-19 00:45:09,2024-06-17
+16:50,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Air Europa,112 €,2024-05-19 00:45:09,2024-06-17
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,"Iberia, Iberia Express",90 €,2024-05-19 00:45:09,2024-06-17
+17:35,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 10m,"Vueling, Iberia Express",99 €,2024-05-19 00:45:09,2024-06-17
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia",94 €,2024-05-19 00:45:09,2024-06-17
+16:50,22:55,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 05m,"Air Europa, Iberia Express",112 €,2024-05-19 00:45:09,2024-06-17
+17:35,22:55,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 20m,"Iberia, Iberia Express",100 €,2024-05-19 00:45:09,2024-06-17
+17:35,22:55,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 20m,"Vueling, Iberia",106 €,2024-05-19 00:45:09,2024-06-17
+17:35,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 10m,"Iberia, Iberia Express",95 €,2024-05-19 00:45:09,2024-06-17
+16:50,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 55m,"Air Europa, Iberia Express",111 €,2024-05-19 00:45:09,2024-06-17
+13:40,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 40m,Iberia,149 €,2024-05-19 00:45:09,2024-06-17
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,185 €,2024-05-19 00:45:09,2024-06-17
+17:35,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 10m,"Vueling, Iberia",106 €,2024-05-19 00:45:09,2024-06-17
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,Iberia,81 €,2024-05-19 00:45:09,2024-06-17
+16:50,22:55,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 05m,"Air Europa, Iberia",115 €,2024-05-19 00:45:09,2024-06-17
+13:40,22:55,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 15m,Iberia,71 €,2024-05-19 00:45:09,2024-06-17
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,118 €,2024-05-19 00:45:09,2024-06-17
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,"Vueling, Iberia Express",99 €,2024-05-19 00:45:09,2024-06-17
+16:50,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 55m,"Air Europa, Iberia",115 €,2024-05-19 00:45:09,2024-06-17
+6:55,12:30,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 35m,"Vueling, Air Europa",164 €,2024-05-19 00:45:09,2024-06-17
+12:45,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 45m,"Air Europa, Iberia Express",127 €,2024-05-19 00:45:09,2024-06-17
+13:40,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 05m,Iberia,73 €,2024-05-19 00:45:09,2024-06-17
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,190 €,2024-05-19 00:45:09,2024-06-17
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,117 €,2024-05-19 00:45:09,2024-06-17
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,"Iberia, Iberia Express",95 €,2024-05-19 00:45:09,2024-06-17
+16:50,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 10m,"Air Europa, Iberia Express",111 €,2024-05-19 00:45:09,2024-06-17
+6:45,13:45,Bilbao,BIO,Gran Canaria,LPA,SVQ,8h 00m,"Volotea, Vueling",157 €,2024-05-19 00:45:09,2024-06-17
+7:00,13:45,Bilbao,BIO,Gran Canaria,LPA,SVQ,7h 45m,Vueling,162 €,2024-05-19 00:45:09,2024-06-17
+6:55,11:30,Bilbao,BIO,Gran Canaria,LPA,ACE,5h 35m,"Vueling, Binter Canarias",204 €,2024-05-19 00:45:09,2024-06-17
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,"Vueling, Iberia",106 €,2024-05-19 00:45:09,2024-06-17
+6:55,12:00,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 05m,"Vueling, Binter Canarias",196 €,2024-05-19 00:45:09,2024-06-17
+7:40,12:20,Bilbao,BIO,Gran Canaria,LPA,FUE,5h 40m,"Vueling, Binter Canarias",205 €,2024-05-19 00:45:09,2024-06-17
+6:45,10:45,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 00m,Iberia,213 €,2024-05-19 00:45:09,2024-06-17
+12:45,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 45m,"Air Europa, Iberia",130 €,2024-05-19 00:45:09,2024-06-17
+10:15,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,4h 45m,Air Europa,249 €,2024-05-19 00:45:09,2024-06-17
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Air Europa",167 €,2024-05-19 00:45:09,2024-06-17
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Vueling,208 €,2024-05-19 00:45:09,2024-06-17
+7:40,13:25,Bilbao,BIO,Gran Canaria,LPA,FUE,6h 45m,"Vueling, Binter Canarias",202 €,2024-05-19 00:45:09,2024-06-17
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Vueling,120 €,2024-05-19 00:45:09,2024-06-17
+13:50,22:05,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",9h 15m,"Vueling, Air Europa",151 €,2024-05-19 00:45:09,2024-06-17
+13:40,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 20m,Iberia,73 €,2024-05-19 00:45:09,2024-06-17
+18:10,2:00,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",8h 50m,Iberia,183 €,2024-05-19 00:45:09,2024-06-17
+7:40,13:50,Bilbao,BIO,Gran Canaria,LPA,FUE,7h 10m,"Vueling, Binter Canarias",202 €,2024-05-19 00:45:09,2024-06-17
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,Vueling,247 €,2024-05-19 00:45:09,2024-06-17
+7:10,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Vueling,193 €,2024-05-19 00:45:09,2024-06-17
+13:50,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,7h 20m,Vueling,217 €,2024-05-19 00:45:09,2024-06-17
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",237 €,2024-05-19 00:45:09,2024-06-17
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Iberia,192 €,2024-05-19 00:45:09,2024-06-17
+6:55,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,8h 05m,"Vueling, Binter Canarias",196 €,2024-05-19 00:45:09,2024-06-17
+17:35,22:55,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 20m,Vueling,247 €,2024-05-19 00:45:09,2024-06-17
+7:40,14:50,Bilbao,BIO,Gran Canaria,LPA,FUE,8h 10m,"Vueling, Binter Canarias",198 €,2024-05-19 00:45:09,2024-06-17
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,190 €,2024-05-19 00:45:09,2024-06-17
+8:40,17:00,Bilbao,BIO,Gran Canaria,LPA,"ALC, MAD",9h 20m,"Vueling, Air Europa",171 €,2024-05-19 00:45:09,2024-06-17
+13:55,23:10,Bilbao,BIO,Gran Canaria,LPA,SVQ,10h 15m,Vueling,160 €,2024-05-19 00:45:09,2024-06-17
+7:40,16:50,Bilbao,BIO,Gran Canaria,LPA,FUE,10h 10m,"Vueling, Binter Canarias",171 €,2024-05-19 00:45:09,2024-06-17
+17:35,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 10m,Vueling,247 €,2024-05-19 00:45:09,2024-06-17
+10:15,16:30,Bilbao,BIO,Gran Canaria,LPA,ACE,7h 15m,Air Europa,249 €,2024-05-19 00:45:09,2024-06-17
+8:30,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 50m,"Air Europa, Iberia Express",205 €,2024-05-19 00:45:09,2024-06-17
+10:15,16:00,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 45m,"Air Europa, Binter Canarias",254 €,2024-05-19 00:45:09,2024-06-17
+7:45,17:00,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",10h 15m,"Vueling, Air Europa",177 €,2024-05-19 00:45:09,2024-06-17
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,146 €,2024-05-19 00:45:09,2024-06-17
+9:10,15:15,Bilbao,BIO,Gran Canaria,LPA,AGP,7h 05m,Vueling,248 €,2024-05-19 00:45:09,2024-06-17
+10:15,15:15,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 00m,"Air Europa, Binter Canarias",281 €,2024-05-19 00:45:09,2024-06-17
+13:55,21:00,Bilbao,BIO,Gran Canaria,LPA,LGW,8h 05m,"Vueling, TUI Airways",243 €,2024-05-19 00:45:09,2024-06-17
+22:30,10:40,Bilbao,BIO,Gran Canaria,LPA,"PMI, MAD",13h 10m,"Vueling, Iberia Express",135 €,2024-05-19 00:45:09,2024-06-17
+13:40,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 40m,Vueling,312 €,2024-05-19 00:45:09,2024-06-17
+9:15,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 05m,Iberia,205 €,2024-05-19 00:45:09,2024-06-17
+6:45,10:45,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 00m,Vueling,329 €,2024-05-19 00:45:09,2024-06-17
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,Vueling,247 €,2024-05-19 00:45:09,2024-06-17
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Vueling,284 €,2024-05-19 00:45:09,2024-06-17
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Vueling,352 €,2024-05-19 00:45:09,2024-06-17
+10:15,20:10,Bilbao,BIO,Gran Canaria,LPA,ACE,10h 55m,Air Europa,259 €,2024-05-19 00:45:09,2024-06-17
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,206 €,2024-05-19 00:45:09,2024-06-17
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Vueling,329 €,2024-05-19 00:45:09,2024-06-17
+10:30,19:20,Bilbao,BIO,Gran Canaria,LPA,LGW,9h 50m,easyJet,276 €,2024-05-19 00:45:09,2024-06-17
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,254 €,2024-05-19 00:45:09,2024-06-17
+10:15,21:30,Bilbao,BIO,Gran Canaria,LPA,ACE,12h 15m,Air Europa,259 €,2024-05-19 00:45:09,2024-06-17
+6:45,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 35m,Iberia,266 €,2024-05-19 00:45:09,2024-06-17
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Vueling,352 €,2024-05-19 00:45:09,2024-06-17
+10:15,23:00,Bilbao,BIO,Gran Canaria,LPA,ACE,13h 45m,Air Europa,259 €,2024-05-19 00:45:09,2024-06-17
+17:35,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 50m,Iberia,424 €,2024-05-19 00:45:09,2024-06-17
+15:50,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 35m,Iberia,412 €,2024-05-19 00:45:09,2024-06-17
+8:30,16:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",9h 00m,Air Europa,445 €,2024-05-19 00:45:09,2024-06-17
+13:50,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,7h 20m,Iberia,488 €,2024-05-19 00:45:09,2024-06-17
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,477 €,2024-05-19 00:45:09,2024-06-17
+7:35,15:05,Bilbao,BIO,Gran Canaria,LPA,MUC,8h 30m,Lufthansa,474 €,2024-05-19 00:45:09,2024-06-17
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Iberia,413 €,2024-05-19 00:45:09,2024-06-17
+13:50,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 35m,Iberia,453 €,2024-05-19 00:45:09,2024-06-17
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,534 €,2024-05-19 00:45:09,2024-06-17
+7:10,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Iberia,502 €,2024-05-19 00:45:09,2024-06-17
+8:30,20:10,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",12h 40m,Air Europa,445 €,2024-05-19 00:45:09,2024-06-17
+10:15,22:05,Bilbao,BIO,Gran Canaria,LPA,"ACE, MAD",12h 50m,Air Europa,467 €,2024-05-19 00:45:09,2024-06-17
+6:45,15:45,Bilbao,BIO,Gran Canaria,LPA,FRA,10h 00m,Lufthansa,536 €,2024-05-19 00:45:09,2024-06-17
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,482 €,2024-05-19 00:45:09,2024-06-17
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,550 €,2024-05-19 00:45:09,2024-06-17
+21:35,7:35,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS",11h 00m,Iberia,613 €,2024-05-19 00:45:09,2024-06-17
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,637 €,2024-05-19 00:45:09,2024-06-17
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,714 €,2024-05-19 00:45:09,2024-06-17
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,797 €,2024-05-19 00:45:09,2024-06-17
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",678 €,2024-05-19 00:45:09,2024-06-17
+6:50,18:05,Bilbao,BIO,Gran Canaria,LPA,AMS,12h 15m,KLM,819 €,2024-05-19 00:45:09,2024-06-17
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,956 €,2024-05-19 00:45:09,2024-06-17
+7:10,18:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",11h 55m,KLM,973 €,2024-05-19 00:45:09,2024-06-17
+7:10,18:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",11h 55m,"Air France, KLM",1011 €,2024-05-19 00:45:09,2024-06-17
+7:10,18:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",11h 55m,KLM,1031 €,2024-05-19 00:45:09,2024-06-17
+7:10,18:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, AMS",11h 55m,"Air France, KLM",1060 €,2024-05-19 00:45:09,2024-06-17
+10:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",11h 00m,"Air France, Bulgaria Air",1415 €,2024-05-19 00:45:09,2024-06-17
+7:35,9:50,Bilbao,BIO,Gran Canaria,LPA,3h 15m,Vueling,Promocionados,26 €,2024-05-19 00:45:09,2024-06-18
+6:45,8:55,Bilbao,BIO,Gran Canaria,LPA,3h 10m,Volotea,Promocionados,33 €,2024-05-19 00:45:09,2024-06-18
+13:40,18:20,,-,scala,1 e,5h 40m,Iberia,Promocionados,71 €,2024-05-19 00:45:09,2024-06-18
+6:45,8:55,Bilbao,BIO,Gran Canaria,LPA,directo,3h 10m,CitizenPlane,49 €,2024-05-19 00:45:09,2024-06-18
+7:00,12:25,Bilbao,BIO,Gran Canaria,LPA,SVQ,6h 25m,Vueling,61 €,2024-05-19 00:45:09,2024-06-18
+18:40,23:05,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 25m,"Volotea, Vueling",78 €,2024-05-19 00:45:09,2024-06-18
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia Express",75 €,2024-05-19 00:45:09,2024-06-18
+7:00,14:30,Bilbao,BIO,Gran Canaria,LPA,SVQ,8h 30m,Vueling,61 €,2024-05-19 00:45:09,2024-06-18
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,Iberia,71 €,2024-05-19 00:45:09,2024-06-18
+15:35,23:05,Bilbao,BIO,Gran Canaria,LPA,AGP,8h 30m,Vueling,69 €,2024-05-19 00:45:09,2024-06-18
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,71 €,2024-05-19 00:45:09,2024-06-18
+12:45,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 35m,"Air Europa, Iberia Express",93 €,2024-05-19 00:45:09,2024-06-18
+11:05,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 15m,Iberia,71 €,2024-05-19 00:45:09,2024-06-18
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,"Iberia, Iberia Express",79 €,2024-05-19 00:45:09,2024-06-18
+16:50,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Air Europa,111 €,2024-05-19 00:45:09,2024-06-18
+16:50,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia Express",111 €,2024-05-19 00:45:09,2024-06-18
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,108 €,2024-05-19 00:45:09,2024-06-18
+16:50,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 55m,"Air Europa, Iberia Express",100 €,2024-05-19 00:45:09,2024-06-18
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Vueling,70 €,2024-05-19 00:45:09,2024-06-18
+11:05,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Iberia,101 €,2024-05-19 00:45:09,2024-06-18
+13:40,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 40m,Iberia,71 €,2024-05-19 00:45:09,2024-06-18
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia",94 €,2024-05-19 00:45:09,2024-06-18
+12:45,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 35m,"Air Europa, Iberia",99 €,2024-05-19 00:45:09,2024-06-18
+18:20,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 05m,Vueling,140 €,2024-05-19 00:45:09,2024-06-18
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,101 €,2024-05-19 00:45:09,2024-06-18
+12:45,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 35m,"Air Europa, Iberia Express",92 €,2024-05-19 00:45:09,2024-06-18
+13:40,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 05m,Iberia,73 €,2024-05-19 00:45:09,2024-06-18
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,101 €,2024-05-19 00:45:09,2024-06-18
+6:55,12:00,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 05m,"Vueling, Binter Canarias",136 €,2024-05-19 00:45:09,2024-06-18
+15:25,17:40,Bilbao,BIO,Gran Canaria,LPA,directo,3h 15m,Iberia,155 €,2024-05-19 00:45:09,2024-06-18
+7:35,9:50,Bilbao,BIO,Gran Canaria,LPA,directo,3h 15m,Iberia,155 €,2024-05-19 00:45:09,2024-06-18
+16:50,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 30m,"Air Europa, Iberia",115 €,2024-05-19 00:45:09,2024-06-18
+11:05,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,73 €,2024-05-19 00:45:09,2024-06-18
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,81 €,2024-05-19 00:45:09,2024-06-18
+21:05,8:55,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 50m,"Air Europa, Iberia Express",81 €,2024-05-19 00:45:09,2024-06-18
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,170 €,2024-05-19 00:45:09,2024-06-18
+18:10,2:00,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",8h 50m,Iberia,109 €,2024-05-19 00:45:09,2024-06-18
+13:40,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 40m,"Iberia, Iberia Express",127 €,2024-05-19 00:45:09,2024-06-18
+12:40,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,7h 50m,"Vueling, Air Europa",135 €,2024-05-19 00:45:09,2024-06-18
+13:40,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 20m,Iberia,73 €,2024-05-19 00:45:09,2024-06-18
+16:50,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 55m,"Air Europa, Iberia",115 €,2024-05-19 00:45:09,2024-06-18
+19:25,2:00,Bilbao,BIO,Gran Canaria,LPA,"SVQ, MAD",7h 35m,"Vueling, Iberia",114 €,2024-05-19 00:45:09,2024-06-18
+12:45,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 35m,"Air Europa, Iberia",99 €,2024-05-19 00:45:09,2024-06-18
+11:05,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 25m,Iberia,109 €,2024-05-19 00:45:09,2024-06-18
+17:35,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 10m,Iberia,149 €,2024-05-19 00:45:09,2024-06-18
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Iberia,149 €,2024-05-19 00:45:09,2024-06-18
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,109 €,2024-05-19 00:45:09,2024-06-18
+12:40,17:30,Bilbao,BIO,Gran Canaria,LPA,TFN,5h 50m,"Vueling, Binter Canarias",191 €,2024-05-19 00:45:09,2024-06-18
+6:45,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 35m,Iberia,142 €,2024-05-19 00:45:09,2024-06-18
+14:00,2:00,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",13h 00m,Iberia,109 €,2024-05-19 00:45:09,2024-06-18
+17:35,22:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 45m,Iberia,179 €,2024-05-19 00:45:09,2024-06-18
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,Iberia,149 €,2024-05-19 00:45:09,2024-06-18
+15:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 10m,Vueling,175 €,2024-05-19 00:45:09,2024-06-18
+21:35,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 25m,"Iberia, Air Europa",117 €,2024-05-19 00:45:09,2024-06-18
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Vueling,200 €,2024-05-19 00:45:09,2024-06-18
+7:40,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 00m,Vueling,189 €,2024-05-19 00:45:09,2024-06-18
+7:00,19:25,Bilbao,BIO,Gran Canaria,LPA,LGW-LTN,13h 25m,"Vueling, easyJet",134 €,2024-05-19 00:45:09,2024-06-18
+12:45,23:05,Bilbao,BIO,Gran Canaria,LPA,"MAD, AGP",11h 20m,"Air Europa, Vueling",155 €,2024-05-19 00:45:09,2024-06-18
+6:45,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 35m,Iberia,153 €,2024-05-19 00:45:09,2024-06-18
+12:45,23:45,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 00m,"Air Europa, Iberia",141 €,2024-05-19 00:45:09,2024-06-18
+16:50,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 10m,"Air Europa, Iberia",162 €,2024-05-19 00:45:09,2024-06-18
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",220 €,2024-05-19 00:45:09,2024-06-18
+21:35,8:55,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 20m,Iberia,167 €,2024-05-19 00:45:09,2024-06-18
+7:00,19:20,Bilbao,BIO,Gran Canaria,LPA,LGW,13h 20m,"Vueling, easyJet",154 €,2024-05-19 00:45:09,2024-06-18
+21:05,8:55,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 50m,"Air Europa, Iberia",138 €,2024-05-19 00:45:09,2024-06-18
+12:45,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 45m,"Air Europa, Iberia",190 €,2024-05-19 00:45:09,2024-06-18
+12:45,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 05m,"Air Europa, Binter Canarias",208 €,2024-05-19 00:45:09,2024-06-18
+12:45,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 45m,"Air Europa, Binter Canarias",224 €,2024-05-19 00:45:09,2024-06-18
+12:45,21:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",9h 45m,"Air Europa, Binter Canarias",224 €,2024-05-19 00:45:09,2024-06-18
+12:45,22:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",10h 45m,"Air Europa, Binter Canarias",224 €,2024-05-19 00:45:09,2024-06-18
+6:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 15m,"Iberia, Air Europa",200 €,2024-05-19 00:45:09,2024-06-18
+11:05,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 00m,"Iberia, Air Europa",199 €,2024-05-19 00:45:09,2024-06-18
+13:40,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,"Iberia, Air Europa",227 €,2024-05-19 00:45:09,2024-06-18
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Binter Canarias",221 €,2024-05-19 00:45:09,2024-06-18
+9:15,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 45m,"Iberia, Air Europa",242 €,2024-05-19 00:45:09,2024-06-18
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,235 €,2024-05-19 00:45:09,2024-06-18
+7:40,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Vueling,230 €,2024-05-19 00:45:09,2024-06-18
+12:45,23:25,Bilbao,BIO,Gran Canaria,LPA,"MAD, BCN",11h 40m,"Air Europa, Vueling",245 €,2024-05-19 00:45:09,2024-06-18
+12:45,23:25,Bilbao,BIO,Gran Canaria,LPA,"MAD, BCN",11h 40m,"Air Europa, Vueling",245 €,2024-05-19 00:45:09,2024-06-18
+8:30,18:20,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 50m,"Air Europa, Iberia",240 €,2024-05-19 00:45:09,2024-06-18
+7:00,19:25,Bilbao,BIO,Gran Canaria,LPA,LGW-LTN,13h 25m,"British Airways, easyJet",215 €,2024-05-19 00:45:09,2024-06-18
+7:40,19:20,Bilbao,BIO,Gran Canaria,LPA,"BCN, LGW",12h 40m,"Vueling, easyJet",250 €,2024-05-19 00:45:09,2024-06-18
+7:00,16:20,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",10h 20m,Iberia,291 €,2024-05-19 00:45:09,2024-06-18
+7:00,19:20,Bilbao,BIO,Gran Canaria,LPA,LGW,13h 20m,"British Airways, easyJet",234 €,2024-05-19 00:45:09,2024-06-18
+23:00,9:25,Bilbao,BIO,Gran Canaria,LPA,BCN,11h 25m,Iberia,321 €,2024-05-19 00:45:09,2024-06-18
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,382 €,2024-05-19 00:45:09,2024-06-18
+18:20,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 05m,Iberia,397 €,2024-05-19 00:45:09,2024-06-18
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,477 €,2024-05-19 00:45:09,2024-06-18
+7:40,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 00m,Iberia,468 €,2024-05-19 00:45:09,2024-06-18
+15:15,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 10m,Iberia,475 €,2024-05-19 00:45:09,2024-06-18
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,465 €,2024-05-19 00:45:09,2024-06-18
+15:15,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,5h 55m,Iberia,534 €,2024-05-19 00:45:09,2024-06-18
+6:45,17:25,Bilbao,BIO,Gran Canaria,LPA,"FRA, BRU",11h 40m,"Lufthansa, Brussels Airlines",552 €,2024-05-19 00:45:09,2024-06-18
+6:45,17:25,Bilbao,BIO,Gran Canaria,LPA,"FRA, BRU",11h 40m,"Lufthansa, Brussels Airlines",552 €,2024-05-19 00:45:09,2024-06-18
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,567 €,2024-05-19 00:45:09,2024-06-18
+7:40,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Iberia,558 €,2024-05-19 00:45:09,2024-06-18
+6:45,13:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Iberia,615 €,2024-05-19 00:45:09,2024-06-18
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 50m,Iberia,615 €,2024-05-19 00:45:09,2024-06-18
+9:15,18:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",10h 15m,Iberia,615 €,2024-05-19 00:45:09,2024-06-18
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,595 €,2024-05-19 00:45:09,2024-06-18
+11:05,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",10h 25m,Iberia,615 €,2024-05-19 00:45:09,2024-06-18
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,671 €,2024-05-19 00:45:09,2024-06-18
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",599 €,2024-05-19 00:45:09,2024-06-18
+21:35,7:35,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS",11h 00m,Iberia,613 €,2024-05-19 00:45:09,2024-06-18
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,649 €,2024-05-19 00:45:09,2024-06-18
+6:45,14:40,Bilbao,BIO,Gran Canaria,LPA,"MAD, BCN",8h 55m,Iberia,824 €,2024-05-19 00:45:09,2024-06-18
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,857 €,2024-05-19 00:45:09,2024-06-18
+13:40,23:25,Bilbao,BIO,Gran Canaria,LPA,"MAD, BCN",10h 45m,Iberia,847 €,2024-05-19 00:45:09,2024-06-18
+11:05,23:25,Bilbao,BIO,Gran Canaria,LPA,"MAD, BCN",13h 20m,Iberia,824 €,2024-05-19 00:45:09,2024-06-18
+7:40,18:20,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",11h 40m,Iberia,971 €,2024-05-19 00:45:09,2024-06-18
+10:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",11h 00m,"Air France, Bulgaria Air",1415 €,2024-05-19 00:45:09,2024-06-18
+15:35,17:50,Bilbao,BIO,Gran Canaria,LPA,3h 15m,Iberia,Promocionados,188 €,2024-05-19 00:45:09,2024-06-19
+8:55,14:40,,-,scala,1 e,6h 45m,Vueling,Promocionados,94 €,2024-05-19 00:45:09,2024-06-19
+8:50,12:55,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 05m,Vueling,98 €,2024-05-19 00:45:09,2024-06-19
+19:20,23:30,Bilbao,BIO,Gran Canaria,LPA,AGP,5h 10m,"Volotea, Vueling",103 €,2024-05-19 00:45:09,2024-06-19
+9:15,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 05m,Iberia,126 €,2024-05-19 00:45:09,2024-06-19
+12:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 15m,Air Europa,141 €,2024-05-19 00:45:09,2024-06-19
+6:45,10:40,Bilbao,BIO,Gran Canaria,LPA,MAD,4h 55m,Iberia,143 €,2024-05-19 00:45:09,2024-06-19
+10:15,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,4h 45m,Air Europa,197 €,2024-05-19 00:45:09,2024-06-19
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia Express",111 €,2024-05-19 00:45:09,2024-06-19
+16:50,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 15m,Air Europa,133 €,2024-05-19 00:45:09,2024-06-19
+10:15,14:00,Bilbao,BIO,Gran Canaria,LPA,ACE,4h 45m,"Air Europa, Canaryfly",196 €,2024-05-19 00:45:09,2024-06-19
+6:55,11:30,Bilbao,BIO,Gran Canaria,LPA,ACE,5h 35m,"Vueling, Binter Canarias",149 €,2024-05-19 00:45:09,2024-06-19
+21:05,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 55m,"Air Europa, Iberia",114 €,2024-05-19 00:45:09,2024-06-19
+7:40,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 00m,Vueling,94 €,2024-05-19 00:45:09,2024-06-19
+17:30,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 55m,Vueling,146 €,2024-05-19 00:45:09,2024-06-19
+21:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,5h 25m,"Iberia, Iberia Express",132 €,2024-05-19 00:45:09,2024-06-19
+17:35,23:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 45m,Iberia,149 €,2024-05-19 00:45:09,2024-06-19
+11:55,16:30,Bilbao,BIO,Gran Canaria,LPA,TFN,5h 35m,"Vueling, Binter Canarias",183 €,2024-05-19 00:45:09,2024-06-19
+6:55,12:30,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 35m,"Vueling, Canaryfly",142 €,2024-05-19 00:45:09,2024-06-19
+6:55,12:00,Bilbao,BIO,Gran Canaria,LPA,ACE,6h 05m,"Vueling, Binter Canarias",170 €,2024-05-19 00:45:09,2024-06-19
+17:35,23:20,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 45m,"Iberia, Iberia Express",141 €,2024-05-19 00:45:09,2024-06-19
+16:50,23:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 30m,"Air Europa, Iberia Express",137 €,2024-05-19 00:45:09,2024-06-19
+9:15,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 05m,Iberia,132 €,2024-05-19 00:45:09,2024-06-19
+10:15,16:30,Bilbao,BIO,Gran Canaria,LPA,ACE,7h 15m,Air Europa,197 €,2024-05-19 00:45:09,2024-06-19
+6:45,10:40,Bilbao,BIO,Gran Canaria,LPA,MAD,4h 55m,Vueling,284 €,2024-05-19 00:45:09,2024-06-19
+13:40,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 50m,Iberia,151 €,2024-05-19 00:45:09,2024-06-19
+17:35,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 15m,Iberia,141 €,2024-05-19 00:45:09,2024-06-19
+15:55,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Vueling,146 €,2024-05-19 00:45:09,2024-06-19
+6:45,13:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 35m,Iberia,171 €,2024-05-19 00:45:09,2024-06-19
+16:50,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,6h 00m,"Air Europa, Binter Canarias",243 €,2024-05-19 00:45:09,2024-06-19
+14:25,23:25,Bilbao,BIO,Gran Canaria,LPA,VLC,10h 00m,Vueling,62 €,2024-05-19 00:45:09,2024-06-19
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Canaryfly",121 €,2024-05-19 00:45:09,2024-06-19
+12:45,18:50,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 05m,"Air Europa, Binter Canarias",229 €,2024-05-19 00:45:09,2024-06-19
+11:55,19:30,Bilbao,BIO,Gran Canaria,LPA,TFN,8h 35m,"Vueling, Air Europa",128 €,2024-05-19 00:45:09,2024-06-19
+19:05,2:00,Bilbao,BIO,Gran Canaria,LPA,"SVQ, MAD",7h 55m,"Vueling, Iberia",125 €,2024-05-19 00:45:09,2024-06-19
+16:50,23:20,Bilbao,BIO,Gran Canaria,LPA,MAD,7h 30m,"Air Europa, Iberia",208 €,2024-05-19 00:45:09,2024-06-19
+17:35,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 15m,"Iberia, Iberia Express",135 €,2024-05-19 00:45:09,2024-06-19
+16:50,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 00m,"Air Europa, Iberia Express",131 €,2024-05-19 00:45:09,2024-06-19
+11:00,18:50,Bilbao,BIO,Gran Canaria,LPA,SVQ,8h 50m,Vueling,137 €,2024-05-19 00:45:09,2024-06-19
+8:50,17:00,Bilbao,BIO,Gran Canaria,LPA,"AGP, MAD",9h 10m,"Vueling, Air Europa",118 €,2024-05-19 00:45:09,2024-06-19
+17:35,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,Iberia,143 €,2024-05-19 00:45:09,2024-06-19
+14:20,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 05m,Vueling,133 €,2024-05-19 00:45:09,2024-06-19
+14:20,22:05,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",8h 45m,"Vueling, Air Europa",155 €,2024-05-19 00:45:09,2024-06-19
+12:45,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 20m,Air Europa,111 €,2024-05-19 00:45:09,2024-06-19
+8:30,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 30m,Air Europa,183 €,2024-05-19 00:45:09,2024-06-19
+16:50,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 00m,"Air Europa, Iberia",184 €,2024-05-19 00:45:09,2024-06-19
+15:05,23:20,Bilbao,BIO,Gran Canaria,LPA,"ALC, MAD",9h 15m,"Volotea, Iberia",126 €,2024-05-19 00:45:09,2024-06-19
+12:45,20:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",8h 45m,"Air Europa, Binter Canarias",229 €,2024-05-19 00:45:09,2024-06-19
+13:40,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 10m,Iberia,73 €,2024-05-19 00:45:09,2024-06-19
+18:10,2:00,Bilbao,BIO,Gran Canaria,LPA,"SCQ, MAD",8h 50m,Iberia,208 €,2024-05-19 00:45:09,2024-06-19
+9:15,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 45m,"Iberia, Air Europa",221 €,2024-05-19 00:45:09,2024-06-19
+13:40,22:05,Bilbao,BIO,Gran Canaria,LPA,MAD,9h 25m,"Iberia, Air Europa",199 €,2024-05-19 00:45:09,2024-06-19
+8:30,16:20,Bilbao,BIO,Gran Canaria,LPA,MAD,8h 50m,"Air Europa, Iberia",228 €,2024-05-19 00:45:09,2024-06-19
+16:50,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 10m,"Air Europa, Iberia",184 €,2024-05-19 00:45:09,2024-06-19
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Vueling,111 €,2024-05-19 00:45:09,2024-06-19
+10:40,19:20,Bilbao,BIO,Gran Canaria,LPA,LGW,9h 40m,easyJet,189 €,2024-05-19 00:45:09,2024-06-19
+8:55,18:50,Bilbao,BIO,Gran Canaria,LPA,"BCN, SVQ",10h 55m,Vueling,125 €,2024-05-19 00:45:09,2024-06-19
+8:40,19:15,Bilbao,BIO,Gran Canaria,LPA,ALC,11h 35m,Vueling,110 €,2024-05-19 00:45:09,2024-06-19
+14:25,0:50,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",11h 25m,Varias aerolíneas,111 €,2024-05-19 00:45:09,2024-06-19
+12:45,21:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",9h 45m,"Air Europa, Binter Canarias",229 €,2024-05-19 00:45:09,2024-06-19
+8:55,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 45m,Iberia,340 €,2024-05-19 00:45:09,2024-06-19
+12:45,21:50,Bilbao,BIO,Gran Canaria,LPA,MAD,10h 05m,"Air Europa, Binter Canarias",229 €,2024-05-19 00:45:09,2024-06-19
+10:15,20:10,Bilbao,BIO,Gran Canaria,LPA,ACE,10h 55m,Air Europa,199 €,2024-05-19 00:45:09,2024-06-19
+13:40,2:00,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 20m,Iberia,73 €,2024-05-19 00:45:09,2024-06-19
+6:45,14:40,Bilbao,BIO,Gran Canaria,LPA,"MAD, BCN",8h 55m,"Iberia, Vueling",252 €,2024-05-19 00:45:09,2024-06-19
+11:25,22:05,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",11h 40m,"Vueling, Air Europa",135 €,2024-05-19 00:45:09,2024-06-19
+7:00,18:50,Bilbao,BIO,Gran Canaria,LPA,SVQ,12h 50m,Vueling,105 €,2024-05-19 00:45:09,2024-06-19
+12:45,22:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",10h 45m,"Air Europa, Binter Canarias",229 €,2024-05-19 00:45:09,2024-06-19
+11:25,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 00m,Vueling,139 €,2024-05-19 00:45:09,2024-06-19
+6:45,17:00,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 15m,"Iberia, Air Europa",196 €,2024-05-19 00:45:09,2024-06-19
+7:40,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Vueling,119 €,2024-05-19 00:45:09,2024-06-19
+12:45,23:20,Bilbao,BIO,Gran Canaria,LPA,MAD,11h 35m,"Air Europa, Iberia",186 €,2024-05-19 00:45:09,2024-06-19
+21:05,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 55m,Air Europa,140 €,2024-05-19 00:45:09,2024-06-19
+7:40,14:40,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 00m,Iberia,340 €,2024-05-19 00:45:09,2024-06-19
+9:15,20:30,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 15m,Iberia,161 €,2024-05-19 00:45:09,2024-06-19
+17:30,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 55m,Iberia,396 €,2024-05-19 00:45:09,2024-06-19
+8:30,16:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",9h 00m,Air Europa,322 €,2024-05-19 00:45:09,2024-06-19
+14:20,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,6h 50m,Iberia,401 €,2024-05-19 00:45:09,2024-06-19
+10:15,21:30,Bilbao,BIO,Gran Canaria,LPA,ACE,12h 15m,Air Europa,199 €,2024-05-19 00:45:09,2024-06-19
+14:20,23:20,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",10h 00m,"Vueling, Iberia",225 €,2024-05-19 00:45:09,2024-06-19
+12:45,0:50,Bilbao,BIO,Gran Canaria,LPA,MAD,13h 05m,"Air Europa, Iberia",162 €,2024-05-19 00:45:09,2024-06-19
+12:45,23:25,Bilbao,BIO,Gran Canaria,LPA,"MAD, BCN",11h 40m,"Air Europa, Vueling",219 €,2024-05-19 00:45:09,2024-06-19
+14:20,0:50,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",11h 30m,"Vueling, Iberia",201 €,2024-05-19 00:45:09,2024-06-19
+15:55,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,8h 30m,Iberia,396 €,2024-05-19 00:45:09,2024-06-19
+10:15,23:00,Bilbao,BIO,Gran Canaria,LPA,ACE,13h 45m,Air Europa,199 €,2024-05-19 00:45:09,2024-06-19
+21:35,9:00,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 25m,"Iberia, Air Europa",221 €,2024-05-19 00:45:09,2024-06-19
+21:05,8:50,Bilbao,BIO,Gran Canaria,LPA,MAD,12h 45m,"Air Europa, Binter Canarias",244 €,2024-05-19 00:45:09,2024-06-19
+22:45,10:45,Bilbao,BIO,Gran Canaria,LPA,"PMI, MAD",13h 00m,"Vueling, Iberia Express",180 €,2024-05-19 00:45:09,2024-06-19
+14:20,2:00,Bilbao,BIO,Gran Canaria,LPA,"BCN, MAD",12h 40m,"Vueling, Iberia",201 €,2024-05-19 00:45:09,2024-06-19
+11:25,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,9h 45m,Iberia,400 €,2024-05-19 00:45:09,2024-06-19
+10:15,22:05,Bilbao,BIO,Gran Canaria,LPA,"ACE, MAD",12h 50m,Air Europa,289 €,2024-05-19 00:45:09,2024-06-19
+14:20,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,10h 05m,Iberia,393 €,2024-05-19 00:45:09,2024-06-19
+6:45,15:45,Bilbao,BIO,Gran Canaria,LPA,FRA,10h 00m,Lufthansa,401 €,2024-05-19 00:45:09,2024-06-19
+8:30,20:10,Bilbao,BIO,Gran Canaria,LPA,"MAD, ACE",12h 40m,Air Europa,322 €,2024-05-19 00:45:09,2024-06-19
+7:00,19:20,Bilbao,BIO,Gran Canaria,LPA,LGW,13h 20m,British Airways,352 €,2024-05-19 00:45:09,2024-06-19
+8:55,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,12h 15m,Iberia,416 €,2024-05-19 00:45:09,2024-06-19
+11:25,23:25,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 00m,Iberia,389 €,2024-05-19 00:45:09,2024-06-19
+7:40,20:10,Bilbao,BIO,Gran Canaria,LPA,BCN,13h 30m,Iberia,416 €,2024-05-19 00:45:09,2024-06-19
+6:45,16:55,Bilbao,BIO,Gran Canaria,LPA,"FRA, ZRH",11h 10m,Lufthansa,517 €,2024-05-19 00:45:09,2024-06-19
+22:05,10:45,Bilbao,BIO,Gran Canaria,LPA,"VLC, MAD",13h 40m,Iberia,362 €,2024-05-19 00:45:09,2024-06-19
+7:35,16:55,Bilbao,BIO,Gran Canaria,LPA,"MUC, ZRH",10h 20m,Lufthansa,590 €,2024-05-19 00:45:09,2024-06-19
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,498 €,2024-05-19 00:45:09,2024-06-19
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,559 €,2024-05-19 00:45:09,2024-06-19
+12:45,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",7h 45m,Air Europa,756 €,2024-05-19 00:45:09,2024-06-19
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,"Air France, Air Europa",531 €,2024-05-19 00:45:09,2024-06-19
+10:30,22:05,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",12h 35m,Air France,534 €,2024-05-19 00:45:09,2024-06-19
+21:35,7:35,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFS",11h 00m,Iberia,612 €,2024-05-19 00:45:09,2024-06-19
+6:45,19:20,Bilbao,BIO,Gran Canaria,LPA,"MAD, LGW",13h 35m,British Airways,690 €,2024-05-19 00:45:09,2024-06-19
+10:30,20:10,Bilbao,BIO,Gran Canaria,LPA,"CDG, BCN",10h 40m,"Air France, Iberia",797 €,2024-05-19 00:45:09,2024-06-19
+8:30,19:30,Bilbao,BIO,Gran Canaria,LPA,"MAD, TFN",12h 00m,Air Europa,822 €,2024-05-19 00:45:09,2024-06-19
+10:30,20:30,Bilbao,BIO,Gran Canaria,LPA,"CDG, MAD",11h 00m,"Air France, Bulgaria Air",1315 €,2024-05-19 00:45:09,2024-06-19
