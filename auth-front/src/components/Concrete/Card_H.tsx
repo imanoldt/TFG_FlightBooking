@@ -2,6 +2,7 @@ import { useNavigate } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import { useAuth } from '../../auth/AuthProvider';
 import axios from 'axios';
+import { API_URL } from '../../auth/constant';
 
 type CardProps = {
     title: string;
@@ -30,7 +31,7 @@ const Card_H = ({ title, description, image, isFavoriteInitially }: CardProps) =
         try {
             const token = auth.getAccessToken();
             if (token) {
-                await axios.post('http://localhost:7903/api/user/update-favorites', {
+                await axios.post(`${API_URL}/user/update-favorites`, {
                     city: cityNameNormalized
                 }, {
                     headers: {

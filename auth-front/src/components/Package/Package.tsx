@@ -3,6 +3,7 @@ import Card from "../Concrete/Card";
 import { useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
 import axios from "axios";
+import { API_URL } from '../../auth/constant';
 
 export default function Packages() {
   const [images, setImages] = useState<string[]>([]);
@@ -10,7 +11,7 @@ export default function Packages() {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:7903/api/city-images/${cityName}`)
+      .get(`${API_URL}/api/city-images/${cityName}`)
       .then((response) => {
         if (response.data && Array.isArray(response.data.images)) {
           setImages(response.data.images);

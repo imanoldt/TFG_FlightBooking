@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { format } from 'date-fns';
 import airportMapping from '../../utils/airportMappings'; // Asegúrate de que la ruta es correcta
+import { API_URL } from '../../auth/constant';
 
 const DateSelector = ({ cityName, setSelection }) => {
     const [availableDates, setAvailableDates] = useState([]);
@@ -14,7 +15,7 @@ const DateSelector = ({ cityName, setSelection }) => {
     // Fetch available dates
     useEffect(() => {
         const airportName = airportMapping[cityName] || cityName;
-        axios.get(`http://localhost:7903/api/available-dates/${airportName}`)
+        axios.get(`${API_URL}/available-dates/${airportName}`)
             .then(response => {
                 const dates = new Set(response.data.map(date => date.split('T')[0]));
                 const sortedDates = Array.from(dates).sort();
@@ -32,7 +33,7 @@ const DateSelector = ({ cityName, setSelection }) => {
     // Fetch unique airlines
     useEffect(() => {
         const airportName = airportMapping[cityName] || cityName;
-        axios.get(`http://localhost:7903/api/unique-airlines/${airportName}`)
+        axios.get(`${API_URL}/unique-airlines/${airportName}`)
             .then(response => {
                 setAirlines(response.data);
                 if (response.data.length > 0) {

@@ -4,6 +4,7 @@ import AsyncSelect from "react-select/async";
 import axios from "axios";
 import { FaSearch } from "react-icons/fa";
 import { motion } from "framer-motion";
+import { API_URL } from "../auth/constant";
 
 const citySuggestions = [
   { name: "Paris", image: "https://source.unsplash.com/random/200x200?paris" },
@@ -26,7 +27,7 @@ const loadCityOptions = async (inputValue) => {
   if (!inputValue) return [];
   try {
     const response = await axios.get(
-      `http://localhost:7903/api/cities/search?prefix=${inputValue}`
+      `${API_URL}/cities/search?prefix=${inputValue}`
     );
     return response.data.map((city) => ({
       label: city.city,

@@ -7,7 +7,7 @@ import axios from "axios";
 import Map from "../components/Map/Map";
 import { addDays } from "date-fns";
 import Graph_2 from "../components/Chart/Graph_2";
-import Graph from "../components/Chart/Graph";
+import { API_URL } from "../auth/constant";
 
 const CityPage = () => {
     const { cityName } = useParams(); // Obtiene el nombre de la ciudad de los parámetros de la URL
@@ -27,7 +27,7 @@ const CityPage = () => {
 
     useEffect(() => {
         if (cityName) {
-            axios.get(`http://localhost:7903/api/city-images/${cityName}`)
+            axios.get(`${API_URL}/city-images/${cityName}`)
                 .then(response => {
                     setCityDetails(response.data);
                 })

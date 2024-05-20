@@ -50,33 +50,6 @@ export function AuthProvider({ children }: AuthproviderProps) {
     }
   }
 
-  /*async function requestNewAccessToken(refreshToken: string) {
-    try {
-      const response = await fetch(`${API_URL}/refresh-token`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${refreshToken}`,
-        },
-      });
-  
-      const data = await response.json(); // Parsea la respuesta JSON sea cual sea
-  
-      if (response.ok) {
-        // Asumimos que la respuesta contiene un accessToken si es OK
-        return data.accessToken; // Asegúrate de que esto coincida con cómo tu API envía el token
-      } else {
-        // Maneja situaciones donde la respuesta no es OK
-        console.error('Request for new access token failed:', data);
-        return null;
-      }
-    } catch (error) {
-      // Captura errores de red/problemas con la solicitud
-      console.error('Error fetching new access token:', error);
-      return null;
-    }
-  }*/
-
   async function getUserInfo(accessToken: string) {
     try {
       const response = await fetch(`${API_URL}/user`, {

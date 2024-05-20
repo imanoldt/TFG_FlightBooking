@@ -12,6 +12,7 @@ export default {
         gray: "#9DA1B4",
         lightGray: "#F4F6FA",
         orange: "#FA9556",
+        custom: "##FAFAFA",
       },
     },
   },

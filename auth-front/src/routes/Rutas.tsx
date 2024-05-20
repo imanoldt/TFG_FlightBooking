@@ -4,12 +4,13 @@ import ScrollReveal from "scrollreveal";
 import DefaultLayoutTemplate from "../layout/DefaultLayoutTemplate";
 import Card_H_load from "../components/Concrete/Card_H_load";
 import { useAuth } from "../auth/AuthProvider";
+import { API_URL } from "../auth/constant";
 
 const LazyCard_H = React.lazy(() => import("../components/Concrete/Card_H"));
 
 const Rutas = () => {
-  const [cityDetails, setCityDetails] = useState({});
-  const [favorites, setFavorites] = useState([]);
+  const [cityDetails, setCityDetails] = useState<{[key: string]: { description: string, images: string[] }}>({});
+  const [favorites, setFavorites] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
   const auth = useAuth();
 
@@ -18,7 +19,7 @@ const Rutas = () => {
       const token = auth.getAccessToken();
       if (token) {
         const response = await axios.get(
-          "http://localhost:7903/api/user/favorites",
+          `${API_URL}/user/favorites`,
           {
             headers: { Authorization: `Bearer ${token}` },
           }
@@ -40,7 +41,7 @@ const Rutas = () => {
   useEffect(() => {
     setLoading(true);
     axios
-      .get("http://localhost:7903/api/rutas/city-data")
+      .get(`${API_URL}/rutas/city-data`)
       .then((response) => {
         setCityDetails(response.data);
         setLoading(false);
@@ -53,9 +54,9 @@ const Rutas = () => {
     fetchFavorites();
 
     ScrollReveal().reveal(".card", {
-      delay: 500,
+      delay: 300,
       duration: 1000,
-      distance: "20px",
+      distance: "30px",
       origin: "bottom",
       opacity: 0,
       easing: "cubic-bezier(0.5, 0, 0, 1)",
@@ -73,6 +74,8 @@ const Rutas = () => {
               console.log(
                 `Rendering ${cityKey}: Favorite status is ${isFavorite}`
               );
+              console.log(`City info:`, cityInfo);
+              console.log(`CityKey:`, cityKey);
               return (
                 <div className="card w-full" key={cityKey}>
                   <Suspense fallback={<Card_H_load />}>

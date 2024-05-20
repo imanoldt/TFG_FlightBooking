@@ -3,6 +3,7 @@ import axios from 'axios';
 import { Line } from 'react-chartjs-2';
 import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend } from 'chart.js';
 import airportMapping from '../../utils/airportMappings';
+import { API_URL } from '../../auth/constant';
 
 ChartJS.register(
   CategoryScale,
@@ -35,8 +36,8 @@ const Graph_2: React.FC<Props> = ({ city }) => {
   useEffect(() => {
     const fetchData = async () => {
       const airportName = airportMapping[city.toLowerCase()] || city;
-      const datesResponse = await axios.get(`http://localhost:7903/api/available-dates/${airportName}`);
-      const airlinesResponse = await axios.get(`http://localhost:7903/api/unique-airlines/${airportName}`);
+      const datesResponse = await axios.get(`${API_URL}/available-dates/${airportName}`);
+      const airlinesResponse = await axios.get(`${API_URL}unique-airlines/${airportName}`);
       const uniqueDates = [...new Set(datesResponse.data.map(date => date.split('T')[0]))].sort();
 
       setAvailableDates(uniqueDates);
@@ -54,7 +55,7 @@ const Graph_2: React.FC<Props> = ({ city }) => {
     const fetchFlightData = async () => {
       if (fromDate && toDate && selectedAirlines.length > 0 && city) {
         const airportName = airportMapping[city.toLowerCase()] || city;
-        const response = await axios.get(`http://localhost:7903/api/flight-price-history`, {
+        const response = await axios.get(`${API_URL}/flight-price-history`, {
           params: {
             city: airportName,
             airlines: selectedAirlines.join(','),

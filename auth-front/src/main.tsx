@@ -16,6 +16,7 @@ import Profile from "./routes/Profile.tsx";
 import { SettingsProvider } from "./utils/SettingsContext.tsx";
 import Buscador from "./routes/Buscador.tsx";
 import Contacto from "./routes/Contacto.tsx";
+import TravelPhotos from "./routes/TravelPhotos.tsx";
 
 const router = createBrowserRouter([
   { path: "/", element: <DefaultLayoutLogin /> },
@@ -41,6 +42,12 @@ const router = createBrowserRouter([
     path: "/contacto",
     element: <Contacto />,
   },
+  {
+    path: "/travel-photos",
+    element: <TravelPhotos />,
+
+  },
+
 ]);
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
