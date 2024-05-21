@@ -37,7 +37,7 @@ const Graph_2: React.FC<Props> = ({ city }) => {
     const fetchData = async () => {
       const airportName = airportMapping[city.toLowerCase()] || city;
       const datesResponse = await axios.get(`${API_URL}/available-dates/${airportName}`);
-      const airlinesResponse = await axios.get(`${API_URL}unique-airlines/${airportName}`);
+      const airlinesResponse = await axios.get(`${API_URL}/unique-airlines/${airportName}`);
       const uniqueDates = [...new Set(datesResponse.data.map(date => date.split('T')[0]))].sort();
 
       setAvailableDates(uniqueDates);

@@ -2,9 +2,8 @@ const { InfluxDB, FluxTableMetaData } = require("@influxdata/influxdb-client");
 const { query } = require("express");
 
 // Configuración del cliente para InfluxDB
-const url = "http://localhost:8086";
-const token =
-  "385212cd308a4510dd31808eb7e45f10c3ecab467518f9b7b027e1eb9abb081a"; // Asegúrate de poner tu token real aquí
+const url = "http://194.164.162.133:8086";
+const token ="385212cd308a4510dd31808eb7e45f10c3ecab467518f9b7b027e1eb9abb081a"; // Asegúrate de poner tu token real aquí
 const org = "skysculptor";
 const bucket = "data";
 
@@ -23,7 +22,7 @@ async function queryAvailableDates(arrival) {
         |> distinct(column: "_time")
         |> sort()
     `;
-
+    console.log("Executing query with:", fluxQuery);
   const result = [];
   return new Promise((resolve, reject) => {
     queryApi.queryRows(fluxQuery, {
@@ -55,7 +54,7 @@ async function queryUniqueAirlines(arrival) {
         |> distinct(column: "airline")
         |> filter(fn: (r) => not exists r.airline or not r.airline =~ /,/)
     `;
-
+console.log("Executing query with:", fluxQuery);
   const airlines = new Set();
   return new Promise((resolve, reject) => {
     queryApi.queryRows(fluxQuery, {
