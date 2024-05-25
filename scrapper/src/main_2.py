@@ -14,9 +14,66 @@ import time
 import json
 import logging
 
+from dotenv import load_dotenv
+import os
+import requests
+
+import fcntl
+import time
+
+from save_db import add_to_influxdb
+
+
 # Variables globales para almacenar la última ruta y fecha procesada
 last_processed_route = None
 last_processed_date = None
+
+# Cargar las variables de entorno desde el archivo .env
+load_dotenv()
+
+
+MAX_SCRAPER_RUNTIME = 18000  # Tiempo máximo permitido para que el scraper se ejecute (en segundos)
+
+def enviar_shuffle_request():
+    url = os.getenv('API_ENDPOINT') + 'shuffle-routes'
+    response = requests.post(url)
+    if response.status_code == 200:
+        print("Shuffle request sent successfully.")
+    else:
+        print("Error sending shuffle request.")
+
+def obtener_rutas():
+    url = os.getenv('API_ENDPOINT') + 'get-routes'
+    response = requests.get(url)
+    if response.status_code == 200:
+        temp_file_path = 'rutas_temp_new.json'
+        with open(temp_file_path, 'w') as temp_file:
+            fcntl.flock(temp_file, fcntl.LOCK_EX)
+            try:
+                json.dump(response.json(), temp_file, indent=2)
+            finally:
+                fcntl.flock(temp_file, fcntl.LOCK_UN)
+        os.replace(temp_file_path, 'rutas_temp.json')
+    else:
+        print("Error al obtener las rutas de la API")
+
+def cargar_rutas():
+    try:
+        with open('rutas_temp.json', 'r') as file:
+            fcntl.flock(file, fcntl.LOCK_SH)
+            try:
+                return json.load(file)
+            finally:
+                fcntl.flock(file, fcntl.LOCK_UN)
+    except FileNotFoundError:
+        obtener_rutas()
+        with open('rutas_temp.json', 'r') as file:
+            fcntl.flock(file, fcntl.LOCK_SH)
+            try:
+                return json.load(file)
+            finally:
+                fcntl.flock(file, fcntl.LOCK_UN)
+
 
 def prueba(rutas, departure_cod, arrival_cod, flight_date_start, flight_date_end):
     if __name__ == '__main__':
@@ -101,8 +158,6 @@ def prueba(rutas, departure_cod, arrival_cod, flight_date_start, flight_date_end
                 elementos = driver.find_elements(By.CLASS_NAME, 'nrc6')
 
                 for e in elementos:
-                    #print("---------EMPIEZA_AQUI_LA_BUSQUEDA----------")
-
                     flight_info = e.text.split('\n')
                     if len(flight_info) == 14:
                         try:
@@ -117,6 +172,8 @@ def prueba(rutas, departure_cod, arrival_cod, flight_date_start, flight_date_end
                             price = flight_info[-3]
                             info_date_save = fecha_actual.strftime("%Y-%m-%d %H:%M:%S")
                             guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save, flight_date)
+                            # Reemplaza la llamada a guardar_en_csv con add_to_influxdb
+                            add_to_influxdb(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save, flight_date)
 
 
                         except IndexError as i:
@@ -126,12 +183,8 @@ def prueba(rutas, departure_cod, arrival_cod, flight_date_start, flight_date_end
                             print("----------------------------------------------")
                     elif len(flight_info) == 13:
                         try:
-                            #print("--------13-----------")
-                            # departure_time = flight_info[0]
                             departure_time = flight_info[-13]
-                            # departure_airport = flight_info[1]
                             departure_airport = flight_info[-12]
-
                             arrival_airport = flight_info[-10]
                             stops = flight_info[-9]
                             stop_airports = flight_info[-8].split(', ')
@@ -140,7 +193,7 @@ def prueba(rutas, departure_cod, arrival_cod, flight_date_start, flight_date_end
                             price = flight_info[-3]
                             info_date_save = fecha_actual.strftime("%Y-%m-%d %H:%M:%S")
                             guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save, flight_date)
-
+                            add_to_influxdb(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save, flight_date)
                         except IndexError as i:
                             print("---------------INDEX ERROR----------")
                             print(f"Error al acceder a la lista: {i}")
@@ -148,10 +201,7 @@ def prueba(rutas, departure_cod, arrival_cod, flight_date_start, flight_date_end
                             print("----------------------------------------------")
                     elif len(flight_info) == 12:
                         try:
-                            #print("--------12-----------")
-                            # departure_time = flight_info[0]
                             departure_time = flight_info[-12]
-                            # departure_airport = flight_info[1]
                             departure_airport = flight_info[-11]
                             arrival_airport = flight_info[-9]
                             stop_airports = flight_info[-8].split(', ')
@@ -160,7 +210,7 @@ def prueba(rutas, departure_cod, arrival_cod, flight_date_start, flight_date_end
                             price = flight_info[-3]
                             info_date_save = fecha_actual.strftime("%Y-%m-%d %H:%M:%S")
                             guardar_en_csv(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save, flight_date)
-
+                            add_to_influxdb(departure_time, departure_airport, arrival_airport, stop_airports, duration, airlines, price, info_date_save, flight_date)
                         except IndexError as i:
                             print("---------------INDEX ERROR----------")
                             print(f"Error al acceder a la lista: {i}")
@@ -176,32 +226,71 @@ def prueba(rutas, departure_cod, arrival_cod, flight_date_start, flight_date_end
                 randomTime(10, 15)
 
                 current_date += timedelta(days=1)
+                
+                # Verificar el tiempo de ejecución
+                if time.time() - start_time > MAX_SCRAPER_RUNTIME:
+                    print("Tiempo máximo de ejecución excedido. Enviando solicitud de shuffle y terminando el scraper.")
+                    enviar_shuffle_request()
+                    driver.quit()  # Cerrar el driver antes de salir
+                    break
+                
+        
 
         except Exception as q:
             print(f"Error: {q}")
         finally:
             # Cerrar el navegador al finalizar
+            print("---- TERMINADO CON RUTA DEL JSON  ----> " + arrival_cod)
             driver.quit()
         
 
     end_time = time.time()  # Momento final de la tarea programada
     elapsed_time = end_time - start_time  # Tiempo transcurrido
-    log_message = f"Ruta: {departure_cod}-{arrival_cod}, Fecha inicio: {flight_date_start}, Fecha fin: {flight_date_end}, Tiempo de ejecución: {elapsed_time} segundos"
-    logging.info(log_message)
-
+    
+    
+"""
 # Cargar rutas desde el archivo JSON
-with open('rutas.json', 'r') as file:
-    rutas = json.load(file)
+# Cargar rutas desde la API al iniciar el script
+rutas = cargar_rutas()
+
+    
+# Actualizar las rutas desde la API cada hora
+schedule.every().hour.do(obtener_rutas)
+
 
 
 # Programar la ejecución de la función para cada ruta en el JSON
 for ruta in rutas:
-    schedule.every().day.at("02:21").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
-    schedule.every().day.at("19:05").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+
+    prueba(rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+
+    
+    schedule.every().day.at("20:24").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    schedule.every().day.at("20:33").do(prueba, rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+    
+# Ejecuta el planificador en bucle
+while True:
+    schedule.run_pending()
+    time.sleep(1)
+    
+
+
+"""
+
+def ejecutar_prueba():
+    obtener_rutas()  # Actualizar las rutas antes de cargar
+    rutas = cargar_rutas()  # Recargar rutas antes de ejecutar cada iteración
+    for ruta in rutas:
+        prueba(rutas, ruta['departure_cod'], ruta['arrival_cod'], ruta['date_start'], ruta['date_end'])
+
+
+# Actualizar las rutas desde la API cada hora
+schedule.every().hour.do(obtener_rutas)
+
+# Programar la ejecución de la función para cada ruta en el JSON
+ejecutar_prueba()
 
 # Ejecuta el planificador en bucle
 while True:
     schedule.run_pending()
     time.sleep(1)
-
-print("-------TERMINADO--------")

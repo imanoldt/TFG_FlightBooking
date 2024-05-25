@@ -1,0 +1,25 @@
+services:
+  api:
+    build:
+      context: ./api_rest
+      dockerfile: Dockerfile
+    container_name: api_container
+    volumes:
+      - routes_volume:/app/Data
+    ports:
+      - "4000:4000"
+
+  auth-backend:
+    build:
+      context: ./auth-back
+      dockerfile: Dockerfile
+    container_name: auth_back_container
+    env_file: 
+      - ./auth-back/.env
+    volumes:
+      - ./auth-back:/app
+    ports:
+      - "7903:7903"
+
+volumes:
+  routes_volume:

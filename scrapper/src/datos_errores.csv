@@ -1,0 +1,426 @@
+Departure Time,Departure Airport,Arrival Airport,Stop Airports,Duration,Airlines,Price,Info Date Save,Flight Date,Departure_Cod,Arrival_Cod,Valid Departure,Valid Arrival
+15:10 – 16:50,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Iberia,149,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+7:10 – 8:55,BIOBilbao,CDGCharles de Gaulle,['directo'],105,Air France,207,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+10:30 – 12:10,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Air France,229,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],340,Vueling,126,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+14:55 – 19:55,BIOBilbao,CDGCharles de Gaulle,['SVQ'],300,"Volotea, Vueling",163,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:55 – 19:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],325,"Vueling, easyJet",148,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:55 – 20:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],385,"Vueling, easyJet",141,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+14:20 – 20:05,BIOBilbao,CDGCharles de Gaulle,['BCN'],345,"Vueling, easyJet",170,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:40 – 18:00,BIOBilbao,CDGCharles de Gaulle,['MAD'],260,Iberia,246,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+18:35 – 23:30,BIOBilbao,CDGCharles de Gaulle,['MUC'],295,Lufthansa,234,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:55 – 21:20,BIOBilbao,CDGCharles de Gaulle,['LGW-LTN'],445,"Vueling, easyJet",150,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+11:35 – 17:25,BIOBilbao,CDGCharles de Gaulle,['MUC'],350,Lufthansa,234,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+6:45 – 13:40,BIOBilbao,CDGCharles de Gaulle,['FRA'],415,Lufthansa,242,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+8:50 – 15:00,BIOBilbao,CDGCharles de Gaulle,['AGP'],370,"Vueling, Air France",257,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,326,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+14:05 – 21:25,BIOBilbao,CDGCharles de Gaulle,['FRA'],440,Lufthansa,242,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,KLM,326,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,KLM,326,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+7:00 – 13:40,BIOBilbao,CDGCharles de Gaulle,['CPH'],400,"Vueling, Scandinavian Airlines",289,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+11:35 – 19:20,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'ZRH']",465,SWISS,270,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+15:55 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],245,Iberia,424,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,389,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],340,Iberia,375,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,KLM,326,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+6:45 – 13:45,BIOBilbao,CDGCharles de Gaulle,"['FRA', 'MUC']",420,Lufthansa,332,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+8:55 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],315,Iberia,418,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+7:15 – 13:20,BIOBilbao,CDGCharles de Gaulle,['FCO'],365,"Volotea, ITA Airways",398,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+11:35 – 19:25,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'LUX']",470,"Lufthansa, Luxair",355,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:40 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],305,"Iberia, Air France",432,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,KLM,488,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+7:40 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],390,Iberia,481,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:40 – 20:50,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'LHR']",430,British Airways,479,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:40 – 20:15,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'NTE']",395,"Iberia, Air France",477,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:40 – 21:10,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'AGP']",450,"Iberia, Air France",441,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+12:45 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],360,Air Europa,588,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:50 – 21:25,BIOBilbao,CDGCharles de Gaulle,"['BRU', 'FRA']",455,"Brussels Airlines, Lufthansa",491,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:40 – 20:50,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'LHR']",430,"Iberia, British Airways",547,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:40 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],370,"Iberia, Air France",569,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+14:40 – 22:25,BIOBilbao,CDGCharles de Gaulle,"['DUS', 'VIE']",465,"Eurowings, Austrian Airlines",549,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+12:10 – 19:40,BIOBilbao,CDGCharles de Gaulle,"['LIS', 'SVQ']",450,"TAP AIR PORTUGAL, Air France",575,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+12:10 – 19:25,BIOBilbao,CDGCharles de Gaulle,['LIS'],435,"TAP AIR PORTUGAL, Air France",607,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+12:45 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],425,Air Europa,681,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+17:40 – 23:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],365,"Vueling, Iberia",702,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+14:05 – 18:35,BIOBilbao,CDGCharles de Gaulle,['FRA'],270,Lufthansa,819,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+14:05 – 21:20,BIOBilbao,CDGCharles de Gaulle,['FRA'],435,"Lufthansa, Air France",728,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,"KLM, Air France",883,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",872,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",884,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:55 – 20:50,BIOBilbao,CDGCharles de Gaulle,['LGW-LHR'],415,"Iberia, British Airways",820,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,"KLM, Air France",872,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,"KLM, Air France",878,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,"KLM, Air France",872,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+11:35 – 18:35,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'FRA']",420,Lufthansa,885,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:40 – 20:00,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'MRS']",380,"Iberia, Air France",929,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+17:35 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],285,"Iberia, Air France",1140,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+17:40 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],280,"Vueling, Air France",1156,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+13:40 – 19:55,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'TLS']",375,"Iberia, Air France",1110,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+11:35 – 17:05,BIOBilbao,CDGCharles de Gaulle,['MUC'],330,"Lufthansa, Air France",2592,2024-05-22 00:01:55,2024-05-22,BIO,CDG,False,True
+15:10 – 16:50,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Iberia,149,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+7:10 – 8:55,BIOBilbao,CDGCharles de Gaulle,['directo'],105,Air France,207,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+10:30 – 12:10,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Air France,229,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],340,Vueling,126,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+14:55 – 19:55,BIOBilbao,CDGCharles de Gaulle,['SVQ'],300,"Volotea, Vueling",163,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:55 – 19:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],325,"Vueling, easyJet",148,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:55 – 20:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],385,"Vueling, easyJet",141,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+14:20 – 20:05,BIOBilbao,CDGCharles de Gaulle,['BCN'],345,"Vueling, easyJet",170,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:40 – 18:00,BIOBilbao,CDGCharles de Gaulle,['MAD'],260,Iberia,246,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+18:35 – 23:30,BIOBilbao,CDGCharles de Gaulle,['MUC'],295,Lufthansa,234,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:55 – 21:20,BIOBilbao,CDGCharles de Gaulle,['LGW-LTN'],445,"Vueling, easyJet",150,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+11:35 – 17:25,BIOBilbao,CDGCharles de Gaulle,['MUC'],350,Lufthansa,234,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+6:45 – 13:40,BIOBilbao,CDGCharles de Gaulle,['FRA'],415,Lufthansa,242,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+8:50 – 15:00,BIOBilbao,CDGCharles de Gaulle,['AGP'],370,"Vueling, Air France",257,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,326,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+14:05 – 21:25,BIOBilbao,CDGCharles de Gaulle,['FRA'],440,Lufthansa,242,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,KLM,326,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,KLM,326,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+7:00 – 13:40,BIOBilbao,CDGCharles de Gaulle,['CPH'],400,"Vueling, Scandinavian Airlines",289,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+11:35 – 19:20,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'ZRH']",465,SWISS,270,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+15:55 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],245,Iberia,424,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,389,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],340,Iberia,375,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,KLM,326,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+6:45 – 13:45,BIOBilbao,CDGCharles de Gaulle,"['FRA', 'MUC']",420,Lufthansa,332,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+8:55 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],315,Iberia,418,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+7:15 – 13:20,BIOBilbao,CDGCharles de Gaulle,['FCO'],365,"Volotea, ITA Airways",398,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+11:35 – 19:25,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'LUX']",470,"Lufthansa, Luxair",355,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:40 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],305,"Iberia, Air France",432,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,KLM,488,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+7:40 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],390,Iberia,481,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:40 – 20:50,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'LHR']",430,British Airways,479,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:40 – 20:15,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'NTE']",395,"Iberia, Air France",477,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:40 – 21:10,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'AGP']",450,"Iberia, Air France",441,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+12:45 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],360,Air Europa,588,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:50 – 21:25,BIOBilbao,CDGCharles de Gaulle,"['BRU', 'FRA']",455,"Brussels Airlines, Lufthansa",491,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:40 – 20:50,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'LHR']",430,"Iberia, British Airways",547,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:40 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],370,"Iberia, Air France",569,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+14:40 – 22:25,BIOBilbao,CDGCharles de Gaulle,"['DUS', 'VIE']",465,"Eurowings, Austrian Airlines",549,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+12:10 – 19:40,BIOBilbao,CDGCharles de Gaulle,"['LIS', 'SVQ']",450,"TAP AIR PORTUGAL, Air France",575,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+12:10 – 19:25,BIOBilbao,CDGCharles de Gaulle,['LIS'],435,"TAP AIR PORTUGAL, Air France",607,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+12:45 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],425,Air Europa,681,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+17:40 – 23:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],365,"Vueling, Iberia",702,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+14:05 – 18:35,BIOBilbao,CDGCharles de Gaulle,['FRA'],270,Lufthansa,819,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+14:05 – 21:20,BIOBilbao,CDGCharles de Gaulle,['FRA'],435,"Lufthansa, Air France",728,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,"KLM, Air France",883,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",872,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",884,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:55 – 20:50,BIOBilbao,CDGCharles de Gaulle,['LGW-LHR'],415,"Iberia, British Airways",820,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,"KLM, Air France",872,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,"KLM, Air France",878,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,"KLM, Air France",872,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+11:35 – 18:35,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'FRA']",420,Lufthansa,885,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:40 – 20:00,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'MRS']",380,"Iberia, Air France",929,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+17:35 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],285,"Iberia, Air France",1140,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+17:40 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],280,"Vueling, Air France",1156,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+13:40 – 19:55,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'TLS']",375,"Iberia, Air France",1110,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+11:35 – 17:05,BIOBilbao,CDGCharles de Gaulle,['MUC'],330,"Lufthansa, Air France",2592,2024-05-22 00:07:24,2024-05-22,BIO,CDG,False,True
+15:10 – 16:50,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Iberia,149,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+7:10 – 8:55,BIOBilbao,CDGCharles de Gaulle,['directo'],105,Air France,207,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+10:30 – 12:10,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Air France,229,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],340,Vueling,126,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+14:55 – 19:55,BIOBilbao,CDGCharles de Gaulle,['SVQ'],300,"Volotea, Vueling",163,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:55 – 19:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],325,"Vueling, easyJet",148,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:55 – 20:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],385,"Vueling, easyJet",141,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+14:20 – 20:05,BIOBilbao,CDGCharles de Gaulle,['BCN'],345,"Vueling, easyJet",170,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:40 – 18:00,BIOBilbao,CDGCharles de Gaulle,['MAD'],260,Iberia,246,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+18:35 – 23:30,BIOBilbao,CDGCharles de Gaulle,['MUC'],295,Lufthansa,234,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:55 – 21:20,BIOBilbao,CDGCharles de Gaulle,['LGW-LTN'],445,"Vueling, easyJet",150,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+11:35 – 17:25,BIOBilbao,CDGCharles de Gaulle,['MUC'],350,Lufthansa,234,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+6:45 – 13:40,BIOBilbao,CDGCharles de Gaulle,['FRA'],415,Lufthansa,242,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+8:50 – 15:00,BIOBilbao,CDGCharles de Gaulle,['AGP'],370,"Vueling, Air France",257,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,326,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+14:05 – 21:25,BIOBilbao,CDGCharles de Gaulle,['FRA'],440,Lufthansa,242,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,KLM,326,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,KLM,326,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+7:00 – 13:40,BIOBilbao,CDGCharles de Gaulle,['CPH'],400,"Vueling, Scandinavian Airlines",289,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+11:35 – 19:20,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'ZRH']",465,SWISS,270,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+15:55 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],245,Iberia,424,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,389,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],340,Iberia,375,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,KLM,326,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+6:45 – 13:45,BIOBilbao,CDGCharles de Gaulle,"['FRA', 'MUC']",420,Lufthansa,332,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+8:55 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],315,Iberia,418,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+7:15 – 13:20,BIOBilbao,CDGCharles de Gaulle,['FCO'],365,"Volotea, ITA Airways",398,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+11:35 – 19:25,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'LUX']",470,"Lufthansa, Luxair",355,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:40 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],305,"Iberia, Air France",432,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,KLM,488,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+7:40 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],390,Iberia,481,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:40 – 20:50,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'LHR']",430,British Airways,479,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:40 – 20:15,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'NTE']",395,"Iberia, Air France",477,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:40 – 21:10,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'AGP']",450,"Iberia, Air France",441,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+12:45 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],360,Air Europa,588,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:50 – 21:25,BIOBilbao,CDGCharles de Gaulle,"['BRU', 'FRA']",455,"Brussels Airlines, Lufthansa",491,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:40 – 20:50,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'LHR']",430,"Iberia, British Airways",547,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:40 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],370,"Iberia, Air France",569,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+14:40 – 22:25,BIOBilbao,CDGCharles de Gaulle,"['DUS', 'VIE']",465,"Eurowings, Austrian Airlines",549,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+12:10 – 19:40,BIOBilbao,CDGCharles de Gaulle,"['LIS', 'SVQ']",450,"TAP AIR PORTUGAL, Air France",575,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+12:10 – 19:25,BIOBilbao,CDGCharles de Gaulle,['LIS'],435,"TAP AIR PORTUGAL, Air France",607,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+12:45 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],425,Air Europa,681,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+17:40 – 23:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],365,"Vueling, Iberia",702,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+14:05 – 18:35,BIOBilbao,CDGCharles de Gaulle,['FRA'],270,Lufthansa,819,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+14:05 – 21:20,BIOBilbao,CDGCharles de Gaulle,['FRA'],435,"Lufthansa, Air France",728,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,"KLM, Air France",883,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",872,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",884,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:55 – 20:50,BIOBilbao,CDGCharles de Gaulle,['LGW-LHR'],415,"Iberia, British Airways",820,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,"KLM, Air France",872,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,"KLM, Air France",878,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,"KLM, Air France",872,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+11:35 – 18:35,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'FRA']",420,Lufthansa,885,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:40 – 20:00,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'MRS']",380,"Iberia, Air France",929,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+17:35 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],285,"Iberia, Air France",1140,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+17:40 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],280,"Vueling, Air France",1156,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:40 – 19:55,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'TLS']",375,"Iberia, Air France",1110,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+11:35 – 17:05,BIOBilbao,CDGCharles de Gaulle,['MUC'],330,"Lufthansa, Air France",2592,2024-05-22 00:15:46,2024-05-22,BIO,CDG,False,True
+13:55 – 14:45,BIOBilbao,LGWLondres-Gatwick,['directo'],110,Vueling,12,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+10:40 – 11:30,BIOBilbao,LGWLondres-Gatwick,['directo'],110,easyJet,80,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+18:05 – 18:55,BIOBilbao,LGWLondres-Gatwick,['directo'],110,British Airways,83,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+13:55 – 14:45,BIOBilbao,LGWLondres-Gatwick,['directo'],110,British Airways,83,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+7:00 – 7:50,BIOBilbao,LGWLondres-Gatwick,['directo'],110,British Airways,83,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+18:05 – 18:55,BIOBilbao,LGWLondres-Gatwick,['directo'],110,Iberia,143,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+13:55 – 14:45,BIOBilbao,LGWLondres-Gatwick,['directo'],110,Iberia,143,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+7:00 – 7:50,BIOBilbao,LGWLondres-Gatwick,['directo'],110,Iberia,143,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+8:55 – 15:50,BIOBilbao,LGWLondres-Gatwick,['BCN'],475,Vueling,97,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+15:10 – 19:40,BIOBilbao,LGWLondres-Gatwick,['CDG'],330,"Vueling, easyJet",133,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+11:25 – 19:00,BIOBilbao,LGWLondres-Gatwick,['BCN'],515,Vueling,100,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+17:40 – 23:25,BIOBilbao,LGWLondres-Gatwick,['PMI'],405,"Air Europa, easyJet",128,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+15:10 – 21:00,BIOBilbao,LGWLondres-Gatwick,['CDG'],410,"Vueling, easyJet",134,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+7:35 – 13:15,BIOBilbao,LGWLondres-Gatwick,['MAH'],400,"Vueling, easyJet",146,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+13:40 – 20:00,BIOBilbao,LGWLondres-Gatwick,['MAD'],440,Iberia,118,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+8:50 – 13:55,BIOBilbao,LGWLondres-Gatwick,['AGP'],365,"Vueling, Wizz Air UK",157,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+7:00 – 12:25,BIOBilbao,LGWLondres-Gatwick,['SVQ'],385,Vueling,153,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+13:40 – 20:00,BIOBilbao,LGWLondres-Gatwick,['MAD'],440,British Airways,123,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+14:35 – 19:15,BIOBilbao,LGWLondres-Gatwick,['FLR'],340,Vueling,180,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+7:00 – 13:45,BIOBilbao,LGWLondres-Gatwick,['SVQ'],465,"Vueling, easyJet",161,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+7:15 – 14:25,BIOBilbao,LGWLondres-Gatwick,['FCO'],490,"Volotea, Vueling",155,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+11:25 – 18:00,BIOBilbao,LGWLondres-Gatwick,['BCN'],455,"Vueling, easyJet",172,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+19:05 – 23:15,BIOBilbao,LGWLondres-Gatwick,['SVQ'],310,"Vueling, British Airways",199,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+6:45 – 10:30,BIOBilbao,LGWLondres-Gatwick,['FRA'],285,Lufthansa,283,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+11:35 – 17:50,BIOBilbao,LGWLondres-Gatwick,"['MUC', 'ZRH']",435,SWISS,335,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+14:20 – 19:00,BIOBilbao,LGWLondres-Gatwick,['BCN'],340,Iberia,400,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+8:55 – 12:40,BIOBilbao,LGWLondres-Gatwick,['BCN'],285,Iberia,425,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+11:25 – 15:50,BIOBilbao,LGWLondres-Gatwick,['BCN'],325,Iberia,416,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+14:20 – 20:25,BIOBilbao,LGWLondres-Gatwick,['BCN'],425,Iberia,400,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+8:55 – 13:50,BIOBilbao,LGWLondres-Gatwick,['BCN'],355,Iberia,425,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+8:55 – 12:15,BIOBilbao,LGWLondres-Gatwick,['BCN'],260,Iberia,455,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+15:55 – 20:25,BIOBilbao,LGWLondres-Gatwick,['BCN'],330,Iberia,459,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+8:55 – 15:50,BIOBilbao,LGWLondres-Gatwick,['BCN'],475,Iberia,425,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+11:25 – 19:00,BIOBilbao,LGWLondres-Gatwick,['BCN'],515,Iberia,416,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+7:40 – 12:15,BIOBilbao,LGWLondres-Gatwick,['BCN'],335,Iberia,486,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+15:55 – 22:40,BIOBilbao,LGWLondres-Gatwick,['BCN'],465,Iberia,459,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+7:40 – 12:40,BIOBilbao,LGWLondres-Gatwick,['BCN'],360,Iberia,486,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+7:40 – 13:50,BIOBilbao,LGWLondres-Gatwick,['BCN'],430,Iberia,486,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+8:50 – 13:35,BIOBilbao,LGWLondres-Gatwick,['AGP'],345,"Iberia, British Airways",559,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+12:00 – 19:30,BIOBilbao,LGWLondres-Gatwick,['AMS'],510,"KLM, British Airways",881,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+10:30 – 17:50,BIOBilbao,LGWLondres-Gatwick,"['CDG', 'ZRH']",500,"Air France, SWISS",918,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+11:35 – 17:50,BIOBilbao,LGWLondres-Gatwick,"['MUC', 'ZRH']",435,"Lufthansa, SWISS",1119,2024-05-22 00:18:30,2024-05-22,BIO,LGW,False,True
+15:10 – 16:50,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Iberia,149,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,-,1 escala,['5h 40m'],,Promocionados,126,2024-05-22 00:20:42,2024-05-22,BIO,1 E,False,False
+7:10 – 8:55,BIOBilbao,CDGCharles de Gaulle,['directo'],105,Air France,207,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+10:30 – 12:10,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Air France,229,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+14:55 – 19:55,BIOBilbao,CDGCharles de Gaulle,['SVQ'],300,"Volotea, Vueling",163,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:55 – 19:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],325,"Vueling, easyJet",148,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:55 – 20:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],385,"Vueling, easyJet",141,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+14:20 – 20:05,BIOBilbao,CDGCharles de Gaulle,['BCN'],345,"Vueling, easyJet",170,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:40 – 18:00,BIOBilbao,CDGCharles de Gaulle,['MAD'],260,Iberia,246,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+18:35 – 23:30,BIOBilbao,CDGCharles de Gaulle,['MUC'],295,Lufthansa,234,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:55 – 21:20,BIOBilbao,CDGCharles de Gaulle,['LGW-LTN'],445,"Vueling, easyJet",150,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+11:35 – 17:25,BIOBilbao,CDGCharles de Gaulle,['MUC'],350,Lufthansa,234,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+6:45 – 13:40,BIOBilbao,CDGCharles de Gaulle,['FRA'],415,Lufthansa,242,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+8:50 – 15:00,BIOBilbao,CDGCharles de Gaulle,['AGP'],370,"Vueling, Air France",257,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,326,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+14:05 – 21:25,BIOBilbao,CDGCharles de Gaulle,['FRA'],440,Lufthansa,242,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,KLM,326,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,KLM,326,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+7:00 – 13:40,BIOBilbao,CDGCharles de Gaulle,['CPH'],400,"Vueling, Scandinavian Airlines",289,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+11:35 – 19:20,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'ZRH']",465,SWISS,270,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+15:55 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],245,Iberia,424,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,389,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],340,Iberia,375,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,KLM,326,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+6:45 – 13:45,BIOBilbao,CDGCharles de Gaulle,"['FRA', 'MUC']",420,Lufthansa,332,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+8:55 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],315,Iberia,418,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+7:15 – 13:20,BIOBilbao,CDGCharles de Gaulle,['FCO'],365,"Volotea, ITA Airways",398,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+11:35 – 19:25,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'LUX']",470,"Lufthansa, Luxair",355,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:40 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],305,"Iberia, Air France",432,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,KLM,488,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+7:40 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],390,Iberia,481,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:40 – 20:15,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'NTE']",395,"Iberia, Air France",477,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:40 – 21:10,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'AGP']",450,"Iberia, Air France",441,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:40 – 20:50,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'LHR']",430,British Airways,479,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:50 – 21:25,BIOBilbao,CDGCharles de Gaulle,"['BRU', 'FRA']",455,"Brussels Airlines, Lufthansa",491,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+12:45 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],360,Air Europa,588,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:40 – 20:50,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'LHR']",430,"Iberia, British Airways",547,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:40 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],370,"Iberia, Air France",569,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+14:40 – 22:25,BIOBilbao,CDGCharles de Gaulle,"['DUS', 'VIE']",465,"Eurowings, Austrian Airlines",549,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+12:10 – 19:40,BIOBilbao,CDGCharles de Gaulle,"['LIS', 'SVQ']",450,"TAP AIR PORTUGAL, Air France",575,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+12:10 – 19:25,BIOBilbao,CDGCharles de Gaulle,['LIS'],435,"TAP AIR PORTUGAL, Air France",607,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+12:45 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],425,Air Europa,681,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+17:40 – 23:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],365,"Vueling, Iberia",702,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+14:05 – 18:35,BIOBilbao,CDGCharles de Gaulle,['FRA'],270,Lufthansa,819,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+14:05 – 21:20,BIOBilbao,CDGCharles de Gaulle,['FRA'],435,"Lufthansa, Air France",728,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,"KLM, Air France",883,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",872,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",884,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:55 – 20:50,BIOBilbao,CDGCharles de Gaulle,['LGW-LHR'],415,"Iberia, British Airways",820,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,"KLM, Air France",872,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,"KLM, Air France",878,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,"KLM, Air France",872,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+11:35 – 18:35,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'FRA']",420,Lufthansa,885,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:40 – 20:00,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'MRS']",380,"Iberia, Air France",929,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+17:35 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],285,"Iberia, Air France",1140,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+17:40 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],280,"Vueling, Air France",1156,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+13:40 – 19:55,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'TLS']",375,"Iberia, Air France",1110,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+11:35 – 17:05,BIOBilbao,CDGCharles de Gaulle,['MUC'],330,"Lufthansa, Air France",2592,2024-05-22 00:20:42,2024-05-22,BIO,CDG,False,True
+15:10 – 16:50,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Iberia,149,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,-,1 escala,['5h 40m'],,Promocionados,126,2024-05-22 00:36:23,2024-05-22,BIO,1 E,False,False
+7:10 – 8:55,BIOBilbao,CDGCharles de Gaulle,['directo'],105,Air France,208,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+10:30 – 12:10,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Air France,229,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+8:55 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],315,Vueling,160,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+14:55 – 19:55,BIOBilbao,CDGCharles de Gaulle,['SVQ'],300,"Volotea, Vueling",163,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:55 – 19:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],325,"Vueling, easyJet",148,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:55 – 20:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],385,"Vueling, easyJet",141,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+14:20 – 20:05,BIOBilbao,CDGCharles de Gaulle,['BCN'],345,"Vueling, easyJet",177,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+8:55 – 16:05,BIOBilbao,CDGCharles de Gaulle,['BCN'],430,Vueling,151,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:40 – 18:00,BIOBilbao,CDGCharles de Gaulle,['MAD'],260,Iberia,246,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+18:35 – 23:30,BIOBilbao,CDGCharles de Gaulle,['MUC'],295,Lufthansa,234,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:55 – 21:20,BIOBilbao,CDGCharles de Gaulle,['LGW-LTN'],445,"Vueling, easyJet",150,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+11:35 – 17:25,BIOBilbao,CDGCharles de Gaulle,['MUC'],350,Lufthansa,234,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+6:45 – 13:40,BIOBilbao,CDGCharles de Gaulle,['FRA'],415,Lufthansa,242,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+8:50 – 15:00,BIOBilbao,CDGCharles de Gaulle,['AGP'],370,"Vueling, Air France",257,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,326,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+14:05 – 21:25,BIOBilbao,CDGCharles de Gaulle,['FRA'],440,Lufthansa,242,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,KLM,326,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,KLM,326,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+7:00 – 13:40,BIOBilbao,CDGCharles de Gaulle,['CPH'],400,"Vueling, Scandinavian Airlines",289,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+11:35 – 19:20,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'ZRH']",465,SWISS,270,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+15:55 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],245,Iberia,424,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,389,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],340,Iberia,375,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,KLM,326,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+6:45 – 13:45,BIOBilbao,CDGCharles de Gaulle,"['FRA', 'MUC']",420,Lufthansa,332,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+8:55 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],315,Iberia,418,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:40 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],305,"Iberia, Air France",432,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,KLM,488,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+7:40 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],390,Iberia,481,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:40 – 20:15,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'NTE']",395,"Iberia, Air France",477,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:40 – 21:10,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'AGP']",450,"Iberia, Air France",441,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:40 – 20:50,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'LHR']",430,British Airways,479,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:50 – 21:25,BIOBilbao,CDGCharles de Gaulle,"['BRU', 'FRA']",455,"Brussels Airlines, Lufthansa",491,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+12:45 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],360,Air Europa,589,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:40 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],370,"Iberia, Air France",569,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:55 – 20:50,BIOBilbao,CDGCharles de Gaulle,['LGW-LHR'],415,British Airways,559,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+14:40 – 22:25,BIOBilbao,CDGCharles de Gaulle,"['DUS', 'VIE']",465,"Eurowings, Austrian Airlines",549,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+12:10 – 19:25,BIOBilbao,CDGCharles de Gaulle,['LIS'],435,"TAP AIR PORTUGAL, Air France",607,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+12:10 – 19:40,BIOBilbao,CDGCharles de Gaulle,"['LIS', 'SVQ']",450,"TAP AIR PORTUGAL, Air France",577,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+12:45 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],425,Air Europa,682,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+17:40 – 23:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],365,"Vueling, Iberia",702,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+14:05 – 18:35,BIOBilbao,CDGCharles de Gaulle,['FRA'],270,Lufthansa,819,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",872,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,"KLM, Air France",933,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,"KLM, Air France",872,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,"KLM, Air France",878,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+13:55 – 20:50,BIOBilbao,CDGCharles de Gaulle,['LGW-LHR'],415,"Iberia, British Airways",860,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",933,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+14:05 – 21:20,BIOBilbao,CDGCharles de Gaulle,['FRA'],435,"Lufthansa, Air France",864,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,"KLM, Air France",872,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+11:35 – 18:35,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'FRA']",420,Lufthansa,885,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+17:35 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],285,"Iberia, Air France",1140,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+17:40 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],280,"Vueling, Air France",1156,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+11:35 – 17:05,BIOBilbao,CDGCharles de Gaulle,['MUC'],330,"Lufthansa, Air France",2701,2024-05-22 00:36:23,2024-05-22,BIO,CDG,False,True
+15:10 – 16:50,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Iberia,149,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+7:10 – 8:55,BIOBilbao,CDGCharles de Gaulle,['directo'],105,Air France,208,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+10:30 – 12:10,BIOBilbao,CDGCharles de Gaulle,['directo'],100,Air France,229,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],340,Vueling,126,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+8:55 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],315,Vueling,160,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+14:55 – 19:55,BIOBilbao,CDGCharles de Gaulle,['SVQ'],300,"Volotea, Vueling",163,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:55 – 19:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],325,"Vueling, easyJet",148,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:55 – 20:20,BIOBilbao,CDGCharles de Gaulle,['LGW'],385,"Vueling, easyJet",141,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+14:20 – 20:05,BIOBilbao,CDGCharles de Gaulle,['BCN'],345,"Vueling, easyJet",177,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+8:55 – 16:05,BIOBilbao,CDGCharles de Gaulle,['BCN'],430,Vueling,151,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:40 – 18:00,BIOBilbao,CDGCharles de Gaulle,['MAD'],260,Iberia,246,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+18:35 – 23:30,BIOBilbao,CDGCharles de Gaulle,['MUC'],295,Lufthansa,234,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:55 – 21:20,BIOBilbao,CDGCharles de Gaulle,['LGW-LTN'],445,"Vueling, easyJet",150,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+11:35 – 17:25,BIOBilbao,CDGCharles de Gaulle,['MUC'],350,Lufthansa,234,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+6:45 – 13:40,BIOBilbao,CDGCharles de Gaulle,['FRA'],415,Lufthansa,242,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+8:50 – 15:00,BIOBilbao,CDGCharles de Gaulle,['AGP'],370,"Vueling, Air France",257,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,326,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+14:05 – 21:25,BIOBilbao,CDGCharles de Gaulle,['FRA'],440,Lufthansa,242,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,KLM,326,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,KLM,326,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+7:00 – 13:40,BIOBilbao,CDGCharles de Gaulle,['CPH'],400,"Vueling, Scandinavian Airlines",289,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+11:35 – 19:20,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'ZRH']",465,SWISS,270,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+15:55 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],245,Iberia,424,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,KLM,389,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+14:20 – 20:00,BIOBilbao,CDGCharles de Gaulle,['BCN'],340,Iberia,375,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,KLM,326,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+6:45 – 13:45,BIOBilbao,CDGCharles de Gaulle,"['FRA', 'MUC']",420,Lufthansa,332,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+8:55 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],315,Iberia,418,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:40 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],305,"Iberia, Air France",432,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,KLM,488,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+7:40 – 14:10,BIOBilbao,CDGCharles de Gaulle,['BCN'],390,Iberia,481,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:40 – 20:50,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'LHR']",430,British Airways,479,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:40 – 20:15,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'NTE']",395,"Iberia, Air France",477,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:40 – 21:10,BIOBilbao,CDGCharles de Gaulle,"['MAD', 'AGP']",450,"Iberia, Air France",441,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+12:45 – 18:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],360,Air Europa,589,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:50 – 21:25,BIOBilbao,CDGCharles de Gaulle,"['BRU', 'FRA']",455,"Brussels Airlines, Lufthansa",491,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:40 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],370,"Iberia, Air France",569,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:55 – 20:50,BIOBilbao,CDGCharles de Gaulle,['LGW-LHR'],415,British Airways,559,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+14:40 – 22:25,BIOBilbao,CDGCharles de Gaulle,"['DUS', 'VIE']",465,"Eurowings, Austrian Airlines",549,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+12:10 – 19:25,BIOBilbao,CDGCharles de Gaulle,['LIS'],435,"TAP AIR PORTUGAL, Air France",607,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+12:10 – 19:40,BIOBilbao,CDGCharles de Gaulle,"['LIS', 'SVQ']",450,"TAP AIR PORTUGAL, Air France",577,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+12:45 – 19:50,BIOBilbao,CDGCharles de Gaulle,['MAD'],425,Air Europa,682,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+17:40 – 23:45,BIOBilbao,CDGCharles de Gaulle,['MAD'],365,"Vueling, Iberia",702,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+14:05 – 18:35,BIOBilbao,CDGCharles de Gaulle,['FRA'],270,Lufthansa,819,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+12:00 – 17:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",872,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+17:15 – 21:50,BIOBilbao,CDGCharles de Gaulle,['AMS'],275,"KLM, Air France",933,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+12:00 – 18:10,BIOBilbao,CDGCharles de Gaulle,['AMS'],370,"KLM, Air France",872,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+6:50 – 12:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],365,"KLM, Air France",878,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:55 – 20:50,BIOBilbao,CDGCharles de Gaulle,['LGW-LHR'],415,"Iberia, British Airways",860,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+6:50 – 11:55,BIOBilbao,CDGCharles de Gaulle,['AMS'],305,"KLM, Air France",933,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+14:05 – 21:20,BIOBilbao,CDGCharles de Gaulle,['FRA'],435,"Lufthansa, Air France",864,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+11:35 – 18:35,BIOBilbao,CDGCharles de Gaulle,"['MUC', 'FRA']",420,Lufthansa,885,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+12:00 – 19:05,BIOBilbao,CDGCharles de Gaulle,['AMS'],425,"KLM, Air France",872,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+17:35 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],285,"Iberia, Air France",1140,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+17:40 – 22:20,BIOBilbao,CDGCharles de Gaulle,['MAD'],280,"Vueling, Air France",1156,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+11:35 – 17:05,BIOBilbao,CDGCharles de Gaulle,['MUC'],330,"Lufthansa, Air France",2701,2024-05-22 00:40:21,2024-05-22,BIO,CDG,False,True
+13:55 – 14:45,BIOBilbao,LGWLondres-Gatwick,['directo'],110,Vueling,12,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+10:40 – 11:30,BIOBilbao,LGWLondres-Gatwick,['directo'],110,easyJet,80,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+18:05 – 18:55,BIOBilbao,LGWLondres-Gatwick,['directo'],110,British Airways,86,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+13:55 – 14:45,BIOBilbao,LGWLondres-Gatwick,['directo'],110,British Airways,86,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+7:00 – 7:50,BIOBilbao,LGWLondres-Gatwick,['directo'],110,British Airways,86,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+18:05 – 18:55,BIOBilbao,LGWLondres-Gatwick,['directo'],110,Iberia,147,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+13:55 – 14:45,BIOBilbao,LGWLondres-Gatwick,['directo'],110,Iberia,147,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+7:00 – 7:50,BIOBilbao,LGWLondres-Gatwick,['directo'],110,Iberia,147,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+8:55 – 15:50,BIOBilbao,LGWLondres-Gatwick,['BCN'],475,Vueling,97,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+15:10 – 19:40,BIOBilbao,LGWLondres-Gatwick,['CDG'],330,"Vueling, easyJet",133,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+11:25 – 19:00,BIOBilbao,LGWLondres-Gatwick,['BCN'],515,Vueling,100,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+17:40 – 23:25,BIOBilbao,LGWLondres-Gatwick,['PMI'],405,"Air Europa, easyJet",128,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+15:10 – 21:00,BIOBilbao,LGWLondres-Gatwick,['CDG'],410,"Vueling, easyJet",134,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+7:35 – 13:15,BIOBilbao,LGWLondres-Gatwick,['MAH'],400,"Vueling, easyJet",146,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+8:50 – 13:55,BIOBilbao,LGWLondres-Gatwick,['AGP'],365,"Vueling, Wizz Air UK",157,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+13:40 – 20:00,BIOBilbao,LGWLondres-Gatwick,['MAD'],440,Iberia,121,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+7:00 – 12:25,BIOBilbao,LGWLondres-Gatwick,['SVQ'],385,Vueling,153,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+13:40 – 20:00,BIOBilbao,LGWLondres-Gatwick,['MAD'],440,British Airways,126,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+14:35 – 19:15,BIOBilbao,LGWLondres-Gatwick,['FLR'],340,Vueling,180,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+7:00 – 13:45,BIOBilbao,LGWLondres-Gatwick,['SVQ'],465,"Vueling, easyJet",161,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+7:15 – 14:25,BIOBilbao,LGWLondres-Gatwick,['FCO'],490,"Volotea, Vueling",155,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+11:25 – 18:00,BIOBilbao,LGWLondres-Gatwick,['BCN'],455,"Vueling, easyJet",172,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+19:05 – 23:15,BIOBilbao,LGWLondres-Gatwick,['SVQ'],310,"Vueling, British Airways",199,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+6:45 – 10:30,BIOBilbao,LGWLondres-Gatwick,['FRA'],285,Lufthansa,290,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+11:35 – 17:50,BIOBilbao,LGWLondres-Gatwick,"['MUC', 'ZRH']",435,SWISS,344,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+14:20 – 19:00,BIOBilbao,LGWLondres-Gatwick,['BCN'],340,Iberia,411,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+8:55 – 12:40,BIOBilbao,LGWLondres-Gatwick,['BCN'],285,Iberia,436,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+11:25 – 15:50,BIOBilbao,LGWLondres-Gatwick,['BCN'],325,Iberia,427,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+14:20 – 20:25,BIOBilbao,LGWLondres-Gatwick,['BCN'],425,Iberia,411,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+8:55 – 12:15,BIOBilbao,LGWLondres-Gatwick,['BCN'],260,Iberia,455,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+8:55 – 13:50,BIOBilbao,LGWLondres-Gatwick,['BCN'],355,Iberia,436,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+15:55 – 20:25,BIOBilbao,LGWLondres-Gatwick,['BCN'],330,Iberia,471,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+8:55 – 15:50,BIOBilbao,LGWLondres-Gatwick,['BCN'],475,Iberia,436,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+11:25 – 19:00,BIOBilbao,LGWLondres-Gatwick,['BCN'],515,Iberia,427,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+7:40 – 12:15,BIOBilbao,LGWLondres-Gatwick,['BCN'],335,Iberia,499,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+15:55 – 22:40,BIOBilbao,LGWLondres-Gatwick,['BCN'],465,Iberia,471,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+7:40 – 12:40,BIOBilbao,LGWLondres-Gatwick,['BCN'],360,Iberia,499,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+7:40 – 13:50,BIOBilbao,LGWLondres-Gatwick,['BCN'],430,Iberia,499,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True
+6:50 – 11:15,BIOBilbao,LGWLondres-Gatwick,['AMS'],325,"KLM, British Airways",711,2024-05-22 00:42:48,2024-05-22,BIO,LGW,False,True

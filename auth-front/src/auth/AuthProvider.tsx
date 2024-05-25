@@ -1,6 +1,7 @@
 import { useContext, createContext, useState, useEffect } from "react";
 import { AuthResponse, AccessTokenResponse, User } from "../types/types";
 import { API_URL } from "./constant";
+import { sign } from "crypto";
 
 interface AuthproviderProps {
   children: React.ReactNode;
@@ -12,6 +13,7 @@ const AuthContext = createContext({
   saveUser: (userData: AuthResponse) => {},
   getRefreshToken: () => {},
   getUser: () => ({} as User | undefined),
+  signOut: () => {},
 });
 
 export function AuthProvider({ children }: AuthproviderProps) {
@@ -93,6 +95,15 @@ export function AuthProvider({ children }: AuthproviderProps) {
       }
     }
   }
+function signOut() {
+    setIsAuthenticated(false);
+    setUser(undefined);
+    setAccessToken("");
+    localStorage.removeItem("token");
+
+  }
+
+
   function saveSessionInfo(
     userInfo: User,
     accessToken: string,
@@ -138,6 +149,7 @@ export function AuthProvider({ children }: AuthproviderProps) {
         saveUser,
         getRefreshToken,
         getUser,
+        signOut,
       }}
     >
       {children}

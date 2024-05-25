@@ -4,7 +4,8 @@ import AsyncSelect from "react-select/async";
 import axios from "axios";
 import { FaSearch } from "react-icons/fa";
 import { motion } from "framer-motion";
-import { API_URL } from "../auth/constant";
+import { API_URL, API_REST } from "../auth/constant";
+import { useAuth } from "../auth/AuthProvider";
 
 const citySuggestions = [
   { name: "Paris", image: "https://source.unsplash.com/random/200x200?paris" },
@@ -31,7 +32,7 @@ const loadCityOptions = async (inputValue) => {
     );
     return response.data.map((city) => ({
       label: city.city,
-      value: city.city,
+      value: city.code, // Assuming the response includes a 'code' field for the city's code
     }));
   } catch (error) {
     console.error("Error fetching cities:", error);
@@ -42,6 +43,10 @@ const loadCityOptions = async (inputValue) => {
 const Buscar = () => {
   const [dateStart, setDateStart] = useState("");
   const [dateEnd, setDateEnd] = useState("");
+  const [selectedCity, setSelectedCity] = useState(null);
+  const auth = useAuth();
+  const [message, setMessage] = useState("");
+  const [showPopup, setShowPopup] = useState(false);
 
   const containerVariants = {
     hidden: { opacity: 0 },
@@ -55,6 +60,49 @@ const Buscar = () => {
         duration: 0.2,
       },
     },
+  };
+
+  const popupVariants = {
+    hidden: { opacity: 0, scale: 0.8 },
+    visible: {
+      opacity: 1,
+      scale: 1,
+      transition: { duration: 0.3, ease: "easeOut" },
+    },
+  };
+
+  const handleCityChange = (selectedOption) => {
+    setSelectedCity(selectedOption);
+  };
+
+  const handleSearchClick = async () => {
+    if (!selectedCity || !dateStart || !dateEnd) {
+      setMessage("Please select a city and date range.");
+      setShowPopup(true);
+      return;
+    }
+
+    const newRoute = {
+      arrival_cod: selectedCity.value,
+      date_start: dateStart,
+      date_end: dateEnd,
+      user_id: auth.getUser()?._id,
+    };
+
+    try {
+      const response = await axios.post(`${API_REST}/update-routes`, newRoute);
+      if (response.status === 200) {
+        setMessage("Route added successfully!");
+      }
+    } catch (error) {
+      if (error.response && error.response.status === 409) {
+        setMessage("Route already exists.");
+      } else {
+        setMessage("Error adding route.");
+      }
+    } finally {
+      setShowPopup(true);
+    }
   };
 
   return (
@@ -78,10 +126,11 @@ const Buscar = () => {
               defaultOptions
               placeholder="Enter a city..."
               className="flex-grow ml-4"
+              onChange={handleCityChange}
             />
             <button
               className="ml-4 bg-red-500 py-3 px-6 text-white font-semibold rounded-lg"
-              onClick={() => console.log("Search clicked")}
+              onClick={handleSearchClick}
             >
               Scrap Me
             </button>
@@ -133,6 +182,24 @@ const Buscar = () => {
             ))}
           </motion.div>
         </motion.div>
+        {showPopup && (
+          <motion.div
+            className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50"
+            initial="hidden"
+            animate="visible"
+            variants={popupVariants}
+          >
+            <div className="bg-white p-8 rounded-lg shadow-lg text-center">
+              <h3 className="text-2xl font-bold mb-4">{message}</h3>
+              <button
+                className="bg-red-500 py-2 px-4 text-white font-semibold rounded-lg"
+                onClick={() => setShowPopup(false)}
+              >
+                OK
+              </button>
+            </div>
+          </motion.div>
+        )}
       </div>
     </DefaultLayoutTemplate>
   );

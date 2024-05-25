@@ -1,8 +1,9 @@
 import { useState } from "react";
 import { MdClose } from "react-icons/md";
 import { useAuth } from "../../auth/AuthProvider";
-import { useNavigate, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { HiMenuAlt3, HiUserCircle, HiCog, HiLogout } from "react-icons/hi";
+import { API_URL } from "../../auth/constant";
 
 
 
@@ -12,7 +13,6 @@ export default function Navbar() {
 
 
   const auth = useAuth();
-  const navigate = useNavigate();
 
   const toggleProfileMenu = () => {
     setProfileMenuOpen(!profileMenuOpen);
@@ -22,11 +22,28 @@ export default function Navbar() {
   const showDropdown = () => {
     setDropdown(!dropdown);
   };
-    const logout = () => {
-    // Implementa la lógica de cierre de sesión aquí
-    // Por ejemplo: auth.logout();
-    navigate('/');
-  };
+
+
+  async function handleSignOut(e: React.MouseEvent<HTMLAnchorElement>) {
+    e.preventDefault();
+
+    try {const response = await fetch(`${API_URL}/signout`, {
+      method: 'DELETE',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${auth.getRefreshToken()}`,
+      },
+    });
+
+    if (response.ok) {
+      auth.signOut();
+    }
+      
+    }catch (error) {
+      console.error('Error signing out:', error);
+    }
+
+  }
 
   return (
     <nav className="w-full h-24 flex flex-col justify-center items-center sticky top-0 z-50 bg-white">
@@ -93,11 +110,12 @@ export default function Navbar() {
               Configuracion
             </a>
             <a
-              href="/perfil"
+              href="/"
               className="text-gray-700  block px-4 py-2 text-sm hover:bg-gray-100 hover:text-gray-900"
               role="menuitem"
               tabIndex="-1"
               id="menu-item-0"
+              onClick={handleSignOut}
             >
               <HiLogout className="inline mr-3 h-5 w-5" />
               Cerrar sesión

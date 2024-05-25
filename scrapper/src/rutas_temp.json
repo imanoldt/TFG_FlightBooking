@@ -1,0 +1,50 @@
+[
+  {
+    "arrival_cod": "CDG",
+    "date_end": "2024-05-22",
+    "date_start": "2024-04-01",
+    "departure_cod": "BIO"
+  },
+  {
+    "arrival_cod": "MAD",
+    "date_end": "2024-05-21",
+    "date_start": "2024-04-01",
+    "departure_cod": "BIO"
+  },
+  {
+    "arrival_cod": "LGW",
+    "date_end": "2024-05-22",
+    "date_start": "2024-04-01",
+    "departure_cod": "BIO"
+  },
+  {
+    "arrival_cod": "IBZ",
+    "date_end": "2024-05-21",
+    "date_start": "2024-04-01",
+    "departure_cod": "BIO"
+  },
+  {
+    "arrival_cod": "AGP",
+    "date_end": "2024-05-21",
+    "date_start": "2024-04-01",
+    "departure_cod": "BIO"
+  },
+  {
+    "arrival_cod": "SVQ",
+    "date_end": "2024-05-21",
+    "date_start": "2024-04-01",
+    "departure_cod": "BIO"
+  },
+  {
+    "arrival_cod": "LPA",
+    "date_end": "2024-05-21",
+    "date_start": "2024-04-01",
+    "departure_cod": "BIO"
+  },
+  {
+    "arrival_cod": "BCN",
+    "date_end": "2024-05-21",
+    "date_start": "2024-04-01",
+    "departure_cod": "BIO"
+  }
+]
