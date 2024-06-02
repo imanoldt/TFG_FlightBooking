@@ -1,0 +1,1359 @@
+Departure Time,Arrival Time,Departure Airport,Departure_Cod,Arrival Airport,Arrival_Cod,Stop Airports,Duration,Airlines,Price,Info Date Save,Flight Date
+12:05,13:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Vueling,136 €,2024-06-01 22:06:51,2024-06-02
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,154 €,2024-06-01 22:06:51,2024-06-02
+7:15,9:00,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,171 €,2024-06-01 22:06:51,2024-06-02
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,225 €,2024-06-01 22:06:51,2024-06-02
+9:30,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,4h 45m,SWISS,223 €,2024-06-01 22:06:51,2024-06-02
+10:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,Vueling,272 €,2024-06-01 22:06:51,2024-06-02
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,432 €,2024-06-01 22:06:51,2024-06-02
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,301 €,2024-06-01 22:06:51,2024-06-02
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,251 €,2024-06-01 22:06:51,2024-06-02
+12:15,17:10,Bilbao,BIO,Charles de Gaulle,CDG,MXP,4h 55m,"Vueling, easyJet",321 €,2024-06-01 22:06:51,2024-06-02
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",320 €,2024-06-01 22:06:51,2024-06-02
+11:35,16:15,Bilbao,BIO,Charles de Gaulle,CDG,BRS,4h 40m,easyJet,352 €,2024-06-01 22:06:51,2024-06-02
+12:15,19:00,Bilbao,BIO,Charles de Gaulle,CDG,MXP,6h 45m,"Vueling, easyJet",311 €,2024-06-01 22:06:51,2024-06-02
+13:55,20:15,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 20m,"Vueling, easyJet",330 €,2024-06-01 22:06:51,2024-06-02
+7:10,14:05,Bilbao,BIO,Charles de Gaulle,CDG,CPH,6h 55m,"Vueling, Air France",283 €,2024-06-01 22:06:51,2024-06-02
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW,7h 35m,"Vueling, easyJet",329 €,2024-06-01 22:06:51,2024-06-02
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 35m,"Vueling, easyJet",351 €,2024-06-01 22:06:51,2024-06-02
+15:15,20:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 55m,"Vueling, easyJet",470 €,2024-06-01 22:06:51,2024-06-02
+13:50,21:05,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, LIN",7h 15m,"Brussels Airlines, easyJet",372 €,2024-06-01 22:06:51,2024-06-02
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,521 €,2024-06-01 22:06:51,2024-06-02
+10:55,17:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 15m,"Vueling, Air France",465 €,2024-06-01 22:06:51,2024-06-02
+15:15,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 50m,"Vueling, Air France",424 €,2024-06-01 22:06:51,2024-06-02
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, Air France",538 €,2024-06-01 22:06:51,2024-06-02
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",565 €,2024-06-01 22:06:51,2024-06-02
+9:30,17:00,Bilbao,BIO,Charles de Gaulle,CDG,"ZRH, VIE",7h 30m,"SWISS, Austrian Airlines",482 €,2024-06-01 22:06:51,2024-06-02
+7:35,13:55,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 20m,Lufthansa,533 €,2024-06-01 22:06:51,2024-06-02
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,586 €,2024-06-01 22:06:51,2024-06-02
+10:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 10m,Iberia,624 €,2024-06-01 22:06:51,2024-06-02
+6:45,13:55,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 10m,Lufthansa,565 €,2024-06-01 22:06:51,2024-06-02
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,591 €,2024-06-01 22:06:51,2024-06-02
+11:35,17:15,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 40m,Lufthansa,651 €,2024-06-01 22:06:51,2024-06-02
+9:30,17:15,Bilbao,BIO,Charles de Gaulle,CDG,"ZRH, MUC",7h 45m,"SWISS, Lufthansa",589 €,2024-06-01 22:06:51,2024-06-02
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,695 €,2024-06-01 22:06:51,2024-06-02
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,658 €,2024-06-01 22:06:51,2024-06-02
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",696 €,2024-06-01 22:06:51,2024-06-02
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",690 €,2024-06-01 22:06:51,2024-06-02
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,769 €,2024-06-01 22:06:51,2024-06-02
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,795 €,2024-06-01 22:06:51,2024-06-02
+7:35,15:05,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, VIE",7h 30m,"Lufthansa, Austrian Airlines",687 €,2024-06-01 22:06:51,2024-06-02
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,707 €,2024-06-01 22:06:51,2024-06-02
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,816 €,2024-06-01 22:06:51,2024-06-02
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",859 €,2024-06-01 22:06:51,2024-06-02
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",856 €,2024-06-01 22:06:51,2024-06-02
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,799 €,2024-06-01 22:06:51,2024-06-02
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,1155 €,2024-06-01 22:06:51,2024-06-02
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,1155 €,2024-06-01 22:06:51,2024-06-02
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",1188 €,2024-06-01 22:06:51,2024-06-02
+13:50,20:55,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, BER",7h 05m,"Brussels Airlines, Air France",1843 €,2024-06-01 22:06:51,2024-06-02
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,227 €,2024-06-01 22:06:51,2024-06-03
+15:15,20:45,Bilbao,BIO,Charles de Gaulle,CDG,MXP,5h 30m,easyJet,233 €,2024-06-01 22:06:51,2024-06-03
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,380 €,2024-06-01 22:06:51,2024-06-03
+13:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 45m,Vueling,207 €,2024-06-01 22:06:51,2024-06-03
+18:00,19:40,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,430 €,2024-06-01 22:06:51,2024-06-03
+16:50,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 45m,"Air Europa, easyJet",253 €,2024-06-01 22:06:51,2024-06-03
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,318 €,2024-06-01 22:06:51,2024-06-03
+14:10,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 25m,Lufthansa,332 €,2024-06-01 22:06:51,2024-06-03
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,235 €,2024-06-01 22:06:51,2024-06-03
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,318 €,2024-06-01 22:06:51,2024-06-03
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,370 €,2024-06-01 22:06:51,2024-06-03
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,318 €,2024-06-01 22:06:51,2024-06-03
+14:10,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,Lufthansa,278 €,2024-06-01 22:06:51,2024-06-03
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,370 €,2024-06-01 22:06:51,2024-06-03
+17:35,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,Iberia,347 €,2024-06-01 22:06:51,2024-06-03
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,318 €,2024-06-01 22:06:51,2024-06-03
+17:35,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 00m,"Iberia, easyJet",396 €,2024-06-01 22:06:51,2024-06-03
+17:35,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 30m,"Vueling, Air France",383 €,2024-06-01 22:06:51,2024-06-03
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",400 €,2024-06-01 22:06:51,2024-06-03
+15:15,20:25,Bilbao,BIO,Charles de Gaulle,CDG,MXP,5h 10m,"easyJet, Air France",415 €,2024-06-01 22:06:51,2024-06-03
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Iberia,465 €,2024-06-01 22:06:51,2024-06-03
+13:50,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 10m,"Vueling, Air France",412 €,2024-06-01 22:06:51,2024-06-03
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,"Air Europa, Air France",383 €,2024-06-01 22:06:51,2024-06-03
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, Air France",428 €,2024-06-01 22:06:51,2024-06-03
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,519 €,2024-06-01 22:06:51,2024-06-03
+13:55,19:40,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,5h 45m,"Vueling, Air France",496 €,2024-06-01 22:06:51,2024-06-03
+13:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 45m,Iberia,482 €,2024-06-01 22:06:51,2024-06-03
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,519 €,2024-06-01 22:06:51,2024-06-03
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",511 €,2024-06-01 22:06:51,2024-06-03
+11:35,17:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,Lufthansa,554 €,2024-06-01 22:06:51,2024-06-03
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,554 €,2024-06-01 22:06:51,2024-06-03
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,665 €,2024-06-01 22:06:51,2024-06-03
+6:50,13:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 20m,KLM,569 €,2024-06-01 22:06:51,2024-06-03
+11:15,15:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 40m,"Vueling, Air France",629 €,2024-06-01 22:06:51,2024-06-03
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,663 €,2024-06-01 22:06:51,2024-06-03
+8:55,14:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,"Vueling, Air France",611 €,2024-06-01 22:06:51,2024-06-03
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,847 €,2024-06-01 22:06:51,2024-06-03
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,620 €,2024-06-01 22:06:51,2024-06-03
+17:35,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 45m,"Iberia, Air France",710 €,2024-06-01 22:06:51,2024-06-03
+13:40,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 00m,British Airways,669 €,2024-06-01 22:06:51,2024-06-03
+17:35,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,Vueling,702 €,2024-06-01 22:06:51,2024-06-03
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,728 €,2024-06-01 22:06:51,2024-06-03
+13:40,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 00m,"Iberia, British Airways",669 €,2024-06-01 22:06:51,2024-06-03
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,776 €,2024-06-01 22:06:51,2024-06-03
+13:40,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 00m,"Iberia, British Airways",707 €,2024-06-01 22:06:51,2024-06-03
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,727 €,2024-06-01 22:06:51,2024-06-03
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,809 €,2024-06-01 22:06:51,2024-06-03
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",837 €,2024-06-01 22:06:51,2024-06-03
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",837 €,2024-06-01 22:06:51,2024-06-03
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",837 €,2024-06-01 22:06:51,2024-06-03
+9:55,15:55,Bilbao,BIO,Charles de Gaulle,CDG,STR,6h 00m,"Eurowings, Air France",793 €,2024-06-01 22:06:51,2024-06-03
+7:45,14:30,Bilbao,BIO,Charles de Gaulle,CDG,VLC,6h 45m,"Vueling, Air France",788 €,2024-06-01 22:06:51,2024-06-03
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",837 €,2024-06-01 22:06:51,2024-06-03
+6:50,13:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 20m,"KLM, Air France",837 €,2024-06-01 22:06:51,2024-06-03
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",837 €,2024-06-01 22:06:51,2024-06-03
+9:15,15:55,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, GVA",6h 40m,"Iberia, Air France",893 €,2024-06-01 22:06:51,2024-06-03
+9:15,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Iberia, Air France",1113 €,2024-06-01 22:06:51,2024-06-03
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,WestJet,1312 €,2024-06-01 22:06:51,2024-06-03
+14:10,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 50m,"Lufthansa, Air France",2529 €,2024-06-01 22:06:51,2024-06-03
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2529 €,2024-06-01 22:06:51,2024-06-03
+13:20,15:05,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,163 €,2024-06-01 22:06:51,2024-06-04
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,207 €,2024-06-01 22:06:51,2024-06-04
+13:55,18:35,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 40m,"Vueling, easyJet",131 €,2024-06-01 22:06:51,2024-06-04
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,271 €,2024-06-01 22:06:51,2024-06-04
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",117 €,2024-06-01 22:06:51,2024-06-04
+14:50,22:15,Bilbao,BIO,Charles de Gaulle,CDG,BRS,7h 25m,easyJet,83 €,2024-06-01 22:06:51,2024-06-04
+15:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 20m,Vueling,180 €,2024-06-01 22:06:51,2024-06-04
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,147 €,2024-06-01 22:06:51,2024-06-04
+7:00,14:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 50m,"Vueling, easyJet",111 €,2024-06-01 22:06:51,2024-06-04
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet",127 €,2024-06-01 22:06:51,2024-06-04
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, easyJet",226 €,2024-06-01 22:06:51,2024-06-04
+7:05,14:35,Bilbao,BIO,Charles de Gaulle,CDG,MXP,7h 30m,"Vueling, easyJet",134 €,2024-06-01 22:06:51,2024-06-04
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,236 €,2024-06-01 22:06:51,2024-06-04
+14:05,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 30m,Lufthansa,241 €,2024-06-01 22:06:51,2024-06-04
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,267 €,2024-06-01 22:06:51,2024-06-04
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",255 €,2024-06-01 22:06:51,2024-06-04
+12:45,20:00,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 15m,"Air Europa, easyJet",196 €,2024-06-01 22:06:51,2024-06-04
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,274 €,2024-06-01 22:06:51,2024-06-04
+12:45,20:40,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, SVQ",7h 55m,Varias aerolíneas,177 €,2024-06-01 22:06:51,2024-06-04
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,274 €,2024-06-01 22:06:51,2024-06-04
+15:10,23:00,Bilbao,BIO,Charles de Gaulle,CDG,LIS,7h 50m,"Vueling, easyJet",189 €,2024-06-01 22:06:51,2024-06-04
+12:45,20:35,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, BCN",7h 50m,"Air Europa, Vueling",185 €,2024-06-01 22:06:51,2024-06-04
+15:35,21:10,Bilbao,BIO,Charles de Gaulle,CDG,AGP,5h 35m,"Vueling, Air France",245 €,2024-06-01 22:06:51,2024-06-04
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,241 €,2024-06-01 22:06:51,2024-06-04
+7:40,14:55,Bilbao,BIO,Charles de Gaulle,CDG,NAP,7h 15m,"Volotea, Air France",211 €,2024-06-01 22:06:51,2024-06-04
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,274 €,2024-06-01 22:06:51,2024-06-04
+11:05,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 55m,Iberia,251 €,2024-06-01 22:06:51,2024-06-04
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,274 €,2024-06-01 22:06:51,2024-06-04
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,241 €,2024-06-01 22:06:51,2024-06-04
+16:50,22:35,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 45m,"Air Europa, easyJet",309 €,2024-06-01 22:06:51,2024-06-04
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,274 €,2024-06-01 22:06:51,2024-06-04
+16:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,GVA,5h 55m,"easyJet, Air France",298 €,2024-06-01 22:06:51,2024-06-04
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Vueling",353 €,2024-06-01 22:06:51,2024-06-04
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,416 €,2024-06-01 22:06:51,2024-06-04
+14:10,19:50,Bilbao,BIO,Charles de Gaulle,CDG,VCE,5h 40m,"Volotea, Air France",351 €,2024-06-01 22:06:51,2024-06-04
+6:45,13:55,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 10m,Lufthansa,332 €,2024-06-01 22:06:51,2024-06-04
+11:05,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 55m,"Iberia, Vueling",349 €,2024-06-01 22:06:51,2024-06-04
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, Air France",408 €,2024-06-01 22:06:51,2024-06-04
+18:20,23:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Vueling, Air France",436 €,2024-06-01 22:06:51,2024-06-04
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,"Air Europa, Air France",381 €,2024-06-01 22:06:51,2024-06-04
+13:45,19:20,Bilbao,BIO,Charles de Gaulle,CDG,DUS,5h 35m,"Eurowings, Air France",421 €,2024-06-01 22:06:51,2024-06-04
+15:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 20m,Iberia,470 €,2024-06-01 22:06:51,2024-06-04
+11:05,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 40m,"Iberia, Air France",404 €,2024-06-01 22:06:51,2024-06-04
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,427 €,2024-06-01 22:06:51,2024-06-04
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,529 €,2024-06-01 22:06:51,2024-06-04
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,529 €,2024-06-01 22:06:51,2024-06-04
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,533 €,2024-06-01 22:06:51,2024-06-04
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,British Airways,503 €,2024-06-01 22:06:51,2024-06-04
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,585 €,2024-06-01 22:06:51,2024-06-04
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,529 €,2024-06-01 22:06:51,2024-06-04
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",511 €,2024-06-01 22:06:51,2024-06-04
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",541 €,2024-06-01 22:06:51,2024-06-04
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",631 €,2024-06-01 22:06:51,2024-06-04
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,649 €,2024-06-01 22:06:51,2024-06-04
+13:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, FRA",7h 35m,"Brussels Airlines, Lufthansa",571 €,2024-06-01 22:06:51,2024-06-04
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",631 €,2024-06-01 22:06:51,2024-06-04
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",666 €,2024-06-01 22:06:51,2024-06-04
+15:15,20:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,"Iberia, Air France",749 €,2024-06-01 22:06:51,2024-06-04
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",837 €,2024-06-01 22:06:51,2024-06-04
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",837 €,2024-06-01 22:06:51,2024-06-04
+7:35,13:55,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 20m,Lufthansa,822 €,2024-06-01 22:06:51,2024-06-04
+9:15,16:55,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 40m,British Airways,889 €,2024-06-01 22:06:51,2024-06-04
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",872 €,2024-06-01 22:06:51,2024-06-04
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,933 €,2024-06-01 22:06:51,2024-06-04
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,SWISS,918 €,2024-06-01 22:06:51,2024-06-04
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,1424 €,2024-06-01 22:06:51,2024-06-04
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",2529 €,2024-06-01 22:06:51,2024-06-04
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2693 €,2024-06-01 22:06:51,2024-06-04
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",2693 €,2024-06-01 22:06:51,2024-06-04
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,149 €,2024-06-01 22:06:51,2024-06-05
+11:25,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 40m,Vueling,107 €,2024-06-01 22:06:51,2024-06-05
+18:00,19:40,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,199 €,2024-06-01 22:06:51,2024-06-05
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,199 €,2024-06-01 22:06:51,2024-06-05
+15:55,20:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 15m,Vueling,130 €,2024-06-01 22:06:51,2024-06-05
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,217 €,2024-06-01 22:06:51,2024-06-05
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",105 €,2024-06-01 22:06:51,2024-06-05
+14:20,20:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 50m,Vueling,118 €,2024-06-01 22:06:51,2024-06-05
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",90 €,2024-06-01 22:06:51,2024-06-05
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,148 €,2024-06-01 22:06:51,2024-06-05
+14:20,20:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 45m,"Vueling, easyJet",143 €,2024-06-01 22:06:51,2024-06-05
+13:55,21:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 25m,"Vueling, easyJet",103 €,2024-06-01 22:06:51,2024-06-05
+7:40,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 30m,Vueling,169 €,2024-06-01 22:06:51,2024-06-05
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,154 €,2024-06-01 22:06:51,2024-06-05
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,233 €,2024-06-01 22:06:51,2024-06-05
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,253 €,2024-06-01 22:06:51,2024-06-05
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,232 €,2024-06-01 22:06:51,2024-06-05
+16:50,22:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,"Air Europa, easyJet",209 €,2024-06-01 22:06:51,2024-06-05
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,232 €,2024-06-01 22:06:51,2024-06-05
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,232 €,2024-06-01 22:06:51,2024-06-05
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,232 €,2024-06-01 22:06:51,2024-06-05
+7:00,13:40,Bilbao,BIO,Charles de Gaulle,CDG,CPH,6h 40m,"Vueling, Scandinavian Airlines",223 €,2024-06-01 22:06:51,2024-06-05
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,232 €,2024-06-01 22:06:51,2024-06-05
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,241 €,2024-06-01 22:06:51,2024-06-05
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,327 €,2024-06-01 22:06:51,2024-06-05
+11:25,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 40m,Iberia,340 €,2024-06-01 22:06:51,2024-06-05
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,377 €,2024-06-01 22:06:51,2024-06-05
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,282 €,2024-06-01 22:06:51,2024-06-05
+14:05,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 30m,Lufthansa,387 €,2024-06-01 22:06:51,2024-06-05
+15:55,20:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 15m,Iberia,399 €,2024-06-01 22:06:51,2024-06-05
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,393 €,2024-06-01 22:06:51,2024-06-05
+14:20,20:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 50m,Iberia,365 €,2024-06-01 22:06:51,2024-06-05
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",393 €,2024-06-01 22:06:51,2024-06-05
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,427 €,2024-06-01 22:06:51,2024-06-05
+14:05,21:25,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 20m,Lufthansa,387 €,2024-06-01 22:06:51,2024-06-05
+8:55,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,427 €,2024-06-01 22:06:51,2024-06-05
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",506 €,2024-06-01 22:06:51,2024-06-05
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,529 €,2024-06-01 22:06:51,2024-06-05
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",506 €,2024-06-01 22:06:51,2024-06-05
+13:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, FRA",7h 35m,"Brussels Airlines, Lufthansa",490 €,2024-06-01 22:06:51,2024-06-05
+11:35,17:25,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 50m,Lufthansa,568 €,2024-06-01 22:06:51,2024-06-05
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,British Airways,630 €,2024-06-01 22:06:51,2024-06-05
+13:40,20:50,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, LHR",7h 10m,"Iberia, British Airways",630 €,2024-06-01 22:06:51,2024-06-05
+11:35,19:20,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 45m,SWISS,623 €,2024-06-01 22:06:51,2024-06-05
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,679 €,2024-06-01 22:06:51,2024-06-05
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",826 €,2024-06-01 22:06:51,2024-06-05
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",826 €,2024-06-01 22:06:51,2024-06-05
+11:35,19:25,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, LUX",7h 50m,"Lufthansa, Luxair",754 €,2024-06-01 22:06:51,2024-06-05
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",826 €,2024-06-01 22:06:51,2024-06-05
+11:35,18:35,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, FRA",7h 00m,Lufthansa,805 €,2024-06-01 22:06:51,2024-06-05
+12:10,19:25,Bilbao,BIO,Charles de Gaulle,CDG,LIS,7h 15m,"TAP AIR PORTUGAL, Air France",799 €,2024-06-01 22:06:51,2024-06-05
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",826 €,2024-06-01 22:06:51,2024-06-05
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,932 €,2024-06-01 22:06:51,2024-06-05
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,SWISS,1442 €,2024-06-01 22:06:51,2024-06-05
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2693 €,2024-06-01 22:06:51,2024-06-05
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",2787 €,2024-06-01 22:06:51,2024-06-05
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Vueling,35 €,2024-06-01 22:06:51,2024-06-06
+7:15,9:00,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Iberia,144 €,2024-06-01 22:06:51,2024-06-06
+15:10,16:50,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,153 €,2024-06-01 22:06:51,2024-06-06
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,193 €,2024-06-01 22:06:51,2024-06-06
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,199 €,2024-06-01 22:06:51,2024-06-06
+16:55,22:00,Bilbao,BIO,Charles de Gaulle,CDG,BRS,5h 05m,easyJet,90 €,2024-06-01 22:06:51,2024-06-06
+11:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 25m,Vueling,146 €,2024-06-01 22:06:51,2024-06-06
+13:55,18:45,Bilbao,BIO,Charles de Gaulle,CDG,LGW,4h 50m,"Vueling, easyJet",143 €,2024-06-01 22:06:51,2024-06-06
+7:35,13:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 20m,"Vueling, easyJet",93 €,2024-06-01 22:06:51,2024-06-06
+7:35,13:55,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 20m,"Vueling, easyJet Europe",118 €,2024-06-01 22:06:51,2024-06-06
+7:35,14:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 15m,"Vueling, easyJet",98 €,2024-06-01 22:06:51,2024-06-06
+13:55,21:30,Bilbao,BIO,Charles de Gaulle,CDG,LGW,7h 35m,"Vueling, easyJet",125 €,2024-06-01 22:06:51,2024-06-06
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",191 €,2024-06-01 22:06:51,2024-06-06
+13:55,21:50,Bilbao,BIO,Charles de Gaulle,CDG,LGW-LTN,7h 55m,"Vueling, easyJet",124 €,2024-06-01 22:06:51,2024-06-06
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,219 €,2024-06-01 22:06:51,2024-06-06
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,219 €,2024-06-01 22:06:51,2024-06-06
+17:30,23:25,Bilbao,BIO,Charles de Gaulle,CDG,MXP,5h 55m,easyJet,218 €,2024-06-01 22:06:51,2024-06-06
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,267 €,2024-06-01 22:06:51,2024-06-06
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,219 €,2024-06-01 22:06:51,2024-06-06
+8:25,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,5h 50m,SWISS,228 €,2024-06-01 22:06:51,2024-06-06
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,219 €,2024-06-01 22:06:51,2024-06-06
+14:15,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Vueling,229 €,2024-06-01 22:06:51,2024-06-06
+14:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 20m,Vueling,262 €,2024-06-01 22:06:51,2024-06-06
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,KLM,219 €,2024-06-01 22:06:51,2024-06-06
+15:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Vueling,308 €,2024-06-01 22:06:51,2024-06-06
+6:45,13:40,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 55m,Lufthansa,241 €,2024-06-01 22:06:51,2024-06-06
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Vueling,340 €,2024-06-01 22:06:51,2024-06-06
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,377 €,2024-06-01 22:06:51,2024-06-06
+14:15,19:55,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 40m,"Vueling, easyJet",321 €,2024-06-01 22:06:51,2024-06-06
+19:35,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 10m,Iberia,380 €,2024-06-01 22:06:51,2024-06-06
+11:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 25m,Iberia,400 €,2024-06-01 22:06:51,2024-06-06
+13:40,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 05m,"Iberia, Air France",364 €,2024-06-01 22:06:51,2024-06-06
+13:40,21:10,Bilbao,BIO,Charles de Gaulle,CDG,"MAD, AGP",7h 30m,"Iberia, Air France",302 €,2024-06-01 22:06:51,2024-06-06
+13:40,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,"Iberia, Air France",369 €,2024-06-01 22:06:51,2024-06-06
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",425 €,2024-06-01 22:06:51,2024-06-06
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",425 €,2024-06-01 22:06:51,2024-06-06
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,529 €,2024-06-01 22:06:51,2024-06-06
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,529 €,2024-06-01 22:06:51,2024-06-06
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,533 €,2024-06-01 22:06:51,2024-06-06
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,586 €,2024-06-01 22:06:51,2024-06-06
+12:45,19:50,Bilbao,BIO,Charles de Gaulle,CDG,MAD,7h 05m,Air Europa,533 €,2024-06-01 22:06:51,2024-06-06
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",620 €,2024-06-01 22:06:51,2024-06-06
+14:15,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,7h 10m,Iberia,548 €,2024-06-01 22:06:51,2024-06-06
+17:35,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,"Iberia, easyJet",605 €,2024-06-01 22:06:51,2024-06-06
+14:15,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,6h 20m,Iberia,608 €,2024-06-01 22:06:51,2024-06-06
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,"SWISS, Air France",566 €,2024-06-01 22:06:51,2024-06-06
+17:35,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 45m,"Iberia, Air France",693 €,2024-06-01 22:06:51,2024-06-06
+11:35,17:25,Bilbao,BIO,Charles de Gaulle,CDG,MUC,5h 50m,Lufthansa,677 €,2024-06-01 22:06:51,2024-06-06
+7:35,13:45,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 10m,Lufthansa,677 €,2024-06-01 22:06:51,2024-06-06
+14:05,22:00,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, GVA",7h 55m,"Lufthansa, Air France",585 €,2024-06-01 22:06:51,2024-06-06
+13:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,"BRU, FRA",7h 35m,"Brussels Airlines, Lufthansa",649 €,2024-06-01 22:06:51,2024-06-06
+15:50,21:25,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 35m,Iberia,788 €,2024-06-01 22:06:51,2024-06-06
+14:05,21:20,Bilbao,BIO,Charles de Gaulle,CDG,FRA,7h 15m,"Lufthansa, Air France",723 €,2024-06-01 22:06:51,2024-06-06
+15:50,20:35,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 45m,Iberia,852 €,2024-06-01 22:06:51,2024-06-06
+6:45,13:45,Bilbao,BIO,Charles de Gaulle,CDG,"FRA, MUC",7h 00m,Lufthansa,745 €,2024-06-01 22:06:51,2024-06-06
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",826 €,2024-06-01 22:06:51,2024-06-06
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,840 €,2024-06-01 22:06:51,2024-06-06
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",826 €,2024-06-01 22:06:51,2024-06-06
+18:35,23:30,Bilbao,BIO,Charles de Gaulle,CDG,MUC,4h 55m,Lufthansa,870 €,2024-06-01 22:06:51,2024-06-06
+12:00,19:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,7h 05m,"KLM, Air France",826 €,2024-06-01 22:06:51,2024-06-06
+17:35,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,Iberia,932 €,2024-06-01 22:06:51,2024-06-06
+11:35,19:15,Bilbao,BIO,Charles de Gaulle,CDG,"MUC, ZRH",7h 40m,SWISS,868 €,2024-06-01 22:06:51,2024-06-06
+8:25,15:55,Bilbao,BIO,Charles de Gaulle,CDG,"ZRH, GVA",7h 30m,SWISS,907 €,2024-06-01 22:06:51,2024-06-06
+14:05,20:00,Bilbao,BIO,Charles de Gaulle,CDG,FRA,5h 55m,"Lufthansa, Air France",1068 €,2024-06-01 22:06:51,2024-06-06
+6:45,13:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,6h 50m,"Lufthansa, Air France",2693 €,2024-06-01 22:06:51,2024-06-06
+18:35,20:15,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Iberia,158 €,2024-06-01 22:06:51,2024-06-07
+7:10,8:55,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 45m,Air France,185 €,2024-06-01 22:06:51,2024-06-07
+10:30,12:10,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,197 €,2024-06-01 22:06:51,2024-06-07
+14:55,19:55,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,5h 00m,"Volotea, Vueling",168 €,2024-06-01 22:06:51,2024-06-07
+10:40,16:25,Bilbao,BIO,Charles de Gaulle,CDG,MAN,5h 45m,easyJet,151 €,2024-06-01 22:06:51,2024-06-07
+18:00,19:40,Bilbao,BIO,Charles de Gaulle,CDG,directo,1h 40m,Air France,320 €,2024-06-01 22:06:51,2024-06-07
+7:10,12:00,Bilbao,BIO,Charles de Gaulle,CDG,BCN,4h 50m,"Vueling, easyJet",200 €,2024-06-01 22:06:51,2024-06-07
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Vueling,208 €,2024-06-01 22:06:51,2024-06-07
+13:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,"Vueling, easyJet",189 €,2024-06-01 22:06:51,2024-06-07
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,202 €,2024-06-01 22:06:51,2024-06-07
+16:50,22:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,"Air Europa, easyJet",179 €,2024-06-01 22:06:51,2024-06-07
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,KLM,213 €,2024-06-01 22:06:51,2024-06-07
+10:40,16:05,Bilbao,BIO,Charles de Gaulle,CDG,LGW,5h 25m,easyJet,222 €,2024-06-01 22:06:51,2024-06-07
+13:55,20:20,Bilbao,BIO,Charles de Gaulle,CDG,LGW,6h 25m,"Vueling, easyJet",188 €,2024-06-01 22:06:51,2024-06-07
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,KLM,202 €,2024-06-01 22:06:51,2024-06-07
+12:45,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 15m,"Air Europa, Iberia",242 €,2024-06-01 22:06:51,2024-06-07
+17:35,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,3h 55m,Vueling,308 €,2024-06-01 22:06:51,2024-06-07
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,KLM,209 €,2024-06-01 22:06:51,2024-06-07
+13:10,19:55,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 45m,Vueling,190 €,2024-06-01 22:06:51,2024-06-07
+8:30,15:00,Bilbao,BIO,Charles de Gaulle,CDG,AGP,6h 30m,"Vueling, Air France",188 €,2024-06-01 22:06:51,2024-06-07
+16:50,22:20,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 30m,Air Europa,322 €,2024-06-01 22:06:51,2024-06-07
+10:40,15:15,Bilbao,BIO,Charles de Gaulle,CDG,MAN,4h 35m,"easyJet, Air France",318 €,2024-06-01 22:06:51,2024-06-07
+13:10,19:40,Bilbao,BIO,Charles de Gaulle,CDG,SVQ,6h 30m,"Vueling, Air France",252 €,2024-06-01 22:06:51,2024-06-07
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,KLM,354 €,2024-06-01 22:06:51,2024-06-07
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Iberia,370 €,2024-06-01 22:06:51,2024-06-07
+13:40,19:40,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Iberia,311 €,2024-06-01 22:06:51,2024-06-07
+12:25,18:15,Bilbao,BIO,Charles de Gaulle,CDG,LIS,5h 50m,"TAP AIR PORTUGAL, easyJet",308 €,2024-06-01 22:06:51,2024-06-07
+14:40,19:35,Bilbao,BIO,Charles de Gaulle,CDG,OPO,4h 55m,"Vueling, Air France",359 €,2024-06-01 22:06:51,2024-06-07
+6:50,11:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",420 €,2024-06-01 22:06:51,2024-06-07
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Iberia,422 €,2024-06-01 22:06:51,2024-06-07
+7:35,13:55,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 20m,Lufthansa,386 €,2024-06-01 22:06:51,2024-06-07
+17:35,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,Iberia,400 €,2024-06-01 22:06:51,2024-06-07
+12:00,17:05,Bilbao,BIO,Charles de Gaulle,CDG,AMS,5h 05m,"KLM, Air France",444 €,2024-06-01 22:06:51,2024-06-07
+6:50,12:55,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 05m,"KLM, Air France",425 €,2024-06-01 22:06:51,2024-06-07
+13:40,18:00,Bilbao,BIO,Charles de Gaulle,CDG,MAD,4h 20m,Vueling,528 €,2024-06-01 22:06:51,2024-06-07
+8:30,14:15,Bilbao,BIO,Charles de Gaulle,CDG,ZRH,5h 45m,SWISS,456 €,2024-06-01 22:06:51,2024-06-07
+17:15,21:50,Bilbao,BIO,Charles de Gaulle,CDG,AMS,4h 35m,"KLM, Air France",505 €,2024-06-01 22:06:51,2024-06-07
+14:15,19:10,Bilbao,BIO,Charles de Gaulle,CDG,MXP,4h 55m,"Vueling, Air France",484 €,2024-06-01 22:06:51,2024-06-07
+17:35,23:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 10m,Vueling,483 €,2024-06-01 22:06:51,2024-06-07
+8:55,14:10,Bilbao,BIO,Charles de Gaulle,CDG,BCN,5h 15m,Iberia,521 €,2024-06-01 22:06:51,2024-06-07
+8:30,14:25,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 55m,Air Europa,529 €,2024-06-01 22:06:51,2024-06-07
+6:45,11:55,Bilbao,BIO,Charles de Gaulle,CDG,MAD,5h 10m,Vueling,553 €,2024-06-01 22:06:51,2024-06-07
+14:05,18:35,Bilbao,BIO,Charles de Gaulle,CDG,FRA,4h 30m,Lufthansa,560 €,2024-06-01 22:06:51,2024-06-07
+12:00,18:10,Bilbao,BIO,Charles de Gaulle,CDG,AMS,6h 10m,"KLM, Air France",506 €,2024-06-01 22:06:51,2024-06-07
+17:35,21:30,Bilbao,BIO,Charles de Gaulle,CDG,BCN,3h 55m,Iberia,603 €,2024-06-01 22:06:51,2024-06-07
+14:40,19:35,Bilbao,BIO,Charles de Gaulle,CDG,OPO,4h 55m,"Iberia, Air France",643 €,2024-06-01 22:06:51,2024-06-07
+12:45,18:45,Bilbao,BIO,Charles de Gaulle,CDG,MAD,6h 00m,Air Europa,663 €,2024-06-01 22:06:51,2024-06-07
+14:55,19:20,Bilbao,BIO,Charles de Gaulle,CDG,DUS,4h 25m,"Eurowings, Air France",768 €,2024-06-01 22:06:51,2024-06-07
+14:15,19:10,Bilbao,BIO,Charles de Gaulle,CDG,MXP,4h 55m,"Iberia, Air France",832 €,2024-06-01 22:06:51,2024-06-07
+7:35,13:35,Bilbao,BIO,Charles de Gaulle,CDG,MUC,6h 00m,"Lufthansa, Air France",2663 €,2024-06-01 22:06:51,2024-06-07
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,84 €,2024-06-01 22:23:55,2024-06-03
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,97 €,2024-06-01 22:23:55,2024-06-03
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,107 €,2024-06-01 22:23:55,2024-06-03
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,177 €,2024-06-01 22:23:55,2024-06-03
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,168 €,2024-06-01 22:23:55,2024-06-03
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,220 €,2024-06-01 22:23:55,2024-06-03
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,220 €,2024-06-01 22:23:55,2024-06-03
+17:35,18:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,241 €,2024-06-01 22:23:55,2024-06-03
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,313 €,2024-06-01 22:23:55,2024-06-03
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,313 €,2024-06-01 22:23:55,2024-06-03
+17:35,18:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,356 €,2024-06-01 22:23:55,2024-06-03
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,363 €,2024-06-01 22:23:55,2024-06-03
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,363 €,2024-06-01 22:23:55,2024-06-03
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,162 €,2024-06-01 22:23:55,2024-06-03
+13:50,18:10,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 20m,Vueling,200 €,2024-06-01 22:23:55,2024-06-03
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",152 €,2024-06-01 22:23:55,2024-06-03
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Air Europa",203 €,2024-06-01 22:23:55,2024-06-03
+17:35,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,177 €,2024-06-01 22:23:55,2024-06-03
+13:50,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",180 €,2024-06-01 22:23:55,2024-06-03
+15:50,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Iberia",185 €,2024-06-01 22:23:55,2024-06-03
+17:35,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,"Vueling, Iberia",173 €,2024-06-01 22:23:55,2024-06-03
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Vueling,276 €,2024-06-01 22:23:55,2024-06-03
+13:50,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Iberia,451 €,2024-06-01 22:23:55,2024-06-03
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,576 €,2024-06-01 22:23:55,2024-06-03
+8:55,13:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,Iberia,579 €,2024-06-01 22:23:55,2024-06-03
+12:30,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,615 €,2024-06-01 22:23:55,2024-06-03
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,628 €,2024-06-01 22:23:55,2024-06-03
+14:00,19:00,Bilbao,BIO,Madrid-Barajas,MAD,VGO,5h 00m,Iberia,739 €,2024-06-01 22:23:55,2024-06-03
+18:00,23:10,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,797 €,2024-06-01 22:23:55,2024-06-03
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,1067 €,2024-06-01 22:23:55,2024-06-03
+11:05,12:15,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,64 €,2024-06-01 22:23:55,2024-06-04
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,90 €,2024-06-01 22:23:55,2024-06-04
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,123 €,2024-06-01 22:23:55,2024-06-04
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,154 €,2024-06-01 22:23:55,2024-06-04
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,184 €,2024-06-01 22:23:55,2024-06-04
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,183 €,2024-06-01 22:23:55,2024-06-04
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,192 €,2024-06-01 22:23:55,2024-06-04
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,231 €,2024-06-01 22:23:55,2024-06-04
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,"Vueling, Air Europa",92 €,2024-06-01 22:23:55,2024-06-04
+17:55,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 40m,"Vueling, Air Europa",108 €,2024-06-01 22:23:55,2024-06-04
+19:00,22:55,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 55m,"Vueling, Iberia",112 €,2024-06-01 22:23:55,2024-06-04
+19:25,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 30m,"Vueling, Iberia Express",157 €,2024-06-01 22:23:55,2024-06-04
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",110 €,2024-06-01 22:23:55,2024-06-04
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,231 €,2024-06-01 22:23:55,2024-06-04
+17:55,23:00,Bilbao,BIO,Madrid-Barajas,MAD,PMI,5h 05m,"Vueling, Iberia Express",136 €,2024-06-01 22:23:55,2024-06-04
+19:25,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 30m,"Vueling, Iberia",169 €,2024-06-01 22:23:55,2024-06-04
+19:45,0:20,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 35m,TAP AIR PORTUGAL,160 €,2024-06-01 22:23:55,2024-06-04
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Vueling,168 €,2024-06-01 22:23:55,2024-06-04
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,312 €,2024-06-01 22:23:55,2024-06-04
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,356 €,2024-06-01 22:23:55,2024-06-04
+15:15,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",319 €,2024-06-01 22:23:55,2024-06-04
+15:15,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,"Vueling, Iberia",319 €,2024-06-01 22:23:55,2024-06-04
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,405 €,2024-06-01 22:23:55,2024-06-04
+18:20,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 10m,"Vueling, Iberia",433 €,2024-06-01 22:23:55,2024-06-04
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 55m,Iberia,428 €,2024-06-01 22:23:55,2024-06-04
+15:10,19:10,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 00m,Vueling,472 €,2024-06-01 22:23:55,2024-06-04
+15:10,19:10,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 00m,"Vueling, Iberia",470 €,2024-06-01 22:23:55,2024-06-04
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,136 €,2024-06-01 22:23:55,2024-06-05
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,131 €,2024-06-01 22:23:55,2024-06-05
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,CitizenPlane,173 €,2024-06-01 22:23:55,2024-06-05
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,192 €,2024-06-01 22:23:55,2024-06-05
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,171 €,2024-06-01 22:23:55,2024-06-05
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,200 €,2024-06-01 22:23:55,2024-06-05
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,CitizenPlane,267 €,2024-06-01 22:23:55,2024-06-05
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,266 €,2024-06-01 22:23:55,2024-06-05
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,257 €,2024-06-01 22:23:55,2024-06-05
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Vueling,175 €,2024-06-01 22:23:55,2024-06-05
+8:55,12:45,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 50m,"Vueling, Iberia Express",144 €,2024-06-01 22:23:55,2024-06-05
+17:40,22:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,Air Europa,132 €,2024-06-01 22:23:55,2024-06-05
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,363 €,2024-06-01 22:23:55,2024-06-05
+8:55,12:45,Bilbao,BIO,Madrid-Barajas,MAD,PMI,3h 50m,"Vueling, Iberia",154 €,2024-06-01 22:23:55,2024-06-05
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,388 €,2024-06-01 22:23:55,2024-06-05
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,356 €,2024-06-01 22:23:55,2024-06-05
+8:40,13:40,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 00m,"Vueling, Air Europa",110 €,2024-06-01 22:23:55,2024-06-05
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Vueling,168 €,2024-06-01 22:23:55,2024-06-05
+8:50,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 55m,"Vueling, Air Europa",122 €,2024-06-01 22:23:55,2024-06-05
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,"Vueling, Air Europa",132 €,2024-06-01 22:23:55,2024-06-05
+17:35,18:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,412 €,2024-06-01 22:23:55,2024-06-05
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,CitizenPlane,454 €,2024-06-01 22:23:55,2024-06-05
+19:05,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 50m,"Vueling, Iberia Express",257 €,2024-06-01 22:23:55,2024-06-05
+17:40,23:00,Bilbao,BIO,Madrid-Barajas,MAD,PMI,5h 20m,"Air Europa, Iberia Express",192 €,2024-06-01 22:23:55,2024-06-05
+19:05,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 50m,"Vueling, Iberia",271 €,2024-06-01 22:23:55,2024-06-05
+11:00,14:35,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 35m,"Vueling, Iberia",310 €,2024-06-01 22:23:55,2024-06-05
+15:55,20:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,"Vueling, Iberia",275 €,2024-06-01 22:23:55,2024-06-05
+7:40,11:40,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 00m,"Vueling, Iberia",332 €,2024-06-01 22:23:55,2024-06-05
+14:20,17:50,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 30m,Iberia,437 €,2024-06-01 22:23:55,2024-06-05
+17:30,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,"Vueling, Air Europa",382 €,2024-06-01 22:23:55,2024-06-05
+8:55,13:25,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 30m,Iberia,428 €,2024-06-01 22:23:55,2024-06-05
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,405 €,2024-06-01 22:23:55,2024-06-05
+14:25,18:55,Bilbao,BIO,Madrid-Barajas,MAD,VLC,4h 30m,"Vueling, Iberia",425 €,2024-06-01 22:23:55,2024-06-05
+17:30,22:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 00m,"Vueling, Iberia",406 €,2024-06-01 22:23:55,2024-06-05
+17:30,21:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 50m,"Vueling, Iberia",484 €,2024-06-01 22:23:55,2024-06-05
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Vueling,606 €,2024-06-01 22:23:55,2024-06-05
+7:40,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,2h 55m,Iberia,619 €,2024-06-01 22:23:55,2024-06-05
+18:00,23:10,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,519 €,2024-06-01 22:23:55,2024-06-05
+12:10,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 55m,TAP AIR PORTUGAL,549 €,2024-06-01 22:23:55,2024-06-05
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Vueling,615 €,2024-06-01 22:23:55,2024-06-05
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,723 €,2024-06-01 22:23:55,2024-06-05
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,130 €,2024-06-01 22:23:55,2024-06-06
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,133 €,2024-06-01 22:23:55,2024-06-06
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,119 €,2024-06-01 22:23:55,2024-06-06
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,130 €,2024-06-01 22:23:55,2024-06-06
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,135 €,2024-06-01 22:23:55,2024-06-06
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,CitizenPlane,200 €,2024-06-01 22:23:55,2024-06-06
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,192 €,2024-06-01 22:23:55,2024-06-06
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,161 €,2024-06-01 22:23:55,2024-06-06
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,CitizenPlane,255 €,2024-06-01 22:23:55,2024-06-06
+19:35,20:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,241 €,2024-06-01 22:23:55,2024-06-06
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,CitizenPlane,306 €,2024-06-01 22:23:55,2024-06-06
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,CitizenPlane,281 €,2024-06-01 22:23:55,2024-06-06
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,313 €,2024-06-01 22:23:55,2024-06-06
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,313 €,2024-06-01 22:23:55,2024-06-06
+7:40,12:00,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 20m,"Volotea, Air Europa",129 €,2024-06-01 22:23:55,2024-06-06
+18:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 25m,"Volotea, Ryanair",190 €,2024-06-01 22:23:55,2024-06-06
+8:55,13:50,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,"Vueling, Air Europa",114 €,2024-06-01 22:23:55,2024-06-06
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Vueling,139 €,2024-06-01 22:23:55,2024-06-06
+17:35,18:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,401 €,2024-06-01 22:23:55,2024-06-06
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,401 €,2024-06-01 22:23:55,2024-06-06
+8:40,13:45,Bilbao,BIO,Madrid-Barajas,MAD,ALC,5h 05m,"Vueling, Air Europa",136 €,2024-06-01 22:23:55,2024-06-06
+7:40,12:35,Bilbao,BIO,Madrid-Barajas,MAD,PMI,4h 55m,"Volotea, Iberia Express",149 €,2024-06-01 22:23:55,2024-06-06
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",160 €,2024-06-01 22:23:55,2024-06-06
+18:35,22:20,Bilbao,BIO,Madrid-Barajas,MAD,OPO,3h 45m,"Volotea, Air Europa",256 €,2024-06-01 22:23:55,2024-06-06
+14:40,18:55,Bilbao,BIO,Madrid-Barajas,MAD,IBZ,4h 15m,"Volotea, Iberia Express",264 €,2024-06-01 22:23:55,2024-06-06
+11:40,15:55,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 15m,"Vueling, Iberia",272 €,2024-06-01 22:23:55,2024-06-06
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,320 €,2024-06-01 22:23:55,2024-06-06
+11:40,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 05m,Iberia,390 €,2024-06-01 22:23:55,2024-06-06
+14:15,18:20,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 05m,"Vueling, Iberia",484 €,2024-06-01 22:23:55,2024-06-06
+14:15,19:30,Bilbao,BIO,Madrid-Barajas,MAD,BCN,5h 15m,"Vueling, Iberia",519 €,2024-06-01 22:23:55,2024-06-06
+11:00,15:25,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 25m,TAP AIR PORTUGAL,613 €,2024-06-01 22:23:55,2024-06-06
+7:00,10:35,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,3h 35m,Iberia,749 €,2024-06-01 22:23:55,2024-06-06
+13:40,19:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,5h 20m,Iberia,659 €,2024-06-01 22:23:55,2024-06-06
+16:50,17:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,85 €,2024-06-01 22:23:55,2024-06-07
+21:05,22:10,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,78 €,2024-06-01 22:23:55,2024-06-07
+12:45,13:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,Air Europa,126 €,2024-06-01 22:23:55,2024-06-07
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,119 €,2024-06-01 22:23:55,2024-06-07
+8:30,9:35,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 05m,CitizenPlane,151 €,2024-06-01 22:23:55,2024-06-07
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,142 €,2024-06-01 22:23:55,2024-06-07
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,203 €,2024-06-01 22:23:55,2024-06-07
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,313 €,2024-06-01 22:23:55,2024-06-07
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,313 €,2024-06-01 22:23:55,2024-06-07
+17:35,18:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,311 €,2024-06-01 22:23:55,2024-06-07
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Iberia,297 €,2024-06-01 22:23:55,2024-06-07
+17:35,18:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,363 €,2024-06-01 22:23:55,2024-06-07
+13:40,14:50,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,363 €,2024-06-01 22:23:55,2024-06-07
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,Vueling,356 €,2024-06-01 22:23:55,2024-06-07
+9:15,10:25,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,CitizenPlane,399 €,2024-06-01 22:23:55,2024-06-07
+6:45,7:55,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,CitizenPlane,399 €,2024-06-01 22:23:55,2024-06-07
+14:55,18:45,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 50m,"Volotea, Iberia Express",210 €,2024-06-01 22:23:55,2024-06-07
+8:30,13:45,Bilbao,BIO,Madrid-Barajas,MAD,AGP,5h 15m,"Vueling, Air Europa",132 €,2024-06-01 22:23:55,2024-06-07
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Vueling,277 €,2024-06-01 22:23:55,2024-06-07
+17:35,18:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,CitizenPlane,454 €,2024-06-01 22:23:55,2024-06-07
+17:30,22:20,Bilbao,BIO,Madrid-Barajas,MAD,AGP,4h 50m,"Vueling, Air Europa",194 €,2024-06-01 22:23:55,2024-06-07
+21:35,22:45,Bilbao,BIO,Madrid-Barajas,MAD,directo,1h 10m,CitizenPlane,444 €,2024-06-01 22:23:55,2024-06-07
+19:00,22:55,Bilbao,BIO,Madrid-Barajas,MAD,SVQ,3h 55m,"Vueling, Iberia",257 €,2024-06-01 22:23:55,2024-06-07
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Vueling,332 €,2024-06-01 22:23:55,2024-06-07
+14:40,18:55,Bilbao,BIO,Madrid-Barajas,MAD,OPO,4h 15m,"Vueling, Iberia",312 €,2024-06-01 22:23:55,2024-06-07
+10:30,15:40,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,348 €,2024-06-01 22:23:55,2024-06-07
+18:00,23:10,Bilbao,BIO,Madrid-Barajas,MAD,CDG,5h 10m,Air France,470 €,2024-06-01 22:23:55,2024-06-07
+13:25,16:45,Bilbao,BIO,Madrid-Barajas,MAD,BCN,3h 20m,Iberia,602 €,2024-06-01 22:23:55,2024-06-07
+12:25,17:05,Bilbao,BIO,Madrid-Barajas,MAD,LIS,4h 40m,TAP AIR PORTUGAL,613 €,2024-06-01 22:23:55,2024-06-07
+17:35,22:00,Bilbao,BIO,Madrid-Barajas,MAD,BCN,4h 25m,Iberia,635 €,2024-06-01 22:23:55,2024-06-07
+10:30,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 05m,Vueling,782 €,2024-06-01 22:23:55,2024-06-07
+10:30,14:35,Bilbao,BIO,Madrid-Barajas,MAD,VGO,4h 05m,Iberia,798 €,2024-06-01 22:23:55,2024-06-07
+18:10,23:00,Bilbao,BIO,Madrid-Barajas,MAD,SCQ,4h 50m,Iberia,849 €,2024-06-01 22:23:55,2024-06-07
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,372 €,2024-06-01 23:00:46,2024-06-02
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Vueling,391 €,2024-06-01 23:00:46,2024-06-02
+7:10,12:30,Bilbao,BIO,Londres-Gatwick,LGW,CDG-ORY,6h 20m,"Air France, Vueling",374 €,2024-06-01 23:00:46,2024-06-02
+15:50,20:20,Bilbao,BIO,Londres-Gatwick,LGW,OPO,5h 30m,"Volotea, TAP AIR PORTUGAL",579 €,2024-06-01 23:00:46,2024-06-02
+7:40,13:20,Bilbao,BIO,Londres-Gatwick,LGW,AMS,6h 40m,"Vueling, easyJet",498 €,2024-06-01 23:00:46,2024-06-02
+6:45,12:35,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 50m,"Vueling, easyJet",481 €,2024-06-01 23:00:46,2024-06-02
+10:55,17:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Vueling,417 €,2024-06-01 23:00:46,2024-06-02
+17:15,20:40,Bilbao,BIO,Londres-Gatwick,LGW,AMS,4h 25m,"KLM, easyJet",862 €,2024-06-01 23:00:46,2024-06-02
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Vueling,632 €,2024-06-01 23:00:46,2024-06-02
+13:40,19:55,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 15m,Iberia,672 €,2024-06-01 23:00:46,2024-06-02
+13:40,19:55,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 15m,British Airways,681 €,2024-06-01 23:00:46,2024-06-02
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Iberia,1013 €,2024-06-01 23:00:46,2024-06-02
+13:20,20:20,Bilbao,BIO,Londres-Gatwick,LGW,CPH,8h 00m,Norwegian,561 €,2024-06-01 23:00:46,2024-06-02
+13:40,19:55,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 15m,"Iberia, British Airways",689 €,2024-06-01 23:00:46,2024-06-02
+6:45,12:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 35m,"Volotea, easyJet",696 €,2024-06-01 23:00:46,2024-06-02
+9:30,16:20,Bilbao,BIO,Londres-Gatwick,LGW,"ZRH, GVA",7h 50m,"SWISS, easyJet",496 €,2024-06-01 23:00:46,2024-06-02
+12:15,19:35,Bilbao,BIO,Londres-Gatwick,LGW,MXP,8h 20m,"Vueling, easyJet",486 €,2024-06-01 23:00:46,2024-06-02
+15:15,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 25m,Vueling,632 €,2024-06-01 23:00:46,2024-06-02
+12:15,19:45,Bilbao,BIO,Londres-Gatwick,LGW,MXP,8h 30m,"Vueling, Wizz Air Malta",548 €,2024-06-01 23:00:46,2024-06-02
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Iberia,1062 €,2024-06-01 23:00:46,2024-06-02
+10:55,17:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Iberia,1012 €,2024-06-01 23:00:46,2024-06-02
+15:15,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 25m,Iberia,1072 €,2024-06-01 23:00:46,2024-06-02
+7:35,14:35,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, MXP",8h 00m,"Lufthansa, easyJet",1019 €,2024-06-01 23:00:46,2024-06-02
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,SWISS,1460 €,2024-06-01 23:00:46,2024-06-02
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,"Lufthansa, SWISS",1724 €,2024-06-01 23:00:46,2024-06-02
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,167 €,2024-06-01 23:00:46,2024-06-03
+15:50,19:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Vueling,368 €,2024-06-01 23:00:46,2024-06-03
+12:40,17:50,Bilbao,BIO,Londres-Gatwick,LGW,ORY-CDG,6h 10m,"Volotea, easyJet",246 €,2024-06-01 23:00:46,2024-06-03
+12:40,18:35,Bilbao,BIO,Londres-Gatwick,LGW,ORY,6h 55m,"Volotea, Vueling",187 €,2024-06-01 23:00:46,2024-06-03
+20:55,1:15,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 20m,"Volotea, easyJet",379 €,2024-06-01 23:00:46,2024-06-03
+8:55,12:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 25m,Vueling,508 €,2024-06-01 23:00:46,2024-06-03
+7:45,11:30,Bilbao,BIO,Londres-Gatwick,LGW,VLC,4h 45m,"Vueling, easyJet",435 €,2024-06-01 23:00:46,2024-06-03
+11:00,16:05,Bilbao,BIO,Londres-Gatwick,LGW,MAH,6h 05m,"Vueling, British Airways",294 €,2024-06-01 23:00:46,2024-06-03
+17:40,23:25,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 45m,"Air Europa, easyJet",297 €,2024-06-01 23:00:46,2024-06-03
+15:15,20:30,Bilbao,BIO,Londres-Gatwick,LGW,MXP,6h 15m,easyJet,354 €,2024-06-01 23:00:46,2024-06-03
+17:35,22:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 00m,"Vueling, easyJet",378 €,2024-06-01 23:00:46,2024-06-03
+12:40,18:35,Bilbao,BIO,Londres-Gatwick,LGW,ORY,6h 55m,"Volotea, British Airways",293 €,2024-06-01 23:00:46,2024-06-03
+13:50,19:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 45m,Vueling,384 €,2024-06-01 23:00:46,2024-06-03
+15:50,22:35,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, PRG",7h 45m,"Vueling, Wizz Air UK",270 €,2024-06-01 23:00:46,2024-06-03
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,498 €,2024-06-01 23:00:46,2024-06-03
+16:50,23:25,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, PMI",7h 35m,"Air Europa, easyJet",340 €,2024-06-01 23:00:46,2024-06-03
+15:50,22:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,"Vueling, easyJet",342 €,2024-06-01 23:00:46,2024-06-03
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,430 €,2024-06-01 23:00:46,2024-06-03
+15:50,23:10,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, CDG",8h 20m,"Vueling, easyJet",316 €,2024-06-01 23:00:46,2024-06-03
+8:55,13:30,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 35m,"Vueling, easyJet",568 €,2024-06-01 23:00:46,2024-06-03
+13:55,18:35,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 40m,"Vueling, easyJet",596 €,2024-06-01 23:00:46,2024-06-03
+8:55,15:10,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 15m,Vueling,498 €,2024-06-01 23:00:46,2024-06-03
+6:45,12:05,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 20m,"Volotea, easyJet",588 €,2024-06-01 23:00:46,2024-06-03
+13:55,18:55,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 00m,Vueling,624 €,2024-06-01 23:00:46,2024-06-03
+11:15,18:20,Bilbao,BIO,Londres-Gatwick,LGW,AMS,8h 05m,"Vueling, easyJet",441 €,2024-06-01 23:00:46,2024-06-03
+13:50,21:10,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, AMS",8h 20m,"Vueling, easyJet",427 €,2024-06-01 23:00:46,2024-06-03
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Vueling,713 €,2024-06-01 23:00:46,2024-06-03
+7:10,12:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,713 €,2024-06-01 23:00:46,2024-06-03
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",681 €,2024-06-01 23:00:46,2024-06-03
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,681 €,2024-06-01 23:00:46,2024-06-03
+15:50,19:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Iberia,939 €,2024-06-01 23:00:46,2024-06-03
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,SWISS,705 €,2024-06-01 23:00:46,2024-06-03
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Vueling,713 €,2024-06-01 23:00:46,2024-06-03
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",850 €,2024-06-01 23:00:46,2024-06-03
+12:00,18:20,Bilbao,BIO,Londres-Gatwick,LGW,AMS,7h 20m,"KLM, easyJet",680 €,2024-06-01 23:00:46,2024-06-03
+13:50,19:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 45m,Iberia,954 €,2024-06-01 23:00:46,2024-06-03
+9:15,16:00,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, AGP",7h 45m,"Iberia, British Airways",861 €,2024-06-01 23:00:46,2024-06-03
+8:55,15:10,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 15m,Iberia,1131 €,2024-06-01 23:00:46,2024-06-03
+13:50,21:10,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, PMI",8h 20m,"Iberia, British Airways",1050 €,2024-06-01 23:00:46,2024-06-03
+13:50,21:10,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, PMI",8h 20m,"Iberia, British Airways",1051 €,2024-06-01 23:00:46,2024-06-03
+12:30,19:35,Bilbao,BIO,Londres-Gatwick,LGW,"LIS, BCN",8h 05m,"TAP AIR PORTUGAL, Iberia",1078 €,2024-06-01 23:00:46,2024-06-03
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Iberia,1369 €,2024-06-01 23:00:46,2024-06-03
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,"Iberia, British Airways",1454 €,2024-06-01 23:00:46,2024-06-03
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,71 €,2024-06-01 23:00:46,2024-06-04
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,118 €,2024-06-01 23:00:46,2024-06-04
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,132 €,2024-06-01 23:00:46,2024-06-04
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,176 €,2024-06-01 23:00:46,2024-06-04
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,202 €,2024-06-01 23:00:46,2024-06-04
+16:05,19:45,Bilbao,BIO,Londres-Gatwick,LGW,GVA,4h 40m,easyJet,198 €,2024-06-01 23:00:46,2024-06-04
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,305 €,2024-06-01 23:00:46,2024-06-04
+8:55,12:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 55m,Vueling,259 €,2024-06-01 23:00:46,2024-06-04
+13:20,19:25,Bilbao,BIO,Londres-Gatwick,LGW,CDG,7h 05m,"Vueling, easyJet",125 €,2024-06-01 23:00:46,2024-06-04
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,British Airways,331 €,2024-06-01 23:00:46,2024-06-04
+17:55,23:25,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 30m,"Vueling, easyJet",172 €,2024-06-01 23:00:46,2024-06-04
+14:50,20:30,Bilbao,BIO,Londres-Gatwick,LGW,"BRS, AMS",6h 40m,easyJet,165 €,2024-06-01 23:00:46,2024-06-04
+16:05,21:35,Bilbao,BIO,Londres-Gatwick,LGW,GVA,6h 30m,easyJet,188 €,2024-06-01 23:00:46,2024-06-04
+15:10,19:35,Bilbao,BIO,Londres-Gatwick,LGW,LIS,5h 25m,"Vueling, easyJet",272 €,2024-06-01 23:00:46,2024-06-04
+14:50,21:10,Bilbao,BIO,Londres-Gatwick,LGW,"BRS, AMS",7h 20m,easyJet,156 €,2024-06-01 23:00:46,2024-06-04
+18:20,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Vueling,318 €,2024-06-01 23:00:46,2024-06-04
+7:05,13:05,Bilbao,BIO,Londres-Gatwick,LGW,MXP,7h 00m,"Vueling, easyJet",199 €,2024-06-01 23:00:46,2024-06-04
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Vueling,249 €,2024-06-01 23:00:46,2024-06-04
+8:40,13:55,Bilbao,BIO,Londres-Gatwick,LGW,ALC,6h 15m,"Vueling, easyJet",261 €,2024-06-01 23:00:46,2024-06-04
+7:05,11:25,Bilbao,BIO,Londres-Gatwick,LGW,MXP,5h 20m,"Vueling, easyJet",320 €,2024-06-01 23:00:46,2024-06-04
+15:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,303 €,2024-06-01 23:00:46,2024-06-04
+19:25,23:50,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 25m,"Vueling, British Airways",292 €,2024-06-01 23:00:46,2024-06-04
+19:35,1:05,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,6h 30m,"Vueling, easyJet",255 €,2024-06-01 23:00:46,2024-06-04
+8:40,14:35,Bilbao,BIO,Londres-Gatwick,LGW,ALC,6h 55m,"Vueling, Ryanair",233 €,2024-06-01 23:00:46,2024-06-04
+16:05,22:50,Bilbao,BIO,Londres-Gatwick,LGW,"GVA, BOD",7h 45m,easyJet,184 €,2024-06-01 23:00:46,2024-06-04
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,232 €,2024-06-01 23:00:46,2024-06-04
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,237 €,2024-06-01 23:00:46,2024-06-04
+19:00,22:35,Bilbao,BIO,Londres-Gatwick,LGW,OPO,4h 35m,"Vueling, British Airways",365 €,2024-06-01 23:00:46,2024-06-04
+14:35,22:10,Bilbao,BIO,Londres-Gatwick,LGW,FAO,8h 35m,"Volotea, Wizz Air UK",197 €,2024-06-01 23:00:46,2024-06-04
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",288 €,2024-06-01 23:00:46,2024-06-04
+7:10,12:50,Bilbao,BIO,Londres-Gatwick,LGW,CDG-ORY,6h 40m,"Air France, Vueling",291 €,2024-06-01 23:00:46,2024-06-04
+17:15,21:10,Bilbao,BIO,Londres-Gatwick,LGW,AMS,4h 55m,"KLM, easyJet",407 €,2024-06-01 23:00:46,2024-06-04
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,286 €,2024-06-01 23:00:46,2024-06-04
+13:20,19:25,Bilbao,BIO,Londres-Gatwick,LGW,CDG,7h 05m,"Iberia, easyJet",277 €,2024-06-01 23:00:46,2024-06-04
+15:15,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,268 €,2024-06-01 23:00:46,2024-06-04
+14:00,19:55,Bilbao,BIO,Londres-Gatwick,LGW,SCQ,6h 55m,"Iberia, Vueling",392 €,2024-06-01 23:00:46,2024-06-04
+14:05,21:00,Bilbao,BIO,Londres-Gatwick,LGW,"FRA, CDG",7h 55m,"Lufthansa, easyJet",341 €,2024-06-01 23:00:46,2024-06-04
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",689 €,2024-06-01 23:00:46,2024-06-04
+19:25,23:50,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 25m,"Iberia, British Airways",615 €,2024-06-01 23:00:46,2024-06-04
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Iberia,597 €,2024-06-01 23:00:46,2024-06-04
+15:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Iberia,664 €,2024-06-01 23:00:46,2024-06-04
+18:20,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Iberia,710 €,2024-06-01 23:00:46,2024-06-04
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,670 €,2024-06-01 23:00:46,2024-06-04
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,634 €,2024-06-01 23:00:46,2024-06-04
+15:15,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,627 €,2024-06-01 23:00:46,2024-06-04
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",835 €,2024-06-01 23:00:46,2024-06-04
+10:30,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, ZRH",8h 20m,"Air France, SWISS",786 €,2024-06-01 23:00:46,2024-06-04
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,SWISS,994 €,2024-06-01 23:00:46,2024-06-04
+9:15,15:35,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, LIS",7h 20m,"Iberia, TAP AIR PORTUGAL",1188 €,2024-06-01 23:00:46,2024-06-04
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,"Lufthansa, SWISS",1683 €,2024-06-01 23:00:46,2024-06-04
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,22 €,2024-06-01 23:00:46,2024-06-05
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,46 €,2024-06-01 23:00:46,2024-06-05
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,83 €,2024-06-01 23:00:46,2024-06-05
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,83 €,2024-06-01 23:00:46,2024-06-05
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,118 €,2024-06-01 23:00:46,2024-06-05
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,143 €,2024-06-01 23:00:46,2024-06-05
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,176 €,2024-06-01 23:00:46,2024-06-05
+15:10,19:40,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 30m,"Vueling, easyJet",110 €,2024-06-01 23:00:46,2024-06-05
+7:35,11:55,Bilbao,BIO,Londres-Gatwick,LGW,MAH,5h 20m,"Vueling, easyJet",120 €,2024-06-01 23:00:46,2024-06-05
+7:35,13:15,Bilbao,BIO,Londres-Gatwick,LGW,MAH,6h 40m,"Vueling, easyJet",93 €,2024-06-01 23:00:46,2024-06-05
+15:10,21:00,Bilbao,BIO,Londres-Gatwick,LGW,CDG,6h 50m,"Vueling, easyJet",107 €,2024-06-01 23:00:46,2024-06-05
+19:40,2:20,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,7h 40m,"Vueling, easyJet",98 €,2024-06-01 23:00:46,2024-06-05
+16:55,21:35,Bilbao,BIO,Londres-Gatwick,LGW,DUB,5h 40m,"Aer Lingus, Ryanair",148 €,2024-06-01 23:00:46,2024-06-05
+8:55,13:30,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 35m,"Vueling, easyJet",177 €,2024-06-01 23:00:46,2024-06-05
+8:50,13:55,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 05m,"Vueling, Wizz Air UK",169 €,2024-06-01 23:00:46,2024-06-05
+17:40,23:25,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 45m,"Air Europa, easyJet",163 €,2024-06-01 23:00:46,2024-06-05
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Vueling,217 €,2024-06-01 23:00:46,2024-06-05
+14:35,19:15,Bilbao,BIO,Londres-Gatwick,LGW,FLR,5h 40m,Vueling,192 €,2024-06-01 23:00:46,2024-06-05
+7:00,13:45,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 45m,"Vueling, easyJet",150 €,2024-06-01 23:00:46,2024-06-05
+7:00,12:25,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 25m,Vueling,187 €,2024-06-01 23:00:46,2024-06-05
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,217 €,2024-06-01 23:00:46,2024-06-05
+7:40,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Vueling,231 €,2024-06-01 23:00:46,2024-06-05
+12:05,19:25,Bilbao,BIO,Londres-Gatwick,LGW,AMS,8h 20m,"Vueling, easyJet",168 €,2024-06-01 23:00:46,2024-06-05
+17:40,1:15,Bilbao,BIO,Londres-Gatwick,LGW,PMI,8h 35m,"Air Europa, TUI Airways",168 €,2024-06-01 23:00:46,2024-06-05
+7:40,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 00m,Vueling,239 €,2024-06-01 23:00:46,2024-06-05
+11:25,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 25m,Vueling,255 €,2024-06-01 23:00:46,2024-06-05
+14:20,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,Vueling,265 €,2024-06-01 23:00:46,2024-06-05
+15:55,23:00,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, PRG",8h 05m,"Vueling, easyJet",191 €,2024-06-01 23:00:46,2024-06-05
+15:55,22:35,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, HAM",7h 40m,"Vueling, easyJet",213 €,2024-06-01 23:00:46,2024-06-05
+15:55,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Vueling,278 €,2024-06-01 23:00:46,2024-06-05
+17:40,23:15,Bilbao,BIO,Londres-Gatwick,LGW,"PMI, MAH",6h 35m,"Air Europa, TUI Airways",245 €,2024-06-01 23:00:46,2024-06-05
+14:20,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 05m,Vueling,265 €,2024-06-01 23:00:46,2024-06-05
+15:10,19:40,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 30m,"Iberia, easyJet",264 €,2024-06-01 23:00:46,2024-06-05
+15:55,22:20,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, BSL",7h 25m,"Vueling, easyJet",247 €,2024-06-01 23:00:46,2024-06-05
+7:40,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Vueling,269 €,2024-06-01 23:00:46,2024-06-05
+19:05,23:15,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 10m,"Vueling, British Airways",286 €,2024-06-01 23:00:46,2024-06-05
+15:55,21:55,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 00m,"Vueling, easyJet",273 €,2024-06-01 23:00:46,2024-06-05
+15:10,21:00,Bilbao,BIO,Londres-Gatwick,LGW,CDG,6h 50m,"Iberia, easyJet",262 €,2024-06-01 23:00:46,2024-06-05
+19:05,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 35m,Vueling,356 €,2024-06-01 23:00:46,2024-06-05
+11:25,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,293 €,2024-06-01 23:00:46,2024-06-05
+17:30,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,356 €,2024-06-01 23:00:46,2024-06-05
+15:55,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Vueling,327 €,2024-06-01 23:00:46,2024-06-05
+17:30,21:55,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 25m,"Vueling, easyJet",391 €,2024-06-01 23:00:46,2024-06-05
+10:30,17:50,Bilbao,BIO,Londres-Gatwick,LGW,CDG,8h 20m,"Air France, easyJet",318 €,2024-06-01 23:00:46,2024-06-05
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Iberia,563 €,2024-06-01 23:00:46,2024-06-05
+17:15,21:10,Bilbao,BIO,Londres-Gatwick,LGW,AMS,4h 55m,"KLM, easyJet",550 €,2024-06-01 23:00:46,2024-06-05
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,563 €,2024-06-01 23:00:46,2024-06-05
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,660 €,2024-06-01 23:00:46,2024-06-05
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,British Airways,681 €,2024-06-01 23:00:46,2024-06-05
+7:40,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Iberia,632 €,2024-06-01 23:00:46,2024-06-05
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",689 €,2024-06-01 23:00:46,2024-06-05
+15:55,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Iberia,607 €,2024-06-01 23:00:46,2024-06-05
+14:20,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,Iberia,666 €,2024-06-01 23:00:46,2024-06-05
+7:40,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Iberia,632 €,2024-06-01 23:00:46,2024-06-05
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,671 €,2024-06-01 23:00:46,2024-06-05
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,681 €,2024-06-01 23:00:46,2024-06-05
+15:55,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Iberia,699 €,2024-06-01 23:00:46,2024-06-05
+14:20,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 05m,Iberia,666 €,2024-06-01 23:00:46,2024-06-05
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",689 €,2024-06-01 23:00:46,2024-06-05
+11:25,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,641 €,2024-06-01 23:00:46,2024-06-05
+9:15,16:00,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, PMI",7h 45m,"Iberia, British Airways",640 €,2024-06-01 23:00:46,2024-06-05
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",711 €,2024-06-01 23:00:46,2024-06-05
+19:05,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 35m,Iberia,749 €,2024-06-01 23:00:46,2024-06-05
+17:30,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Iberia,749 €,2024-06-01 23:00:46,2024-06-05
+10:30,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, ZRH",8h 20m,"Air France, SWISS",701 €,2024-06-01 23:00:46,2024-06-05
+13:40,20:20,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, OPO",7h 40m,"Iberia, TAP AIR PORTUGAL",1035 €,2024-06-01 23:00:46,2024-06-05
+13:40,20:15,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, IBZ",7h 35m,"Iberia, British Airways",1053 €,2024-06-01 23:00:46,2024-06-05
+9:15,15:35,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, LIS",7h 20m,"Iberia, TAP AIR PORTUGAL",1100 €,2024-06-01 23:00:46,2024-06-05
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,"Lufthansa, SWISS",1407 €,2024-06-01 23:00:46,2024-06-05
+21:35,22:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,12 €,2024-06-01 23:00:46,2024-06-06
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,22 €,2024-06-01 23:00:46,2024-06-06
+21:35,22:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,45 €,2024-06-01 23:00:46,2024-06-06
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,56 €,2024-06-01 23:00:46,2024-06-06
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,58 €,2024-06-01 23:00:46,2024-06-06
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,96 €,2024-06-01 23:00:46,2024-06-06
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,83 €,2024-06-01 23:00:46,2024-06-06
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,83 €,2024-06-01 23:00:46,2024-06-06
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,118 €,2024-06-01 23:00:46,2024-06-06
+8:55,13:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 25m,"Vueling, easyJet",93 €,2024-06-01 23:00:46,2024-06-06
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,143 €,2024-06-01 23:00:46,2024-06-06
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,149 €,2024-06-01 23:00:46,2024-06-06
+21:35,22:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,143 €,2024-06-01 23:00:46,2024-06-06
+7:40,13:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 40m,"Volotea, easyJet",91 €,2024-06-01 23:00:46,2024-06-06
+15:10,19:35,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 25m,"Vueling, easyJet",112 €,2024-06-01 23:00:46,2024-06-06
+7:40,12:55,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 15m,"Volotea, easyJet",100 €,2024-06-01 23:00:46,2024-06-06
+6:45,12:00,Bilbao,BIO,Londres-Gatwick,LGW,MAH,6h 15m,"Volotea, easyJet",102 €,2024-06-01 23:00:46,2024-06-06
+8:30,13:55,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 25m,"Vueling, Wizz Air UK",120 €,2024-06-01 23:00:46,2024-06-06
+15:10,22:20,Bilbao,BIO,Londres-Gatwick,LGW,CDG,8h 10m,"Vueling, easyJet",110 €,2024-06-01 23:00:46,2024-06-06
+8:30,12:50,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 20m,"Vueling, TUI Airways",156 €,2024-06-01 23:00:46,2024-06-06
+8:40,13:00,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 20m,"Vueling, easyJet",161 €,2024-06-01 23:00:46,2024-06-06
+7:40,12:35,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 55m,"Volotea, TUI Airways",159 €,2024-06-01 23:00:46,2024-06-06
+16:30,22:40,Bilbao,BIO,Londres-Gatwick,LGW,AGP,7h 10m,"Vueling, easyJet",141 €,2024-06-01 23:00:46,2024-06-06
+6:55,13:45,Bilbao,BIO,Londres-Gatwick,LGW,RAK,7h 50m,"Vueling, Wizz Air UK",130 €,2024-06-01 23:00:46,2024-06-06
+8:30,15:45,Bilbao,BIO,Londres-Gatwick,LGW,AGP,8h 15m,"Vueling, easyJet",124 €,2024-06-01 23:00:46,2024-06-06
+19:35,1:05,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,6h 30m,"Vueling, easyJet",166 €,2024-06-01 23:00:46,2024-06-06
+12:00,18:20,Bilbao,BIO,Londres-Gatwick,LGW,CPH,7h 20m,Norwegian,180 €,2024-06-01 23:00:46,2024-06-06
+6:55,14:30,Bilbao,BIO,Londres-Gatwick,LGW,RAK,8h 35m,"Vueling, easyJet",155 €,2024-06-01 23:00:46,2024-06-06
+20:20,0:45,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 25m,"Vueling, British Airways",180 €,2024-06-01 23:00:46,2024-06-06
+11:00,18:20,Bilbao,BIO,Londres-Gatwick,LGW,MAH,8h 20m,"Vueling, easyJet",161 €,2024-06-01 23:00:46,2024-06-06
+19:25,0:45,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 20m,"Volotea, British Airways",176 €,2024-06-01 23:00:46,2024-06-06
+7:05,13:55,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 50m,"Vueling, easyJet",190 €,2024-06-01 23:00:46,2024-06-06
+17:30,22:55,Bilbao,BIO,Londres-Gatwick,LGW,MXP,6h 25m,easyJet,234 €,2024-06-01 23:00:46,2024-06-06
+11:40,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 10m,Vueling,265 €,2024-06-01 23:00:46,2024-06-06
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,232 €,2024-06-01 23:00:46,2024-06-06
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,237 €,2024-06-01 23:00:46,2024-06-06
+8:55,14:10,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 15m,"Vueling, British Airways",253 €,2024-06-01 23:00:46,2024-06-06
+15:10,19:35,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 25m,"Iberia, easyJet",271 €,2024-06-01 23:00:46,2024-06-06
+8:30,14:10,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 40m,"Vueling, British Airways",252 €,2024-06-01 23:00:46,2024-06-06
+8:40,12:45,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 05m,"Vueling, British Airways",300 €,2024-06-01 23:00:46,2024-06-06
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",288 €,2024-06-01 23:00:46,2024-06-06
+15:10,22:20,Bilbao,BIO,Londres-Gatwick,LGW,CDG,8h 10m,"Iberia, easyJet",269 €,2024-06-01 23:00:46,2024-06-06
+13:15,20:05,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 50m,Vueling,308 €,2024-06-01 23:00:46,2024-06-06
+11:40,18:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 25m,"Vueling, easyJet",323 €,2024-06-01 23:00:46,2024-06-06
+14:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Vueling,328 €,2024-06-01 23:00:46,2024-06-06
+15:50,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Vueling,407 €,2024-06-01 23:00:46,2024-06-06
+20:20,0:45,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 25m,"Iberia, British Airways",395 €,2024-06-01 23:00:46,2024-06-06
+14:15,18:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 50m,"Vueling, easyJet",439 €,2024-06-01 23:00:46,2024-06-06
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",477 €,2024-06-01 23:00:46,2024-06-06
+14:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Vueling,493 €,2024-06-01 23:00:46,2024-06-06
+15:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Vueling,574 €,2024-06-01 23:00:46,2024-06-06
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,660 €,2024-06-01 23:00:46,2024-06-06
+13:40,20:30,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, SVQ",7h 50m,"Iberia, British Airways",575 €,2024-06-01 23:00:46,2024-06-06
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,635 €,2024-06-01 23:00:46,2024-06-06
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,British Airways,681 €,2024-06-01 23:00:46,2024-06-06
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",689 €,2024-06-01 23:00:46,2024-06-06
+11:40,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 10m,Iberia,661 €,2024-06-01 23:00:46,2024-06-06
+14:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Iberia,679 €,2024-06-01 23:00:46,2024-06-06
+10:30,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, ZRH",8h 25m,"Air France, SWISS",698 €,2024-06-01 23:00:46,2024-06-06
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,SWISS,840 €,2024-06-01 23:00:46,2024-06-06
+15:50,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Iberia,958 €,2024-06-01 23:00:46,2024-06-06
+13:40,20:20,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, OPO",7h 40m,"Iberia, TAP AIR PORTUGAL",1074 €,2024-06-01 23:00:46,2024-06-06
+14:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Iberia,1131 €,2024-06-01 23:00:46,2024-06-06
+7:05,14:00,Bilbao,BIO,Londres-Gatwick,LGW,"SVQ, LIS",7h 55m,"Iberia, TAP AIR PORTUGAL",1161 €,2024-06-01 23:00:46,2024-06-06
+15:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Iberia,1369 €,2024-06-01 23:00:46,2024-06-06
+9:15,15:50,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, BCN",7h 35m,Iberia,1348 €,2024-06-01 23:00:46,2024-06-06
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,"Lufthansa, SWISS",1486 €,2024-06-01 23:00:46,2024-06-06
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,101 €,2024-06-01 23:00:46,2024-06-07
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,100 €,2024-06-01 23:00:46,2024-06-07
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,120 €,2024-06-01 23:00:46,2024-06-07
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,144 €,2024-06-01 23:00:46,2024-06-07
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,168 €,2024-06-01 23:00:46,2024-06-07
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,145 €,2024-06-01 23:00:46,2024-06-07
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,173 €,2024-06-01 23:00:46,2024-06-07
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,208 €,2024-06-01 23:00:46,2024-06-07
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,232 €,2024-06-01 23:00:46,2024-06-07
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,255 €,2024-06-01 23:00:46,2024-06-07
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,255 €,2024-06-01 23:00:46,2024-06-07
+8:55,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 40m,Vueling,201 €,2024-06-01 23:00:46,2024-06-07
+17:35,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 25m,Vueling,290 €,2024-06-01 23:00:46,2024-06-07
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,276 €,2024-06-01 23:00:46,2024-06-07
+17:30,22:10,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 40m,"Vueling, Wizz Air UK",180 €,2024-06-01 23:00:46,2024-06-07
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,187 €,2024-06-01 23:00:46,2024-06-07
+6:45,11:40,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 55m,"Volotea, easyJet",174 €,2024-06-01 23:00:46,2024-06-07
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Vueling,202 €,2024-06-01 23:00:46,2024-06-07
+14:55,19:40,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 45m,"Volotea, Vueling",216 €,2024-06-01 23:00:46,2024-06-07
+7:10,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,Vueling,209 €,2024-06-01 23:00:46,2024-06-07
+16:30,22:35,Bilbao,BIO,Londres-Gatwick,LGW,HAM,7h 05m,"Vueling, easyJet",128 €,2024-06-01 23:00:46,2024-06-07
+19:35,0:55,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,6h 20m,"Vueling, easyJet",202 €,2024-06-01 23:00:46,2024-06-07
+10:35,16:55,Bilbao,BIO,Londres-Gatwick,LGW,ORY-CDG,7h 20m,"Volotea, easyJet",134 €,2024-06-01 23:00:46,2024-06-07
+17:30,22:40,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 10m,"Vueling, British Airways",191 €,2024-06-01 23:00:46,2024-06-07
+7:10,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,"Vueling, easyJet",202 €,2024-06-01 23:00:46,2024-06-07
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,British Airways,371 €,2024-06-01 23:00:46,2024-06-07
+19:15,1:50,Bilbao,BIO,Londres-Gatwick,LGW,AGP,7h 35m,"Volotea, easyJet",135 €,2024-06-01 23:00:46,2024-06-07
+13:10,18:25,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 15m,"Vueling, easyJet",240 €,2024-06-01 23:00:46,2024-06-07
+19:00,23:30,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 30m,"Vueling, British Airways",285 €,2024-06-01 23:00:46,2024-06-07
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Vueling,194 €,2024-06-01 23:00:46,2024-06-07
+10:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,ORY-CDG,8h 15m,"Volotea, easyJet",136 €,2024-06-01 23:00:46,2024-06-07
+17:35,23:10,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 35m,Vueling,280 €,2024-06-01 23:00:46,2024-06-07
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",419 €,2024-06-01 23:00:46,2024-06-07
+19:35,2:20,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,7h 45m,"Vueling, easyJet",196 €,2024-06-01 23:00:46,2024-06-07
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,218 €,2024-06-01 23:00:46,2024-06-07
+15:45,22:20,Bilbao,BIO,Londres-Gatwick,LGW,VLC,7h 35m,"Volotea, easyJet",219 €,2024-06-01 23:00:46,2024-06-07
+13:10,19:40,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 30m,Vueling,244 €,2024-06-01 23:00:46,2024-06-07
+6:45,14:20,Bilbao,BIO,Londres-Gatwick,LGW,ALC,8h 35m,"Volotea, easyJet",172 €,2024-06-01 23:00:46,2024-06-07
+18:15,23:50,Bilbao,BIO,Londres-Gatwick,LGW,"LYS, MRS",6h 35m,Varias aerolíneas,284 €,2024-06-01 23:00:46,2024-06-07
+13:25,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,231 €,2024-06-01 23:00:46,2024-06-07
+7:10,13:05,Bilbao,BIO,Londres-Gatwick,LGW,CDG,6h 55m,"Air France, easyJet",308 €,2024-06-01 23:00:46,2024-06-07
+13:25,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 00m,Vueling,308 €,2024-06-01 23:00:46,2024-06-07
+10:30,16:55,Bilbao,BIO,Londres-Gatwick,LGW,CDG,7h 25m,"Air France, easyJet",308 €,2024-06-01 23:00:46,2024-06-07
+8:55,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 40m,Iberia,557 €,2024-06-01 23:00:46,2024-06-07
+17:35,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 25m,Iberia,602 €,2024-06-01 23:00:46,2024-06-07
+17:15,21:50,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 35m,"KLM, British Airways",487 €,2024-06-01 23:00:46,2024-06-07
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Iberia,509 €,2024-06-01 23:00:46,2024-06-07
+10:30,17:50,Bilbao,BIO,Londres-Gatwick,LGW,CDG,8h 20m,"Air France, easyJet",310 €,2024-06-01 23:00:46,2024-06-07
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,544 €,2024-06-01 23:00:46,2024-06-07
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Vueling,682 €,2024-06-01 23:00:46,2024-06-07
+7:10,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,Iberia,523 €,2024-06-01 23:00:46,2024-06-07
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Iberia,509 €,2024-06-01 23:00:46,2024-06-07
+9:15,16:15,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, AGP",8h 00m,"Iberia, British Airways",453 €,2024-06-01 23:00:46,2024-06-07
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,556 €,2024-06-01 23:00:46,2024-06-07
+17:35,23:10,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 35m,Iberia,602 €,2024-06-01 23:00:46,2024-06-07
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,551 €,2024-06-01 23:00:46,2024-06-07
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",566 €,2024-06-01 23:00:46,2024-06-07
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,597 €,2024-06-01 23:00:46,2024-06-07
+13:25,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,602 €,2024-06-01 23:00:46,2024-06-07
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,727 €,2024-06-01 23:00:46,2024-06-07
+6:50,14:10,Bilbao,BIO,Londres-Gatwick,LGW,AMS,8h 20m,"KLM, British Airways",616 €,2024-06-01 23:00:46,2024-06-07
+13:25,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 00m,Iberia,710 €,2024-06-01 23:00:46,2024-06-07
+17:35,23:50,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, PMI",7h 15m,"Iberia, British Airways",827 €,2024-06-01 23:00:46,2024-06-07
+7:10,14:00,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, NCE",7h 50m,"Air France, British Airways",1112 €,2024-06-01 23:00:46,2024-06-07
+7:10,14:10,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, AMS",8h 00m,"KLM, British Airways",1497 €,2024-06-01 23:00:46,2024-06-07
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,22 €,2024-06-01 23:00:46,2024-06-08
+13:40,14:30,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,46 €,2024-06-01 23:00:46,2024-06-08
+14:25,15:15,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,52 €,2024-06-01 23:00:46,2024-06-08
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,58 €,2024-06-01 23:00:46,2024-06-08
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,86 €,2024-06-01 23:00:46,2024-06-08
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,122 €,2024-06-01 23:00:46,2024-06-08
+14:25,15:15,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,122 €,2024-06-01 23:00:46,2024-06-08
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,148 €,2024-06-01 23:00:46,2024-06-08
+13:40,14:30,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,183 €,2024-06-01 23:00:46,2024-06-08
+10:30,15:00,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 30m,"Vueling, easyJet",120 €,2024-06-01 23:00:46,2024-06-08
+14:25,15:15,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,194 €,2024-06-01 23:00:46,2024-06-08
+6:45,11:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 35m,"Volotea, easyJet",119 €,2024-06-01 23:00:46,2024-06-08
+15:30,19:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 50m,Vueling,154 €,2024-06-01 23:00:46,2024-06-08
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,209 €,2024-06-01 23:00:46,2024-06-08
+6:45,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,Vueling,124 €,2024-06-01 23:00:46,2024-06-08
+16:55,20:40,Bilbao,BIO,Londres-Gatwick,LGW,DUB,4h 45m,"Aer Lingus, Ryanair",138 €,2024-06-01 23:00:46,2024-06-08
+8:55,13:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,Vueling,159 €,2024-06-01 23:00:46,2024-06-08
+18:40,0:50,Bilbao,BIO,Londres-Gatwick,LGW,AGP,7h 10m,"Vueling, easyJet",127 €,2024-06-01 23:00:46,2024-06-08
+15:30,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,162 €,2024-06-01 23:00:46,2024-06-08
+6:45,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,"Vueling, easyJet",150 €,2024-06-01 23:00:46,2024-06-08
+6:45,13:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Vueling,137 €,2024-06-01 23:00:46,2024-06-08
+8:55,14:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,Vueling,181 €,2024-06-01 23:00:46,2024-06-08
+11:15,15:40,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 25m,"Volotea, easyJet",194 €,2024-06-01 23:00:46,2024-06-08
+8:15,14:45,Bilbao,BIO,Londres-Gatwick,LGW,NAP,7h 30m,"Volotea, easyJet",151 €,2024-06-01 23:00:46,2024-06-08
+8:15,12:55,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 40m,"Vueling, easyJet",197 €,2024-06-01 23:00:46,2024-06-08
+15:30,21:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 55m,"Vueling, easyJet",184 €,2024-06-01 23:00:46,2024-06-08
+6:45,14:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,159 €,2024-06-01 23:00:46,2024-06-08
+8:55,13:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 25m,"Vueling, easyJet",220 €,2024-06-01 23:00:46,2024-06-08
+6:50,12:15,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 25m,"Vueling, easyJet",202 €,2024-06-01 23:00:46,2024-06-08
+9:00,15:40,Bilbao,BIO,Londres-Gatwick,LGW,AGP,7h 40m,"Vueling, easyJet",177 €,2024-06-01 23:00:46,2024-06-08
+8:15,12:30,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 15m,"Vueling, British Airways",205 €,2024-06-01 23:00:46,2024-06-08
+6:45,13:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,7h 35m,"Volotea, easyJet",190 €,2024-06-01 23:00:46,2024-06-08
+16:45,22:20,Bilbao,BIO,Londres-Gatwick,LGW,VLC,6h 35m,"Vueling, easyJet",214 €,2024-06-01 23:00:46,2024-06-08
+7:05,12:45,Bilbao,BIO,Londres-Gatwick,LGW,MAH,6h 40m,"Vueling, TUI Airways",212 €,2024-06-01 23:00:46,2024-06-08
+8:30,15:25,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, ALC",7h 55m,"Air Europa, easyJet",192 €,2024-06-01 23:00:46,2024-06-08
+6:45,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,"Vueling, British Airways",244 €,2024-06-01 23:00:46,2024-06-08
+19:20,2:15,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, IBZ",7h 55m,"Vueling, easyJet",236 €,2024-06-01 23:00:46,2024-06-08
+8:55,13:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,"Vueling, British Airways",272 €,2024-06-01 23:00:46,2024-06-08
+18:40,23:30,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 50m,"Vueling, British Airways",267 €,2024-06-01 23:00:46,2024-06-08
+15:30,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,"Vueling, British Airways",279 €,2024-06-01 23:00:46,2024-06-08
+10:30,15:00,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 30m,"Iberia, easyJet",281 €,2024-06-01 23:00:46,2024-06-08
+6:45,13:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,"Vueling, British Airways",244 €,2024-06-01 23:00:46,2024-06-08
+6:45,14:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,"Vueling, British Airways",277 €,2024-06-01 23:00:46,2024-06-08
+18:45,23:15,Bilbao,BIO,Londres-Gatwick,LGW,LIS,5h 30m,"TAP AIR PORTUGAL, easyJet",389 €,2024-06-01 23:00:46,2024-06-08
+6:45,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,Iberia,388 €,2024-06-01 23:00:46,2024-06-08
+15:30,19:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 50m,Iberia,451 €,2024-06-01 23:00:46,2024-06-08
+15:30,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,451 €,2024-06-01 23:00:46,2024-06-08
+7:10,14:10,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, NCE",8h 00m,"Air France, British Airways",387 €,2024-06-01 23:00:46,2024-06-08
+8:55,13:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,Iberia,459 €,2024-06-01 23:00:46,2024-06-08
+8:15,12:30,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 15m,"Iberia, British Airways",468 €,2024-06-01 23:00:46,2024-06-08
+6:45,13:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Iberia,434 €,2024-06-01 23:00:46,2024-06-08
+8:55,14:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,Iberia,472 €,2024-06-01 23:00:46,2024-06-08
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,457 €,2024-06-01 23:00:46,2024-06-08
+6:45,14:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,448 €,2024-06-01 23:00:46,2024-06-08
+13:40,20:35,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, IBZ",7h 55m,"Iberia, British Airways",515 €,2024-06-01 23:00:46,2024-06-08
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,566 €,2024-06-01 23:00:46,2024-06-08
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,590 €,2024-06-01 23:00:46,2024-06-08
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",566 €,2024-06-01 23:00:46,2024-06-08
+18:40,23:30,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 50m,"Iberia, British Airways",592 €,2024-06-01 23:00:46,2024-06-08
+10:30,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, ZRH",8h 25m,"Air France, SWISS",753 €,2024-06-01 23:00:46,2024-06-08
+9:15,15:20,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, IBZ",7h 05m,"Iberia, British Airways",1045 €,2024-06-01 23:00:46,2024-06-08
+9:15,15:35,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, LIS",7h 20m,"Iberia, TAP AIR PORTUGAL",1061 €,2024-06-01 23:00:46,2024-06-08
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,63 €,2024-06-01 23:00:46,2024-06-09
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,136 €,2024-06-01 23:00:46,2024-06-09
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,118 €,2024-06-01 23:00:46,2024-06-09
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,188 €,2024-06-01 23:00:46,2024-06-09
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,189 €,2024-06-01 23:00:46,2024-06-09
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,206 €,2024-06-01 23:00:46,2024-06-09
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,271 €,2024-06-01 23:00:46,2024-06-09
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,281 €,2024-06-01 23:00:46,2024-06-09
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,347 €,2024-06-01 23:00:46,2024-06-09
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Vueling,193 €,2024-06-01 23:00:46,2024-06-09
+10:55,15:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Vueling,229 €,2024-06-01 23:00:46,2024-06-09
+19:00,0:50,Bilbao,BIO,Londres-Gatwick,LGW,MAH,6h 50m,"Vueling, TUI Airways",144 €,2024-06-01 23:00:46,2024-06-09
+7:15,12:30,Bilbao,BIO,Londres-Gatwick,LGW,CDG-ORY,6h 15m,Vueling,197 €,2024-06-01 23:00:46,2024-06-09
+6:45,11:35,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 50m,"Volotea, easyJet",226 €,2024-06-01 23:00:46,2024-06-09
+6:45,12:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 35m,"Volotea, easyJet",182 €,2024-06-01 23:00:46,2024-06-09
+15:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,262 €,2024-06-01 23:00:46,2024-06-09
+18:45,23:45,Bilbao,BIO,Londres-Gatwick,LGW,VLC,6h 00m,"Volotea, easyJet",256 €,2024-06-01 23:00:46,2024-06-09
+12:05,17:55,Bilbao,BIO,Londres-Gatwick,LGW,CDG,6h 50m,"Vueling, easyJet",201 €,2024-06-01 23:00:46,2024-06-09
+7:10,12:55,Bilbao,BIO,Londres-Gatwick,LGW,CPH,6h 45m,"Vueling, Norwegian",209 €,2024-06-01 23:00:46,2024-06-09
+6:45,12:35,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 50m,"Vueling, easyJet",210 €,2024-06-01 23:00:46,2024-06-09
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Vueling,249 €,2024-06-01 23:00:46,2024-06-09
+8:55,15:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 30m,Vueling,218 €,2024-06-01 23:00:46,2024-06-09
+7:40,13:20,Bilbao,BIO,Londres-Gatwick,LGW,AMS,6h 40m,"Vueling, easyJet",261 €,2024-06-01 23:00:46,2024-06-09
+12:05,18:45,Bilbao,BIO,Londres-Gatwick,LGW,CDG,7h 40m,"Vueling, easyJet",209 €,2024-06-01 23:00:46,2024-06-09
+11:30,18:25,Bilbao,BIO,Londres-Gatwick,LGW,MAH,7h 55m,"Volotea, easyJet",200 €,2024-06-01 23:00:46,2024-06-09
+15:15,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 25m,Vueling,222 €,2024-06-01 23:00:46,2024-06-09
+10:55,17:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Vueling,284 €,2024-06-01 23:00:46,2024-06-09
+6:45,13:35,Bilbao,BIO,Londres-Gatwick,LGW,PMI,7h 50m,"Volotea, easyJet",246 €,2024-06-01 23:00:46,2024-06-09
+12:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,CDG-ORY,7h 50m,Vueling,264 €,2024-06-01 23:00:46,2024-06-09
+12:15,19:45,Bilbao,BIO,Londres-Gatwick,LGW,MXP,8h 30m,"Vueling, Wizz Air Malta",235 €,2024-06-01 23:00:46,2024-06-09
+13:20,19:55,Bilbao,BIO,Londres-Gatwick,LGW,CPH,7h 35m,Norwegian,333 €,2024-06-01 23:00:46,2024-06-09
+10:55,18:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 10m,"Vueling, easyJet",268 €,2024-06-01 23:00:46,2024-06-09
+12:15,19:35,Bilbao,BIO,Londres-Gatwick,LGW,MXP,8h 20m,"Vueling, easyJet",275 €,2024-06-01 23:00:46,2024-06-09
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Iberia,513 €,2024-06-01 23:00:46,2024-06-09
+10:55,18:25,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, MAH",8h 30m,"Vueling, easyJet",279 €,2024-06-01 23:00:46,2024-06-09
+12:20,19:40,Bilbao,BIO,Londres-Gatwick,LGW,SCQ,8h 20m,Vueling,327 €,2024-06-01 23:00:46,2024-06-09
+10:55,15:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Iberia,570 €,2024-06-01 23:00:46,2024-06-09
+15:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Iberia,611 €,2024-06-01 23:00:46,2024-06-09
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,551 €,2024-06-01 23:00:46,2024-06-09
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,551 €,2024-06-01 23:00:46,2024-06-09
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,SWISS,555 €,2024-06-01 23:00:46,2024-06-09
+8:55,15:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 30m,Iberia,551 €,2024-06-01 23:00:46,2024-06-09
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",566 €,2024-06-01 23:00:46,2024-06-09
+10:30,17:55,Bilbao,BIO,Londres-Gatwick,LGW,CDG,8h 25m,"Air France, easyJet",463 €,2024-06-01 23:00:46,2024-06-09
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Iberia,611 €,2024-06-01 23:00:46,2024-06-09
+10:55,17:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Iberia,660 €,2024-06-01 23:00:46,2024-06-09
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,845 €,2024-06-01 23:00:46,2024-06-09
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,92 €,2024-06-01 23:00:46,2024-06-10
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,110 €,2024-06-01 23:00:46,2024-06-10
+21:05,21:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,71 €,2024-06-01 23:00:46,2024-06-10
+21:05,21:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,85 €,2024-06-01 23:00:46,2024-06-10
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,145 €,2024-06-01 23:00:46,2024-06-10
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,173 €,2024-06-01 23:00:46,2024-06-10
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,173 €,2024-06-01 23:00:46,2024-06-10
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,232 €,2024-06-01 23:00:46,2024-06-10
+21:05,21:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,202 €,2024-06-01 23:00:46,2024-06-10
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,255 €,2024-06-01 23:00:46,2024-06-10
+15:50,19:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Vueling,166 €,2024-06-01 23:00:46,2024-06-10
+17:40,21:50,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 10m,"Air Europa, easyJet",179 €,2024-06-01 23:00:46,2024-06-10
+20:55,1:15,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 20m,"Volotea, easyJet",188 €,2024-06-01 23:00:46,2024-06-10
+15:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Vueling,209 €,2024-06-01 23:00:46,2024-06-10
+12:40,17:50,Bilbao,BIO,Londres-Gatwick,LGW,ORY-CDG,6h 10m,"Volotea, easyJet",127 €,2024-06-01 23:00:46,2024-06-10
+17:40,22:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,"Vueling, easyJet",182 €,2024-06-01 23:00:46,2024-06-10
+12:40,18:35,Bilbao,BIO,Londres-Gatwick,LGW,ORY,6h 55m,"Volotea, Vueling",110 €,2024-06-01 23:00:46,2024-06-10
+8:55,12:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 25m,Vueling,357 €,2024-06-01 23:00:46,2024-06-10
+11:00,17:05,Bilbao,BIO,Londres-Gatwick,LGW,CDG,7h 05m,"Vueling, easyJet",116 €,2024-06-01 23:00:46,2024-06-10
+13:50,19:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 45m,Vueling,187 €,2024-06-01 23:00:46,2024-06-10
+17:40,23:25,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 45m,"Air Europa, easyJet",169 €,2024-06-01 23:00:46,2024-06-10
+15:15,20:30,Bilbao,BIO,Londres-Gatwick,LGW,MXP,6h 15m,easyJet,210 €,2024-06-01 23:00:46,2024-06-10
+11:00,17:50,Bilbao,BIO,Londres-Gatwick,LGW,CDG,7h 50m,"Vueling, easyJet",119 €,2024-06-01 23:00:46,2024-06-10
+13:55,18:55,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 00m,Vueling,273 €,2024-06-01 23:00:46,2024-06-10
+15:50,22:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,"Vueling, easyJet",175 €,2024-06-01 23:00:46,2024-06-10
+8:15,14:05,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 50m,"Volotea, Wizz Air UK",208 €,2024-06-01 23:00:46,2024-06-10
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Vueling,328 €,2024-06-01 23:00:46,2024-06-10
+15:50,22:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,"Vueling, easyJet",170 €,2024-06-01 23:00:46,2024-06-10
+13:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 35m,Vueling,229 €,2024-06-01 23:00:46,2024-06-10
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,232 €,2024-06-01 23:00:46,2024-06-10
+12:40,18:35,Bilbao,BIO,Londres-Gatwick,LGW,ORY,6h 55m,"Volotea, British Airways",218 €,2024-06-01 23:00:46,2024-06-10
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,237 €,2024-06-01 23:00:46,2024-06-10
+11:00,18:35,Bilbao,BIO,Londres-Gatwick,LGW,CDG-ORY,8h 35m,Vueling,116 €,2024-06-01 23:00:46,2024-06-10
+7:10,12:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,347 €,2024-06-01 23:00:46,2024-06-10
+15:50,19:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Iberia,461 €,2024-06-01 23:00:46,2024-06-10
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,387 €,2024-06-01 23:00:46,2024-06-10
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",288 €,2024-06-01 23:00:46,2024-06-10
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,British Airways,566 €,2024-06-01 23:00:46,2024-06-10
+8:55,15:10,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 15m,Vueling,337 €,2024-06-01 23:00:46,2024-06-10
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,551 €,2024-06-01 23:00:46,2024-06-10
+15:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Iberia,533 €,2024-06-01 23:00:46,2024-06-10
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Vueling,387 €,2024-06-01 23:00:46,2024-06-10
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",689 €,2024-06-01 23:00:46,2024-06-10
+13:50,19:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 45m,Iberia,494 €,2024-06-01 23:00:46,2024-06-10
+11:00,16:05,Bilbao,BIO,Londres-Gatwick,LGW,MAH,6h 05m,"Iberia, British Airways",542 €,2024-06-01 23:00:46,2024-06-10
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,522 €,2024-06-01 23:00:46,2024-06-10
+13:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 35m,Iberia,565 €,2024-06-01 23:00:46,2024-06-10
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",695 €,2024-06-01 23:00:46,2024-06-10
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,749 €,2024-06-01 23:00:46,2024-06-10
+9:15,16:00,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, AGP",7h 45m,"Iberia, British Airways",571 €,2024-06-01 23:00:46,2024-06-10
+8:55,15:10,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 15m,Iberia,679 €,2024-06-01 23:00:46,2024-06-10
+13:50,21:10,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, PMI",8h 20m,"Iberia, British Airways",717 €,2024-06-01 23:00:46,2024-06-10
+10:30,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, ZRH",8h 25m,"Air France, SWISS",721 €,2024-06-01 23:00:46,2024-06-10
+13:50,21:10,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, PMI",8h 20m,"Iberia, British Airways",737 €,2024-06-01 23:00:46,2024-06-10
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,SWISS,994 €,2024-06-01 23:00:46,2024-06-10
+13:50,20:50,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, IBZ",8h 00m,"Iberia, British Airways",1040 €,2024-06-01 23:00:46,2024-06-10
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,"Lufthansa, SWISS",1509 €,2024-06-01 23:00:46,2024-06-10
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,27 €,2024-06-01 23:00:46,2024-06-11
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,58 €,2024-06-01 23:00:46,2024-06-11
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,83 €,2024-06-01 23:00:46,2024-06-11
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,83 €,2024-06-01 23:00:46,2024-06-11
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,118 €,2024-06-01 23:00:46,2024-06-11
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,149 €,2024-06-01 23:00:46,2024-06-11
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,154 €,2024-06-01 23:00:46,2024-06-11
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,189 €,2024-06-01 23:00:46,2024-06-11
+16:05,19:45,Bilbao,BIO,Londres-Gatwick,LGW,GVA,4h 40m,easyJet,110 €,2024-06-01 23:00:46,2024-06-11
+8:55,12:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 55m,Vueling,122 €,2024-06-01 23:00:46,2024-06-11
+18:20,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Vueling,131 €,2024-06-01 23:00:46,2024-06-11
+7:40,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Vueling,138 €,2024-06-01 23:00:46,2024-06-11
+7:05,11:25,Bilbao,BIO,Londres-Gatwick,LGW,MXP,5h 20m,"Vueling, easyJet",136 €,2024-06-01 23:00:46,2024-06-11
+16:05,21:35,Bilbao,BIO,Londres-Gatwick,LGW,GVA,6h 30m,easyJet,109 €,2024-06-01 23:00:46,2024-06-11
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,143 €,2024-06-01 23:00:46,2024-06-11
+13:20,19:25,Bilbao,BIO,Londres-Gatwick,LGW,CDG,7h 05m,"Vueling, easyJet",97 €,2024-06-01 23:00:46,2024-06-11
+7:00,11:50,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 50m,"Vueling, easyJet",137 €,2024-06-01 23:00:46,2024-06-11
+15:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,144 €,2024-06-01 23:00:46,2024-06-11
+7:40,12:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,144 €,2024-06-01 23:00:46,2024-06-11
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Vueling,126 €,2024-06-01 23:00:46,2024-06-11
+19:35,1:05,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,6h 30m,"Vueling, easyJet",128 €,2024-06-01 23:00:46,2024-06-11
+7:40,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 00m,"Vueling, easyJet",146 €,2024-06-01 23:00:46,2024-06-11
+14:50,20:30,Bilbao,BIO,Londres-Gatwick,LGW,"BRS, AMS",6h 40m,easyJet,140 €,2024-06-01 23:00:46,2024-06-11
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,122 €,2024-06-01 23:00:46,2024-06-11
+8:30,13:55,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 25m,"Vueling, Wizz Air UK",155 €,2024-06-01 23:00:46,2024-06-11
+7:40,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Vueling,149 €,2024-06-01 23:00:46,2024-06-11
+14:35,22:10,Bilbao,BIO,Londres-Gatwick,LGW,FAO,8h 35m,"Volotea, Wizz Air UK",94 €,2024-06-01 23:00:46,2024-06-11
+14:50,21:10,Bilbao,BIO,Londres-Gatwick,LGW,"BRS, AMS",7h 20m,easyJet,135 €,2024-06-01 23:00:46,2024-06-11
+19:25,23:50,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 25m,"Vueling, British Airways",173 €,2024-06-01 23:00:46,2024-06-11
+8:40,14:35,Bilbao,BIO,Londres-Gatwick,LGW,ALC,6h 55m,"Vueling, Ryanair",158 €,2024-06-01 23:00:46,2024-06-11
+14:00,19:55,Bilbao,BIO,Londres-Gatwick,LGW,SCQ,6h 55m,"Iberia, Vueling",149 €,2024-06-01 23:00:46,2024-06-11
+15:15,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,153 €,2024-06-01 23:00:46,2024-06-11
+19:00,22:35,Bilbao,BIO,Londres-Gatwick,LGW,OPO,4h 35m,"Vueling, British Airways",341 €,2024-06-01 23:00:46,2024-06-11
+11:05,16:25,Bilbao,BIO,Londres-Gatwick,LGW,MAD,6h 20m,"Iberia, Air Europa",309 €,2024-06-01 23:00:46,2024-06-11
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,411 €,2024-06-01 23:00:46,2024-06-11
+18:20,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Iberia,397 €,2024-06-01 23:00:46,2024-06-11
+7:40,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Iberia,414 €,2024-06-01 23:00:46,2024-06-11
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,British Airways,450 €,2024-06-01 23:00:46,2024-06-11
+8:55,12:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 55m,Iberia,434 €,2024-06-01 23:00:46,2024-06-11
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,367 €,2024-06-01 23:00:46,2024-06-11
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,365 €,2024-06-01 23:00:46,2024-06-11
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Iberia,401 €,2024-06-01 23:00:46,2024-06-11
+15:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Iberia,425 €,2024-06-01 23:00:46,2024-06-11
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,434 €,2024-06-01 23:00:46,2024-06-11
+7:40,12:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Iberia,434 €,2024-06-01 23:00:46,2024-06-11
+17:35,23:50,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, SVQ",7h 15m,"Iberia, British Airways",400 €,2024-06-01 23:00:46,2024-06-11
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",419 €,2024-06-01 23:00:46,2024-06-11
+7:40,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Iberia,434 €,2024-06-01 23:00:46,2024-06-11
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,434 €,2024-06-01 23:00:46,2024-06-11
+19:25,23:50,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 25m,"Iberia, British Airways",503 €,2024-06-01 23:00:46,2024-06-11
+15:15,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,437 €,2024-06-01 23:00:46,2024-06-11
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",550 €,2024-06-01 23:00:46,2024-06-11
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",542 €,2024-06-01 23:00:46,2024-06-11
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Vueling,665 €,2024-06-01 23:00:46,2024-06-11
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,581 €,2024-06-01 23:00:46,2024-06-11
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,SWISS,555 €,2024-06-01 23:00:46,2024-06-11
+10:30,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, ZRH",8h 20m,"Air France, SWISS",533 €,2024-06-01 23:00:46,2024-06-11
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,41 €,2024-06-01 23:00:46,2024-06-12
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,84 €,2024-06-01 23:00:46,2024-06-12
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,120 €,2024-06-01 23:00:46,2024-06-12
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,157 €,2024-06-01 23:00:46,2024-06-12
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Vueling,72 €,2024-06-01 23:00:46,2024-06-12
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,180 €,2024-06-01 23:00:46,2024-06-12
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,66 €,2024-06-01 23:00:46,2024-06-12
+11:25,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 25m,Vueling,89 €,2024-06-01 23:00:46,2024-06-12
+15:10,19:40,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 30m,"Vueling, easyJet",78 €,2024-06-01 23:00:46,2024-06-12
+14:20,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,Vueling,102 €,2024-06-01 23:00:46,2024-06-12
+15:55,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Vueling,127 €,2024-06-01 23:00:46,2024-06-12
+7:40,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 00m,Vueling,108 €,2024-06-01 23:00:46,2024-06-12
+17:30,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,110 €,2024-06-01 23:00:46,2024-06-12
+8:50,13:55,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 05m,"Vueling, Wizz Air UK",101 €,2024-06-01 23:00:46,2024-06-12
+15:10,21:00,Bilbao,BIO,Londres-Gatwick,LGW,CDG,6h 50m,"Vueling, easyJet",79 €,2024-06-01 23:00:46,2024-06-12
+16:55,21:35,Bilbao,BIO,Londres-Gatwick,LGW,DUB,5h 40m,"Aer Lingus, Ryanair",102 €,2024-06-01 23:00:46,2024-06-12
+7:35,11:55,Bilbao,BIO,Londres-Gatwick,LGW,MAH,5h 20m,"Vueling, easyJet",142 €,2024-06-01 23:00:46,2024-06-12
+17:30,21:55,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 25m,"Vueling, easyJet",145 €,2024-06-01 23:00:46,2024-06-12
+7:40,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Vueling,156 €,2024-06-01 23:00:46,2024-06-12
+7:40,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Vueling,101 €,2024-06-01 23:00:46,2024-06-12
+17:40,23:25,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 45m,"Air Europa, easyJet",109 €,2024-06-01 23:00:46,2024-06-12
+7:00,12:25,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 25m,Vueling,127 €,2024-06-01 23:00:46,2024-06-12
+19:40,2:20,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,7h 40m,"Vueling, easyJet",86 €,2024-06-01 23:00:46,2024-06-12
+14:20,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 05m,Vueling,123 €,2024-06-01 23:00:46,2024-06-12
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,94 €,2024-06-01 23:00:46,2024-06-12
+14:35,19:15,Bilbao,BIO,Londres-Gatwick,LGW,FLR,5h 40m,Vueling,164 €,2024-06-01 23:00:46,2024-06-12
+15:55,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Vueling,105 €,2024-06-01 23:00:46,2024-06-12
+11:25,18:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 35m,"Vueling, easyJet",102 €,2024-06-01 23:00:46,2024-06-12
+6:45,10:30,Bilbao,BIO,Londres-Gatwick,LGW,FRA,4h 45m,Lufthansa,203 €,2024-06-01 23:00:46,2024-06-12
+15:55,21:55,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 00m,"Vueling, easyJet",133 €,2024-06-01 23:00:46,2024-06-12
+11:25,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,94 €,2024-06-01 23:00:46,2024-06-12
+17:40,23:15,Bilbao,BIO,Londres-Gatwick,LGW,"PMI, IBZ",6h 35m,Varias aerolíneas,148 €,2024-06-01 23:00:46,2024-06-12
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Iberia,300 €,2024-06-01 23:00:46,2024-06-12
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,290 €,2024-06-01 23:00:46,2024-06-12
+11:25,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 25m,Iberia,331 €,2024-06-01 23:00:46,2024-06-12
+7:40,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 00m,Iberia,353 €,2024-06-01 23:00:46,2024-06-12
+14:20,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,Iberia,368 €,2024-06-01 23:00:46,2024-06-12
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,420 €,2024-06-01 23:00:46,2024-06-12
+17:30,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Iberia,364 €,2024-06-01 23:00:46,2024-06-12
+15:55,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Iberia,392 €,2024-06-01 23:00:46,2024-06-12
+7:40,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Iberia,342 €,2024-06-01 23:00:46,2024-06-12
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,SWISS,343 €,2024-06-01 23:00:46,2024-06-12
+10:30,17:50,Bilbao,BIO,Londres-Gatwick,LGW,CDG,8h 20m,"Air France, easyJet",288 €,2024-06-01 23:00:46,2024-06-12
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,331 €,2024-06-01 23:00:46,2024-06-12
+15:55,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Iberia,348 €,2024-06-01 23:00:46,2024-06-12
+7:40,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Iberia,432 €,2024-06-01 23:00:46,2024-06-12
+11:25,19:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,331 €,2024-06-01 23:00:46,2024-06-12
+6:50,11:15,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 25m,"KLM, British Airways",429 €,2024-06-01 23:00:46,2024-06-12
+14:20,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 05m,Iberia,392 €,2024-06-01 23:00:46,2024-06-12
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",550 €,2024-06-01 23:00:46,2024-06-12
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Vueling,626 €,2024-06-01 23:00:46,2024-06-12
+9:15,16:00,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, PMI",7h 45m,"Iberia, British Airways",467 €,2024-06-01 23:00:46,2024-06-12
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,557 €,2024-06-01 23:00:46,2024-06-12
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,563 €,2024-06-01 23:00:46,2024-06-12
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",566 €,2024-06-01 23:00:46,2024-06-12
+10:30,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, ZRH",8h 20m,"Air France, SWISS",533 €,2024-06-01 23:00:46,2024-06-12
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,"Lufthansa, SWISS",801 €,2024-06-01 23:00:46,2024-06-12
+9:15,15:35,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, LIS",7h 20m,"Iberia, TAP AIR PORTUGAL",893 €,2024-06-01 23:00:46,2024-06-12
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,27 €,2024-06-01 23:00:46,2024-06-13
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,27 €,2024-06-01 23:00:46,2024-06-13
+21:35,22:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,27 €,2024-06-01 23:00:46,2024-06-13
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,84 €,2024-06-01 23:00:46,2024-06-13
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,84 €,2024-06-01 23:00:46,2024-06-13
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,84 €,2024-06-01 23:00:46,2024-06-13
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,152 €,2024-06-01 23:00:46,2024-06-13
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,157 €,2024-06-01 23:00:46,2024-06-13
+8:55,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 20m,Vueling,105 €,2024-06-01 23:00:46,2024-06-13
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,163 €,2024-06-01 23:00:46,2024-06-13
+8:55,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 30m,Vueling,105 €,2024-06-01 23:00:46,2024-06-13
+21:35,22:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,157 €,2024-06-01 23:00:46,2024-06-13
+8:55,13:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 25m,"Vueling, easyJet",76 €,2024-06-01 23:00:46,2024-06-13
+7:40,12:55,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 15m,"Volotea, easyJet",54 €,2024-06-01 23:00:46,2024-06-13
+15:10,19:35,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 25m,"Vueling, easyJet",89 €,2024-06-01 23:00:46,2024-06-13
+7:40,13:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 40m,"Volotea, easyJet",60 €,2024-06-01 23:00:46,2024-06-13
+11:40,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 10m,Vueling,128 €,2024-06-01 23:00:46,2024-06-13
+14:15,18:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 50m,"Vueling, easyJet",134 €,2024-06-01 23:00:46,2024-06-13
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,116 €,2024-06-01 23:00:46,2024-06-13
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Vueling,112 €,2024-06-01 23:00:46,2024-06-13
+7:10,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Vueling,112 €,2024-06-01 23:00:46,2024-06-13
+8:30,12:50,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 20m,"Vueling, TUI Airways",148 €,2024-06-01 23:00:46,2024-06-13
+6:45,12:00,Bilbao,BIO,Londres-Gatwick,LGW,MAH,6h 15m,"Volotea, easyJet",124 €,2024-06-01 23:00:46,2024-06-13
+20:20,0:45,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 25m,"Vueling, British Airways",124 €,2024-06-01 23:00:46,2024-06-13
+15:55,20:00,Bilbao,BIO,Londres-Gatwick,LGW,VLC,5h 05m,"Volotea, Vueling",162 €,2024-06-01 23:00:46,2024-06-13
+15:10,22:20,Bilbao,BIO,Londres-Gatwick,LGW,CDG,8h 10m,"Vueling, easyJet",74 €,2024-06-01 23:00:46,2024-06-13
+8:30,13:55,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 25m,"Vueling, Wizz Air UK",125 €,2024-06-01 23:00:46,2024-06-13
+17:30,22:55,Bilbao,BIO,Londres-Gatwick,LGW,MXP,6h 25m,easyJet,135 €,2024-06-01 23:00:46,2024-06-13
+7:10,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,"Vueling, easyJet",143 €,2024-06-01 23:00:46,2024-06-13
+11:40,18:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 25m,"Vueling, easyJet",117 €,2024-06-01 23:00:46,2024-06-13
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Vueling,132 €,2024-06-01 23:00:46,2024-06-13
+19:25,0:45,Bilbao,BIO,Londres-Gatwick,LGW,AGP,6h 20m,"Volotea, British Airways",136 €,2024-06-01 23:00:46,2024-06-13
+6:45,10:25,Bilbao,BIO,Londres-Gatwick,LGW,FRA,4h 40m,Lufthansa,202 €,2024-06-01 23:00:46,2024-06-13
+12:00,18:20,Bilbao,BIO,Londres-Gatwick,LGW,CPH,7h 20m,Norwegian,147 €,2024-06-01 23:00:46,2024-06-13
+14:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Vueling,148 €,2024-06-01 23:00:46,2024-06-13
+7:05,13:55,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 50m,"Vueling, easyJet",119 €,2024-06-01 23:00:46,2024-06-13
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,129 €,2024-06-01 23:00:46,2024-06-13
+16:30,22:40,Bilbao,BIO,Londres-Gatwick,LGW,AGP,7h 10m,"Vueling, easyJet",143 €,2024-06-01 23:00:46,2024-06-13
+15:55,22:25,Bilbao,BIO,Londres-Gatwick,LGW,VLC,7h 30m,"Volotea, easyJet",135 €,2024-06-01 23:00:46,2024-06-13
+15:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Vueling,215 €,2024-06-01 23:00:46,2024-06-13
+7:40,14:20,Bilbao,BIO,Londres-Gatwick,LGW,"PMI, NTE",7h 40m,Varias aerolíneas,137 €,2024-06-01 23:00:46,2024-06-13
+13:15,20:05,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 50m,Vueling,161 €,2024-06-01 23:00:46,2024-06-13
+14:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Vueling,194 €,2024-06-01 23:00:46,2024-06-13
+15:50,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Vueling,247 €,2024-06-01 23:00:46,2024-06-13
+15:50,22:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,"Vueling, easyJet",211 €,2024-06-01 23:00:46,2024-06-13
+7:10,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,"Vueling, British Airways",227 €,2024-06-01 23:00:46,2024-06-13
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,"Vueling, British Airways",248 €,2024-06-01 23:00:46,2024-06-13
+8:30,15:45,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, AGP",8h 15m,"Air Europa, easyJet",229 €,2024-06-01 23:00:46,2024-06-13
+8:55,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 30m,Iberia,352 €,2024-06-01 23:00:46,2024-06-13
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,"Vueling, British Airways",248 €,2024-06-01 23:00:46,2024-06-13
+14:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,"Vueling, British Airways",283 €,2024-06-01 23:00:46,2024-06-13
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,"Vueling, British Airways",268 €,2024-06-01 23:00:46,2024-06-13
+11:40,18:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 25m,"Iberia, easyJet",265 €,2024-06-01 23:00:46,2024-06-13
+11:40,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 10m,Iberia,382 €,2024-06-01 23:00:46,2024-06-13
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Iberia,358 €,2024-06-01 23:00:46,2024-06-13
+7:10,12:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Iberia,368 €,2024-06-01 23:00:46,2024-06-13
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Vueling,447 €,2024-06-01 23:00:46,2024-06-13
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,382 €,2024-06-01 23:00:46,2024-06-13
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,382 €,2024-06-01 23:00:46,2024-06-13
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Iberia,399 €,2024-06-01 23:00:46,2024-06-13
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,532 €,2024-06-01 23:00:46,2024-06-13
+14:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 10m,Iberia,447 €,2024-06-01 23:00:46,2024-06-13
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",550 €,2024-06-01 23:00:46,2024-06-13
+15:50,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 35m,Iberia,550 €,2024-06-01 23:00:46,2024-06-13
+14:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Iberia,502 €,2024-06-01 23:00:46,2024-06-13
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,518 €,2024-06-01 23:00:46,2024-06-13
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,561 €,2024-06-01 23:00:46,2024-06-13
+15:50,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,Iberia,602 €,2024-06-01 23:00:46,2024-06-13
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",566 €,2024-06-01 23:00:46,2024-06-13
+13:40,20:20,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, OPO",7h 40m,"Iberia, TAP AIR PORTUGAL",547 €,2024-06-01 23:00:46,2024-06-13
+10:30,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, ZRH",8h 25m,"Air France, SWISS",533 €,2024-06-01 23:00:46,2024-06-13
+6:45,14:10,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, PMI",8h 25m,"Iberia, British Airways",540 €,2024-06-01 23:00:46,2024-06-13
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,635 €,2024-06-01 23:00:46,2024-06-13
+10:30,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, LUX, ...",8h 25m,"Air France, SWISS",557 €,2024-06-01 23:00:46,2024-06-13
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,SWISS,1065 €,2024-06-01 23:00:46,2024-06-13
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,"Lufthansa, SWISS",1510 €,2024-06-01 23:00:46,2024-06-13
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,109 €,2024-06-01 23:00:46,2024-06-14
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,131 €,2024-06-01 23:00:46,2024-06-14
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,120 €,2024-06-01 23:00:46,2024-06-14
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,176 €,2024-06-01 23:00:46,2024-06-14
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,179 €,2024-06-01 23:00:46,2024-06-14
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,212 €,2024-06-01 23:00:46,2024-06-14
+7:35,8:25,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,259 €,2024-06-01 23:00:46,2024-06-14
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,285 €,2024-06-01 23:00:46,2024-06-14
+8:55,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 20m,Vueling,168 €,2024-06-01 23:00:46,2024-06-14
+8:55,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 40m,Vueling,172 €,2024-06-01 23:00:46,2024-06-14
+17:35,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 25m,Vueling,217 €,2024-06-01 23:00:46,2024-06-14
+6:45,11:35,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 50m,"Volotea, easyJet",120 €,2024-06-01 23:00:46,2024-06-14
+11:00,14:55,Bilbao,BIO,Londres-Gatwick,LGW,VLC,4h 55m,"Vueling, easyJet",183 €,2024-06-01 23:00:46,2024-06-14
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Vueling,151 €,2024-06-01 23:00:46,2024-06-14
+7:05,11:35,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 30m,"Vueling, easyJet",157 €,2024-06-01 23:00:46,2024-06-14
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,172 €,2024-06-01 23:00:46,2024-06-14
+16:30,22:35,Bilbao,BIO,Londres-Gatwick,LGW,HAM,7h 05m,"Vueling, easyJet",83 €,2024-06-01 23:00:46,2024-06-14
+14:55,19:40,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 45m,"Volotea, Vueling",170 €,2024-06-01 23:00:46,2024-06-14
+7:10,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,Vueling,164 €,2024-06-01 23:00:46,2024-06-14
+14:15,19:30,Bilbao,BIO,Londres-Gatwick,LGW,MXP,6h 15m,"Vueling, Wizz Air Malta",150 €,2024-06-01 23:00:46,2024-06-14
+14:15,19:25,Bilbao,BIO,Londres-Gatwick,LGW,MXP,6h 10m,"Vueling, easyJet",174 €,2024-06-01 23:00:46,2024-06-14
+10:35,16:55,Bilbao,BIO,Londres-Gatwick,LGW,ORY-CDG,7h 20m,"Volotea, easyJet",102 €,2024-06-01 23:00:46,2024-06-14
+17:35,23:10,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 35m,Vueling,200 €,2024-06-01 23:00:46,2024-06-14
+19:00,23:30,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,5h 30m,"Vueling, British Airways",216 €,2024-06-01 23:00:46,2024-06-14
+7:10,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,"Vueling, easyJet",181 €,2024-06-01 23:00:46,2024-06-14
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Vueling,164 €,2024-06-01 23:00:46,2024-06-14
+19:35,0:55,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,6h 20m,"Vueling, easyJet",224 €,2024-06-01 23:00:46,2024-06-14
+10:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,ORY-CDG,8h 15m,"Volotea, easyJet",109 €,2024-06-01 23:00:46,2024-06-14
+19:15,1:50,Bilbao,BIO,Londres-Gatwick,LGW,AGP,7h 35m,"Volotea, easyJet",157 €,2024-06-01 23:00:46,2024-06-14
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Vueling,165 €,2024-06-01 23:00:46,2024-06-14
+13:10,19:40,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,7h 30m,Vueling,176 €,2024-06-01 23:00:46,2024-06-14
+15:45,22:20,Bilbao,BIO,Londres-Gatwick,LGW,VLC,7h 35m,"Volotea, easyJet",172 €,2024-06-01 23:00:46,2024-06-14
+17:35,22:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 15m,"Vueling, easyJet",264 €,2024-06-01 23:00:46,2024-06-14
+13:25,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 00m,Vueling,193 €,2024-06-01 23:00:46,2024-06-14
+19:35,2:20,Bilbao,BIO,Londres-Gatwick,LGW,IBZ,7h 45m,"Vueling, easyJet",178 €,2024-06-01 23:00:46,2024-06-14
+6:45,14:20,Bilbao,BIO,Londres-Gatwick,LGW,ALC,8h 35m,"Volotea, easyJet",134 €,2024-06-01 23:00:46,2024-06-14
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,"Vueling, British Airways",299 €,2024-06-01 23:00:46,2024-06-14
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,"Vueling, British Airways",289 €,2024-06-01 23:00:46,2024-06-14
+7:05,14:20,Bilbao,BIO,Londres-Gatwick,LGW,ALC,8h 15m,"Vueling, easyJet",163 €,2024-06-01 23:00:46,2024-06-14
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Iberia,418 €,2024-06-01 23:00:46,2024-06-14
+13:25,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,183 €,2024-06-01 23:00:46,2024-06-14
+14:40,22:00,Bilbao,BIO,Londres-Gatwick,LGW,OPO,8h 20m,"Vueling, easyJet",173 €,2024-06-01 23:00:46,2024-06-14
+7:10,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,"Vueling, British Airways",289 €,2024-06-01 23:00:46,2024-06-14
+8:55,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 40m,Iberia,466 €,2024-06-01 23:00:46,2024-06-14
+17:35,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 25m,Iberia,505 €,2024-06-01 23:00:46,2024-06-14
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,"Vueling, British Airways",289 €,2024-06-01 23:00:46,2024-06-14
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,"Vueling, British Airways",299 €,2024-06-01 23:00:46,2024-06-14
+7:10,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 05m,Iberia,441 €,2024-06-01 23:00:46,2024-06-14
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,"Iberia, British Airways",550 €,2024-06-01 23:00:46,2024-06-14
+8:55,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,466 €,2024-06-01 23:00:46,2024-06-14
+13:25,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 00m,"Vueling, British Airways",332 €,2024-06-01 23:00:46,2024-06-14
+13:25,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,"Vueling, British Airways",311 €,2024-06-01 23:00:46,2024-06-14
+7:10,12:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,Iberia,466 €,2024-06-01 23:00:46,2024-06-14
+17:15,21:50,Bilbao,BIO,Londres-Gatwick,LGW,AMS,5h 35m,"KLM, British Airways",487 €,2024-06-01 23:00:46,2024-06-14
+17:35,23:10,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 35m,Iberia,504 €,2024-06-01 23:00:46,2024-06-14
+7:10,13:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,Iberia,466 €,2024-06-01 23:00:46,2024-06-14
+8:55,15:50,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 55m,Iberia,466 €,2024-06-01 23:00:46,2024-06-14
+6:50,14:10,Bilbao,BIO,Londres-Gatwick,LGW,AMS,8h 20m,"KLM, British Airways",407 €,2024-06-01 23:00:46,2024-06-14
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,522 €,2024-06-01 23:00:46,2024-06-14
+6:45,12:40,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, MAH",6h 55m,"Iberia, British Airways",512 €,2024-06-01 23:00:46,2024-06-14
+13:25,21:00,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,469 €,2024-06-01 23:00:46,2024-06-14
+13:25,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 00m,Iberia,517 €,2024-06-01 23:00:46,2024-06-14
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",566 €,2024-06-01 23:00:46,2024-06-14
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,566 €,2024-06-01 23:00:46,2024-06-14
+6:45,10:10,Bilbao,BIO,Londres-Gatwick,LGW,MAD,4h 25m,Vueling,778 €,2024-06-01 23:00:46,2024-06-14
+13:40,21:05,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, IBZ",8h 25m,"Iberia, British Airways",494 €,2024-06-01 23:00:46,2024-06-14
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,644 €,2024-06-01 23:00:46,2024-06-14
+7:10,14:10,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, AMS",8h 00m,"Air France, British Airways",552 €,2024-06-01 23:00:46,2024-06-14
+17:35,23:50,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, PMI",7h 15m,"Iberia, British Airways",648 €,2024-06-01 23:00:46,2024-06-14
+7:10,14:00,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, NCE",7h 50m,"Air France, British Airways",624 €,2024-06-01 23:00:46,2024-06-14
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,39 €,2024-06-01 23:00:46,2024-06-15
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,32 €,2024-06-01 23:00:46,2024-06-15
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,59 €,2024-06-01 23:00:46,2024-06-15
+14:25,15:15,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,97 €,2024-06-01 23:00:46,2024-06-15
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,97 €,2024-06-01 23:00:46,2024-06-15
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,120 €,2024-06-01 23:00:46,2024-06-15
+14:25,15:15,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,163 €,2024-06-01 23:00:46,2024-06-15
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,163 €,2024-06-01 23:00:46,2024-06-15
+13:40,14:30,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,208 €,2024-06-01 23:00:46,2024-06-15
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,192 €,2024-06-01 23:00:46,2024-06-15
+15:30,19:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 50m,Vueling,147 €,2024-06-01 23:00:46,2024-06-15
+10:30,15:00,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 30m,"Vueling, easyJet",114 €,2024-06-01 23:00:46,2024-06-15
+8:55,13:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,Vueling,124 €,2024-06-01 23:00:46,2024-06-15
+6:45,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,Vueling,137 €,2024-06-01 23:00:46,2024-06-15
+8:15,12:30,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 15m,"Vueling, TUI Airways",184 €,2024-06-01 23:00:46,2024-06-15
+6:45,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,"Vueling, easyJet",131 €,2024-06-01 23:00:46,2024-06-15
+15:30,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Vueling,176 €,2024-06-01 23:00:46,2024-06-15
+8:55,14:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,Vueling,164 €,2024-06-01 23:00:46,2024-06-15
+8:15,12:55,Bilbao,BIO,Londres-Gatwick,LGW,ALC,5h 40m,"Vueling, easyJet",184 €,2024-06-01 23:00:46,2024-06-15
+6:45,13:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Vueling,110 €,2024-06-01 23:00:46,2024-06-15
+16:45,22:20,Bilbao,BIO,Londres-Gatwick,LGW,VLC,6h 35m,"Vueling, easyJet",161 €,2024-06-01 23:00:46,2024-06-15
+18:40,0:50,Bilbao,BIO,Londres-Gatwick,LGW,AGP,7h 10m,"Vueling, easyJet",141 €,2024-06-01 23:00:46,2024-06-15
+15:30,21:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 55m,"Vueling, easyJet",151 €,2024-06-01 23:00:46,2024-06-15
+6:45,11:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 35m,"Volotea, easyJet",211 €,2024-06-01 23:00:46,2024-06-15
+6:45,14:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Vueling,150 €,2024-06-01 23:00:46,2024-06-15
+19:20,2:15,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, IBZ",7h 55m,"Vueling, easyJet",174 €,2024-06-01 23:00:46,2024-06-15
+8:15,14:45,Bilbao,BIO,Londres-Gatwick,LGW,NAP,7h 30m,"Volotea, easyJet",205 €,2024-06-01 23:00:46,2024-06-15
+18:40,23:30,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 50m,"Vueling, British Airways",256 €,2024-06-01 23:00:46,2024-06-15
+18:45,23:15,Bilbao,BIO,Londres-Gatwick,LGW,LIS,5h 30m,"TAP AIR PORTUGAL, easyJet",324 €,2024-06-01 23:00:46,2024-06-15
+8:55,13:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 25m,"Vueling, easyJet",368 €,2024-06-01 23:00:46,2024-06-15
+8:55,13:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 40m,Iberia,382 €,2024-06-01 23:00:46,2024-06-15
+15:30,19:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 50m,Iberia,428 €,2024-06-01 23:00:46,2024-06-15
+10:30,15:00,Bilbao,BIO,Londres-Gatwick,LGW,CDG,5h 30m,"Air France, easyJet",402 €,2024-06-01 23:00:46,2024-06-15
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Iberia,372 €,2024-06-01 23:00:46,2024-06-15
+6:45,13:35,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 50m,Iberia,352 €,2024-06-01 23:00:46,2024-06-15
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,British Airways,377 €,2024-06-01 23:00:46,2024-06-15
+6:45,12:15,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 30m,Iberia,414 €,2024-06-01 23:00:46,2024-06-15
+15:30,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 55m,Iberia,469 €,2024-06-01 23:00:46,2024-06-15
+13:40,20:35,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, IBZ",7h 55m,"Iberia, British Airways",377 €,2024-06-01 23:00:46,2024-06-15
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,"Iberia, British Airways",419 €,2024-06-01 23:00:46,2024-06-15
+9:15,15:20,Bilbao,BIO,Londres-Gatwick,LGW,"MAD, IBZ",7h 05m,"Iberia, British Airways",438 €,2024-06-01 23:00:46,2024-06-15
+8:55,14:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 25m,Iberia,486 €,2024-06-01 23:00:46,2024-06-15
+18:40,23:30,Bilbao,BIO,Londres-Gatwick,LGW,AGP,5h 50m,"Iberia, British Airways",541 €,2024-06-01 23:00:46,2024-06-15
+6:45,14:20,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 35m,Iberia,454 €,2024-06-01 23:00:46,2024-06-15
+12:15,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"BRU, ZRH",6h 40m,"Brussels Airlines, SWISS",558 €,2024-06-01 23:00:46,2024-06-15
+10:30,17:00,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, FRA",7h 30m,"Air France, Lufthansa",563 €,2024-06-01 23:00:46,2024-06-15
+13:40,20:00,Bilbao,BIO,Londres-Gatwick,LGW,MAD,7h 20m,Vueling,778 €,2024-06-01 23:00:46,2024-06-15
+7:10,14:10,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, NCE",8h 00m,"Air France, British Airways",867 €,2024-06-01 23:00:46,2024-06-15
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,SWISS,976 €,2024-06-01 23:00:46,2024-06-15
+11:35,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 20m,"Lufthansa, SWISS",1172 €,2024-06-01 23:00:46,2024-06-15
+10:30,17:55,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, ZRH",8h 25m,"Air France, SWISS",2556 €,2024-06-01 23:00:46,2024-06-15
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,CitizenPlane,101 €,2024-06-01 23:00:46,2024-06-16
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,148 €,2024-06-01 23:00:46,2024-06-16
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,209 €,2024-06-01 23:00:46,2024-06-16
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Vueling,249 €,2024-06-01 23:00:46,2024-06-16
+7:00,7:50,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,237 €,2024-06-01 23:00:46,2024-06-16
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,280 €,2024-06-01 23:00:46,2024-06-16
+13:55,14:45,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,353 €,2024-06-01 23:00:46,2024-06-16
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Vueling,251 €,2024-06-01 23:00:46,2024-06-16
+6:45,11:35,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 50m,"Volotea, easyJet",142 €,2024-06-01 23:00:46,2024-06-16
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,Iberia,483 €,2024-06-01 23:00:46,2024-06-16
+10:55,15:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Vueling,229 €,2024-06-01 23:00:46,2024-06-16
+7:15,12:30,Bilbao,BIO,Londres-Gatwick,LGW,CDG-ORY,6h 15m,Vueling,149 €,2024-06-01 23:00:46,2024-06-16
+6:45,11:50,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 05m,"Volotea, TUI Airways",175 €,2024-06-01 23:00:46,2024-06-16
+18:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,directo,1h 50m,British Airways,576 €,2024-06-01 23:00:46,2024-06-16
+6:45,12:20,Bilbao,BIO,Londres-Gatwick,LGW,PMI,6h 35m,"Volotea, easyJet",160 €,2024-06-01 23:00:46,2024-06-16
+12:05,17:50,Bilbao,BIO,Londres-Gatwick,LGW,CDG,6h 45m,"Vueling, easyJet",172 €,2024-06-01 23:00:46,2024-06-16
+7:10,12:55,Bilbao,BIO,Londres-Gatwick,LGW,CPH,6h 45m,"Vueling, Norwegian",217 €,2024-06-01 23:00:46,2024-06-16
+18:45,23:45,Bilbao,BIO,Londres-Gatwick,LGW,VLC,6h 00m,"Volotea, easyJet",283 €,2024-06-01 23:00:46,2024-06-16
+7:40,13:20,Bilbao,BIO,Londres-Gatwick,LGW,AMS,6h 40m,"Vueling, easyJet",232 €,2024-06-01 23:00:46,2024-06-16
+8:55,13:35,Bilbao,BIO,Londres-Gatwick,LGW,PMI,5h 40m,"Vueling, easyJet",310 €,2024-06-01 23:00:46,2024-06-16
+8:55,15:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 30m,Vueling,219 €,2024-06-01 23:00:46,2024-06-16
+12:05,18:45,Bilbao,BIO,Londres-Gatwick,LGW,CDG,7h 40m,"Vueling, easyJet",181 €,2024-06-01 23:00:46,2024-06-16
+6:45,12:35,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 50m,"Vueling, easyJet",245 €,2024-06-01 23:00:46,2024-06-16
+19:00,0:50,Bilbao,BIO,Londres-Gatwick,LGW,MAH,6h 50m,"Vueling, TUI Airways",256 €,2024-06-01 23:00:46,2024-06-16
+15:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Vueling,348 €,2024-06-01 23:00:46,2024-06-16
+13:20,19:55,Bilbao,BIO,Londres-Gatwick,LGW,CPH,7h 35m,Norwegian,264 €,2024-06-01 23:00:46,2024-06-16
+10:55,17:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Vueling,262 €,2024-06-01 23:00:46,2024-06-16
+12:05,18:55,Bilbao,BIO,Londres-Gatwick,LGW,CDG-ORY,7h 50m,Vueling,224 €,2024-06-01 23:00:46,2024-06-16
+6:45,13:35,Bilbao,BIO,Londres-Gatwick,LGW,PMI,7h 50m,"Volotea, easyJet",261 €,2024-06-01 23:00:46,2024-06-16
+19:10,22:50,Bilbao,BIO,Londres-Gatwick,LGW,OPO,4h 40m,"Vueling, British Airways",493 €,2024-06-01 23:00:46,2024-06-16
+8:55,16:10,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, OVD",8h 15m,Vueling,245 €,2024-06-01 23:00:46,2024-06-16
+12:05,17:50,Bilbao,BIO,Londres-Gatwick,LGW,CDG,6h 45m,"Iberia, easyJet",344 €,2024-06-01 23:00:46,2024-06-16
+12:15,19:45,Bilbao,BIO,Londres-Gatwick,LGW,MXP,8h 30m,"Vueling, Wizz Air Malta",259 €,2024-06-01 23:00:46,2024-06-16
+12:20,19:40,Bilbao,BIO,Londres-Gatwick,LGW,SCQ,8h 20m,Vueling,272 €,2024-06-01 23:00:46,2024-06-16
+15:15,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 25m,Vueling,325 €,2024-06-01 23:00:46,2024-06-16
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Vueling,445 €,2024-06-01 23:00:46,2024-06-16
+15:15,21:55,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 40m,"Vueling, easyJet",381 €,2024-06-01 23:00:46,2024-06-16
+10:55,15:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,5h 30m,Iberia,567 €,2024-06-01 23:00:46,2024-06-16
+12:05,18:45,Bilbao,BIO,Londres-Gatwick,LGW,CDG,7h 40m,"Iberia, easyJet",352 €,2024-06-01 23:00:46,2024-06-16
+8:55,12:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,4h 45m,Iberia,644 €,2024-06-01 23:00:46,2024-06-16
+8:55,15:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 30m,Iberia,551 €,2024-06-01 23:00:46,2024-06-16
+15:15,20:25,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 10m,Iberia,759 €,2024-06-01 23:00:46,2024-06-16
+10:55,17:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,7h 45m,Iberia,660 €,2024-06-01 23:00:46,2024-06-16
+15:40,20:40,Bilbao,BIO,Londres-Gatwick,LGW,SVQ,6h 00m,"Iberia, British Airways",765 €,2024-06-01 23:00:46,2024-06-16
+15:15,22:40,Bilbao,BIO,Londres-Gatwick,LGW,BCN,8h 25m,Iberia,759 €,2024-06-01 23:00:46,2024-06-16
+11:35,17:50,Bilbao,BIO,Londres-Gatwick,LGW,"MUC, ZRH",7h 15m,SWISS,858 €,2024-06-01 23:00:46,2024-06-16
+15:15,21:05,Bilbao,BIO,Londres-Gatwick,LGW,BCN,6h 50m,Iberia,1052 €,2024-06-01 23:00:46,2024-06-16
+15:15,22:25,Bilbao,BIO,Londres-Gatwick,LGW,"BCN, BOD",8h 10m,"Iberia, British Airways",976 €,2024-06-01 23:00:46,2024-06-16
+10:30,17:00,Bilbao,BIO,Londres-Gatwick,LGW,"CDG, FRA",7h 30m,"Air France, Lufthansa",2437 €,2024-06-01 23:00:46,2024-06-16
